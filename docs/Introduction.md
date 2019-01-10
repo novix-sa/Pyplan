@@ -1,5 +1,5 @@
 
-# Introduction
+# Intro
 In the following sections you will learn how to use the Pyplan User Guide, the system requirements and the steps to follow in order to use Pyplan.
 
 -   [User Requirements ](Pyplan/Introduction/Intro/#User-Requirements)
@@ -79,5 +79,5 @@ In this section, you will find different modules to user administration.
 -   [Charts editable Menu](http://www.cubeplat.com:8081/wiki/en/knowledge-base/charts-editable-menu/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTIzNzgwNl19
+eyJoaXN0b3J5IjpbNDMzODE5MzAsLTYyOTIzNzgwNl19
 -->
