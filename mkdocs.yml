@@ -33,16 +33,6 @@ extra:
     - type: globe
       link: http://pyplan.com
 
-# Menu
-nav:
-  - Home: index.md
-  - Code: /code/
-  - Report: /Report/
-  - File Manager: /File Manager/
-  - Tasks: /Tasks/
-  - Others: /Others/
-  - Pyplan Library: /Pyplan Library/
-
 
 # Extensions
 markdown_extensions:
