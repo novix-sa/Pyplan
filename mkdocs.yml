@@ -31,7 +31,17 @@ theme:
 extra:
   social:
     - type: globe
-      link: http://cubeplan.com
+      link: http://pyplan.com
+
+# Menu
+nav:
+  - Home: index.md
+  - Code: /code/
+  - Report: /Report/
+  - File Manager: /File Manager/
+  - Tasks: /Tasks/
+  - Others: /Others/
+  - Pyplan Library: /Pyplan Library/
 
 
 # Extensions
