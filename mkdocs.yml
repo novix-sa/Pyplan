@@ -36,6 +36,7 @@ extra:
 # Navigation
 nav:
     - Home: nueva/nueva pagina.md
+    - Second: index.md
     
     
 # Extensions
