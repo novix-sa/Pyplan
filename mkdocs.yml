@@ -37,6 +37,7 @@ extra:
 nav:
     - Home: nueva/nueva pagina.md
     - Second: index.md
+    - Third: Auxiliar/Pyplan/1-Introduction/Sign up.md
     
     
 # Extensions
