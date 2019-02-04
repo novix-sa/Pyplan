@@ -37,8 +37,9 @@ extra:
 nav:
     - Home: nueva/nueva pagina.md
     - Second: index.md
-    - Third: Auxiliar/Pyplan/1-Introduction/Sign up.md
+    - Third: 
       - Encabezado1: Auxiliar/Pyplan/2-Model Manager/File Manager.md
+      - Enca2: Auxiliar/Pyplan/1-Introduction/Sign up.md
     
     
 # Extensions
