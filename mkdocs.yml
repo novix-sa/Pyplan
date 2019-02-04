@@ -33,7 +33,11 @@ extra:
     - type: globe
       link: http://pyplan.com
 
-
+# Navigation
+nav:
+    - Home: nueva/nueva pagina.md
+    
+    
 # Extensions
 markdown_extensions:
   - markdown.extensions.admonition
