@@ -10,12 +10,13 @@ use blockquotes
 with emoji indicators for
 admonition memos, callout etc..
 
+> :bulb:
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE2MDg5MjQsMTA4NTA3Mjk5OSwtMT
-Y2MTY3NTIwNywtOTI5NDY0NDA4LDQ4OTkyODE2OSwtNzc1ODg0
-MzYyXX0=
+eyJoaXN0b3J5IjpbMjAxMTY2NDQ0MSwxMDg1MDcyOTk5LC0xNj
+YxNjc1MjA3LC05Mjk0NjQ0MDgsNDg5OTI4MTY5LC03NzU4ODQz
+NjJdfQ==
 -->
