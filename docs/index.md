@@ -10,13 +10,19 @@ use blockquotes
 with emoji indicators for
 admonition memos, callout etc..
 
+## Login
+
+## Creating your first model
+
+## Inspecting results
+
 > :bulb:
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTY2NDQ0MSwxMDg1MDcyOTk5LC0xNj
-YxNjc1MjA3LC05Mjk0NjQ0MDgsNDg5OTI4MTY5LC03NzU4ODQz
-NjJdfQ==
+eyJoaXN0b3J5IjpbMTUyMzY2NTU1MywyMDExNjY0NDQxLDEwOD
+UwNzI5OTksLTE2NjE2NzUyMDcsLTkyOTQ2NDQwOCw0ODk5Mjgx
+NjksLTc3NTg4NDM2Ml19
 -->
