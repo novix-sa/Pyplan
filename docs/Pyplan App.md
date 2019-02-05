@@ -11,6 +11,7 @@ Pyplan is an online Python IDE for fast and easy creation of data analytics apps
 ### Modeler
 ### UI designer
 ### Task Manager
+### Configuration
 
 
  
@@ -19,6 +20,6 @@ Pyplan is an online Python IDE for fast and easy creation of data analytics apps
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNzc2NzU2LC0yMDc5MzM0NTkxLDE2Nj
-c1NDU2MTcsMjU1NzQ4NTc5XX0=
+eyJoaXN0b3J5IjpbMTc2Mjc2MjM2NywtMjA3OTMzNDU5MSwxNj
+Y3NTQ1NjE3LDI1NTc0ODU3OV19
 -->
