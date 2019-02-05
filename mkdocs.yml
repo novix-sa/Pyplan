@@ -41,8 +41,6 @@ nav:
       - Encabezado1: Auxiliar/Pyplan/2-Model Manager/File Manager.md
       - Enca2: Auxiliar/Pyplan/1-Introduction/Sign up.md
       - Enca3: Report/nueva función subscript.md
-    - Help & Reference
-    - Tutorials:
     
 # Extensions
 markdown_extensions:
