@@ -36,11 +36,11 @@ extra:
 # Navigation
 nav:
     - Home: Pyplan App.md
-    - File manager:
-    - Modeler:
-    - UI designer:
-    - Task Manager:
-    - Configuration:
+    - File manager: index.md
+    - Modeler: index.md
+    - UI designer: index.md
+    - Task Manager: index.md
+    - Configuration:  index.md
     - Pyplan Library: index.md
     - Second level: 
       - Enca1: Auxiliar/Pyplan/2-Model Manager/File Manager.md
