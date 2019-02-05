@@ -35,10 +35,15 @@ extra:
 
 # Navigation
 nav:
-    - Getting Started: Getting Started.md
-    - User Guide: index.md
-    - Functions: 
-      - Encabezado1: Auxiliar/Pyplan/2-Model Manager/File Manager.md
+    - Home: Pyplan App.md
+    - File manager:
+    - Modeler:
+    - UI designer:
+    - Task Manager:
+    - Configuration:
+    - Pyplan Library: index.md
+    - Second level: 
+      - Enca1: Auxiliar/Pyplan/2-Model Manager/File Manager.md
       - Enca2: Auxiliar/Pyplan/1-Introduction/Sign up.md
       - Enca3: Report/nueva función subscript.md
     
