@@ -16,13 +16,8 @@ admonition memos, callout etc..
 
 ## Inspecting results
 
-> :bulb:
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzY2NTU1MywyMDExNjY0NDQxLDEwOD
-UwNzI5OTksLTE2NjE2NzUyMDcsLTkyOTQ2NDQwOCw0ODk5Mjgx
-NjksLTc3NTg4NDM2Ml19
+eyJoaXN0b3J5IjpbMTI0MTMyMTU5MCwxNTIzNjY1NTUzLDIwMT
+E2NjQ0NDEsMTA4NTA3Mjk5OSwtMTY2MTY3NTIwNywtOTI5NDY0
+NDA4LDQ4OTkyODE2OSwtNzc1ODg0MzYyXX0=
 -->
