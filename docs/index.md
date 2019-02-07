@@ -14,10 +14,12 @@ admonition memos, callout etc..
 
 ## Creating your first model
 
-## Inspecting results
+## Inspecting resultsTest sincronizacion 2
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTMyMTU5MCwxNTIzNjY1NTUzLDIwMT
-E2NjQ0NDEsMTA4NTA3Mjk5OSwtMTY2MTY3NTIwNywtOTI5NDY0
-NDA4LDQ4OTkyODE2OSwtNzc1ODg0MzYyXX0=
+eyJoaXN0b3J5IjpbMTM3NzE4MTE0NSwxMjQxMzIxNTkwLDE1Mj
+M2NjU1NTMsMjAxMTY2NDQ0MSwxMDg1MDcyOTk5LC0xNjYxNjc1
+MjA3LC05Mjk0NjQ0MDgsNDg5OTI4MTY5LC03NzU4ODQzNjJdfQ
+==
 -->
