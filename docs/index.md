@@ -12,6 +12,7 @@ Check that final line of Pyplan node should have the expression **_result=_** in
 Numpy Array could be codified as:
 
 ![enter image description here](http://img.pyplan.org/Home_code_view.png)
+
 By pressing **_Ctrl+R_** Pyplan will evaluate this object and show results in a table.
 ![enter image description here](http://img.pyplan.org/Home_result_view)
 
@@ -46,7 +47,7 @@ Pyplan also provides user friendly interfaces for model management and API deplo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMDI1MDc3LDQxOTg0Mzg3OCwxMDAyNz
+eyJoaXN0b3J5IjpbNDE4MzY0MTMxLDQxOTg0Mzg3OCwxMDAyNz
 M1MjI1LC0xNjQwMjI4NDA5LDEyNDEzMjE1OTAsMTUyMzY2NTU1
 MywyMDExNjY0NDQxLDEwODUwNzI5OTksLTE2NjE2NzUyMDcsLT
 kyOTQ2NDQwOCw0ODk5MjgxNjksLTc3NTg4NDM2Ml19
