@@ -13,10 +13,11 @@ Numpy Array could be codified as:
 
 ![enter image description here](http://img.pyplan.org/Home_code_view.png)
 By pressing **_Ctrl+R_** Pyplan will evaluate this object and show results in a table.
-![
-](http://img.pyplan.org/Home_result_view)
+![enter image description here](http://img.pyplan.org/Home_result_view)
 
 Graphical representation can be simple access through table menu:
+![enter image description here](http://img.pyplan.org/Home_show_graph)
+And result will be shown as a graph
 
 
 ## Quick Start
@@ -28,8 +29,8 @@ Graphical representation can be simple access through table menu:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTk4OTUyMjEsNDE5ODQzODc4LDEwMD
-I3MzUyMjUsLTE2NDAyMjg0MDksMTI0MTMyMTU5MCwxNTIzNjY1
-NTUzLDIwMTE2NjQ0NDEsMTA4NTA3Mjk5OSwtMTY2MTY3NTIwNy
-wtOTI5NDY0NDA4LDQ4OTkyODE2OSwtNzc1ODg0MzYyXX0=
+eyJoaXN0b3J5IjpbLTY1NTAwOTU1OCw0MTk4NDM4NzgsMTAwMj
+czNTIyNSwtMTY0MDIyODQwOSwxMjQxMzIxNTkwLDE1MjM2NjU1
+NTMsMjAxMTY2NDQ0MSwxMDg1MDcyOTk5LC0xNjYxNjc1MjA3LC
+05Mjk0NjQ0MDgsNDg5OTI4MTY5LC03NzU4ODQzNjJdfQ==
 -->
