@@ -14,9 +14,11 @@ Numpy Array could be codified as:
 ![enter image description here](http://img.pyplan.org/Home_code_view.png)
 
 By pressing **_Ctrl+R_** Pyplan will evaluate this object and show results in a table.
+
 ![enter image description here](http://img.pyplan.org/Home_result_view)
 
 Graphical representation can be simple access through table menu:
+
 ![enter image description here](http://img.pyplan.org/Home_show_graph)
 And result will be shown as a graph
 ![enter image description here](http://img.pyplan.org/Home_graph_view)
@@ -47,8 +49,8 @@ Pyplan also provides user friendly interfaces for model management and API deplo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4MzY0MTMxLDQxOTg0Mzg3OCwxMDAyNz
-M1MjI1LC0xNjQwMjI4NDA5LDEyNDEzMjE1OTAsMTUyMzY2NTU1
-MywyMDExNjY0NDQxLDEwODUwNzI5OTksLTE2NjE2NzUyMDcsLT
-kyOTQ2NDQwOCw0ODk5MjgxNjksLTc3NTg4NDM2Ml19
+eyJoaXN0b3J5IjpbLTE4MTEwODY1OTMsNDE5ODQzODc4LDEwMD
+I3MzUyMjUsLTE2NDAyMjg0MDksMTI0MTMyMTU5MCwxNTIzNjY1
+NTUzLDIwMTE2NjQ0NDEsMTA4NTA3Mjk5OSwtMTY2MTY3NTIwNy
+wtOTI5NDY0NDA4LDQ4OTkyODE2OSwtNzc1ODg0MzYyXX0=
 -->
