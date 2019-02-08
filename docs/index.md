@@ -11,8 +11,12 @@ Numpy Array could be codified as:
 Check that final line of Pyplan node should have the expression **_result=_** in order to indicate node which is going to be the final object of the code.
 Numpy Array could be codified as:
 
-
+![enter image description here](http://img.pyplan.org/Home_code_view.png)
 By pressing **_Ctrl+R_** Pyplan will evaluate this object and show results in a table.
+![
+](http://img.pyplan.org/Home_result_view)
+
+Graphical representation can be simple access through table menu:
 
 
 ## Quick Start
@@ -24,8 +28,8 @@ By pressing **_Ctrl+R_** Pyplan will evaluate this object and show results in a 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5ODQzODc4LDEwMDI3MzUyMjUsLTE2ND
-AyMjg0MDksMTI0MTMyMTU5MCwxNTIzNjY1NTUzLDIwMTE2NjQ0
-NDEsMTA4NTA3Mjk5OSwtMTY2MTY3NTIwNywtOTI5NDY0NDA4LD
-Q4OTkyODE2OSwtNzc1ODg0MzYyXX0=
+eyJoaXN0b3J5IjpbLTExMTk4OTUyMjEsNDE5ODQzODc4LDEwMD
+I3MzUyMjUsLTE2NDAyMjg0MDksMTI0MTMyMTU5MCwxNTIzNjY1
+NTUzLDIwMTE2NjQ0NDEsMTA4NTA3Mjk5OSwtMTY2MTY3NTIwNy
+wtOTI5NDY0NDA4LDQ4OTkyODE2OSwtNzc1ODg0MzYyXX0=
 -->
