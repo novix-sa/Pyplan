@@ -18,7 +18,10 @@ By pressing **_Ctrl+R_** Pyplan will evaluate this object and show results in a 
 Graphical representation can be simple access through table menu:
 ![enter image description here](http://img.pyplan.org/Home_show_graph)
 And result will be shown as a graph
+![enter image description here](http://img.pyplan.org/Home_graph_view)
+As simple as indicated Python based model can be structure.
 
+Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 ## Quick Start
 ## User Guide
@@ -29,8 +32,8 @@ And result will be shown as a graph
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTAwOTU1OCw0MTk4NDM4NzgsMTAwMj
-czNTIyNSwtMTY0MDIyODQwOSwxMjQxMzIxNTkwLDE1MjM2NjU1
-NTMsMjAxMTY2NDQ0MSwxMDg1MDcyOTk5LC0xNjYxNjc1MjA3LC
-05Mjk0NjQ0MDgsNDg5OTI4MTY5LC03NzU4ODQzNjJdfQ==
+eyJoaXN0b3J5IjpbLTEwODI3MTI2MTMsNDE5ODQzODc4LDEwMD
+I3MzUyMjUsLTE2NDAyMjg0MDksMTI0MTMyMTU5MCwxNTIzNjY1
+NTUzLDIwMTE2NjQ0NDEsMTA4NTA3Mjk5OSwtMTY2MTY3NTIwNy
+wtOTI5NDY0NDA4LDQ4OTkyODE2OSwtNzc1ODg0MzYyXX0=
 -->
