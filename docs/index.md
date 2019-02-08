@@ -11,6 +11,10 @@ Numpy Array could be codified as:
 Check that final line of Pyplan node should have the expression **_result=_** in order to indicate node which is going to be the final object of the code.
 Numpy Array could be codified as:
 
+
+By pressing **_Ctrl+R_** Pyplan will evaluate this object and show results in a table.
+
+
 ## Quick Start
 ## User Guide
 
@@ -20,8 +24,8 @@ Numpy Array could be codified as:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzM3MDMwMCwxMDAyNzM1MjI1LC0xNj
-QwMjI4NDA5LDEyNDEzMjE1OTAsMTUyMzY2NTU1MywyMDExNjY0
-NDQxLDEwODUwNzI5OTksLTE2NjE2NzUyMDcsLTkyOTQ2NDQwOC
-w0ODk5MjgxNjksLTc3NTg4NDM2Ml19
+eyJoaXN0b3J5IjpbNDE5ODQzODc4LDEwMDI3MzUyMjUsLTE2ND
+AyMjg0MDksMTI0MTMyMTU5MCwxNTIzNjY1NTUzLDIwMTE2NjQ0
+NDEsMTA4NTA3Mjk5OSwtMTY2MTY3NTIwNywtOTI5NDY0NDA4LD
+Q4OTkyODE2OSwtNzc1ODg0MzYyXX0=
 -->
