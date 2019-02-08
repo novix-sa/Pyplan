@@ -10,9 +10,10 @@ Based on X-Array objects, with a different approach to index definition and mani
 ## Function List
 
 ### PP.Sel
-### PP.sum
+### PP.sum3
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4MTkwOTc4LDQ5NDgwNzcwM119
+eyJoaXN0b3J5IjpbMTY4MDAwMjk2Myw5MDgxOTA5NzgsNDk0OD
+A3NzAzXX0=
 -->
