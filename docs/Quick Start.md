@@ -1,15 +1,15 @@
 # Quick Start
-(Guia rapida para generar una app y compoartirla)
-## Login
-### Creating your username
+(Guia rapida para generar una app y compartirla)
 
-### Login in
-## Creating your first model
-### Name your new model
 
-## Inspecting results
-
+## Quick Start
+### Login
+### Create a new model
+### Drag nodes
+### Evaluate results
+### Create an app
+### Share the app
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5Mzg5MTg5XX0=
+eyJoaXN0b3J5IjpbLTYxODE1MDc4Myw5NDkzODkxODldfQ==
 -->
