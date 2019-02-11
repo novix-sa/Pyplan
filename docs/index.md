@@ -10,7 +10,7 @@ The node works as a blank canvas for programming in Python, and accepts imports 
 Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that any node which result is an object of these type can be represented as a table or graph with no additional coding.
 Un ejemplo de escritura
 otro ejemplo by JD
-otro ejemplo by NN
+otro ejemplo by DG
 
 
 ## Old definition
@@ -36,11 +36,11 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzcwNDAzNyw3MDEzMTYyMzQsMTI5Nz
-cxNDYwOCwtMjEwNDgyNzc5NSwtMTI1NzE5ODI5OSwxOTYxMjc2
-NzE4LC0xMzUxMzgwOTcyLDE0MzcwNTYzODMsNDE5ODQzODc4LD
-EwMDI3MzUyMjUsLTE2NDAyMjg0MDksMTI0MTMyMTU5MCwxNTIz
-NjY1NTUzLDIwMTE2NjQ0NDEsMTA4NTA3Mjk5OSwtMTY2MTY3NT
-IwNywtOTI5NDY0NDA4LDQ4OTkyODE2OSwtNzc1ODg0MzYyXX0=
-
+eyJoaXN0b3J5IjpbLTE3MjM2Mzk0OTYsLTY0MzcwNDAzNyw3MD
+EzMTYyMzQsMTI5NzcxNDYwOCwtMjEwNDgyNzc5NSwtMTI1NzE5
+ODI5OSwxOTYxMjc2NzE4LC0xMzUxMzgwOTcyLDE0MzcwNTYzOD
+MsNDE5ODQzODc4LDEwMDI3MzUyMjUsLTE2NDAyMjg0MDksMTI0
+MTMyMTU5MCwxNTIzNjY1NTUzLDIwMTE2NjQ0NDEsMTA4NTA3Mj
+k5OSwtMTY2MTY3NTIwNywtOTI5NDY0NDA4LDQ4OTkyODE2OSwt
+Nzc1ODg0MzYyXX0=
 -->
