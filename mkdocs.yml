@@ -46,9 +46,9 @@ nav:
     - Examples: Examples.md
     - Pyplan Library: Pyplan Library.md
     - Pyplan implementation: 
-#      - Product: Auxiliar/Pyplan/2-Model Manager/File Manager.md
-#      - Solution: Auxiliar/Pyplan/1-Introduction/Sign up.md
-#      - Industries: http://pyplan.com/industries-cases/
+      - Product: Auxiliar/Pyplan/2-Model Manager/File Manager.md
+      - Solution: Auxiliar/Pyplan/1-Introduction/Sign up.md
+      - Industries: http://pyplan.com/industries-cases/
     
 # Extensions
 markdown_extensions:
