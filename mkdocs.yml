@@ -36,6 +36,7 @@ extra:
 # Navigation
 nav:
     - Quick Start: Quick Start.md
+    - User Guide: User Guide/Introduction.md
     - User Guide: 
       - Introduction: User Guide/Introduction.md
       - File manager: User Guide/File Manager.md
