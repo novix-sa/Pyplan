@@ -28,13 +28,6 @@ As simple as indicated Python based model can be structure.
 
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
-## Quick Start
-### Login
-### Create a new model
-### Drag nodes
-### Evaluate results
-### Create an app
-### Share the app
 
 ## User Interface
 ### File manager
@@ -42,7 +35,7 @@ Pyplan also provides user friendly interfaces for model management and API deplo
 ### UI designer
 ### Task Manager
 ### Configuration
-### Pyplan Library
+
 
 
 
@@ -51,8 +44,9 @@ Pyplan also provides user friendly interfaces for model management and API deplo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzA1NjM4Myw0MTk4NDM4NzgsMTAwMj
-czNTIyNSwtMTY0MDIyODQwOSwxMjQxMzIxNTkwLDE1MjM2NjU1
-NTMsMjAxMTY2NDQ0MSwxMDg1MDcyOTk5LC0xNjYxNjc1MjA3LC
-05Mjk0NjQ0MDgsNDg5OTI4MTY5LC03NzU4ODQzNjJdfQ==
+eyJoaXN0b3J5IjpbNjAwNjgzNjAyLDE0MzcwNTYzODMsNDE5OD
+QzODc4LDEwMDI3MzUyMjUsLTE2NDAyMjg0MDksMTI0MTMyMTU5
+MCwxNTIzNjY1NTUzLDIwMTE2NjQ0NDEsMTA4NTA3Mjk5OSwtMT
+Y2MTY3NTIwNywtOTI5NDY0NDA4LDQ4OTkyODE2OSwtNzc1ODg0
+MzYyXX0=
 -->
