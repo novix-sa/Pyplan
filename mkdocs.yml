@@ -35,6 +35,7 @@ extra:
 
 # Navigation
 nav:
+    - Home:
     - Quick Start: Quick Start.md
     - User Guide: User Guide/Introduction.md
     - User Guide: 
