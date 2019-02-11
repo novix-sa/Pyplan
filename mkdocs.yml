@@ -41,10 +41,10 @@ nav:
     - Task Manager: File Manager.md
     - Configuration:  File Manager.md
     - Pyplan Library: Pyplan Library.md
-    - Second level: 
-      - Enca1: Auxiliar/Pyplan/2-Model Manager/File Manager.md
-      - Enca2: Auxiliar/Pyplan/1-Introduction/Sign up.md
-      - Enca3: Report/nueva función subscript.md
+    - Pyplan implementation: 
+      - Product: Auxiliar/Pyplan/2-Model Manager/File Manager.md
+      - Solution: Auxiliar/Pyplan/1-Introduction/Sign up.md
+      - Industries: http://pyplan.com/industries-cases/
     
 # Extensions
 markdown_extensions:
