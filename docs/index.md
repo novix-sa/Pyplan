@@ -4,7 +4,7 @@ Pyplan is an assisted Graphical Integrated Development Environment designed for 
 The app code is structured through an Influence Diagram ( a Workflow) that helps understanding the calculation logic.
 ***(insertar gráfico con diagrama de influencia)***
 
-Each calculation step is contained in a node which can be evaluated and its results represented as tables or graphs. 
+Each calculation step is contained in a node which can be evaluated and its results represented as a table or graph. 
 ***(insertar gráfico con nodo y su definicion)***
 
 The node works as a blank canvas for programming in Python, and accepts imports of any external library. Results are stored in memory as global variables that can be called from other calculations.
@@ -34,11 +34,11 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkxNzAyMjEsLTEyNTcxOTgyOTksND
-c2NjYzNjA1LC0xOTk2MzMyMDcsLTk0Mjk3NDM5MSwtMTcyMzYz
-OTQ5NiwtNjQzNzA0MDM3LDcwMTMxNjIzNCwxMjk3NzE0NjA4LC
-0yMTA0ODI3Nzk1LC0xMjU3MTk4Mjk5LDE5NjEyNzY3MTgsLTEz
-NTEzODA5NzIsMTQzNzA1NjM4Myw0MTk4NDM4NzgsMTAwMjczNT
-IyNSwtMTY0MDIyODQwOSwxMjQxMzIxNTkwLDE1MjM2NjU1NTMs
-MjAxMTY2NDQ0MV19
+eyJoaXN0b3J5IjpbLTk5MTY1NjgyLC0xMjU3MTk4Mjk5LDQ3Nj
+Y2MzYwNSwtMTk5NjMzMjA3LC05NDI5NzQzOTEsLTE3MjM2Mzk0
+OTYsLTY0MzcwNDAzNyw3MDEzMTYyMzQsMTI5NzcxNDYwOCwtMj
+EwNDgyNzc5NSwtMTI1NzE5ODI5OSwxOTYxMjc2NzE4LC0xMzUx
+MzgwOTcyLDE0MzcwNTYzODMsNDE5ODQzODc4LDEwMDI3MzUyMj
+UsLTE2NDAyMjg0MDksMTI0MTMyMTU5MCwxNTIzNjY1NTUzLDIw
+MTE2NjQ0NDFdfQ==
 -->
