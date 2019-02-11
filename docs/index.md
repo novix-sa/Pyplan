@@ -1,5 +1,6 @@
 # Pyplan
 Pyplan is an assisted Graphical Integrated Development Environment designed for easy creation and sharing of Data Analytics Apps based on Python programming language.
+
 The app code is structured through an Influence Diagram ( a Workflow) that helps understanding the calculation logic.
 ***(insertar gráfico con diagrama de influencia)***
 
@@ -33,11 +34,11 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTcxOTgyOTksNDc2NjYzNjA1LC0xOT
-k2MzMyMDcsLTk0Mjk3NDM5MSwtMTcyMzYzOTQ5NiwtNjQzNzA0
-MDM3LDcwMTMxNjIzNCwxMjk3NzE0NjA4LC0yMTA0ODI3Nzk1LC
-0xMjU3MTk4Mjk5LDE5NjEyNzY3MTgsLTEzNTEzODA5NzIsMTQz
-NzA1NjM4Myw0MTk4NDM4NzgsMTAwMjczNTIyNSwtMTY0MDIyOD
-QwOSwxMjQxMzIxNTkwLDE1MjM2NjU1NTMsMjAxMTY2NDQ0MSwx
-MDg1MDcyOTk5XX0=
+eyJoaXN0b3J5IjpbLTEyMzkxNzAyMjEsLTEyNTcxOTgyOTksND
+c2NjYzNjA1LC0xOTk2MzMyMDcsLTk0Mjk3NDM5MSwtMTcyMzYz
+OTQ5NiwtNjQzNzA0MDM3LDcwMTMxNjIzNCwxMjk3NzE0NjA4LC
+0yMTA0ODI3Nzk1LC0xMjU3MTk4Mjk5LDE5NjEyNzY3MTgsLTEz
+NTEzODA5NzIsMTQzNzA1NjM4Myw0MTk4NDM4NzgsMTAwMjczNT
+IyNSwtMTY0MDIyODQwOSwxMjQxMzIxNTkwLDE1MjM2NjU1NTMs
+MjAxMTY2NDQ0MV19
 -->
