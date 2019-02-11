@@ -36,8 +36,10 @@ extra:
 # Navigation
 nav:
     - Home:
-    - Quick Start: Quick Start.md
-    - User Guide: User Guide/Introduction.md
+      - Quick Start: Quick Start.md
+      - Tutorials: Tutorials.md
+      - Examples: Examples.md
+      - Pyplan Library: Pyplan Library.md
     - User Guide: 
       - Introduction: User Guide/Introduction.md
       - File manager: User Guide/File Manager.md
@@ -45,9 +47,7 @@ nav:
       - UI Designer: User Guide/UI Designer (Former Report Manager).md
       - Task Manager: User Guide/Task Manager.md
       - Configuration: User Guide/Configuration.md
-    - Tutorials: Tutorials.md
-    - Examples: Examples.md
-    - Pyplan Library: Pyplan Library.md
+    
 #    - Pyplan implementation: 
 #      - Product: Auxiliar/Pyplan/2-Model Manager/File Manager.md
 #      - Solution: Auxiliar/Pyplan/1-Introduction/Sign up.md
