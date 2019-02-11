@@ -7,7 +7,7 @@ Each calculation step is contained in a node which can be evaluated and its resu
 ***(insertar gráfico con nodo y su definicion)***
 
 The node works as a blank canvas for programming in Python, and accepts imports of any external library. Results are stored in memory as global variables that can be called from other calculations.
-Pyplan natively interpret Pandas, Nu
+Pyplan natively interprets Pandas, Numpy and XArray dataobjects.  Evaluating a node
 
 
 ## Old definition
@@ -33,7 +33,7 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDgxNDU5NiwxOTYxMjc2NzE4LC0xMz
+eyJoaXN0b3J5IjpbMTE5MjgwNDY3MiwxOTYxMjc2NzE4LC0xMz
 UxMzgwOTcyLDE0MzcwNTYzODMsNDE5ODQzODc4LDEwMDI3MzUy
 MjUsLTE2NDAyMjg0MDksMTI0MTMyMTU5MCwxNTIzNjY1NTUzLD
 IwMTE2NjQ0NDEsMTA4NTA3Mjk5OSwtMTY2MTY3NTIwNywtOTI5
