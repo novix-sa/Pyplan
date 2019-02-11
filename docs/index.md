@@ -11,7 +11,7 @@ Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that
 Otra cosa agregada con espacio
 Un ejemplo de escritura
 otro ejemplo by JD
-otro ejemplo by XX NN
+otro ejemplo by  NN
 
 
 ## Old definition
@@ -37,7 +37,7 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0Mjk3NDM5MSwtMTcwODMwNzU2NywtMT
+eyJoaXN0b3J5IjpbLTEyMDg0OTYxMTksLTk0Mjk3NDM5MSwtMT
 cyMzYzOTQ5NiwtNjQzNzA0MDM3LDcwMTMxNjIzNCwxMjk3NzE0
 NjA4LC0yMTA0ODI3Nzk1LC0xMjU3MTk4Mjk5LDE5NjEyNzY3MT
 gsLTEzNTEzODA5NzIsMTQzNzA1NjM4Myw0MTk4NDM4NzgsMTAw
