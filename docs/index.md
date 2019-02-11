@@ -6,10 +6,10 @@ The app code is structured through an Influence Diagram ( a Workflow) that helps
 Each calculation step is contained in a node which can be evaluated and its results represented as tables or graphs. 
 ***(insertar gráfico con nodo y su definicion)***
 
-The node works as a blank canvas for programming, and its result is stored in memory as a global variable that can be called from other calculations.
+The node works as a blank canvas for programming any Python expre, and its result is stored in memory as a global variable that can be called from other calculations.
 
 
-#conceived for introducing data scientists and business analyst into #Python models and it Machine Learning and Data Analytics #potential.
+conceived for introducing data scientists and business analyst into Python models and it Machine Learning and Data Analytics potential.
 
 Trough an innovative U/I consisting on influence diagrams, huge models can be easily construct and audit by software experts as well as businessmen.
 
@@ -31,9 +31,9 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2MzAyOTgwLC0xMzUxMzgwOTcyLDE0Mz
-cwNTYzODMsNDE5ODQzODc4LDEwMDI3MzUyMjUsLTE2NDAyMjg0
-MDksMTI0MTMyMTU5MCwxNTIzNjY1NTUzLDIwMTE2NjQ0NDEsMT
-A4NTA3Mjk5OSwtMTY2MTY3NTIwNywtOTI5NDY0NDA4LDQ4OTky
-ODE2OSwtNzc1ODg0MzYyXX0=
+eyJoaXN0b3J5IjpbMTEzMjM5MjI2MywtMTM1MTM4MDk3MiwxND
+M3MDU2MzgzLDQxOTg0Mzg3OCwxMDAyNzM1MjI1LC0xNjQwMjI4
+NDA5LDEyNDEzMjE1OTAsMTUyMzY2NTU1MywyMDExNjY0NDQxLD
+EwODUwNzI5OTksLTE2NjE2NzUyMDcsLTkyOTQ2NDQwOCw0ODk5
+MjgxNjksLTc3NTg4NDM2Ml19
 -->
