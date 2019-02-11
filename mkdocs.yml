@@ -35,11 +35,11 @@ extra:
 
 # Navigation
 nav:
-    - Home:
-      - Quick Start: Quick Start.md
-      - Tutorials: Tutorials.md
-      - Examples: Examples.md
-      - Pyplan Library: Pyplan Library.md
+    - Home: index.md
+    - Quick Start: Quick Start.md
+    - Tutorials: Tutorials.md
+    - Examples: Examples.md
+    - Pyplan Library: Pyplan Library.md
     - User Guide: 
       - Introduction: User Guide/Introduction.md
       - File manager: User Guide/File Manager.md
