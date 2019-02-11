@@ -37,7 +37,7 @@ extra:
 nav:
     - Quick Start: Quick Start.md
     - User Guide: 
-      - Introduction: User Guide/Introductione.md
+      - Introduction: User Guide/Introduction.md
       - File manager: User Guide/File Manager.md
       - Modeler: User Guide/Modeler.md
       - UI Designer: User Guide/UI Designer (Former Report Manager).md
