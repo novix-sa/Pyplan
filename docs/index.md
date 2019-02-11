@@ -1,5 +1,6 @@
 # Pyplan
-Pyplan is an assisted Graphical Integrated Development Environment conceived for introducing data scientists and business analyst into Python models and it Machine Learning and Data Analytics potential.
+Pyplan is an assisted Graphical Integrated Development Environment designed for easy creation and sharing of data
+conceived for introducing data scientists and business analyst into Python models and it Machine Learning and Data Analytics potential.
 
 Trough an innovative U/I consisting on influence diagrams, huge models can be easily construct and audit by software experts as well as businessmen.
 
@@ -21,9 +22,9 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTEzODA5NzIsMTQzNzA1NjM4Myw0MT
-k4NDM4NzgsMTAwMjczNTIyNSwtMTY0MDIyODQwOSwxMjQxMzIx
-NTkwLDE1MjM2NjU1NTMsMjAxMTY2NDQ0MSwxMDg1MDcyOTk5LC
-0xNjYxNjc1MjA3LC05Mjk0NjQ0MDgsNDg5OTI4MTY5LC03NzU4
-ODQzNjJdfQ==
+eyJoaXN0b3J5IjpbLTE2NjA1OTI0NjUsLTEzNTEzODA5NzIsMT
+QzNzA1NjM4Myw0MTk4NDM4NzgsMTAwMjczNTIyNSwtMTY0MDIy
+ODQwOSwxMjQxMzIxNTkwLDE1MjM2NjU1NTMsMjAxMTY2NDQ0MS
+wxMDg1MDcyOTk5LC0xNjYxNjc1MjA3LC05Mjk0NjQ0MDgsNDg5
+OTI4MTY5LC03NzU4ODQzNjJdfQ==
 -->
