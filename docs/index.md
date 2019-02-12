@@ -4,7 +4,11 @@ Pyplan is an assisted **Graphical Integrated Development Environment** designed 
 The app code is structured through a hierarchical Influence Diagram ( a Workflow) that helps understand the calculation logic.
 ![Influence Diagram](http://img.pyplan.org/index_influence_diagram.png)
 
-Python code is written in the nodes, each of which has several properties.
+Python code is written inside node  the nodes, each of which has several properties
+![enter image description here](http://img.pyplan.org/index_node_code.png)
+Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that any node which result is an object of these types can be represented as a table or graph with no additional coding.
+
+
 The property/code windows opens when clicking on a node. Each attribute has its own tab.
 
 Every node has several properties. The two most important are Title and ID.![enter image description here](http://img.pyplan.org/index_node_properties.png)
@@ -41,7 +45,7 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODQ1NzM1NCw5NzEyNzUzMDYsMTY5OD
+eyJoaXN0b3J5IjpbLTk3MDg1MDUwNSw5NzEyNzUzMDYsMTY5OD
 YwNTIxNCwxODI2Mzg3NTA1LDExOTM4Mjk2NzEsMTAyNzM0Mjc5
 NiwtMTI0NjUyNzIzMywtMTI1NzE5ODI5OSw0NzY2NjM2MDUsLT
 E5OTYzMzIwNywtOTQyOTc0MzkxLC0xNzIzNjM5NDk2LC02NDM3
