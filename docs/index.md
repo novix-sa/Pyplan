@@ -5,8 +5,8 @@ The app code is structured through an Influence Diagram ( a Workflow) that helps
 ![Influence Diagram](http://img.pyplan.org/index_influence_diagram.png)
 
 Python code is written in the nodes, each of which has several properties.
-The property windows opens
-
+The property/code windows opens when clicking on a node. Each attribute has its own tab.
+T
 Every node has several properties. The two most important are Title and ID.![enter image description here](http://img.pyplan.org/index_node_properties.png)
 
 
@@ -42,11 +42,11 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEyMTIyODcsOTcxMjc1MzA2LDE2OT
-g2MDUyMTQsMTgyNjM4NzUwNSwxMTkzODI5NjcxLDEwMjczNDI3
-OTYsLTEyNDY1MjcyMzMsLTEyNTcxOTgyOTksNDc2NjYzNjA1LC
-0xOTk2MzMyMDcsLTk0Mjk3NDM5MSwtMTcyMzYzOTQ5NiwtNjQz
-NzA0MDM3LDcwMTMxNjIzNCwxMjk3NzE0NjA4LC0yMTA0ODI3Nz
-k1LC0xMjU3MTk4Mjk5LDE5NjEyNzY3MTgsLTEzNTEzODA5NzIs
-MTQzNzA1NjM4M119
+eyJoaXN0b3J5IjpbLTM0MTEyNjM5OSw5NzEyNzUzMDYsMTY5OD
+YwNTIxNCwxODI2Mzg3NTA1LDExOTM4Mjk2NzEsMTAyNzM0Mjc5
+NiwtMTI0NjUyNzIzMywtMTI1NzE5ODI5OSw0NzY2NjM2MDUsLT
+E5OTYzMzIwNywtOTQyOTc0MzkxLC0xNzIzNjM5NDk2LC02NDM3
+MDQwMzcsNzAxMzE2MjM0LDEyOTc3MTQ2MDgsLTIxMDQ4Mjc3OT
+UsLTEyNTcxOTgyOTksMTk2MTI3NjcxOCwtMTM1MTM4MDk3Miwx
+NDM3MDU2MzgzXX0=
 -->
