@@ -6,6 +6,9 @@ The app code is structured through an Influence Diagram ( a Workflow) that helps
 ![Influence Diagram](http://img.pyplan.org/index_influence_diagram.png)
 
 Each calculation step is contained in a node which can be evaluated and its results represented as a table or graph. 
+
+
+
 ***(insertar gráfico con nodo y su definicion)***
 ![enter image description here](http://img.pyplan.org/index_node_properties.png)
 The node works as a blank canvas for programming in Python, and accepts imports of any external library. Results are stored in memory as global variables that can be called from other calculations.
@@ -35,11 +38,11 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzgyOTY3MSwxMDI3MzQyNzk2LC0xMj
-Q2NTI3MjMzLC0xMjU3MTk4Mjk5LDQ3NjY2MzYwNSwtMTk5NjMz
-MjA3LC05NDI5NzQzOTEsLTE3MjM2Mzk0OTYsLTY0MzcwNDAzNy
-w3MDEzMTYyMzQsMTI5NzcxNDYwOCwtMjEwNDgyNzc5NSwtMTI1
-NzE5ODI5OSwxOTYxMjc2NzE4LC0xMzUxMzgwOTcyLDE0MzcwNT
-YzODMsNDE5ODQzODc4LDEwMDI3MzUyMjUsLTE2NDAyMjg0MDks
-MTI0MTMyMTU5MF19
+eyJoaXN0b3J5IjpbMTgyNjM4NzUwNSwxMTkzODI5NjcxLDEwMj
+czNDI3OTYsLTEyNDY1MjcyMzMsLTEyNTcxOTgyOTksNDc2NjYz
+NjA1LC0xOTk2MzMyMDcsLTk0Mjk3NDM5MSwtMTcyMzYzOTQ5Ni
+wtNjQzNzA0MDM3LDcwMTMxNjIzNCwxMjk3NzE0NjA4LC0yMTA0
+ODI3Nzk1LC0xMjU3MTk4Mjk5LDE5NjEyNzY3MTgsLTEzNTEzOD
+A5NzIsMTQzNzA1NjM4Myw0MTk4NDM4NzgsMTAwMjczNTIyNSwt
+MTY0MDIyODQwOV19
 -->
