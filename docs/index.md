@@ -8,9 +8,8 @@ Python code is written inside nodes definition. Nodes have properties among whic
 ![enter image description here](http://img.pyplan.org/index_node_code.png)
 Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that any node which result is an object of these types can be represented as a table or graph with no additional coding.
 
+![enter image description here](http://img.pyplan.org/index_node_result.png)
 
-
-The property/code windows opens when clicking on a node. Each attribute has its own tab.
 
 Every node has several properties. The two most important are Title and ID.![enter image description here](http://img.pyplan.org/index_node_properties.png)
 
@@ -46,11 +45,11 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3MTM1NTYxLDk3MTI3NTMwNiwxNjk4Nj
-A1MjE0LDE4MjYzODc1MDUsMTE5MzgyOTY3MSwxMDI3MzQyNzk2
-LC0xMjQ2NTI3MjMzLC0xMjU3MTk4Mjk5LDQ3NjY2MzYwNSwtMT
-k5NjMzMjA3LC05NDI5NzQzOTEsLTE3MjM2Mzk0OTYsLTY0Mzcw
-NDAzNyw3MDEzMTYyMzQsMTI5NzcxNDYwOCwtMjEwNDgyNzc5NS
-wtMTI1NzE5ODI5OSwxOTYxMjc2NzE4LC0xMzUxMzgwOTcyLDE0
-MzcwNTYzODNdfQ==
+eyJoaXN0b3J5IjpbLTE1NzY2NzA2Niw5NzEyNzUzMDYsMTY5OD
+YwNTIxNCwxODI2Mzg3NTA1LDExOTM4Mjk2NzEsMTAyNzM0Mjc5
+NiwtMTI0NjUyNzIzMywtMTI1NzE5ODI5OSw0NzY2NjM2MDUsLT
+E5OTYzMzIwNywtOTQyOTc0MzkxLC0xNzIzNjM5NDk2LC02NDM3
+MDQwMzcsNzAxMzE2MjM0LDEyOTc3MTQ2MDgsLTIxMDQ4Mjc3OT
+UsLTEyNTcxOTgyOTksMTk2MTI3NjcxOCwtMTM1MTM4MDk3Miwx
+NDM3MDU2MzgzXX0=
 -->
