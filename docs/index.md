@@ -3,7 +3,7 @@ Pyplan is an assisted Graphical Integrated Development Environment designed for 
 
 The app code is structured through an Influence Diagram ( a Workflow) that helps understanding the calculation logic.
 ***(insertar gráfico con diagrama de influencia)***
-
+![Influence Diagram](http://img.pyplan.org/index_influence_diagram.png)
 
 Each calculation step is contained in a node which can be evaluated and its results represented as a table or graph. 
 ***(insertar gráfico con nodo y su definicion)***
@@ -35,7 +35,7 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzY1NTg1NSwtMTI0NjUyNzIzMywtMT
+eyJoaXN0b3J5IjpbMTAyNzM0Mjc5NiwtMTI0NjUyNzIzMywtMT
 I1NzE5ODI5OSw0NzY2NjM2MDUsLTE5OTYzMzIwNywtOTQyOTc0
 MzkxLC0xNzIzNjM5NDk2LC02NDM3MDQwMzcsNzAxMzE2MjM0LD
 EyOTc3MTQ2MDgsLTIxMDQ4Mjc3OTUsLTEyNTcxOTgyOTksMTk2
