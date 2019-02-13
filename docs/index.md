@@ -19,18 +19,18 @@ Any library from the extended Python developing community can be imported to be 
 The example above imports Sklearn for machine learning and the Plottly for rendering the visualization. A Plotly 3D representation is appreciated in the figure below.
 ![enter image description here](http://img.pyplan.org/index_plotly_graph.png)
 
-## Creating Apps
+## **Creating Apps**
 Apps interfaces are created dragging and dropping model nodes on an interface design tool.
 ![Interface Designer](http://img.pyplan.org/index_new_interface.png)
 
 After creation, the app can be shared with anybody internally or outside the enterprise environment.
 ![enter image description here](http://img.pyplan.org/index_share_app_ext.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDYwODg4NywtMTg2OTI3OTQyLDg3OD
-k5NTQ4LC0yMDY4MzUyMDM3LDgwMDUyOTIwMiwxNzc1NDA4NDAs
-LTE0ODM0NzU2MTMsLTE4MDAzMTQ4MjMsMTk3NDQ3MzU4NSwtMT
-k4MjgyNjI1NiwtMjQxMzY5OTM5LC02MzYzNDY0NzgsOTc2ODg4
-NzYwLDk3MTI3NTMwNiwxNjk4NjA1MjE0LDE4MjYzODc1MDUsMT
-E5MzgyOTY3MSwxMDI3MzQyNzk2LC0xMjQ2NTI3MjMzLC0xMjU3
-MTk4Mjk5XX0=
+eyJoaXN0b3J5IjpbLTE3MDY3NDU0MTcsLTE4NjkyNzk0Miw4Nz
+g5OTU0OCwtMjA2ODM1MjAzNyw4MDA1MjkyMDIsMTc3NTQwODQw
+LC0xNDgzNDc1NjEzLC0xODAwMzE0ODIzLDE5NzQ0NzM1ODUsLT
+E5ODI4MjYyNTYsLTI0MTM2OTkzOSwtNjM2MzQ2NDc4LDk3Njg4
+ODc2MCw5NzEyNzUzMDYsMTY5ODYwNTIxNCwxODI2Mzg3NTA1LD
+ExOTM4Mjk2NzEsMTAyNzM0Mjc5NiwtMTI0NjUyNzIzMywtMTI1
+NzE5ODI5OV19
 -->
