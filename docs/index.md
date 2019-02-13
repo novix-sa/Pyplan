@@ -19,15 +19,15 @@ It follows and example importing Sklearn for machine learning and the Plottly fo
 ![Importing libraries for use within Pyplan](http://img.pyplan.org/index_import_lib.png)
 
 
-
+![enter image description here](http://img.pyplan.org/index_plotly_graph.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDAzMTQ4MjMsMTk3NDQ3MzU4NSwtMT
-k4MjgyNjI1NiwtMjQxMzY5OTM5LC02MzYzNDY0NzgsOTc2ODg4
-NzYwLDk3MTI3NTMwNiwxNjk4NjA1MjE0LDE4MjYzODc1MDUsMT
-E5MzgyOTY3MSwxMDI3MzQyNzk2LC0xMjQ2NTI3MjMzLC0xMjU3
-MTk4Mjk5LDQ3NjY2MzYwNSwtMTk5NjMzMjA3LC05NDI5NzQzOT
-EsLTE3MjM2Mzk0OTYsLTY0MzcwNDAzNyw3MDEzMTYyMzQsMTI5
-NzcxNDYwOF19
+eyJoaXN0b3J5IjpbODIzMDU5MjYzLC0xODAwMzE0ODIzLDE5Nz
+Q0NzM1ODUsLTE5ODI4MjYyNTYsLTI0MTM2OTkzOSwtNjM2MzQ2
+NDc4LDk3Njg4ODc2MCw5NzEyNzUzMDYsMTY5ODYwNTIxNCwxOD
+I2Mzg3NTA1LDExOTM4Mjk2NzEsMTAyNzM0Mjc5NiwtMTI0NjUy
+NzIzMywtMTI1NzE5ODI5OSw0NzY2NjM2MDUsLTE5OTYzMzIwNy
+wtOTQyOTc0MzkxLC0xNzIzNjM5NDk2LC02NDM3MDQwMzcsNzAx
+MzE2MjM0XX0=
 -->
