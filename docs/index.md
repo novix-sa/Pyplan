@@ -7,7 +7,7 @@ The app code is structured through a hierarchical Influence Diagram ( a Workflow
 Python code is written inside nodes definition. Nodes have ID for calling its result from other nodes, working as global variables.
 ![enter image description here](http://img.pyplan.org/index_node_code.png)
 Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that any node which result is an object of these types can be represented as a table or graph with no additional coding.
-When asking to run a node, all precedent nodes are calculated too. Pyplan engine keeps tracks
+When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps tracks of any change in a node that trigge
 
 
 ![enter image description here](http://img.pyplan.org/index_node_result.png)
@@ -47,7 +47,7 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjgyNjQ2ODYsLTYzNjM0NjQ3OCw5Nz
+eyJoaXN0b3J5IjpbLTE4NDg1NTMyMDAsLTYzNjM0NjQ3OCw5Nz
 Y4ODg3NjAsOTcxMjc1MzA2LDE2OTg2MDUyMTQsMTgyNjM4NzUw
 NSwxMTkzODI5NjcxLDEwMjczNDI3OTYsLTEyNDY1MjcyMzMsLT
 EyNTcxOTgyOTksNDc2NjYzNjA1LC0xOTk2MzMyMDcsLTk0Mjk3
