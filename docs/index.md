@@ -4,7 +4,7 @@ Pyplan is an assisted **Graphical Integrated Development Environment** designed 
 The app code is structured through a hierarchical Influence Diagram ( a Workflow) that helps understand the calculation logic.
 ![Influence Diagram](http://img.pyplan.org/index_influence_diagram.png)
 
-Python code is written inside nodes definition. Nodes have ID for calling its result from other nodes, in that sense, nodes can be though as global variables.
+Python code is written inside nodes definition. Nodes have ID for calling its result from other nodes, working as global variables.
 ![enter image description here](http://img.pyplan.org/index_node_code.png)
 Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that any node which result is an object of these types can be represented as a table or graph with no additional coding.
 
@@ -46,11 +46,11 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2ODg4NzYwLDk3MTI3NTMwNiwxNjk4Nj
-A1MjE0LDE4MjYzODc1MDUsMTE5MzgyOTY3MSwxMDI3MzQyNzk2
-LC0xMjQ2NTI3MjMzLC0xMjU3MTk4Mjk5LDQ3NjY2MzYwNSwtMT
-k5NjMzMjA3LC05NDI5NzQzOTEsLTE3MjM2Mzk0OTYsLTY0Mzcw
-NDAzNyw3MDEzMTYyMzQsMTI5NzcxNDYwOCwtMjEwNDgyNzc5NS
-wtMTI1NzE5ODI5OSwxOTYxMjc2NzE4LC0xMzUxMzgwOTcyLDE0
-MzcwNTYzODNdfQ==
+eyJoaXN0b3J5IjpbLTYzNjM0NjQ3OCw5NzY4ODg3NjAsOTcxMj
+c1MzA2LDE2OTg2MDUyMTQsMTgyNjM4NzUwNSwxMTkzODI5Njcx
+LDEwMjczNDI3OTYsLTEyNDY1MjcyMzMsLTEyNTcxOTgyOTksND
+c2NjYzNjA1LC0xOTk2MzMyMDcsLTk0Mjk3NDM5MSwtMTcyMzYz
+OTQ5NiwtNjQzNzA0MDM3LDcwMTMxNjIzNCwxMjk3NzE0NjA4LC
+0yMTA0ODI3Nzk1LC0xMjU3MTk4Mjk5LDE5NjEyNzY3MTgsLTEz
+NTEzODA5NzJdfQ==
 -->
