@@ -11,39 +11,14 @@ When asking to run a node, all precedent nodes are calculated too, and its resul
 Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that any node which result is an object of these types can be represented as a table or graph with no additional coding.
 ![enter image description here](http://img.pyplan.org/index_node_result.png)
 
-
-
-
-
-
-The node works as a blank canvas for programming in Python, and accepts imports of any external library. Results are stored in memory as global variables that can be called from other calculations.
-
-
-
-## Old definition
-conceived for introducing data scientists and business analyst into Python models and it Machine Learning and Data Analytics potential.
-
-Trough an innovative U/I consisting on influence diagrams, huge models can be easily construct and audit by software experts as well as businessmen.
-
-
-
-
-## User Interface
-### File manager
-### Modeler
-### UI designer
-### Task Manager
-### Configuration
-
-
-
+Any library con be imported and used
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzE4MjU2OSwtNjM2MzQ2NDc4LDk3Nj
+eyJoaXN0b3J5IjpbLTUzNDIzODE5NywtNjM2MzQ2NDc4LDk3Nj
 g4ODc2MCw5NzEyNzUzMDYsMTY5ODYwNTIxNCwxODI2Mzg3NTA1
 LDExOTM4Mjk2NzEsMTAyNzM0Mjc5NiwtMTI0NjUyNzIzMywtMT
 I1NzE5ODI5OSw0NzY2NjM2MDUsLTE5OTYzMzIwNywtOTQyOTc0
