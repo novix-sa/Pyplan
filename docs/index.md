@@ -15,18 +15,18 @@ When asking to run a node, all precedent nodes are calculated too, and its resul
 
 ## **Using Python Libraries**
 Any library from the extended Python developing community can be imported to be used to solve specific needs.
-It follows and example importing Sklearn for machine learning and the Plottly for 3D representation.
 ![Importing libraries for use within Pyplan](http://img.pyplan.org/index_import_lib.png)
-
+The example above imports Sklearn for machine learning and the Plottly.
+A for 3D representation.
 ![enter image description here](http://img.pyplan.org/index_plotly_graph.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNTI5MjAyLDE3NzU0MDg0MCwtMTQ4Mz
-Q3NTYxMywtMTgwMDMxNDgyMywxOTc0NDczNTg1LC0xOTgyODI2
-MjU2LC0yNDEzNjk5MzksLTYzNjM0NjQ3OCw5NzY4ODg3NjAsOT
-cxMjc1MzA2LDE2OTg2MDUyMTQsMTgyNjM4NzUwNSwxMTkzODI5
-NjcxLDEwMjczNDI3OTYsLTEyNDY1MjcyMzMsLTEyNTcxOTgyOT
-ksNDc2NjYzNjA1LC0xOTk2MzMyMDcsLTk0Mjk3NDM5MSwtMTcy
-MzYzOTQ5Nl19
+eyJoaXN0b3J5IjpbLTMxMjgxODQ0Miw4MDA1MjkyMDIsMTc3NT
+QwODQwLC0xNDgzNDc1NjEzLC0xODAwMzE0ODIzLDE5NzQ0NzM1
+ODUsLTE5ODI4MjYyNTYsLTI0MTM2OTkzOSwtNjM2MzQ2NDc4LD
+k3Njg4ODc2MCw5NzEyNzUzMDYsMTY5ODYwNTIxNCwxODI2Mzg3
+NTA1LDExOTM4Mjk2NzEsMTAyNzM0Mjc5NiwtMTI0NjUyNzIzMy
+wtMTI1NzE5ODI5OSw0NzY2NjM2MDUsLTE5OTYzMzIwNywtOTQy
+OTc0MzkxXX0=
 -->
