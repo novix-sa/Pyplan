@@ -9,7 +9,7 @@ Python code is written inside nodes definition. Nodes have ID for calling its re
 ![enter image description here](http://img.pyplan.org/index_node_code.png)
 
 ## **Node evaluation**
-Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that any node which result is an object of these types can be represented as a table or graph with no additional coding.
+Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that any node which result is an object of these types can be evaluated (by double clicking the node) and visualized as a table or graph with no additional coding.
 ![enter image description here](http://img.pyplan.org/index_node_result.png)
 When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps track of any change in a node that triggers recalculation downstream the logic.
 
@@ -23,11 +23,11 @@ It follows and example importing Sklearn for machine learning and the Plottly fo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM0NzU2MTMsLTE4MDAzMTQ4MjMsMT
-k3NDQ3MzU4NSwtMTk4MjgyNjI1NiwtMjQxMzY5OTM5LC02MzYz
-NDY0NzgsOTc2ODg4NzYwLDk3MTI3NTMwNiwxNjk4NjA1MjE0LD
-E4MjYzODc1MDUsMTE5MzgyOTY3MSwxMDI3MzQyNzk2LC0xMjQ2
-NTI3MjMzLC0xMjU3MTk4Mjk5LDQ3NjY2MzYwNSwtMTk5NjMzMj
-A3LC05NDI5NzQzOTEsLTE3MjM2Mzk0OTYsLTY0MzcwNDAzNyw3
-MDEzMTYyMzRdfQ==
+eyJoaXN0b3J5IjpbMTM4NzU3MTA2NiwtMTQ4MzQ3NTYxMywtMT
+gwMDMxNDgyMywxOTc0NDczNTg1LC0xOTgyODI2MjU2LC0yNDEz
+Njk5MzksLTYzNjM0NjQ3OCw5NzY4ODg3NjAsOTcxMjc1MzA2LD
+E2OTg2MDUyMTQsMTgyNjM4NzUwNSwxMTkzODI5NjcxLDEwMjcz
+NDI3OTYsLTEyNDY1MjcyMzMsLTEyNTcxOTgyOTksNDc2NjYzNj
+A1LC0xOTk2MzMyMDcsLTk0Mjk3NDM5MSwtMTcyMzYzOTQ5Niwt
+NjQzNzA0MDM3XX0=
 -->
