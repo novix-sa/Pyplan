@@ -2,8 +2,8 @@
 Pyplan is an assisted **Graphical Integrated Development Environment** designed for easy creation and sharing of **Data Analytics Apps** based on **Python** programming language.
 
 ## **Code organization**
-The app code is structured through a hierarchical Influence Diagram ( a Workflow) that helps understand the calculation logic.
-![Influence Diagram](http://img.pyplan.org/index_influence_diagram.png)
+The app code is structured through a hierarchical Influence Diagram of nodes ( a Workflow) that helps understand the calculation logic. Nodes are added by dragg
+![Influence Diagram](http://img.pyplan.org/index_influence_diagram_drag.png)
 
 Python code is written inside nodes definition. Nodes have ID for calling its result from other nodes, working as global variables.
 ![enter image description here](http://img.pyplan.org/index_node_code.png)
@@ -22,11 +22,11 @@ It follows and example importing Sklearn for machine learning and the Plottly fo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTQwODQwLC0xNDgzNDc1NjEzLC0xOD
-AwMzE0ODIzLDE5NzQ0NzM1ODUsLTE5ODI4MjYyNTYsLTI0MTM2
-OTkzOSwtNjM2MzQ2NDc4LDk3Njg4ODc2MCw5NzEyNzUzMDYsMT
-Y5ODYwNTIxNCwxODI2Mzg3NTA1LDExOTM4Mjk2NzEsMTAyNzM0
-Mjc5NiwtMTI0NjUyNzIzMywtMTI1NzE5ODI5OSw0NzY2NjM2MD
-UsLTE5OTYzMzIwNywtOTQyOTc0MzkxLC0xNzIzNjM5NDk2LC02
-NDM3MDQwMzddfQ==
+eyJoaXN0b3J5IjpbMjEyNjc1ODEwMiwxNzc1NDA4NDAsLTE0OD
+M0NzU2MTMsLTE4MDAzMTQ4MjMsMTk3NDQ3MzU4NSwtMTk4Mjgy
+NjI1NiwtMjQxMzY5OTM5LC02MzYzNDY0NzgsOTc2ODg4NzYwLD
+k3MTI3NTMwNiwxNjk4NjA1MjE0LDE4MjYzODc1MDUsMTE5Mzgy
+OTY3MSwxMDI3MzQyNzk2LC0xMjQ2NTI3MjMzLC0xMjU3MTk4Mj
+k5LDQ3NjY2MzYwNSwtMTk5NjMzMjA3LC05NDI5NzQzOTEsLTE3
+MjM2Mzk0OTZdfQ==
 -->
