@@ -1,4 +1,4 @@
-# **Pyplan**
+# ** Pyplan **
 Pyplan is an assisted **Graphical Integrated Development Environment** designed for easy creation and sharing of **Data Analytics Apps** based on **Python** programming language.
 
 ## **Code organization**
@@ -22,7 +22,7 @@ Any library can be imported to be used within a node definition.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDI3NTY5MSwtMTk4MjgyNjI1NiwtMj
+eyJoaXN0b3J5IjpbMTk3NDQ3MzU4NSwtMTk4MjgyNjI1NiwtMj
 QxMzY5OTM5LC02MzYzNDY0NzgsOTc2ODg4NzYwLDk3MTI3NTMw
 NiwxNjk4NjA1MjE0LDE4MjYzODc1MDUsMTE5MzgyOTY3MSwxMD
 I3MzQyNzk2LC0xMjQ2NTI3MjMzLC0xMjU3MTk4Mjk5LDQ3NjY2
