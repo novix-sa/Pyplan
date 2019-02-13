@@ -6,17 +6,13 @@ The app code is structured through a hierarchical Influence Diagram ( a Workflow
 
 Python code is written inside nodes definition. Nodes have ID for calling its result from other nodes, working as global variables.
 ![enter image description here](http://img.pyplan.org/index_node_code.png)
+When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps tracks of any change in a node that triggers recalculation downstream the logic.
+
 Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that any node which result is an object of these types can be represented as a table or graph with no additional coding.
-When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps tracks of any change in a node that trigge
-
-
 ![enter image description here](http://img.pyplan.org/index_node_result.png)
 
 
-Every node has several properties. The two most important are Title and ID.![enter image description here](http://img.pyplan.org/index_node_properties.png)
 
-
-Each calculation step contained in a node which can be evaluated and its results represented as a table or graph. 
 
 
 
@@ -47,11 +43,11 @@ Trough an innovative U/I consisting on influence diagrams, huge models can be ea
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg1NTMyMDAsLTYzNjM0NjQ3OCw5Nz
-Y4ODg3NjAsOTcxMjc1MzA2LDE2OTg2MDUyMTQsMTgyNjM4NzUw
-NSwxMTkzODI5NjcxLDEwMjczNDI3OTYsLTEyNDY1MjcyMzMsLT
-EyNTcxOTgyOTksNDc2NjYzNjA1LC0xOTk2MzMyMDcsLTk0Mjk3
-NDM5MSwtMTcyMzYzOTQ5NiwtNjQzNzA0MDM3LDcwMTMxNjIzNC
-wxMjk3NzE0NjA4LC0yMTA0ODI3Nzk1LC0xMjU3MTk4Mjk5LDE5
-NjEyNzY3MThdfQ==
+eyJoaXN0b3J5IjpbMTQyNzE4MjU2OSwtNjM2MzQ2NDc4LDk3Nj
+g4ODc2MCw5NzEyNzUzMDYsMTY5ODYwNTIxNCwxODI2Mzg3NTA1
+LDExOTM4Mjk2NzEsMTAyNzM0Mjc5NiwtMTI0NjUyNzIzMywtMT
+I1NzE5ODI5OSw0NzY2NjM2MDUsLTE5OTYzMzIwNywtOTQyOTc0
+MzkxLC0xNzIzNjM5NDk2LC02NDM3MDQwMzcsNzAxMzE2MjM0LD
+EyOTc3MTQ2MDgsLTIxMDQ4Mjc3OTUsLTEyNTcxOTgyOTksMTk2
+MTI3NjcxOF19
 -->
