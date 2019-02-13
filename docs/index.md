@@ -24,9 +24,9 @@ Apps interfaces are created dragging and dropping model nodes on an interface de
 ![Interface Designer](http://img.pyplan.org/index_new_interface.png)
 
 After creation, the app can be shared with anybody internally or outside the enterprise environment.
-![enter image description here](http://img.pyplan.org/index_share_app.png)
+![enter image description here](http://img.pyplan.org/index_share_app_ext.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk3MDYwMywtMTg2OTI3OTQyLDg3OD
+eyJoaXN0b3J5IjpbMjA2NDYwODg4NywtMTg2OTI3OTQyLDg3OD
 k5NTQ4LC0yMDY4MzUyMDM3LDgwMDUyOTIwMiwxNzc1NDA4NDAs
 LTE0ODM0NzU2MTMsLTE4MDAzMTQ4MjMsMTk3NDQ3MzU4NSwtMT
 k4MjgyNjI1NiwtMjQxMzY5OTM5LC02MzYzNDY0NzgsOTc2ODg4
