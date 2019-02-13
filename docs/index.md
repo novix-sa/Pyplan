@@ -12,18 +12,18 @@ Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that
 ![enter image description here](http://img.pyplan.org/index_node_result.png)
 
 Any library con be imported and used too, it results
-
+![Importing libraries for use within Pyplan](http://img.pyplan.org/index_import_lib.png)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODI4MjYyNTYsLTI0MTM2OTkzOSwtNj
-M2MzQ2NDc4LDk3Njg4ODc2MCw5NzEyNzUzMDYsMTY5ODYwNTIx
-NCwxODI2Mzg3NTA1LDExOTM4Mjk2NzEsMTAyNzM0Mjc5NiwtMT
-I0NjUyNzIzMywtMTI1NzE5ODI5OSw0NzY2NjM2MDUsLTE5OTYz
-MzIwNywtOTQyOTc0MzkxLC0xNzIzNjM5NDk2LC02NDM3MDQwMz
-csNzAxMzE2MjM0LDEyOTc3MTQ2MDgsLTIxMDQ4Mjc3OTUsLTEy
-NTcxOTgyOTldfQ==
+eyJoaXN0b3J5IjpbODMxNzgzNzQ2LC0xOTgyODI2MjU2LC0yND
+EzNjk5MzksLTYzNjM0NjQ3OCw5NzY4ODg3NjAsOTcxMjc1MzA2
+LDE2OTg2MDUyMTQsMTgyNjM4NzUwNSwxMTkzODI5NjcxLDEwMj
+czNDI3OTYsLTEyNDY1MjcyMzMsLTEyNTcxOTgyOTksNDc2NjYz
+NjA1LC0xOTk2MzMyMDcsLTk0Mjk3NDM5MSwtMTcyMzYzOTQ5Ni
+wtNjQzNzA0MDM3LDcwMTMxNjIzNCwxMjk3NzE0NjA4LC0yMTA0
+ODI3Nzk1XX0=
 -->
