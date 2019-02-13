@@ -10,9 +10,8 @@ Python code is written inside nodes definition. Nodes have ID for calling its re
 
 ## Node evaluation
 Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that any node which result is an object of these types can be represented as a table or graph with no additional coding.
-When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps track of any change in a node that triggers recalculation downstream the logic.
-
 ![enter image description here](http://img.pyplan.org/index_node_result.png)
+When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps track of any change in a node that triggers recalculation downstream the logic.
 
 ## Python Libraries Use
 Any library can be imported to be used within a node definition.
@@ -23,11 +22,11 @@ Any library can be imported to be used within a node definition.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0NzAwNjY4LC0xOTgyODI2MjU2LC0yND
-EzNjk5MzksLTYzNjM0NjQ3OCw5NzY4ODg3NjAsOTcxMjc1MzA2
-LDE2OTg2MDUyMTQsMTgyNjM4NzUwNSwxMTkzODI5NjcxLDEwMj
-czNDI3OTYsLTEyNDY1MjcyMzMsLTEyNTcxOTgyOTksNDc2NjYz
-NjA1LC0xOTk2MzMyMDcsLTk0Mjk3NDM5MSwtMTcyMzYzOTQ5Ni
-wtNjQzNzA0MDM3LDcwMTMxNjIzNCwxMjk3NzE0NjA4LC0yMTA0
-ODI3Nzk1XX0=
+eyJoaXN0b3J5IjpbLTEwNzI5OTQwNzAsLTE5ODI4MjYyNTYsLT
+I0MTM2OTkzOSwtNjM2MzQ2NDc4LDk3Njg4ODc2MCw5NzEyNzUz
+MDYsMTY5ODYwNTIxNCwxODI2Mzg3NTA1LDExOTM4Mjk2NzEsMT
+AyNzM0Mjc5NiwtMTI0NjUyNzIzMywtMTI1NzE5ODI5OSw0NzY2
+NjM2MDUsLTE5OTYzMzIwNywtOTQyOTc0MzkxLC0xNzIzNjM5ND
+k2LC02NDM3MDQwMzcsNzAxMzE2MjM0LDEyOTc3MTQ2MDgsLTIx
+MDQ4Mjc3OTVdfQ==
 -->
