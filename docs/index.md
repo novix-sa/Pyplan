@@ -1,4 +1,4 @@
-# ** Pyplan **
+# **Pyplan**
 Pyplan is an assisted **Graphical Integrated Development Environment** designed for easy creation and sharing of **Data Analytics Apps** based on **Python** programming language.
 
 ## **Code organization**
@@ -23,11 +23,11 @@ It follows and example importing Sklearn for machine learning and the Plottly fo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzMDU5MjYzLC0xODAwMzE0ODIzLDE5Nz
-Q0NzM1ODUsLTE5ODI4MjYyNTYsLTI0MTM2OTkzOSwtNjM2MzQ2
-NDc4LDk3Njg4ODc2MCw5NzEyNzUzMDYsMTY5ODYwNTIxNCwxOD
-I2Mzg3NTA1LDExOTM4Mjk2NzEsMTAyNzM0Mjc5NiwtMTI0NjUy
-NzIzMywtMTI1NzE5ODI5OSw0NzY2NjM2MDUsLTE5OTYzMzIwNy
-wtOTQyOTc0MzkxLC0xNzIzNjM5NDk2LC02NDM3MDQwMzcsNzAx
-MzE2MjM0XX0=
+eyJoaXN0b3J5IjpbLTE0ODM0NzU2MTMsLTE4MDAzMTQ4MjMsMT
+k3NDQ3MzU4NSwtMTk4MjgyNjI1NiwtMjQxMzY5OTM5LC02MzYz
+NDY0NzgsOTc2ODg4NzYwLDk3MTI3NTMwNiwxNjk4NjA1MjE0LD
+E4MjYzODc1MDUsMTE5MzgyOTY3MSwxMDI3MzQyNzk2LC0xMjQ2
+NTI3MjMzLC0xMjU3MTk4Mjk5LDQ3NjY2MzYwNSwtMTk5NjMzMj
+A3LC05NDI5NzQzOTEsLTE3MjM2Mzk0OTYsLTY0MzcwNDAzNyw3
+MDEzMTYyMzRdfQ==
 -->
