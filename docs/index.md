@@ -7,6 +7,8 @@ Nodes are added by a drag and drop user interface and Python code is written ins
 ![enter image description here](http://img.pyplan.org/index_node_code.png)
 
 Nodes have several properties that are displayed when focus. The ID allows calling its result from other nodes, working as global variables.
+![](http://img.pyplan.org/index_node_properties1.png)
+
 
 ## **Node Evaluation**
 Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that any node which result is an object of these types can be evaluated (by double clicking the node) and visualized as a table or graph with no additional coding.
@@ -26,11 +28,11 @@ Apps interfaces are created dragging and dropping model nodes on an interface de
 After creation, the app can be shared with anybody internally or outside the enterprise environment.
 ![enter image description here](http://img.pyplan.org/index_share_app_ext.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzMTQ5NzQ1LC0xMTMzOTkwNTcwLDYyOD
-A2MjE5OSwtMTcwNjc0NTQxNywtMTg2OTI3OTQyLDg3ODk5NTQ4
-LC0yMDY4MzUyMDM3LDgwMDUyOTIwMiwxNzc1NDA4NDAsLTE0OD
-M0NzU2MTMsLTE4MDAzMTQ4MjMsMTk3NDQ3MzU4NSwtMTk4Mjgy
-NjI1NiwtMjQxMzY5OTM5LC02MzYzNDY0NzgsOTc2ODg4NzYwLD
-k3MTI3NTMwNiwxNjk4NjA1MjE0LDE4MjYzODc1MDUsMTE5Mzgy
-OTY3MV19
+eyJoaXN0b3J5IjpbLTExNzYzMjM2NTQsLTExMzM5OTA1NzAsNj
+I4MDYyMTk5LC0xNzA2NzQ1NDE3LC0xODY5Mjc5NDIsODc4OTk1
+NDgsLTIwNjgzNTIwMzcsODAwNTI5MjAyLDE3NzU0MDg0MCwtMT
+Q4MzQ3NTYxMywtMTgwMDMxNDgyMywxOTc0NDczNTg1LC0xOTgy
+ODI2MjU2LC0yNDEzNjk5MzksLTYzNjM0NjQ3OCw5NzY4ODg3Nj
+AsOTcxMjc1MzA2LDE2OTg2MDUyMTQsMTgyNjM4NzUwNSwxMTkz
+ODI5NjcxXX0=
 -->
