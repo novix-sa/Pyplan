@@ -26,16 +26,16 @@ The example above imports Sklearn for machine learning and the Plottly for rende
 
 ## **Creating Apps
 Apps interfaces are created dragging and dropping model nodes on an interface design tool.
-![Interface Designer](http://img.pyplan.org/index_new_interface1.png)
+![Interface Designer](http://img.pyplan.org/index_new_interface2.png)
 
 After creation, the app can be shared with anybody internally or outside the enterprise environment.
 ![enter image description here](http://img.pyplan.org/index_share_app_ext.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDMwMzgxMDQsMjAzMjI3NjEwMSwxMT
-I0ODIzNDY2LDQxMjA4MTIyMCwtMTEzMzk5MDU3MCw2MjgwNjIx
-OTksLTE3MDY3NDU0MTcsLTE4NjkyNzk0Miw4Nzg5OTU0OCwtMj
-A2ODM1MjAzNyw4MDA1MjkyMDIsMTc3NTQwODQwLC0xNDgzNDc1
-NjEzLC0xODAwMzE0ODIzLDE5NzQ0NzM1ODUsLTE5ODI4MjYyNT
-YsLTI0MTM2OTkzOSwtNjM2MzQ2NDc4LDk3Njg4ODc2MCw5NzEy
-NzUzMDZdfQ==
+eyJoaXN0b3J5IjpbMzY5Mzc3ODMzLDIwMzIyNzYxMDEsMTEyND
+gyMzQ2Niw0MTIwODEyMjAsLTExMzM5OTA1NzAsNjI4MDYyMTk5
+LC0xNzA2NzQ1NDE3LC0xODY5Mjc5NDIsODc4OTk1NDgsLTIwNj
+gzNTIwMzcsODAwNTI5MjAyLDE3NzU0MDg0MCwtMTQ4MzQ3NTYx
+MywtMTgwMDMxNDgyMywxOTc0NDczNTg1LC0xOTgyODI2MjU2LC
+0yNDEzNjk5MzksLTYzNjM0NjQ3OCw5NzY4ODg3NjAsOTcxMjc1
+MzA2XX0=
 -->
