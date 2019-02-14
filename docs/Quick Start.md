@@ -1,4 +1,9 @@
 # **Quick Start**
+
+## Login
+Creating 
+
+
 Pyplan main object is called “node” and it´s codification, after importing any Python Library, can be easily done through its **_code_** windows.
 Numpy Array could be codified as:
 
@@ -25,6 +30,6 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTEyODQ3NTIsODM3MTE4Mzg0LDk0OT
-M4OTE4OV19
+eyJoaXN0b3J5IjpbLTIxMzA0NDU1ODgsLTExMTEyODQ3NTIsOD
+M3MTE4Mzg0LDk0OTM4OTE4OV19
 -->
