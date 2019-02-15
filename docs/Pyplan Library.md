@@ -33,7 +33,10 @@ Pyplan library functions are called using the "pp." prefix. The function helper 
 Pyplan functions are grouped in the following categories:
 ### Selecting Data from Array
 
-#### pp.sel( dataArray, filterList, compareMode=1, defaultValue=None )
+#### pp.sel
+
+    pp.sel( dataArray, filterList, compareMode=1, defaultValue=None )
+
 Filter dataArray using the filterList filters. 
 dataArray: dataArray to be filtered
 filterList: the possible filters are:
@@ -107,11 +110,11 @@ pp.subset
 ### Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjMyNjk1MSwzMzYzMTg3OTYsLTIwMT
-k5Njk5ODMsLTI0Nzg0NTk0NiwtMTU5NDI1NDQ4OSw5MDg3NTIy
-NzAsLTQzNDk2ODAyNCwtMTMxNzA2MTczMSwtMTgzNDcyMjI4OC
-w5NzI5NzE5OTYsLTIxMzU3MjI2ODgsMTExODc0OTA2Niw0OTQy
-ODU0NTksMTE2MjgzODI5NCwtMTAwNzQ5MjM3OCwtNDA2NzM1Mj
-M4LDE2NzExOTY1MDYsMTAwMTk0MjgxNCwtNDQ1NzA2MDMwLC03
-NjE4MjYzMzVdfQ==
+eyJoaXN0b3J5IjpbNTMwODg2MTAzLDMzNjMxODc5NiwtMjAxOT
+k2OTk4MywtMjQ3ODQ1OTQ2LC0xNTk0MjU0NDg5LDkwODc1MjI3
+MCwtNDM0OTY4MDI0LC0xMzE3MDYxNzMxLC0xODM0NzIyMjg4LD
+k3Mjk3MTk5NiwtMjEzNTcyMjY4OCwxMTE4NzQ5MDY2LDQ5NDI4
+NTQ1OSwxMTYyODM4Mjk0LC0xMDA3NDkyMzc4LC00MDY3MzUyMz
+gsMTY3MTE5NjUwNiwxMDAxOTQyODE0LC00NDU3MDYwMzAsLTc2
+MTgyNjMzNV19
 -->
