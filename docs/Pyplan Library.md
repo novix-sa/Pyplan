@@ -77,7 +77,9 @@ Returns the value of dataArray indexed by the index of dataMap.
         As a result, 
             pp.lookup( inflation_rate , country_to_company_allocation , country )
         will return the estimated inflation rate by Company.
-  
+ ## pp.subset
+
+## pp.isel 
 ## Basic Math and Missing Values
 
 ## Aggregation and Rolling window operations
@@ -87,11 +89,11 @@ Returns the value of dataArray indexed by the index of dataMap.
 ## Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Nzg0NTk0NiwtMTU5NDI1NDQ4OSw5MD
-g3NTIyNzAsLTQzNDk2ODAyNCwtMTMxNzA2MTczMSwtMTgzNDcy
-MjI4OCw5NzI5NzE5OTYsLTIxMzU3MjI2ODgsMTExODc0OTA2Ni
-w0OTQyODU0NTksMTE2MjgzODI5NCwtMTAwNzQ5MjM3OCwtNDA2
-NzM1MjM4LDE2NzExOTY1MDYsMTAwMTk0MjgxNCwtNDQ1NzA2MD
-MwLC03NjE4MjYzMzUsLTE5Njg2NjUzMzIsMTY4MDAwMjk2Myw5
-MDgxOTA5NzhdfQ==
+eyJoaXN0b3J5IjpbMTY4NDkzODA0MSwtMjQ3ODQ1OTQ2LC0xNT
+k0MjU0NDg5LDkwODc1MjI3MCwtNDM0OTY4MDI0LC0xMzE3MDYx
+NzMxLC0xODM0NzIyMjg4LDk3Mjk3MTk5NiwtMjEzNTcyMjY4OC
+wxMTE4NzQ5MDY2LDQ5NDI4NTQ1OSwxMTYyODM4Mjk0LC0xMDA3
+NDkyMzc4LC00MDY3MzUyMzgsMTY3MTE5NjUwNiwxMDAxOTQyOD
+E0LC00NDU3MDYwMzAsLTc2MTgyNjMzNSwtMTk2ODY2NTMzMiwx
+NjgwMDAyOTYzXX0=
 -->
