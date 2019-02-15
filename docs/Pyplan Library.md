@@ -31,7 +31,22 @@ Pyplan library functions are called using the "pp." prefix. Hit Ctrl+Space after
 ![enter image description here](http://img.pyplan.org/Pyplan_library_pp.png)
 ### Selecting Data from Array
 #### pp.sel
-pp.sel
+
+Filter dataArray using the fiterList filters
+
+        Filter dataArray using the filterList filters. 
+        dataArray: dataArray to be filtered
+        filterList: the possible filters are:
+                index==value
+                index1==indice2 (in this case a changeindex will be made).
+        compareMode: 1: by Value (default), 2: by pos (used only if changeindex is necessary)
+        defaultValue: value to fill the elements that are not found (used only if changeindex is necessary) 
+            Ex.
+                pp.sel(dataArray1, index==value)  #as it is a single value no list is needed
+                pp.sel(dataArray1, [index1==value1, index2==value2])
+                pp.sel(dataArray1, [index1==value1, index2==index3])
+        """
+
 pp.lookup
 pp.subset
 pp.isel
@@ -63,11 +78,11 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODgxMzM1Myw5MDg3NTIyNzAsLTQzND
-k2ODAyNCwtMTMxNzA2MTczMSwtMTgzNDcyMjI4OCw5NzI5NzE5
-OTYsLTIxMzU3MjI2ODgsMTExODc0OTA2Niw0OTQyODU0NTksMT
-E2MjgzODI5NCwtMTAwNzQ5MjM3OCwtNDA2NzM1MjM4LDE2NzEx
-OTY1MDYsMTAwMTk0MjgxNCwtNDQ1NzA2MDMwLC03NjE4MjYzMz
-UsLTE5Njg2NjUzMzIsMTY4MDAwMjk2Myw5MDgxOTA5NzgsNDk0
-ODA3NzAzXX0=
+eyJoaXN0b3J5IjpbLTE4MjMwNDExMjAsOTA4NzUyMjcwLC00Mz
+Q5NjgwMjQsLTEzMTcwNjE3MzEsLTE4MzQ3MjIyODgsOTcyOTcx
+OTk2LC0yMTM1NzIyNjg4LDExMTg3NDkwNjYsNDk0Mjg1NDU5LD
+ExNjI4MzgyOTQsLTEwMDc0OTIzNzgsLTQwNjczNTIzOCwxNjcx
+MTk2NTA2LDEwMDE5NDI4MTQsLTQ0NTcwNjAzMCwtNzYxODI2Mz
+M1LC0xOTY4NjY1MzMyLDE2ODAwMDI5NjMsOTA4MTkwOTc4LDQ5
+NDgwNzcwM119
 -->
