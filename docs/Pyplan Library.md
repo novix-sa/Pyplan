@@ -17,11 +17,12 @@ Different than Xarray, Pyplan index are defined with a unique set of values, and
 Following the example above, any data cube indexed by "Items" will contain "Item 1" , "Item 2" , "Item 3"
 
 ### Cube
-The Cube object is a labeled Xarray DataArray object defined as following:
+The Cube object is a labeled DataArray object defined as following:
 ![Cube Definition](http://img.pyplan.org/Pyplan_library_cube_definition.png)
 
     pp.cube( coords=[items], values=[10,20,30], dtype=None )
-As can be appreciated in the console output (at the right) the obje
+    pp.cube( [items], v[10,20,30], dtype=None )
+As can be appreciated in the console output (at the right) the object type is a DataArray from Xarray.
 
 
 ## Data Structure
@@ -64,7 +65,7 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE0Mzg1MjMsLTE4MzQ3MjIyODgsOT
+eyJoaXN0b3J5IjpbLTEwNzkwNTg3NzUsLTE4MzQ3MjIyODgsOT
 cyOTcxOTk2LC0yMTM1NzIyNjg4LDExMTg3NDkwNjYsNDk0Mjg1
 NDU5LDExNjI4MzgyOTQsLTEwMDc0OTIzNzgsLTQwNjczNTIzOC
 wxNjcxMTk2NTA2LDEwMDE5NDI4MTQsLTQ0NTcwNjAzMCwtNzYx
