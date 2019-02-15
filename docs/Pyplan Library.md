@@ -12,8 +12,9 @@ The index object is the way to define a dimension in Pyplan. Indexes are created
 
     pp.index(["Item 1","Item 2","Item 3"])
 
-For someone coming from X-Array, the index Id is the equivalent of X-Array "Dim" and the index values are the equivalent of "Coords"
-pp.cube and pp.index are mirrors of Xarray Dataarray and Coords but managed in a more structured manner so that data scientist can easily create models using the extensive set of tool developed for Python.
+For someone coming from X-Array, the index Id is the equivalent of X-Array "Dim" and the index values are the equivalent of "Coords".
+Diferent than X-Array, Pyplan index are defined with only one unique set of values.
+
 
 ## Data Structure
 Based on X-Array objects, with a different approach to index definition and manipulation
@@ -55,8 +56,8 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDExNjY3ODEsMTE2MjgzODI5NCwtMT
-AwNzQ5MjM3OCwtNDA2NzM1MjM4LDE2NzExOTY1MDYsMTAwMTk0
-MjgxNCwtNDQ1NzA2MDMwLC03NjE4MjYzMzUsLTE5Njg2NjUzMz
-IsMTY4MDAwMjk2Myw5MDgxOTA5NzgsNDk0ODA3NzAzXX0=
+eyJoaXN0b3J5IjpbNDk0Mjg1NDU5LDExNjI4MzgyOTQsLTEwMD
+c0OTIzNzgsLTQwNjczNTIzOCwxNjcxMTk2NTA2LDEwMDE5NDI4
+MTQsLTQ0NTcwNjAzMCwtNzYxODI2MzM1LC0xOTY4NjY1MzMyLD
+E2ODAwMDI5NjMsOTA4MTkwOTc4LDQ5NDgwNzcwM119
 -->
