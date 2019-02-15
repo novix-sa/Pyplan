@@ -30,7 +30,7 @@ Pyplanlib combines and enhance Numpy, Pandas and Xarray concepts.
 Pyplan library functions are called using the "pp." prefix. Hit Ctrl+Space after pp. to launch the functions helper.
 ![enter image description here](http://img.pyplan.org/Pyplan_library_pp.png)
 ### Selecting Data from Array
-#### pp.sel
+#### pp.sel( dataArray, filterList, compareMode=1, defaultValue=None )
 
 Filter dataArray using the fiterList filters
 
@@ -78,7 +78,7 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjMwNDExMjAsOTA4NzUyMjcwLC00Mz
+eyJoaXN0b3J5IjpbLTE1OTQyNTQ0ODksOTA4NzUyMjcwLC00Mz
 Q5NjgwMjQsLTEzMTcwNjE3MzEsLTE4MzQ3MjIyODgsOTcyOTcx
 OTk2LC0yMTM1NzIyNjg4LDExMTg3NDkwNjYsNDk0Mjg1NDU5LD
 ExNjI4MzgyOTQsLTEwMDc0OTIzNzgsLTQwNjczNTIzOCwxNjcx
