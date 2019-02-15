@@ -12,9 +12,8 @@ The ID allows calling its result from other nodes, working as global variables.
 ![Node properties](http://img.pyplan.org/index_node_properties1.png)
 
 
-## **Node Evaluation 1**
-Gino
-Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that any node which result is an object of these types can be evaluated (by double clicking the node) and visualized with native Pyplan charts and tables with no additional coding.
+## **Node Evaluation**
+Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That allows any node which result is an object of these types can be evaluated (by double clicking the node) and visualized with native Pyplan charts and tables with no additional coding.
 ![enter image description here](http://img.pyplan.org/index_node_result1.png)
 
 When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps track of any change represented as a table or graph with no additional coding.
@@ -53,11 +52,11 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM3OTkwNzksLTExNTEwMDQ5ODIsLT
-E2NDQzNTYxNTcsMTc2ODk1MTQ3LDE5NTc3MDA1NDQsLTQ3NDcy
-NDExMSwxMzcwNDczNTEzLDIwMzIyNzYxMDEsMTEyNDgyMzQ2Ni
-w0MTIwODEyMjAsLTExMzM5OTA1NzAsNjI4MDYyMTk5LC0xNzA2
-NzQ1NDE3LC0xODY5Mjc5NDIsODc4OTk1NDgsLTIwNjgzNTIwMz
-csODAwNTI5MjAyLDE3NzU0MDg0MCwtMTQ4MzQ3NTYxMywtMTgw
-MDMxNDgyM119
+eyJoaXN0b3J5IjpbLTIxNDM5NjI0MTgsLTE5MDM3OTkwNzksLT
+ExNTEwMDQ5ODIsLTE2NDQzNTYxNTcsMTc2ODk1MTQ3LDE5NTc3
+MDA1NDQsLTQ3NDcyNDExMSwxMzcwNDczNTEzLDIwMzIyNzYxMD
+EsMTEyNDgyMzQ2Niw0MTIwODEyMjAsLTExMzM5OTA1NzAsNjI4
+MDYyMTk5LC0xNzA2NzQ1NDE3LC0xODY5Mjc5NDIsODc4OTk1ND
+gsLTIwNjgzNTIwMzcsODAwNTI5MjAyLDE3NzU0MDg0MCwtMTQ4
+MzQ3NTYxM119
 -->
