@@ -21,7 +21,8 @@ When asking to run a node, all precedent nodes are calculated too, and its resul
 ## **Using Python Libraries**
 Any library from the extended Python developing community can be imported to be used to solve specific needs.
 ![Importing libraries for use within Pyplan](http://img.pyplan.org/index_import_lib.png)
-The example above imports Sklearn for machine learning and the Plottly visualization library for rendering the visualization. A Plotly 3D representation is appreciated in the figure below.
+The example above imports Sklearn for machine learning and the Plottly visualization library for rendering the graph. 
+A Plotly 3D representation is appreciated in the figure below.
 ![enter image description here](http://img.pyplan.org/index_plotly_graph.png)
 
 ## **Creating Apps**
@@ -49,11 +50,11 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDMxMjMyNjksLTE5MDM3OTkwNzksLT
-ExNTEwMDQ5ODIsLTE2NDQzNTYxNTcsMTc2ODk1MTQ3LDE5NTc3
-MDA1NDQsLTQ3NDcyNDExMSwxMzcwNDczNTEzLDIwMzIyNzYxMD
-EsMTEyNDgyMzQ2Niw0MTIwODEyMjAsLTExMzM5OTA1NzAsNjI4
-MDYyMTk5LC0xNzA2NzQ1NDE3LC0xODY5Mjc5NDIsODc4OTk1ND
-gsLTIwNjgzNTIwMzcsODAwNTI5MjAyLDE3NzU0MDg0MCwtMTQ4
-MzQ3NTYxM119
+eyJoaXN0b3J5IjpbMTE4NjY2NzkwMywtMTkwMzc5OTA3OSwtMT
+E1MTAwNDk4MiwtMTY0NDM1NjE1NywxNzY4OTUxNDcsMTk1Nzcw
+MDU0NCwtNDc0NzI0MTExLDEzNzA0NzM1MTMsMjAzMjI3NjEwMS
+wxMTI0ODIzNDY2LDQxMjA4MTIyMCwtMTEzMzk5MDU3MCw2Mjgw
+NjIxOTksLTE3MDY3NDU0MTcsLTE4NjkyNzk0Miw4Nzg5OTU0OC
+wtMjA2ODM1MjAzNyw4MDA1MjkyMDIsMTc3NTQwODQwLC0xNDgz
+NDc1NjEzXX0=
 -->
