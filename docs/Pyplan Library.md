@@ -1,7 +1,7 @@
 
 # Pyplan Library
 
-Pyplan is an open source Python package designed for multidimensional dynamic simulation. It is based on Xarray DataArray object and take advantage of its N-dimensional arrays.
+Pyplan is an open source Python package designed for multidimensional dynamic simulation. It is based on [Xarray](http://xarray.pydata.org/) DataArray object and take advantage of its N-dimensional labeled arrays functionalities.
 providing easy-to-use labelled data structures and data analysis functions for [Python](https://www.python.org/) programming language.
 
 
@@ -53,7 +53,7 @@ Returns the value of dataArray indexed by the index of dataMap.
         """
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3ODk1NTksLTQ0NTcwNjAzMCwtNzYxOD
-I2MzM1LC0xOTY4NjY1MzMyLDE2ODAwMDI5NjMsOTA4MTkwOTc4
-LDQ5NDgwNzcwM119
+eyJoaXN0b3J5IjpbLTExMTU1NzcwNTcsLTQ0NTcwNjAzMCwtNz
+YxODI2MzM1LC0xOTY4NjY1MzMyLDE2ODAwMDI5NjMsOTA4MTkw
+OTc4LDQ5NDgwNzcwM119
 -->
