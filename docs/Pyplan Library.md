@@ -27,11 +27,9 @@ As can be appreciated in the console output (at the right) the object type is a 
 
 ## Functions List
 Pyplan functions are group of functions for interacting with indexes of Pyplan data cubes. They are written in Python using Numpy, Pandas and Xarray functions.
-
-Pyplan library functions are called using the "pp." prefix. 
-Function helper is launched pressing Ctrl+Space after writting the "pp." prefix. Use the arrows to scroll the list.
+Pyplan library functions are called using the "pp." prefix. The function helper is launched pressing Ctrl+Space after writting the "pp." prefix. Use the arrows to scroll the list.
 ![enter image description here](http://img.pyplan.org/Pyplan_library_pp.png)
-
+Pyplan functions are grouped i
 ### Selecting Data from Array
 
 #### pp.sel( dataArray, filterList, compareMode=1, defaultValue=None )
@@ -109,11 +107,11 @@ Returns the value of dataArray indexed by the index of dataMap.
 ## Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjQwMTkyMSwtMjAxOTk2OTk4MywtMj
-Q3ODQ1OTQ2LC0xNTk0MjU0NDg5LDkwODc1MjI3MCwtNDM0OTY4
-MDI0LC0xMzE3MDYxNzMxLC0xODM0NzIyMjg4LDk3Mjk3MTk5Ni
-wtMjEzNTcyMjY4OCwxMTE4NzQ5MDY2LDQ5NDI4NTQ1OSwxMTYy
-ODM4Mjk0LC0xMDA3NDkyMzc4LC00MDY3MzUyMzgsMTY3MTE5Nj
-UwNiwxMDAxOTQyODE0LC00NDU3MDYwMzAsLTc2MTgyNjMzNSwt
-MTk2ODY2NTMzMl19
+eyJoaXN0b3J5IjpbLTE4Mjk4ODg0NTIsLTIwMTk5Njk5ODMsLT
+I0Nzg0NTk0NiwtMTU5NDI1NDQ4OSw5MDg3NTIyNzAsLTQzNDk2
+ODAyNCwtMTMxNzA2MTczMSwtMTgzNDcyMjI4OCw5NzI5NzE5OT
+YsLTIxMzU3MjI2ODgsMTExODc0OTA2Niw0OTQyODU0NTksMTE2
+MjgzODI5NCwtMTAwNzQ5MjM3OCwtNDA2NzM1MjM4LDE2NzExOT
+Y1MDYsMTAwMTk0MjgxNCwtNDQ1NzA2MDMwLC03NjE4MjYzMzUs
+LTE5Njg2NjUzMzJdfQ==
 -->
