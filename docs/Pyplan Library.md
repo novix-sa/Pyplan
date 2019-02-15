@@ -26,7 +26,9 @@ Pyplanlib combines and enhance Numpy, Pandas and Xarray concepts.
 
 Filter dataArray using the filterList filters. 
     
-        
+
+    pp.sel( dataArray, filterList, compareMode=1, defaultValue=None )
+            
         dataArray: dataArray to be filtered
         filterList: the possible filters are:
                 index==value
@@ -41,6 +43,7 @@ Filter dataArray using the filterList filters.
 ### Pp.lookup
 Returns the value of dataArray indexed by the index of dataMap.
   
+      pp.lookup( dataArray, dataMap, sharedIndex, defaultValue=0 )
       dataArray must be indexed by sharedIndex and dataArray values must correspond to elements of sharedIndex.
         **For example**: Let's say you have a cube with an estimated inflation rate by Country ("inflation_rate" is the name of the cube; "country" is the name of the index) and you want to assign it to the corresponding Company depending on its location. On the other hand, there's a many-to-one map where each Company is allocated to a single Country ("country_to_company_allocation"). The sharedIndex, in this case, is Country ("country"). You can Add a default value for values not matching
         As a result, 
@@ -49,7 +52,7 @@ Returns the value of dataArray indexed by the index of dataMap.
         """
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyNDg2MTEzLC03NjE4MjYzMzUsLTE5Nj
-g2NjUzMzIsMTY4MDAwMjk2Myw5MDgxOTA5NzgsNDk0ODA3NzAz
-XX0=
+eyJoaXN0b3J5IjpbLTQ0NTcwNjAzMCwtNzYxODI2MzM1LC0xOT
+Y4NjY1MzMyLDE2ODAwMDI5NjMsOTA4MTkwOTc4LDQ5NDgwNzcw
+M119
 -->
