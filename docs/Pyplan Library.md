@@ -7,6 +7,10 @@ It is based on [Xarray](http://xarray.pydata.org/) DataArray object and take adv
 
 ## Main concept
 Pyplanlib is based on two main objects:
+pp.index is the way to define a dimension in Pyplan
+
+    pp.index(["Item 1","Item 2","Item 3"])
+
 pp.Index
 pp.Cube
 pp.cube and pp.index are mirrors of Xarray Dataarray and Coords but managed in a more structured manner so that data scientist can easily create models using the extensive set of tool developed for Python.
@@ -51,7 +55,7 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDA1MDA1MCwxMDAxOTQyODE0LC00ND
+eyJoaXN0b3J5IjpbMTY3MTE5NjUwNiwxMDAxOTQyODE0LC00ND
 U3MDYwMzAsLTc2MTgyNjMzNSwtMTk2ODY2NTMzMiwxNjgwMDAy
 OTYzLDkwODE5MDk3OCw0OTQ4MDc3MDNdfQ==
 -->
