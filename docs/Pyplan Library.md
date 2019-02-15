@@ -7,7 +7,7 @@ Pyplan is a [Python](https://www.python.org/) library intended for supporting mu
 Pyplan library is based on two main objects:
 
 ### Index
-The index object is the way to define a dimension in Pyplan. Indexes are created through a Graphical Using Interface (GUI) 
+The index object is the way to define a dimension in Pyplan. Indexes	 are created through a Graphical Using Interface (GUI) 
 
     pp.index(["Item 1","Item 2","Item 3"])
 
@@ -55,8 +55,8 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMxODgxNjIsLTEwMDc0OTIzNzgsLT
-QwNjczNTIzOCwxNjcxMTk2NTA2LDEwMDE5NDI4MTQsLTQ0NTcw
-NjAzMCwtNzYxODI2MzM1LC0xOTY4NjY1MzMyLDE2ODAwMDI5Nj
-MsOTA4MTkwOTc4LDQ5NDgwNzcwM119
+eyJoaXN0b3J5IjpbMTE2MjgzODI5NCwtMTAwNzQ5MjM3OCwtND
+A2NzM1MjM4LDE2NzExOTY1MDYsMTAwMTk0MjgxNCwtNDQ1NzA2
+MDMwLC03NjE4MjYzMzUsLTE5Njg2NjUzMzIsMTY4MDAwMjk2My
+w5MDgxOTA5NzgsNDk0ODA3NzAzXX0=
 -->
