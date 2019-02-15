@@ -16,8 +16,7 @@ The ID allows calling its result from other nodes, working as global variables.
 Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That allows any node which result is an object of these types can be evaluated (by double clicking the node) and visualized with native Pyplan charts and tables with no additional coding.
 ![enter image description here](http://img.pyplan.org/index_node_result1.png)
 
-When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps track of any change represented as a table or graph with no additional coding.
-
+When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps track of any change in a node that triggers recalculation downstream the logic.
 
 ## **Using Python Libraries**
 Any library from the extended Python developing community can be imported to be used to solve specific needs.
@@ -52,11 +51,11 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM5NjI0MTgsLTE5MDM3OTkwNzksLT
-ExNTEwMDQ5ODIsLTE2NDQzNTYxNTcsMTc2ODk1MTQ3LDE5NTc3
-MDA1NDQsLTQ3NDcyNDExMSwxMzcwNDczNTEzLDIwMzIyNzYxMD
-EsMTEyNDgyMzQ2Niw0MTIwODEyMjAsLTExMzM5OTA1NzAsNjI4
-MDYyMTk5LC0xNzA2NzQ1NDE3LC0xODY5Mjc5NDIsODc4OTk1ND
-gsLTIwNjgzNTIwMzcsODAwNTI5MjAyLDE3NzU0MDg0MCwtMTQ4
-MzQ3NTYxM119
+eyJoaXN0b3J5IjpbMTMzNjAyOTcwNCwtMTkwMzc5OTA3OSwtMT
+E1MTAwNDk4MiwtMTY0NDM1NjE1NywxNzY4OTUxNDcsMTk1Nzcw
+MDU0NCwtNDc0NzI0MTExLDEzNzA0NzM1MTMsMjAzMjI3NjEwMS
+wxMTI0ODIzNDY2LDQxMjA4MTIyMCwtMTEzMzk5MDU3MCw2Mjgw
+NjIxOTksLTE3MDY3NDU0MTcsLTE4NjkyNzk0Miw4Nzg5OTU0OC
+wtMjA2ODM1MjAzNyw4MDA1MjkyMDIsMTc3NTQwODQwLC0xNDgz
+NDc1NjEzXX0=
 -->
