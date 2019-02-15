@@ -17,7 +17,7 @@ Different than X-Array, Pyplan index are defined with a unique set of values, an
 Following the example above, any data cube indexed by "Items" will contain "Item 1" , "Item 2" , "Item 3"
 
 ### Cube
-Tha Cube object is a labeled DataArray defined as following:
+The Cube object is a labeled X-Array DataArray defined as following:
 
 ## Data Structure
 Based on X-Array objects, with a different approach to index definition and manipulation
@@ -59,10 +59,10 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ3MjIyODgsOTcyOTcxOTk2LC0yMT
-M1NzIyNjg4LDExMTg3NDkwNjYsNDk0Mjg1NDU5LDExNjI4Mzgy
-OTQsLTEwMDc0OTIzNzgsLTQwNjczNTIzOCwxNjcxMTk2NTA2LD
-EwMDE5NDI4MTQsLTQ0NTcwNjAzMCwtNzYxODI2MzM1LC0xOTY4
-NjY1MzMyLDE2ODAwMDI5NjMsOTA4MTkwOTc4LDQ5NDgwNzcwM1
-19
+eyJoaXN0b3J5IjpbMTY3NjA2MDY0LC0xODM0NzIyMjg4LDk3Mj
+k3MTk5NiwtMjEzNTcyMjY4OCwxMTE4NzQ5MDY2LDQ5NDI4NTQ1
+OSwxMTYyODM4Mjk0LC0xMDA3NDkyMzc4LC00MDY3MzUyMzgsMT
+Y3MTE5NjUwNiwxMDAxOTQyODE0LC00NDU3MDYwMzAsLTc2MTgy
+NjMzNSwtMTk2ODY2NTMzMiwxNjgwMDAyOTYzLDkwODE5MDk3OC
+w0OTQ4MDc3MDNdfQ==
 -->
