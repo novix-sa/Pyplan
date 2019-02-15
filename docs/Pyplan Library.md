@@ -34,10 +34,13 @@ Pyplan functions are grouped in the following categories:
 ### Selecting Data from Array
 
 #### pp.sel( dataArray, filterList, compareMode=1, defaultValue=None )
-Case 1: Filter dataArray using the filterList filters. 
+Filter dataArray using the filterList filters. 
+
+Case 1: Slicing an Array at a specific index value
 dataArray: dataArray to be filtered
 filterList: the possible filters are:
-            index == value
+ index == "Value"
+            
             index1 == index2 (in this case a changeindex will be made).
     compareMode: 1: by Value (default), 2: by pos (used only if changeindex is necessary)
     defaultValue: value to fill the elements that are not found (used only if changeindex is necessary) 
@@ -105,11 +108,11 @@ Returns the value of dataArray indexed by the index of dataMap.
 ## Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyNzU1MzM4LC0yMDE5OTY5OTgzLC0yND
-c4NDU5NDYsLTE1OTQyNTQ0ODksOTA4NzUyMjcwLC00MzQ5Njgw
-MjQsLTEzMTcwNjE3MzEsLTE4MzQ3MjIyODgsOTcyOTcxOTk2LC
-0yMTM1NzIyNjg4LDExMTg3NDkwNjYsNDk0Mjg1NDU5LDExNjI4
-MzgyOTQsLTEwMDc0OTIzNzgsLTQwNjczNTIzOCwxNjcxMTk2NT
-A2LDEwMDE5NDI4MTQsLTQ0NTcwNjAzMCwtNzYxODI2MzM1LC0x
-OTY4NjY1MzMyXX0=
+eyJoaXN0b3J5IjpbMTAzNDgwOTE4MiwtMjAxOTk2OTk4MywtMj
+Q3ODQ1OTQ2LC0xNTk0MjU0NDg5LDkwODc1MjI3MCwtNDM0OTY4
+MDI0LC0xMzE3MDYxNzMxLC0xODM0NzIyMjg4LDk3Mjk3MTk5Ni
+wtMjEzNTcyMjY4OCwxMTE4NzQ5MDY2LDQ5NDI4NTQ1OSwxMTYy
+ODM4Mjk0LC0xMDA3NDkyMzc4LC00MDY3MzUyMzgsMTY3MTE5Nj
+UwNiwxMDAxOTQyODE0LC00NDU3MDYwMzAsLTc2MTgyNjMzNSwt
+MTk2ODY2NTMzMl19
 -->
