@@ -4,6 +4,7 @@
 Pyplan is an open source [Python](https://www.python.org/) package designed for multidimensional dynamic simulation. 
 It is based on [Xarray](http://xarray.pydata.org/) DataArray object and take advantage of its N-dimensional labeled arrays functionalities.
 
+
 ## Main concept
 Pyplanlib pp.cube and pp.index are mirrors of Xarray Dataarray and Coords but managed in a more structured manner so that data scientist can easily create models using the extensive set of tool developed for Python.
 
@@ -47,7 +48,7 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTU3NDk0NiwxMDAxOTQyODE0LC00ND
+eyJoaXN0b3J5IjpbMjA0NTUxMzk5NiwxMDAxOTQyODE0LC00ND
 U3MDYwMzAsLTc2MTgyNjMzNSwtMTk2ODY2NTMzMiwxNjgwMDAy
 OTYzLDkwODE5MDk3OCw0OTQ4MDc3MDNdfQ==
 -->
