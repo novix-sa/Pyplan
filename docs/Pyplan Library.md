@@ -1,7 +1,7 @@
 
-# **Pyplan Functions**
+# **Pyplan Library**
 
-Pyplan is an open source [Python](https://www.python.org/) package designed for multidimensional dynamic simulation. 
+Pyplan is a [Python](https://www.python.org/) library designed for multidimensional dynamic simulation. 
 It is based on [Xarray](http://xarray.pydata.org/) DataArray object and take advantage of its N-dimensional labeled arrays functionalities.
 
 
@@ -55,7 +55,8 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjczNTIzOCwxNjcxMTk2NTA2LDEwMD
-E5NDI4MTQsLTQ0NTcwNjAzMCwtNzYxODI2MzM1LC0xOTY4NjY1
-MzMyLDE2ODAwMDI5NjMsOTA4MTkwOTc4LDQ5NDgwNzcwM119
+eyJoaXN0b3J5IjpbLTEwMDc0OTIzNzgsLTQwNjczNTIzOCwxNj
+cxMTk2NTA2LDEwMDE5NDI4MTQsLTQ0NTcwNjAzMCwtNzYxODI2
+MzM1LC0xOTY4NjY1MzMyLDE2ODAwMDI5NjMsOTA4MTkwOTc4LD
+Q5NDgwNzcwM119
 -->
