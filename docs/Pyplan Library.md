@@ -80,8 +80,25 @@ Returns the value of dataArray indexed by the index of dataMap.
  ## pp.subset
 
 ## pp.isel 
+## pp.subset
 ## Basic Math and Missing Values
+## pp.size
 
+## pp.fillAll
+
+## pp.fillna
+
+## pp.fillInf
+
+pp.min
+
+pp.max
+
+pp_where
+
+pp.minimun
+
+pp.maximum
 ## Aggregation and Rolling window operations
 
 ## Working with Indexes & Apply Function
@@ -89,11 +106,11 @@ Returns the value of dataArray indexed by the index of dataMap.
 ## Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDkzODA0MSwtMjQ3ODQ1OTQ2LC0xNT
-k0MjU0NDg5LDkwODc1MjI3MCwtNDM0OTY4MDI0LC0xMzE3MDYx
-NzMxLC0xODM0NzIyMjg4LDk3Mjk3MTk5NiwtMjEzNTcyMjY4OC
-wxMTE4NzQ5MDY2LDQ5NDI4NTQ1OSwxMTYyODM4Mjk0LC0xMDA3
-NDkyMzc4LC00MDY3MzUyMzgsMTY3MTE5NjUwNiwxMDAxOTQyOD
-E0LC00NDU3MDYwMzAsLTc2MTgyNjMzNSwtMTk2ODY2NTMzMiwx
-NjgwMDAyOTYzXX0=
+eyJoaXN0b3J5IjpbOTM2MzU4MTE5LC0yNDc4NDU5NDYsLTE1OT
+QyNTQ0ODksOTA4NzUyMjcwLC00MzQ5NjgwMjQsLTEzMTcwNjE3
+MzEsLTE4MzQ3MjIyODgsOTcyOTcxOTk2LC0yMTM1NzIyNjg4LD
+ExMTg3NDkwNjYsNDk0Mjg1NDU5LDExNjI4MzgyOTQsLTEwMDc0
+OTIzNzgsLTQwNjczNTIzOCwxNjcxMTk2NTA2LDEwMDE5NDI4MT
+QsLTQ0NTcwNjAzMCwtNzYxODI2MzM1LC0xOTY4NjY1MzMyLDE2
+ODAwMDI5NjNdfQ==
 -->
