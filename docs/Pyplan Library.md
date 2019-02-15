@@ -27,9 +27,8 @@ As can be appreciated in the console output (at the right) the object type is a 
 
 Pyplanlib combines and enhance Numpy, Pandas and Xarray concepts.
 ## Functions List
-Pyplan functions are group of functions for interact with indexes 
-Pyplan library functions are called using the "pp." prefix. 
-Hit Ctrl+Space after pp. to launch the functions helper.
+Pyplan functions are group of functions for interacting with indexes of Pyplan data cubes. Pyplan library functions are called using the "pp." prefix. 
+Function helper is launched pressing Ctrl+Space after wpp. to launch the functions helper.
 ![enter image description here](http://img.pyplan.org/Pyplan_library_pp.png)
 ### Selecting Data from Array
 #### pp.sel( dataArray, filterList, compareMode=1, defaultValue=None )
@@ -80,7 +79,7 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTQ5MzMyNiwtMTU5NDI1NDQ4OSw5MD
+eyJoaXN0b3J5IjpbMTM1MTI3NDg2OCwtMTU5NDI1NDQ4OSw5MD
 g3NTIyNzAsLTQzNDk2ODAyNCwtMTMxNzA2MTczMSwtMTgzNDcy
 MjI4OCw5NzI5NzE5OTYsLTIxMzU3MjI2ODgsMTExODc0OTA2Ni
 w0OTQyODU0NTksMTE2MjgzODI5NCwtMTAwNzQ5MjM3OCwtNDA2
