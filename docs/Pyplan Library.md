@@ -12,15 +12,15 @@ The index object is the way to define a dimension in Pyplan. Indexes are created
 
     pp.index(["Item 1","Item 2","Item 3"])
 
-For someone coming from X-Array, the index Id property is the equivalent of X-Array "Dim" and the index values are the equivalent of "Coords".
-Different than X-Array, Pyplan index are defined with a unique set of values, and when used, all the elements are present in that dimension.
+For someone coming from Xarray, the index Id property is the equivalent of Xarray "Dim" and the index values are the equivalent of "Coords".
+Different than Xarray, Pyplan index are defined with a unique set of values, and when used, all the elements are present in that dimension.
 Following the example above, any data cube indexed by "Items" will contain "Item 1" , "Item 2" , "Item 3"
 
 ### Cube
-The Cube object is a labeled X-Array DataArray defined as following:
-
+The Cube object is a labeled Xarray DataArray object defined as following:
+![Cube Definition](http://img.pyplan.org/Pyplan_library_cube_definition.png)
 ## Data Structure
-Based on X-Array objects, with a different approach to index definition and manipulation
+Based on Xarray objects, with a different approach to index definition and manipulation
 
 ## Goals
 Pyplanlib aims to become development package for data scientist and businessmen facing problems where a huge quantity of data needed be analyse and structure.
@@ -59,10 +59,10 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NjA2MDY0LC0xODM0NzIyMjg4LDk3Mj
-k3MTk5NiwtMjEzNTcyMjY4OCwxMTE4NzQ5MDY2LDQ5NDI4NTQ1
-OSwxMTYyODM4Mjk0LC0xMDA3NDkyMzc4LC00MDY3MzUyMzgsMT
-Y3MTE5NjUwNiwxMDAxOTQyODE0LC00NDU3MDYwMzAsLTc2MTgy
-NjMzNSwtMTk2ODY2NTMzMiwxNjgwMDAyOTYzLDkwODE5MDk3OC
-w0OTQ4MDc3MDNdfQ==
+eyJoaXN0b3J5IjpbLTExOTQ5ODgwNjEsLTE4MzQ3MjIyODgsOT
+cyOTcxOTk2LC0yMTM1NzIyNjg4LDExMTg3NDkwNjYsNDk0Mjg1
+NDU5LDExNjI4MzgyOTQsLTEwMDc0OTIzNzgsLTQwNjczNTIzOC
+wxNjcxMTk2NTA2LDEwMDE5NDI4MTQsLTQ0NTcwNjAzMCwtNzYx
+ODI2MzM1LC0xOTY4NjY1MzMyLDE2ODAwMDI5NjMsOTA4MTkwOT
+c4LDQ5NDgwNzcwM119
 -->
