@@ -23,7 +23,7 @@ The Cube object is a labeled DataArray object defined as following:
     pp.cube( coords=[items], values=[10,20,30], dtype=None )
     # as well as
     pp.cube( [items], [10,20,30] )
-As can be appreciated in the console output (at the right) the object type is a DataArray from Xarray, which mean
+As can be appreciated in the console output (at the right) the object type is a DataArray from Xarray, which means that it is possible to operate with Pyplan Cubes in the 
 
 
 ## Data Structure
@@ -66,10 +66,10 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTcwNjE3MzEsLTE4MzQ3MjIyODgsOT
-cyOTcxOTk2LC0yMTM1NzIyNjg4LDExMTg3NDkwNjYsNDk0Mjg1
-NDU5LDExNjI4MzgyOTQsLTEwMDc0OTIzNzgsLTQwNjczNTIzOC
-wxNjcxMTk2NTA2LDEwMDE5NDI4MTQsLTQ0NTcwNjAzMCwtNzYx
-ODI2MzM1LC0xOTY4NjY1MzMyLDE2ODAwMDI5NjMsOTA4MTkwOT
-c4LDQ5NDgwNzcwM119
+eyJoaXN0b3J5IjpbMTAxODI0NjI1OCwtMTMxNzA2MTczMSwtMT
+gzNDcyMjI4OCw5NzI5NzE5OTYsLTIxMzU3MjI2ODgsMTExODc0
+OTA2Niw0OTQyODU0NTksMTE2MjgzODI5NCwtMTAwNzQ5MjM3OC
+wtNDA2NzM1MjM4LDE2NzExOTY1MDYsMTAwMTk0MjgxNCwtNDQ1
+NzA2MDMwLC03NjE4MjYzMzUsLTE5Njg2NjUzMzIsMTY4MDAwMj
+k2Myw5MDgxOTA5NzgsNDk0ODA3NzAzXX0=
 -->
