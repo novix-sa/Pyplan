@@ -20,9 +20,6 @@ Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that
 When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps track of any change represented as a table or graph with no additional coding.
 
 
-## Old definition
-conceived for introducing data scientists and business analyst into Python models and it Machine Learning a node that triggers recalculation downstream the logic.
-
 ## **Using Python Libraries**
 Any library from the extended Python developing community can be imported to be used to solve specific needs.
 ![Importing libraries for use within Pyplan](http://img.pyplan.org/index_import_lib.png)
@@ -56,11 +53,11 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODk1MTQ3LDE5NTc3MDA1NDQsLTQ3ND
-cyNDExMSwxMzcwNDczNTEzLDIwMzIyNzYxMDEsMTEyNDgyMzQ2
-Niw0MTIwODEyMjAsLTExMzM5OTA1NzAsNjI4MDYyMTk5LC0xNz
-A2NzQ1NDE3LC0xODY5Mjc5NDIsODc4OTk1NDgsLTIwNjgzNTIw
-MzcsODAwNTI5MjAyLDE3NzU0MDg0MCwtMTQ4MzQ3NTYxMywtMT
-gwMDMxNDgyMywxOTc0NDczNTg1LC0xOTgyODI2MjU2LC0yNDEz
-Njk5MzldfQ==
+eyJoaXN0b3J5IjpbLTE2NDQzNTYxNTcsMTc2ODk1MTQ3LDE5NT
+c3MDA1NDQsLTQ3NDcyNDExMSwxMzcwNDczNTEzLDIwMzIyNzYx
+MDEsMTEyNDgyMzQ2Niw0MTIwODEyMjAsLTExMzM5OTA1NzAsNj
+I4MDYyMTk5LC0xNzA2NzQ1NDE3LC0xODY5Mjc5NDIsODc4OTk1
+NDgsLTIwNjgzNTIwMzcsODAwNTI5MjAyLDE3NzU0MDg0MCwtMT
+Q4MzQ3NTYxMywtMTgwMDMxNDgyMywxOTc0NDczNTg1LC0xOTgy
+ODI2MjU2XX0=
 -->
