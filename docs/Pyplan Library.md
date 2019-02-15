@@ -8,7 +8,7 @@ Pyplan library is based on two main objects:
 
 ### Index
 The index object is the way to define a dimension in Pyplan. Indexes are created through a Graphical Using Interface (GUI), through drag and drop method.
-![Index Definition](http://img.pyplan.org/index_definition.png)
+![Index Definition](http://img.pyplan.org/Pyplan_library_index_definition.png)
 
     pp.index(["Item 1","Item 2","Item 3"])
 
@@ -56,8 +56,9 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0Mjg1NDU5LDExNjI4MzgyOTQsLTEwMD
-c0OTIzNzgsLTQwNjczNTIzOCwxNjcxMTk2NTA2LDEwMDE5NDI4
-MTQsLTQ0NTcwNjAzMCwtNzYxODI2MzM1LC0xOTY4NjY1MzMyLD
-E2ODAwMDI5NjMsOTA4MTkwOTc4LDQ5NDgwNzcwM119
+eyJoaXN0b3J5IjpbMjgyMjM5MDQyLDQ5NDI4NTQ1OSwxMTYyOD
+M4Mjk0LC0xMDA3NDkyMzc4LC00MDY3MzUyMzgsMTY3MTE5NjUw
+NiwxMDAxOTQyODE0LC00NDU3MDYwMzAsLTc2MTgyNjMzNSwtMT
+k2ODY2NTMzMiwxNjgwMDAyOTYzLDkwODE5MDk3OCw0OTQ4MDc3
+MDNdfQ==
 -->
