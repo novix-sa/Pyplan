@@ -41,7 +41,7 @@ filterList: the possible filters are:
 **Case 1**: Slicing an Array at a specific index value
  index == "Value"
             
-**Case 2**: Ch
+**Case 2**: Changing an index for other with some common elements
             index1 == index2 (in this case a changeindex will be made).
     compareMode: 1: by Value (default), 2: by pos (used only if changeindex is necessary)
     defaultValue: value to fill the elements that are not found (used only if changeindex is necessary) 
@@ -104,7 +104,7 @@ Returns the value of dataArray indexed by the index of dataMap.
 ## Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTA1OTE5MCwtMjAxOTk2OTk4MywtMj
+eyJoaXN0b3J5IjpbLTYzMDU2MDkyNCwtMjAxOTk2OTk4MywtMj
 Q3ODQ1OTQ2LC0xNTk0MjU0NDg5LDkwODc1MjI3MCwtNDM0OTY4
 MDI0LC0xMzE3MDYxNzMxLC0xODM0NzIyMjg4LDk3Mjk3MTk5Ni
 wtMjEzNTcyMjY4OCwxMTE4NzQ5MDY2LDQ5NDI4NTQ1OSwxMTYy
