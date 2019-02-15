@@ -27,6 +27,8 @@ As can be appreciated in the console output (at the right) the object type is a 
 
 Pyplanlib combines and enhance Numpy, Pandas and Xarray concepts.
 ## Functions List
+Pyplan library functions are called using the "pp." prefix.
+
 ### Selecting Data from Array
 #### pp.sel
 
@@ -57,7 +59,7 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjczMDI2OCwtMTMxNzA2MTczMSwtMT
+eyJoaXN0b3J5IjpbLTQzNDk2ODAyNCwtMTMxNzA2MTczMSwtMT
 gzNDcyMjI4OCw5NzI5NzE5OTYsLTIxMzU3MjI2ODgsMTExODc0
 OTA2Niw0OTQyODU0NTksMTE2MjgzODI5NCwtMTAwNzQ5MjM3OC
 wtNDA2NzM1MjM4LDE2NzExOTY1MDYsMTAwMTk0MjgxNCwtNDQ1
