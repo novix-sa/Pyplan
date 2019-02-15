@@ -36,10 +36,17 @@ Filter dataArray using the filterList filters.
                 pp.sel(dataArray1, [index1==value1, index2==value2])
                 pp.sel(dataArray1, [index1==value1, index2==index3])
 
-### PP.sum3
-
+### Pp.lookup
+Returns the value of dataArray indexed by the index of dataMap.
+  
+      dataArray must be indexed by sharedIndex and dataArray values must correspond to elements of sharedIndex.
+        **For example**: Let's say you have a cube with an estimated inflation rate by Country ("inflation_rate" is the name of the cube; "country" is the name of the index) and you want to assign it to the corresponding Company depending on its location. On the other hand, there's a many-to-one map where each Company is allocated to a single Country ("country_to_company_allocation"). The sharedIndex, in this case, is Country ("country"). You can Add a default value for values not matching
+        As a result, 
+            pp.lookup( inflation_rate , country_to_company_allocation , country )
+        will return the estimated inflation rate by Company.
+        """
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjk1MDM2MSwtMTk2ODY2NTMzMiwxNj
+eyJoaXN0b3J5IjpbLTc2MTgyNjMzNSwtMTk2ODY2NTMzMiwxNj
 gwMDAyOTYzLDkwODE5MDk3OCw0OTQ4MDc3MDNdfQ==
 -->
