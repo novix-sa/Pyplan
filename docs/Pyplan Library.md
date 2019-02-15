@@ -34,17 +34,13 @@ Pyplan functions are grouped in the following categories:
 ### Selecting Data from Array
 
 #### pp.sel( dataArray, filterList, compareMode=1, defaultValue=None )
-
-Filter dataArray using the fiterList filters
-
-        Filter dataArray using the filterList filters. 
-        dataArray: dataArray to be filtered
-        filterList: the possible filters are:
-                index==value
-                index1==indice2 (in this case a changeindex will be made).
-        compareMode: 1: by Value (default), 2: by pos (used only if changeindex is necessary)
-        defaultValue: value to fill the elements that are not found (used only if changeindex is necessary) 
-            Ex.
+Filter dataArray using the filterList filters. 
+dataArray: dataArray to be filtered
+filterList: the possible filters are:
+            index == value   index1 == index2 (in this case a changeindex will be made).
+    compareMode: 1: by Value (default), 2: by pos (used only if changeindex is necessary)
+    defaultValue: value to fill the elements that are not found (used only if changeindex is necessary) 
+        Ex.
                 pp.sel(dataArray1, index==value)  #as it is a single value no list is needed
                 pp.sel(dataArray1, [index1==value1, index2==value2])
                 pp.sel(dataArray1, [index1==value1, index2==index3])
@@ -108,7 +104,7 @@ Returns the value of dataArray indexed by the index of dataMap.
 ## Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2NTEwMzM0LC0yMDE5OTY5OTgzLC0yND
+eyJoaXN0b3J5IjpbODgxNDg0MDI5LC0yMDE5OTY5OTgzLC0yND
 c4NDU5NDYsLTE1OTQyNTQ0ODksOTA4NzUyMjcwLC00MzQ5Njgw
 MjQsLTEzMTcwNjE3MzEsLTE4MzQ3MjIyODgsOTcyOTcxOTk2LC
 0yMTM1NzIyNjg4LDExMTg3NDkwNjYsNDk0Mjg1NDU5LDExNjI4
