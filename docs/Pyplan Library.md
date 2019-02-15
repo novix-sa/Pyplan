@@ -21,12 +21,25 @@ Complex problems and sophisticated mathematical operations involving multidimens
 
 Pyplanlib combines and enhance Numpy, Pandas and Xarray concepts.
 ## Function List
-
+## Selecting Data from Array
 ### PP.Sel
+Filter dataArray using the filterList filters. 
+    
+        dataArray: dataArray to be filtered
+        filterList: the possible filters are:
+                index==value
+                index1==indice2 (in this case a changeindex will be made).
+        compareMode: 1: by Value (default), 2: by pos (used only if changeindex is necessary)
+        defaultValue: value to fill the elements that are not found (used only if changeindex is necessary) 
+            Ex.
+                pp.sel(dataArray1, index==value)  #as it is a single value no list is needed
+                pp.sel(dataArray1, [index1==value1, index2==value2])
+                pp.sel(dataArray1, [index1==value1, index2==index3])
+
 ### PP.sum3
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg2NjUzMzIsMTY4MDAwMjk2Myw5MD
-gxOTA5NzgsNDk0ODA3NzAzXX0=
+eyJoaXN0b3J5IjpbMTAwNjk1MDM2MSwtMTk2ODY2NTMzMiwxNj
+gwMDAyOTYzLDkwODE5MDk3OCw0OTQ4MDc3MDNdfQ==
 -->
