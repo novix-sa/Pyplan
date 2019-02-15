@@ -23,8 +23,10 @@ Pyplanlib combines and enhance Numpy, Pandas and Xarray concepts.
 ## Function List
 ## Selecting Data from Array
 ### PP.Sel
+
 Filter dataArray using the filterList filters. 
     
+        
         dataArray: dataArray to be filtered
         filterList: the possible filters are:
                 index==value
@@ -47,6 +49,7 @@ Returns the value of dataArray indexed by the index of dataMap.
         """
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTgyNjMzNSwtMTk2ODY2NTMzMiwxNj
-gwMDAyOTYzLDkwODE5MDk3OCw0OTQ4MDc3MDNdfQ==
+eyJoaXN0b3J5IjpbMzQyNDg2MTEzLC03NjE4MjYzMzUsLTE5Nj
+g2NjUzMzIsMTY4MDAwMjk2Myw5MDgxOTA5NzgsNDk0ODA3NzAz
+XX0=
 -->
