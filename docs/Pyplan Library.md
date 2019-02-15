@@ -70,7 +70,7 @@ Filter dataArray using the filterList filters. dataArray: dataArray to be filter
                 pp.sel(dataArray1, [index1==value1, index2==value2])
                 pp.sel(dataArray1, [index1==value1, index2==index3])
 
-#### Pp.lookup
+#### pp.lookup
 Returns the value of dataArray indexed by the index of dataMap.
   
       pp.lookup( dataArray, dataMap, sharedIndex, defaultValue=0 )
@@ -110,7 +110,7 @@ pp.subset
 ### Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwODg2MTAzLDMzNjMxODc5NiwtMjAxOT
+eyJoaXN0b3J5IjpbNTA4Mzc4NjE1LDMzNjMxODc5NiwtMjAxOT
 k2OTk4MywtMjQ3ODQ1OTQ2LC0xNTk0MjU0NDg5LDkwODc1MjI3
 MCwtNDM0OTY4MDI0LC0xMzE3MDYxNzMxLC0xODM0NzIyMjg4LD
 k3Mjk3MTk5NiwtMjEzNTcyMjY4OCwxMTE4NzQ5MDY2LDQ5NDI4
