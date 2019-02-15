@@ -25,17 +25,8 @@ The Cube object is a labeled DataArray object defined as following:
     pp.cube( [items], [10,20,30] )
 As can be appreciated in the console output (at the right) the object type is a DataArray from Xarray, which means that it is possible to operate with Pyplan Cubes in the same way than with Xarray DataArray, inheriting not only all the properties but also the extensive functions list of this library.
 
-
-## Data Structure
-Based on Xarray objects, with a different approach to index definition and manipulation
-
-## Goals
-Pyplanlib aims to become development package for data scientist and businessmen facing problems where a huge quantity of data needed be analyse and structure.
-
-Complex problems and sophisticated mathematical operations involving multidimensional arrays should be solved using this library.
-
 Pyplanlib combines and enhance Numpy, Pandas and Xarray concepts.
-## Function List
+## Functions List
 ## Selecting Data from Array
 ### PP.Sel
 
@@ -66,7 +57,7 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDE4NDEzNiwtMTMxNzA2MTczMSwtMT
+eyJoaXN0b3J5IjpbMTM4MTAyNDg2MiwtMTMxNzA2MTczMSwtMT
 gzNDcyMjI4OCw5NzI5NzE5OTYsLTIxMzU3MjI2ODgsMTExODc0
 OTA2Niw0OTQyODU0NTksMTE2MjgzODI5NCwtMTAwNzQ5MjM3OC
 wtNDA2NzM1MjM4LDE2NzExOTY1MDYsMTAwMTk0MjgxNCwtNDQ1
