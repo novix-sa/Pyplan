@@ -6,13 +6,13 @@ It is based on [Xarray](http://xarray.pydata.org/) DataArray object and take adv
 
 
 ## Main concept
-Pyplanlib pp.cube and pp.index are mirrors of Xarray Dataarray and Coords but managed in a more structured manner so that data scientist can easily create models using the extensive developed python tools.
+Pyplanlib pp.cube and pp.index are mirrors of Xarray Dataarray and Coords but managed in a more structured manner so that data scientist can easily create models using the extensive set of tool developed for Python.
 
 ## Data Structure
 Based on X-Array objects, with a different approach to index definition and manipulation
 
 ## Goals
-Pyplanlib aims to become development package for data scientist and businessmen phasing problems where a huge quantity of data needed be analyse and structure.
+Pyplanlib aims to become development package for data scientist and businessmen facing problems where a huge quantity of data needed be analyse and structure.
 
 Complex problems and sophisticated mathematical operations involving multidimensional arrays should be solved using this library.
 
@@ -49,7 +49,7 @@ Returns the value of dataArray indexed by the index of dataMap.
         """
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NTA4NDk1LC00NDU3MDYwMzAsLTc2MT
-gyNjMzNSwtMTk2ODY2NTMzMiwxNjgwMDAyOTYzLDkwODE5MDk3
-OCw0OTQ4MDc3MDNdfQ==
+eyJoaXN0b3J5IjpbLTEwODIxODQ1MDQsLTQ0NTcwNjAzMCwtNz
+YxODI2MzM1LC0xOTY4NjY1MzMyLDE2ODAwMDI5NjMsOTA4MTkw
+OTc4LDQ5NDgwNzcwM119
 -->
