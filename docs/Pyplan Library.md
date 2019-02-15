@@ -1,13 +1,13 @@
 
 # **Pyplan Library**
 
-Pyplan is a [Python](https://www.python.org/) library intended for supporting multidimensional dynamic simulation based on the Pyplan IDE web application. It is based on [Xarray](http://xarray.pydata.org/) DataArray object and take advantage of its N-dimensional labeled arrays functionalities.
+Pyplan is a [Python](https://www.python.org/) library intended for supporting multidimensional dynamic simulation running on the Pyplan IDE web application. It is based on [Xarray](http://xarray.pydata.org/) DataArray object and take advantage of its N-dimensional labeled arrays functionalities.
 
 ## Main concepts
 Pyplan library is based on two main objects:
 
 ### Index
-The index object is the way to define a dimension in Pyplan. Indexes are created through a Graphical Using Interface (GUI), through drag and drop method.
+The index object is the way to define a dimension in Pyplan. Indexes are created using a Graphical Using Interface (GUI), through drag and drop method.
 ![Index Definition](http://img.pyplan.org/Pyplan_library_index_definition.png)
 
     pp.index(["Item 1","Item 2","Item 3"])
@@ -56,9 +56,9 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODc0OTA2Niw0OTQyODU0NTksMTE2Mj
-gzODI5NCwtMTAwNzQ5MjM3OCwtNDA2NzM1MjM4LDE2NzExOTY1
-MDYsMTAwMTk0MjgxNCwtNDQ1NzA2MDMwLC03NjE4MjYzMzUsLT
-E5Njg2NjUzMzIsMTY4MDAwMjk2Myw5MDgxOTA5NzgsNDk0ODA3
-NzAzXX0=
+eyJoaXN0b3J5IjpbLTM4NjIzODUxLDExMTg3NDkwNjYsNDk0Mj
+g1NDU5LDExNjI4MzgyOTQsLTEwMDc0OTIzNzgsLTQwNjczNTIz
+OCwxNjcxMTk2NTA2LDEwMDE5NDI4MTQsLTQ0NTcwNjAzMCwtNz
+YxODI2MzM1LC0xOTY4NjY1MzMyLDE2ODAwMDI5NjMsOTA4MTkw
+OTc4LDQ5NDgwNzcwM119
 -->
