@@ -28,7 +28,7 @@ As can be appreciated in the console output (at the right) the object type is a 
 Pyplanlib combines and enhance Numpy, Pandas and Xarray concepts.
 ## Functions List
 ### Selecting Data from Array
-#### PP.Sel
+#### pp.sel
 
 Filter dataArray using the filterList filters. 
     
@@ -57,10 +57,10 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
         """
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxNzU2Nzk2LC0xMzE3MDYxNzMxLC0xOD
-M0NzIyMjg4LDk3Mjk3MTk5NiwtMjEzNTcyMjY4OCwxMTE4NzQ5
-MDY2LDQ5NDI4NTQ1OSwxMTYyODM4Mjk0LC0xMDA3NDkyMzc4LC
-00MDY3MzUyMzgsMTY3MTE5NjUwNiwxMDAxOTQyODE0LC00NDU3
-MDYwMzAsLTc2MTgyNjMzNSwtMTk2ODY2NTMzMiwxNjgwMDAyOT
-YzLDkwODE5MDk3OCw0OTQ4MDc3MDNdfQ==
+eyJoaXN0b3J5IjpbMjAwNjczMDI2OCwtMTMxNzA2MTczMSwtMT
+gzNDcyMjI4OCw5NzI5NzE5OTYsLTIxMzU3MjI2ODgsMTExODc0
+OTA2Niw0OTQyODU0NTksMTE2MjgzODI5NCwtMTAwNzQ5MjM3OC
+wtNDA2NzM1MjM4LDE2NzExOTY1MDYsMTAwMTk0MjgxNCwtNDQ1
+NzA2MDMwLC03NjE4MjYzMzUsLTE5Njg2NjUzMzIsMTY4MDAwMj
+k2Myw5MDgxOTA5NzgsNDk0ODA3NzAzXX0=
 -->
