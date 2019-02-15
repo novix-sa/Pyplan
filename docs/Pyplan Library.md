@@ -67,7 +67,7 @@ Filter dataArray using the filterList filters. dataArray: dataArray to be filter
                 pp.sel(dataArray1, [index1==value1, index2==value2])
                 pp.sel(dataArray1, [index1==value1, index2==index3])
 
-### Pp.lookup
+#### Pp.lookup
 Returns the value of dataArray indexed by the index of dataMap.
   
       pp.lookup( dataArray, dataMap, sharedIndex, defaultValue=0 )
@@ -78,38 +78,39 @@ Returns the value of dataArray indexed by the index of dataMap.
         will return the estimated inflation rate by Company.
  ## pp.subset
 
-## pp.isel 
-## pp.subset
-## Basic Math and Missing Values
-## pp.size
+#### pp.isel 
+#### pp.subset
 
-## pp.fillAll
+### Basic Math and Missing Values
+#### pp.size
 
-## pp.fillna
+#### pp.fillAll
 
-## pp.fillInf
+#### pp.fillna
 
-## pp.min
+#### pp.fillInf
 
-## pp.max
+#### pp.min
 
-## pp_where
+#### pp.max
 
-## pp.minimun
+#### pp_where
 
-## pp.maximum
-## Aggregation and Rolling window operations
+#### pp.minimun
+
+#### pp.maximum
+### Aggregation and Rolling window operations
 
 ## Working with Indexes & Apply Function
 
 ## Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2MzE4Nzk2LC0yMDE5OTY5OTgzLC0yND
-c4NDU5NDYsLTE1OTQyNTQ0ODksOTA4NzUyMjcwLC00MzQ5Njgw
-MjQsLTEzMTcwNjE3MzEsLTE4MzQ3MjIyODgsOTcyOTcxOTk2LC
-0yMTM1NzIyNjg4LDExMTg3NDkwNjYsNDk0Mjg1NDU5LDExNjI4
-MzgyOTQsLTEwMDc0OTIzNzgsLTQwNjczNTIzOCwxNjcxMTk2NT
-A2LDEwMDE5NDI4MTQsLTQ0NTcwNjAzMCwtNzYxODI2MzM1LC0x
-OTY4NjY1MzMyXX0=
+eyJoaXN0b3J5IjpbMTU5ODg1NDcyMSwzMzYzMTg3OTYsLTIwMT
+k5Njk5ODMsLTI0Nzg0NTk0NiwtMTU5NDI1NDQ4OSw5MDg3NTIy
+NzAsLTQzNDk2ODAyNCwtMTMxNzA2MTczMSwtMTgzNDcyMjI4OC
+w5NzI5NzE5OTYsLTIxMzU3MjI2ODgsMTExODc0OTA2Niw0OTQy
+ODU0NTksMTE2MjgzODI5NCwtMTAwNzQ5MjM3OCwtNDA2NzM1Mj
+M4LDE2NzExOTY1MDYsMTAwMTk0MjgxNCwtNDQ1NzA2MDMwLC03
+NjE4MjYzMzVdfQ==
 -->
