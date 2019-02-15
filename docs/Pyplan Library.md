@@ -77,11 +77,15 @@ Returns the value of dataArray indexed by the index of dataMap.
         As a result, 
             pp.lookup( inflation_rate , country_to_company_allocation , country )
         will return the estimated inflation rate by Company.
-        """
-  ## Basic Math and Missing Values
+  
+## Basic Math and Missing Values
+
+## Aggregation and Rolling window operations
+
+
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4OTA3Mjg0LC0xNTk0MjU0NDg5LDkwOD
+eyJoaXN0b3J5IjpbMzQ3NjI4MTk2LC0xNTk0MjU0NDg5LDkwOD
 c1MjI3MCwtNDM0OTY4MDI0LC0xMzE3MDYxNzMxLC0xODM0NzIy
 Mjg4LDk3Mjk3MTk5NiwtMjEzNTcyMjY4OCwxMTE4NzQ5MDY2LD
 Q5NDI4NTQ1OSwxMTYyODM4Mjk0LC0xMDA3NDkyMzc4LC00MDY3
