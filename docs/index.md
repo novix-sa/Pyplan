@@ -14,10 +14,6 @@ The ID allows calling its result from other nodes, working as global variables.
 
 ## **Node alu**
 
-Each calculation step is contained in a node which can be evaluated and its results represented as a table or graph. 
-***(insertar gráfico con nodo y su definicion)***
-
-The node works as a blank canvas for programming in Python, and accepts imports of any external library. Results are stored in memory as global variables that can be called from other calculation**s.
 Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That means that any node which result is an object of these types can be evaluated (by double clicking the node) and visualized with native Pyplan charts and tables with no additional coding.
 ![enter image description here](http://img.pyplan.org/index_node_result1.png)
 
@@ -60,11 +56,11 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzcwMDU0NCwtNDc0NzI0MTExLDEzNz
-A0NzM1MTMsMjAzMjI3NjEwMSwxMTI0ODIzNDY2LDQxMjA4MTIy
-MCwtMTEzMzk5MDU3MCw2MjgwNjIxOTksLTE3MDY3NDU0MTcsLT
-E4NjkyNzk0Miw4Nzg5OTU0OCwtMjA2ODM1MjAzNyw4MDA1Mjky
-MDIsMTc3NTQwODQwLC0xNDgzNDc1NjEzLC0xODAwMzE0ODIzLD
-E5NzQ0NzM1ODUsLTE5ODI4MjYyNTYsLTI0MTM2OTkzOSwtNjM2
-MzQ2NDc4XX0=
+eyJoaXN0b3J5IjpbMTc2ODk1MTQ3LDE5NTc3MDA1NDQsLTQ3ND
+cyNDExMSwxMzcwNDczNTEzLDIwMzIyNzYxMDEsMTEyNDgyMzQ2
+Niw0MTIwODEyMjAsLTExMzM5OTA1NzAsNjI4MDYyMTk5LC0xNz
+A2NzQ1NDE3LC0xODY5Mjc5NDIsODc4OTk1NDgsLTIwNjgzNTIw
+MzcsODAwNTI5MjAyLDE3NzU0MDg0MCwtMTQ4MzQ3NTYxMywtMT
+gwMDMxNDgyMywxOTc0NDczNTg1LC0xOTgyODI2MjU2LC0yNDEz
+Njk5MzldfQ==
 -->
