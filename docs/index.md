@@ -3,8 +3,8 @@ Pyplan is an assisted **Graphical Integrated Development Environment** designed 
 
 ## **Code Organization**
 The app code is structured through a hierarchicaln Influence Diagram of nodes -a Workflow- that helps understand the calculation logic.
-Nodes are added by a drag and drop user interface and Python code is written inside their definition. 
-![enter image description here](http://img.pyplan.org/index_node_code.png)
+Nodes are added by a drag and drop user interface and Python code is written inside their Code attribute. 
+![Node Code](http://img.pyplan.org/index_node_code.png)
 
 Nodes have several properties: Title, ID, Units, Inputs, Outputs that are displayed when focus. 
 The ID allows calling its result from other nodes, working as global variables.
@@ -60,11 +60,11 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY0MjkyNjYsLTQ3NDcyNDExMSwxMz
-cwNDczNTEzLDIwMzIyNzYxMDEsMTEyNDgyMzQ2Niw0MTIwODEy
-MjAsLTExMzM5OTA1NzAsNjI4MDYyMTk5LC0xNzA2NzQ1NDE3LC
-0xODY5Mjc5NDIsODc4OTk1NDgsLTIwNjgzNTIwMzcsODAwNTI5
-MjAyLDE3NzU0MDg0MCwtMTQ4MzQ3NTYxMywtMTgwMDMxNDgyMy
-wxOTc0NDczNTg1LC0xOTgyODI2MjU2LC0yNDEzNjk5MzksLTYz
-NjM0NjQ3OF19
+eyJoaXN0b3J5IjpbMTk1NzcwMDU0NCwtNDc0NzI0MTExLDEzNz
+A0NzM1MTMsMjAzMjI3NjEwMSwxMTI0ODIzNDY2LDQxMjA4MTIy
+MCwtMTEzMzk5MDU3MCw2MjgwNjIxOTksLTE3MDY3NDU0MTcsLT
+E4NjkyNzk0Miw4Nzg5OTU0OCwtMjA2ODM1MjAzNyw4MDA1Mjky
+MDIsMTc3NTQwODQwLC0xNDgzNDc1NjEzLC0xODAwMzE0ODIzLD
+E5NzQ0NzM1ODUsLTE5ODI4MjYyNTYsLTI0MTM2OTkzOSwtNjM2
+MzQ2NDc4XX0=
 -->
