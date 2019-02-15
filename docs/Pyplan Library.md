@@ -90,15 +90,15 @@ Returns the value of dataArray indexed by the index of dataMap.
 
 ## pp.fillInf
 
-pp.min
+## pp.min
 
-pp.max
+## pp.max
 
-pp_where
+## pp_where
 
-pp.minimun
+## pp.minimun
 
-pp.maximum
+## pp.maximum
 ## Aggregation and Rolling window operations
 
 ## Working with Indexes & Apply Function
@@ -106,11 +106,11 @@ pp.maximum
 ## Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2MzU4MTE5LC0yNDc4NDU5NDYsLTE1OT
-QyNTQ0ODksOTA4NzUyMjcwLC00MzQ5NjgwMjQsLTEzMTcwNjE3
-MzEsLTE4MzQ3MjIyODgsOTcyOTcxOTk2LC0yMTM1NzIyNjg4LD
-ExMTg3NDkwNjYsNDk0Mjg1NDU5LDExNjI4MzgyOTQsLTEwMDc0
-OTIzNzgsLTQwNjczNTIzOCwxNjcxMTk2NTA2LDEwMDE5NDI4MT
-QsLTQ0NTcwNjAzMCwtNzYxODI2MzM1LC0xOTY4NjY1MzMyLDE2
-ODAwMDI5NjNdfQ==
+eyJoaXN0b3J5IjpbLTIwMTk5Njk5ODMsLTI0Nzg0NTk0NiwtMT
+U5NDI1NDQ4OSw5MDg3NTIyNzAsLTQzNDk2ODAyNCwtMTMxNzA2
+MTczMSwtMTgzNDcyMjI4OCw5NzI5NzE5OTYsLTIxMzU3MjI2OD
+gsMTExODc0OTA2Niw0OTQyODU0NTksMTE2MjgzODI5NCwtMTAw
+NzQ5MjM3OCwtNDA2NzM1MjM4LDE2NzExOTY1MDYsMTAwMTk0Mj
+gxNCwtNDQ1NzA2MDMwLC03NjE4MjYzMzUsLTE5Njg2NjUzMzIs
+MTY4MDAwMjk2M119
 -->
