@@ -23,14 +23,15 @@ The Cube object is a labeled DataArray object defined as following:
     pp.cube( coords=[items], values=[10,20,30], dtype=None )
     # as well as
     pp.cube( [items], [10,20,30] )
-As can be appreciated in the console output (at the right) the object type is a DataArray from Xarray, which means that it is possible to operate with Pyplan Cubes in the same way than with Xarray DataArray, inheriting not only all the properties but also the extensive functions list of this library.
+As can be appreciated in the console output (at the right) the object type is a DataArray from Xarray, which means that it is possible to operate with Pyplan Cubes in the same way than with Xarray DataArray, inheriting not only all the properties but also the extensive functions list of this library. Pyplanlib combines and enhance Numpy, Pandas and Xarray concepts.
 
-Pyplanlib combines and enhance Numpy, Pandas and Xarray concepts.
 ## Functions List
 Pyplan functions are group of functions for interacting with indexes of Pyplan data cubes. Pyplan library functions are called using the "pp." prefix. 
 Function helper is launched pressing Ctrl+Space after writting the "pp." prefix. Use the arrows to scroll the list.
 ![enter image description here](http://img.pyplan.org/Pyplan_library_pp.png)
+
 ### Selecting Data from Array
+
 #### pp.sel( dataArray, filterList, compareMode=1, defaultValue=None )
 
 Filter dataArray using the fiterList filters
@@ -106,11 +107,11 @@ Returns the value of dataArray indexed by the index of dataMap.
 ## Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk5Njk5ODMsLTI0Nzg0NTk0NiwtMT
-U5NDI1NDQ4OSw5MDg3NTIyNzAsLTQzNDk2ODAyNCwtMTMxNzA2
-MTczMSwtMTgzNDcyMjI4OCw5NzI5NzE5OTYsLTIxMzU3MjI2OD
-gsMTExODc0OTA2Niw0OTQyODU0NTksMTE2MjgzODI5NCwtMTAw
-NzQ5MjM3OCwtNDA2NzM1MjM4LDE2NzExOTY1MDYsMTAwMTk0Mj
-gxNCwtNDQ1NzA2MDMwLC03NjE4MjYzMzUsLTE5Njg2NjUzMzIs
-MTY4MDAwMjk2M119
+eyJoaXN0b3J5IjpbLTEwNTE4MDA1NjUsLTIwMTk5Njk5ODMsLT
+I0Nzg0NTk0NiwtMTU5NDI1NDQ4OSw5MDg3NTIyNzAsLTQzNDk2
+ODAyNCwtMTMxNzA2MTczMSwtMTgzNDcyMjI4OCw5NzI5NzE5OT
+YsLTIxMzU3MjI2ODgsMTExODc0OTA2Niw0OTQyODU0NTksMTE2
+MjgzODI5NCwtMTAwNzQ5MjM3OCwtNDA2NzM1MjM4LDE2NzExOT
+Y1MDYsMTAwMTk0MjgxNCwtNDQ1NzA2MDMwLC03NjE4MjYzMzUs
+LTE5Njg2NjUzMzJdfQ==
 -->
