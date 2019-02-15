@@ -1,7 +1,8 @@
 
 # Pyplan Library
 
-Pyplan is an open source library providing easy-to-use labelled data structures and data analysis functions for [Python](https://www.python.org/) programming language.
+Pyplan is an open source library designed for multidimensional dynamic simulation
+providing easy-to-use labelled data structures and data analysis functions for [Python](https://www.python.org/) programming language.
 
 Pyplanlib is based on Xarray DataArray object and take advantage of its N-dimensional arrays.
 
@@ -52,7 +53,7 @@ Returns the value of dataArray indexed by the index of dataMap.
         """
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTcwNjAzMCwtNzYxODI2MzM1LC0xOT
-Y4NjY1MzMyLDE2ODAwMDI5NjMsOTA4MTkwOTc4LDQ5NDgwNzcw
-M119
+eyJoaXN0b3J5IjpbLTQ5MDc4MzQ5NCwtNDQ1NzA2MDMwLC03Nj
+E4MjYzMzUsLTE5Njg2NjUzMzIsMTY4MDAwMjk2Myw5MDgxOTA5
+NzgsNDk0ODA3NzAzXX0=
 -->
