@@ -26,7 +26,7 @@ The Cube object is a labeled DataArray object defined as following:
 As can be appreciated in the console output (at the right) the object type is a DataArray from Xarray, which means that it is possible to operate with Pyplan Cubes in the same way than with Xarray DataArray, inheriting not only all the properties but also the extensive functions list of this library. 
 
 ## Functions List
-Pyplan functions are group of functions for interacting with indexes of Pyplan data cubes. They are written in Python using Numpy, Pandas and Xarray functions.
+Pyplan functions are group of functions for interacting with indexes and data cubes of Pyplan . They are written in Python using Numpy, Pandas and Xarray functions.
 Pyplan library functions are called using the "pp." prefix. The function helper is launched pressing Ctrl+Space after writting the "pp." prefix. Use the arrows to scroll the list.
 ![enter image description here](http://img.pyplan.org/Pyplan_library_pp.png)
 
@@ -110,11 +110,11 @@ pp.subset
 ### Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4Mzc4NjE1LDMzNjMxODc5NiwtMjAxOT
-k2OTk4MywtMjQ3ODQ1OTQ2LC0xNTk0MjU0NDg5LDkwODc1MjI3
-MCwtNDM0OTY4MDI0LC0xMzE3MDYxNzMxLC0xODM0NzIyMjg4LD
-k3Mjk3MTk5NiwtMjEzNTcyMjY4OCwxMTE4NzQ5MDY2LDQ5NDI4
-NTQ1OSwxMTYyODM4Mjk0LC0xMDA3NDkyMzc4LC00MDY3MzUyMz
-gsMTY3MTE5NjUwNiwxMDAxOTQyODE0LC00NDU3MDYwMzAsLTc2
-MTgyNjMzNV19
+eyJoaXN0b3J5IjpbLTEyNTIwMjU5ODYsNTA4Mzc4NjE1LDMzNj
+MxODc5NiwtMjAxOTk2OTk4MywtMjQ3ODQ1OTQ2LC0xNTk0MjU0
+NDg5LDkwODc1MjI3MCwtNDM0OTY4MDI0LC0xMzE3MDYxNzMxLC
+0xODM0NzIyMjg4LDk3Mjk3MTk5NiwtMjEzNTcyMjY4OCwxMTE4
+NzQ5MDY2LDQ5NDI4NTQ1OSwxMTYyODM4Mjk0LC0xMDA3NDkyMz
+c4LC00MDY3MzUyMzgsMTY3MTE5NjUwNiwxMDAxOTQyODE0LC00
+NDU3MDYwMzBdfQ==
 -->
