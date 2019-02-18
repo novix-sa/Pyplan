@@ -4,14 +4,17 @@
 Creating an account
 Login
 Start modeling
-## Elements of the UI
+## User Interface Menu
 ### File Manager
 ### Modeling
-### 
+### User Interfaces
+
 ## Modeling Business Rules
 ### Nodes and Calculation
 
 ## Evaluating Nodes
+### How does it evaluation works
+### Types of data structures natively supported
 
 ## Creating an App User Interface
 
@@ -42,7 +45,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxMjcyNzI0LC04MTI3MDUwNTEsLTI1Mz
-Q3NDQ4OCwtMTA2NjE5NzkzMSwtMTExMTI4NDc1Miw4MzcxMTgz
-ODQsOTQ5Mzg5MTg5XX0=
+eyJoaXN0b3J5IjpbMTU1MzIwNDU2NSw0NTEyNzI3MjQsLTgxMj
+cwNTA1MSwtMjUzNDc0NDg4LC0xMDY2MTk3OTMxLC0xMTExMjg0
+NzUyLDgzNzExODM4NCw5NDkzODkxODldfQ==
 -->
