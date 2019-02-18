@@ -4,7 +4,7 @@
 Creating an account
 Login
 Start modeling
-## 
+## Elements of the UI
 ## Modeling Business Rules
 ### Nodes and Calculation
 
@@ -39,7 +39,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDYzMjgwMiwtMjUzNDc0NDg4LC0xMD
+eyJoaXN0b3J5IjpbLTgxMjcwNTA1MSwtMjUzNDc0NDg4LC0xMD
 Y2MTk3OTMxLC0xMTExMjg0NzUyLDgzNzExODM4NCw5NDkzODkx
 ODldfQ==
 -->
