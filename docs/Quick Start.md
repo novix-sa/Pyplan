@@ -10,6 +10,7 @@ Start modeling
 ### User Interfaces
 
 ## Modeling Business Rules
+### Reading External Datasources
 ### Nodes and Calculation
 
 ## Evaluating Nodes
@@ -17,6 +18,9 @@ Start modeling
 ### Types of data structures natively supported
 
 ## Creating an App User Interface
+### Output Nodes
+### Controls
+### Input Nodes
 
 
 Pyplan main object is called “node” and it´s codification, after importing any Python Library, can be easily done through its **_code_** windows.
@@ -45,7 +49,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzIwNDU2NSw0NTEyNzI3MjQsLTgxMj
+eyJoaXN0b3J5IjpbMTk4ODk1NDQwMSw0NTEyNzI3MjQsLTgxMj
 cwNTA1MSwtMjUzNDc0NDg4LC0xMDY2MTk3OTMxLC0xMTExMjg0
 NzUyLDgzNzExODM4NCw5NDkzODkxODldfQ==
 -->
