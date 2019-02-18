@@ -5,9 +5,12 @@ Creating an account
 Login
 Start modeling
 
-## Creating Indexes and Data Cubes
+## Creating Indexes and Cubes
+### Create an Index
+### Create a Data Cube
 
 ## Modeling Business Rules
+## 
 
 ## Evaluating Nodes
 
@@ -40,6 +43,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzQ3NDQ4OCwtMTA2NjE5NzkzMSwtMT
-ExMTI4NDc1Miw4MzcxMTgzODQsOTQ5Mzg5MTg5XX0=
+eyJoaXN0b3J5IjpbMTk1NzQ3MSwtMjUzNDc0NDg4LC0xMDY2MT
+k3OTMxLC0xMTExMjg0NzUyLDgzNzExODM4NCw5NDkzODkxODld
+fQ==
 -->
