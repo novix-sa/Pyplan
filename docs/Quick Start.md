@@ -10,7 +10,7 @@ Once identified the server address and with valid user you can login Pyplan thro
 
 After login in, you will reach the app landpage that looks like:
 ![Payplan Homepage](http://img.pyplan.org/Quick_start_home.png)
-With sections for creating a new model, open existing one, recover any active session, or opening Tutorials and examples.
+With sections for creating a new model, open existing one, recover any active session, or opening tutorials and examples.
 
 ## User Interface Menu
 ### File Manager
@@ -57,8 +57,9 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY4ODYxMzQsLTE4MDgzNDQwMDksMT
-E3NDY3MjM4OSwtMTQ1NDAwNDkzNywxOTg4OTU0NDAxLDQ1MTI3
-MjcyNCwtODEyNzA1MDUxLC0yNTM0NzQ0ODgsLTEwNjYxOTc5Mz
-EsLTExMTEyODQ3NTIsODM3MTE4Mzg0LDk0OTM4OTE4OV19
+eyJoaXN0b3J5IjpbLTE4NDc5MzQyMzAsLTIwNDY4ODYxMzQsLT
+E4MDgzNDQwMDksMTE3NDY3MjM4OSwtMTQ1NDAwNDkzNywxOTg4
+OTU0NDAxLDQ1MTI3MjcyNCwtODEyNzA1MDUxLC0yNTM0NzQ0OD
+gsLTEwNjYxOTc5MzEsLTExMTEyODQ3NTIsODM3MTE4Mzg0LDk0
+OTM4OTE4OV19
 -->
