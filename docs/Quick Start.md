@@ -22,9 +22,9 @@ Clicking on Open Model, you will access the sandbox for creating your model logi
 There are five basic components for creating and organizing the calculation logic
 ![Code Components](http://img.pyplan.org/Quick_start_code_components.png)
 
-#### Variable
+ Variable
 
-#### Module
+
 
 ### User Interfaces
 
@@ -70,10 +70,10 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NzE5MTg0LC02NzAyNjM3NjQsMTk3MT
-U2NjY5NSwtMTg0NzkzNDIzMCwtMjA0Njg4NjEzNCwtMTgwODM0
-NDAwOSwxMTc0NjcyMzg5LC0xNDU0MDA0OTM3LDE5ODg5NTQ0MD
-EsNDUxMjcyNzI0LC04MTI3MDUwNTEsLTI1MzQ3NDQ4OCwtMTA2
-NjE5NzkzMSwtMTExMTI4NDc1Miw4MzcxMTgzODQsOTQ5Mzg5MT
-g5XX0=
+eyJoaXN0b3J5IjpbLTExMTg1ODM0MzYsLTY3MDI2Mzc2NCwxOT
+cxNTY2Njk1LC0xODQ3OTM0MjMwLC0yMDQ2ODg2MTM0LC0xODA4
+MzQ0MDA5LDExNzQ2NzIzODksLTE0NTQwMDQ5MzcsMTk4ODk1ND
+QwMSw0NTEyNzI3MjQsLTgxMjcwNTA1MSwtMjUzNDc0NDg4LC0x
+MDY2MTk3OTMxLC0xMTExMjg0NzUyLDgzNzExODM4NCw5NDkzOD
+kxODldfQ==
 -->
