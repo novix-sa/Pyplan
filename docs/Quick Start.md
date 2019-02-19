@@ -23,8 +23,9 @@ There are five basic components for creating and organizing the calculation logi
 A Node is the place where you code the app calculation logic. It can start with a node that read an external data source, followed by another node that makes some calculations and end with a node that produces a desired output.
 ![Code Components](http://img.pyplan.org/Quick_start_code_components1.png)
 For now just drag and drop a "Node" into the canvas, provide a Title and lets inspect its attribute tabs.
+![First Node](http://img.pyplan.org/Quick_start_first_node.png)
+And then click on the Code tab.
 
- Variable
 
 
 
@@ -72,10 +73,10 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI3ODU4MzEsLTY3MDI2Mzc2NCwxOT
-cxNTY2Njk1LC0xODQ3OTM0MjMwLC0yMDQ2ODg2MTM0LC0xODA4
-MzQ0MDA5LDExNzQ2NzIzODksLTE0NTQwMDQ5MzcsMTk4ODk1ND
-QwMSw0NTEyNzI3MjQsLTgxMjcwNTA1MSwtMjUzNDc0NDg4LC0x
-MDY2MTk3OTMxLC0xMTExMjg0NzUyLDgzNzExODM4NCw5NDkzOD
-kxODldfQ==
+eyJoaXN0b3J5IjpbMTA0NTM1ODc4OCwtMTUyMjc4NTgzMSwtNj
+cwMjYzNzY0LDE5NzE1NjY2OTUsLTE4NDc5MzQyMzAsLTIwNDY4
+ODYxMzQsLTE4MDgzNDQwMDksMTE3NDY3MjM4OSwtMTQ1NDAwND
+kzNywxOTg4OTU0NDAxLDQ1MTI3MjcyNCwtODEyNzA1MDUxLC0y
+NTM0NzQ0ODgsLTEwNjYxOTc5MzEsLTExMTEyODQ3NTIsODM3MT
+E4Mzg0LDk0OTM4OTE4OV19
 -->
