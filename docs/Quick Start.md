@@ -29,8 +29,9 @@ And then click on the Code tab.
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 On the left space you will write your Python code. On the right side will be displayed the console output.
 If you double click the node or pressing <Ctrl + R>, it will show its result, which in this case is a 9.
-Another alternative evaluation is the one launched pressing <Ctrl + E>, in this case, not only the console and result output will be displayed, but additional information (as n
+Another alternative evaluation is the one launched pressing <Ctrl + E>, in this case, not only the console and result output will be displayed, but additional information (as data type) will be shown.
 
+![Node Inspector](http://img.pyplan.org/Quick_start_inspector.png)
 
 ### User Interfaces
 
@@ -76,11 +77,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjUwOTY2MjQsLTg2ODE2NDQ2OSwxMD
-Q1MzU4Nzg4LC0xNTIyNzg1ODMxLC02NzAyNjM3NjQsMTk3MTU2
-NjY5NSwtMTg0NzkzNDIzMCwtMjA0Njg4NjEzNCwtMTgwODM0ND
-AwOSwxMTc0NjcyMzg5LC0xNDU0MDA0OTM3LDE5ODg5NTQ0MDEs
-NDUxMjcyNzI0LC04MTI3MDUwNTEsLTI1MzQ3NDQ4OCwtMTA2Nj
-E5NzkzMSwtMTExMTI4NDc1Miw4MzcxMTgzODQsOTQ5Mzg5MTg5
-XX0=
+eyJoaXN0b3J5IjpbMTcxODE0MTU1LC04NjgxNjQ0NjksMTA0NT
+M1ODc4OCwtMTUyMjc4NTgzMSwtNjcwMjYzNzY0LDE5NzE1NjY2
+OTUsLTE4NDc5MzQyMzAsLTIwNDY4ODYxMzQsLTE4MDgzNDQwMD
+ksMTE3NDY3MjM4OSwtMTQ1NDAwNDkzNywxOTg4OTU0NDAxLDQ1
+MTI3MjcyNCwtODEyNzA1MDUxLC0yNTM0NzQ0ODgsLTEwNjYxOT
+c5MzEsLTExMTEyODQ3NTIsODM3MTE4Mzg0LDk0OTM4OTE4OV19
+
 -->
