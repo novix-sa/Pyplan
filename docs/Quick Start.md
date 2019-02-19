@@ -28,7 +28,8 @@ For now just drag and drop a "Node" into the canvas, provide a Title and lets in
 And then click on the Code tab.
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 On the left space you will write your Python code. On the right side will be displayed the console output.
-
+If you double click the node, it will show its result, which in this case is a 9.
+Another alternative evaluation is the one launched pressing <Ctrl + E>
 
 
 ### User Interfaces
@@ -75,7 +76,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjY3MDI5OSwxMDQ1MzU4Nzg4LC0xNT
+eyJoaXN0b3J5IjpbLTg2ODE2NDQ2OSwxMDQ1MzU4Nzg4LC0xNT
 IyNzg1ODMxLC02NzAyNjM3NjQsMTk3MTU2NjY5NSwtMTg0Nzkz
 NDIzMCwtMjA0Njg4NjEzNCwtMTgwODM0NDAwOSwxMTc0NjcyMz
 g5LC0xNDU0MDA0OTM3LDE5ODg5NTQ0MDEsNDUxMjcyNzI0LC04
