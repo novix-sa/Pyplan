@@ -45,7 +45,7 @@ Create another node (drag and drop) called "Read External Datasource" and set it
     result = pd.read_csv('http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv', sep=None)
 You can inspect the difference on the console output vs evaluating (Ctrl R or double click) the node.
 
-![enter image description here](http://img.pyplan.org/Quick_start_first_table.png)
+![Pandas Table](http://img.pyplan.org/Quick_start_first_table.png)
 
 ## **Evaluating Nodes**
 ### How does it evaluation works
@@ -83,11 +83,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY1MTI4NzIsLTE3Mzk1MjU5MjgsLT
-E4NzQwMDUxOTMsLTg2ODE2NDQ2OSwxMDQ1MzU4Nzg4LC0xNTIy
-Nzg1ODMxLC02NzAyNjM3NjQsMTk3MTU2NjY5NSwtMTg0NzkzND
-IzMCwtMjA0Njg4NjEzNCwtMTgwODM0NDAwOSwxMTc0NjcyMzg5
-LC0xNDU0MDA0OTM3LDE5ODg5NTQ0MDEsNDUxMjcyNzI0LC04MT
-I3MDUwNTEsLTI1MzQ3NDQ4OCwtMTA2NjE5NzkzMSwtMTExMTI4
-NDc1Miw4MzcxMTgzODRdfQ==
+eyJoaXN0b3J5IjpbLTMzODE4MTEwMiwtMTczOTUyNTkyOCwtMT
+g3NDAwNTE5MywtODY4MTY0NDY5LDEwNDUzNTg3ODgsLTE1MjI3
+ODU4MzEsLTY3MDI2Mzc2NCwxOTcxNTY2Njk1LC0xODQ3OTM0Mj
+MwLC0yMDQ2ODg2MTM0LC0xODA4MzQ0MDA5LDExNzQ2NzIzODks
+LTE0NTQwMDQ5MzcsMTk4ODk1NDQwMSw0NTEyNzI3MjQsLTgxMj
+cwNTA1MSwtMjUzNDc0NDg4LC0xMDY2MTk3OTMxLC0xMTExMjg0
+NzUyLDgzNzExODM4NF19
 -->
