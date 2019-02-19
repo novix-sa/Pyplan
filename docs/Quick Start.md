@@ -13,9 +13,10 @@ After login in, you will reach the app landpage that looks like:
 With sections for creating a new model, open existing one, recover any active session, or opening tutorials and examples.
 
 ## User Interface Menu
-### File Manager
+At the homepage click on create
 ### Coding
 ### User Interfaces
+### File Manager
 
 ## Modeling Business Rules
 ### Reading External Datasources
@@ -57,9 +58,9 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc5MzQyMzAsLTIwNDY4ODYxMzQsLT
-E4MDgzNDQwMDksMTE3NDY3MjM4OSwtMTQ1NDAwNDkzNywxOTg4
-OTU0NDAxLDQ1MTI3MjcyNCwtODEyNzA1MDUxLC0yNTM0NzQ0OD
-gsLTEwNjYxOTc5MzEsLTExMTEyODQ3NTIsODM3MTE4Mzg0LDk0
-OTM4OTE4OV19
+eyJoaXN0b3J5IjpbMTk3MTU2NjY5NSwtMTg0NzkzNDIzMCwtMj
+A0Njg4NjEzNCwtMTgwODM0NDAwOSwxMTc0NjcyMzg5LC0xNDU0
+MDA0OTM3LDE5ODg5NTQ0MDEsNDUxMjcyNzI0LC04MTI3MDUwNT
+EsLTI1MzQ3NDQ4OCwtMTA2NjE5NzkzMSwtMTExMTI4NDc1Miw4
+MzcxMTgzODQsOTQ5Mzg5MTg5XX0=
 -->
