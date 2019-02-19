@@ -16,7 +16,7 @@ With sections for creating a new model, open existing one, recover any active se
 At the homepage click on create a new model, and then click on "Open Model"
 ![Open Model](http://img.pyplan.org/Quick_start_open_model.png)
 Clicking on Open Model, you will access the sandbox for creating your model logic.
-
+![Coding calculation logic](http://img.pyplan.org/Quick_start_model_code.png)
 
 ### Coding
 ### User Interfaces
@@ -62,7 +62,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzcxNjczMiwtNjcwMjYzNzY0LDE5Nz
+eyJoaXN0b3J5IjpbLTgxMzcxMTkxMCwtNjcwMjYzNzY0LDE5Nz
 E1NjY2OTUsLTE4NDc5MzQyMzAsLTIwNDY4ODYxMzQsLTE4MDgz
 NDQwMDksMTE3NDY3MjM4OSwtMTQ1NDAwNDkzNywxOTg4OTU0ND
 AxLDQ1MTI3MjcyNCwtODEyNzA1MDUxLC0yNTM0NzQ0ODgsLTEw
