@@ -18,7 +18,7 @@ After the new model workspace is created, click on "Open Model"
 Now you will access the sandbox for creating your model logic.
 ![Coding calculation logic](http://img.pyplan.org/Quick_start_model_code.png)
 
-### Coding
+## **Modeling Business Rules**
 There are five basic components for creating and organizing the calculation logic: Node, Module, Text, Button and Function.
 A Node is the place where you code the app calculation logic. It can start with a node that read an external data source, followed by another node that makes some calculations and end with a node that produces a desired output.
 ![Code Components](http://img.pyplan.org/Quick_start_code_components1.png)
@@ -32,14 +32,6 @@ If you double click the node or pressing <Ctrl + R>, it will show its result, wh
 Another alternative evaluation is the one launched pressing <Ctrl + E>, in this case, not only the console and result output will be displayed, but additional information (as data type) will be shown.
 
 ![Node Inspector](http://img.pyplan.org/Quick_start_inspector.png)
-
-### User Interfaces
-
-### File Manager
-
-## **Modeling Business Rules**
-### Reading External Datasources
-### Nodes and Calculation
 
 ## **Evaluating Nodes**
 ### How does it evaluation works
@@ -77,11 +69,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzUwMTYzNCwtODY4MTY0NDY5LDEwND
-UzNTg3ODgsLTE1MjI3ODU4MzEsLTY3MDI2Mzc2NCwxOTcxNTY2
-Njk1LC0xODQ3OTM0MjMwLC0yMDQ2ODg2MTM0LC0xODA4MzQ0MD
-A5LDExNzQ2NzIzODksLTE0NTQwMDQ5MzcsMTk4ODk1NDQwMSw0
-NTEyNzI3MjQsLTgxMjcwNTA1MSwtMjUzNDc0NDg4LC0xMDY2MT
-k3OTMxLC0xMTExMjg0NzUyLDgzNzExODM4NCw5NDkzODkxODld
-fQ==
+eyJoaXN0b3J5IjpbLTE4NzQwMDUxOTMsLTg2ODE2NDQ2OSwxMD
+Q1MzU4Nzg4LC0xNTIyNzg1ODMxLC02NzAyNjM3NjQsMTk3MTU2
+NjY5NSwtMTg0NzkzNDIzMCwtMjA0Njg4NjEzNCwtMTgwODM0ND
+AwOSwxMTc0NjcyMzg5LC0xNDU0MDA0OTM3LDE5ODg5NTQ0MDEs
+NDUxMjcyNzI0LC04MTI3MDUwNTEsLTI1MzQ3NDQ4OCwtMTA2Nj
+E5NzkzMSwtMTExMTI4NDc1Miw4MzcxMTgzODQsOTQ5Mzg5MTg5
+XX0=
 -->
