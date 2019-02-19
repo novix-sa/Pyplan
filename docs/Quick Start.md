@@ -10,11 +10,12 @@ Once identified the server address and with valid user you can login Pyplan thro
 
 After login in, you will reach the app landpage that looks like the following picture:
 ![Pyplan Homepage](http://img.pyplan.org/Quick_start_home.png)
-Here you will find sections for creating a new model, open recent models, recover any active session, or opening tutorials and examples. Click on create a new model, and then click on "Open Model"
+Here you will find sections for creating a new model, open recent models, recover any active session, or opening tutorials and examples. Click on create a new model.
 ## **Homepage Menu**
-At the homepage 
+After the new model workspace is created, click on "Open Model" 
 ![Open Model](http://img.pyplan.org/Quick_start_open_model.png)
-Clicking on Open Model, you will access the sandbox for creating your model logic.
+
+Now you will access the sandbox for creating your model logic.
 ![Coding calculation logic](http://img.pyplan.org/Quick_start_model_code.png)
 
 ### Coding
@@ -76,7 +77,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTM1MDY5NywtODY4MTY0NDY5LDEwND
+eyJoaXN0b3J5IjpbMTc5MzUwMTYzNCwtODY4MTY0NDY5LDEwND
 UzNTg3ODgsLTE1MjI3ODU4MzEsLTY3MDI2Mzc2NCwxOTcxNTY2
 Njk1LC0xODQ3OTM0MjMwLC0yMDQ2ODg2MTM0LC0xODA4MzQ0MD
 A5LDExNzQ2NzIzODksLTE0NTQwMDQ5MzcsMTk4ODk1NDQwMSw0
