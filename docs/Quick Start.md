@@ -15,6 +15,8 @@ With sections for creating a new model, open existing one, recover any active se
 ## User Interface Menu
 At the homepage click on create a new model, and then click on "Open Model"
 ![Open Model](http://img.pyplan.org/Quick_start_open_model.png)
+Clicking on Open Model,
+
 ### Coding
 ### User Interfaces
 ### File Manager
@@ -59,10 +61,10 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5NzA0ODg3LC02NzAyNjM3NjQsMTk3MT
-U2NjY5NSwtMTg0NzkzNDIzMCwtMjA0Njg4NjEzNCwtMTgwODM0
-NDAwOSwxMTc0NjcyMzg5LC0xNDU0MDA0OTM3LDE5ODg5NTQ0MD
-EsNDUxMjcyNzI0LC04MTI3MDUwNTEsLTI1MzQ3NDQ4OCwtMTA2
-NjE5NzkzMSwtMTExMTI4NDc1Miw4MzcxMTgzODQsOTQ5Mzg5MT
-g5XX0=
+eyJoaXN0b3J5IjpbLTIwNzY0Mjg0MzksLTY3MDI2Mzc2NCwxOT
+cxNTY2Njk1LC0xODQ3OTM0MjMwLC0yMDQ2ODg2MTM0LC0xODA4
+MzQ0MDA5LDExNzQ2NzIzODksLTE0NTQwMDQ5MzcsMTk4ODk1ND
+QwMSw0NTEyNzI3MjQsLTgxMjcwNTA1MSwtMjUzNDc0NDg4LC0x
+MDY2MTk3OTMxLC0xMTExMjg0NzUyLDgzNzExODM4NCw5NDkzOD
+kxODldfQ==
 -->
