@@ -26,8 +26,8 @@ For now just drag and drop a "Node" into the canvas, provide a Title and lets in
 ![First Node](http://img.pyplan.org/Quick_start_first_node.png)
 
 And then click on the Code tab.
-![Coding ](http://img.pyplan.org/Quick_start_evaluation.png)
-
+![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
+On the left space you will write your Python code. On the right side will be displayed the console output.
 
 
 
@@ -75,10 +75,10 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk4MDI2MDYsMTA0NTM1ODc4OCwtMT
-UyMjc4NTgzMSwtNjcwMjYzNzY0LDE5NzE1NjY2OTUsLTE4NDc5
-MzQyMzAsLTIwNDY4ODYxMzQsLTE4MDgzNDQwMDksMTE3NDY3Mj
-M4OSwtMTQ1NDAwNDkzNywxOTg4OTU0NDAxLDQ1MTI3MjcyNCwt
-ODEyNzA1MDUxLC0yNTM0NzQ0ODgsLTEwNjYxOTc5MzEsLTExMT
-EyODQ3NTIsODM3MTE4Mzg0LDk0OTM4OTE4OV19
+eyJoaXN0b3J5IjpbMjA3NjY3MDI5OSwxMDQ1MzU4Nzg4LC0xNT
+IyNzg1ODMxLC02NzAyNjM3NjQsMTk3MTU2NjY5NSwtMTg0Nzkz
+NDIzMCwtMjA0Njg4NjEzNCwtMTgwODM0NDAwOSwxMTc0NjcyMz
+g5LC0xNDU0MDA0OTM3LDE5ODg5NTQ0MDEsNDUxMjcyNzI0LC04
+MTI3MDUwNTEsLTI1MzQ3NDQ4OCwtMTA2NjE5NzkzMSwtMTExMT
+I4NDc1Miw4MzcxMTgzODQsOTQ5Mzg5MTg5XX0=
 -->
