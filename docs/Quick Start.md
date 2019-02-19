@@ -47,7 +47,8 @@ You can inspect the difference on the console output vs evaluating (Ctrl R or do
 
 ![Pandas Table](http://img.pyplan.org/Quick_start_first_table.png)
 
-Inspecting the node code tab you will find that some new buttons next to the Run button. These are wizards for helping Python newbies 
+Inspecting the node code tab you will find that some new buttons next to the Run button. These are wizards for helping Python newbies start learning Python coding.
+![enter image description here](http://img.pyplan.org/Quick_start_wizards.png)
 
 ## **Evaluating Nodes**
 ### How does it evaluation works
@@ -85,11 +86,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE5MjM0MjEsLTMzODE4MTEwMiwtMT
-czOTUyNTkyOCwtMTg3NDAwNTE5MywtODY4MTY0NDY5LDEwNDUz
-NTg3ODgsLTE1MjI3ODU4MzEsLTY3MDI2Mzc2NCwxOTcxNTY2Nj
-k1LC0xODQ3OTM0MjMwLC0yMDQ2ODg2MTM0LC0xODA4MzQ0MDA5
-LDExNzQ2NzIzODksLTE0NTQwMDQ5MzcsMTk4ODk1NDQwMSw0NT
-EyNzI3MjQsLTgxMjcwNTA1MSwtMjUzNDc0NDg4LC0xMDY2MTk3
-OTMxLC0xMTExMjg0NzUyXX0=
+eyJoaXN0b3J5IjpbMTAwMjE2MTM1NCwtMzM4MTgxMTAyLC0xNz
+M5NTI1OTI4LC0xODc0MDA1MTkzLC04NjgxNjQ0NjksMTA0NTM1
+ODc4OCwtMTUyMjc4NTgzMSwtNjcwMjYzNzY0LDE5NzE1NjY2OT
+UsLTE4NDc5MzQyMzAsLTIwNDY4ODYxMzQsLTE4MDgzNDQwMDks
+MTE3NDY3MjM4OSwtMTQ1NDAwNDkzNywxOTg4OTU0NDAxLDQ1MT
+I3MjcyNCwtODEyNzA1MDUxLC0yNTM0NzQ0ODgsLTEwNjYxOTc5
+MzEsLTExMTEyODQ3NTJdfQ==
 -->
