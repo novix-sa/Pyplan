@@ -27,7 +27,7 @@ There are five basic components for creating and organizing the calculation logi
  - Button 
  - Function
 
-A Node is the place where you code the app calculation logic. It can start with a node that read an external data source, followed by another node that makes some calculations and end with a node that produces a desired output.
+A **Node** is the place where you code the app calculation logic. It can start with a node that read an external data source, followed by another node that makes some calculations and end with a node that produces a desired output.
 ![Code Components](http://img.pyplan.org/Quick_start_code_components1.png)
 For now just drag and drop a "Node" into the canvas, provide a Title and lets inspect its attribute tabs.
 ![First Node](http://img.pyplan.org/Quick_start_first_node.png)
@@ -39,6 +39,9 @@ If you double click the node or pressing <Ctrl + R>, it will show its result, wh
 Another alternative evaluation is the one launched pressing <Ctrl + E>, in this case, not only the console and result output will be displayed, but additional information (as data type) will be shown.
 
 ![Node Inspector](http://img.pyplan.org/Quick_start_inspector.png)
+
+Create another node (drag and drop) called "Read External Datasource"
+
 
 ## **Evaluating Nodes**
 ### How does it evaluation works
@@ -76,11 +79,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIxOTcxLC0xODc0MDA1MTkzLC04Nj
-gxNjQ0NjksMTA0NTM1ODc4OCwtMTUyMjc4NTgzMSwtNjcwMjYz
-NzY0LDE5NzE1NjY2OTUsLTE4NDc5MzQyMzAsLTIwNDY4ODYxMz
-QsLTE4MDgzNDQwMDksMTE3NDY3MjM4OSwtMTQ1NDAwNDkzNywx
-OTg4OTU0NDAxLDQ1MTI3MjcyNCwtODEyNzA1MDUxLC0yNTM0Nz
-Q0ODgsLTEwNjYxOTc5MzEsLTExMTEyODQ3NTIsODM3MTE4Mzg0
-LDk0OTM4OTE4OV19
+eyJoaXN0b3J5IjpbLTE3NzkzMjY1OTQsLTE4NzQwMDUxOTMsLT
+g2ODE2NDQ2OSwxMDQ1MzU4Nzg4LC0xNTIyNzg1ODMxLC02NzAy
+NjM3NjQsMTk3MTU2NjY5NSwtMTg0NzkzNDIzMCwtMjA0Njg4Nj
+EzNCwtMTgwODM0NDAwOSwxMTc0NjcyMzg5LC0xNDU0MDA0OTM3
+LDE5ODg5NTQ0MDEsNDUxMjcyNzI0LC04MTI3MDUwNTEsLTI1Mz
+Q3NDQ4OCwtMTA2NjE5NzkzMSwtMTExMTI4NDc1Miw4MzcxMTgz
+ODQsOTQ5Mzg5MTg5XX0=
 -->
