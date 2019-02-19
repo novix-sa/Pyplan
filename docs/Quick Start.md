@@ -1,6 +1,6 @@
 # **Quick Start**
 
-## Login
+## **Login**
 
 You must have installed Pyplan in a server to access Pyplan.
 Or you can request a trial account to access Pyplan cloud services [here](http://pyplan.com/contact/).
@@ -12,7 +12,7 @@ After login in, you will reach the app landpage that looks like:
 ![Pyplan Homepage](http://img.pyplan.org/Quick_start_home.png)
 With sections for creating a new model, open existing one, recover any active session, or opening tutorials and examples.
 
-## User Interface Menu
+## **User Interface Menu**
 At the homepage click on create a new model, and then click on "Open Model"
 ![Open Model](http://img.pyplan.org/Quick_start_open_model.png)
 Clicking on Open Model, you will access the sandbox for creating your model logic.
@@ -37,11 +37,11 @@ Another alternative evaluation is the one launched pressing <Ctrl + E>, in this 
 
 ### File Manager
 
-## Modeling Business Rules
+## **Modeling Business Rules**
 ### Reading External Datasources
 ### Nodes and Calculation
 
-## Evaluating Nodes
+## **Evaluating Nodes**
 ### How does it evaluation works
 ### Types of data structures natively supported
 
@@ -77,11 +77,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODE0MTU1LC04NjgxNjQ0NjksMTA0NT
-M1ODc4OCwtMTUyMjc4NTgzMSwtNjcwMjYzNzY0LDE5NzE1NjY2
-OTUsLTE4NDc5MzQyMzAsLTIwNDY4ODYxMzQsLTE4MDgzNDQwMD
-ksMTE3NDY3MjM4OSwtMTQ1NDAwNDkzNywxOTg4OTU0NDAxLDQ1
-MTI3MjcyNCwtODEyNzA1MDUxLC0yNTM0NzQ0ODgsLTEwNjYxOT
-c5MzEsLTExMTEyODQ3NTIsODM3MTE4Mzg0LDk0OTM4OTE4OV19
-
+eyJoaXN0b3J5IjpbMjAwMTE5OTQzNSwtODY4MTY0NDY5LDEwND
+UzNTg3ODgsLTE1MjI3ODU4MzEsLTY3MDI2Mzc2NCwxOTcxNTY2
+Njk1LC0xODQ3OTM0MjMwLC0yMDQ2ODg2MTM0LC0xODA4MzQ0MD
+A5LDExNzQ2NzIzODksLTE0NTQwMDQ5MzcsMTk4ODk1NDQwMSw0
+NTEyNzI3MjQsLTgxMjcwNTA1MSwtMjUzNDc0NDg4LC0xMDY2MT
+k3OTMxLC0xMTExMjg0NzUyLDgzNzExODM4NCw5NDkzODkxODld
+fQ==
 -->
