@@ -8,7 +8,7 @@ Or you can request a trial account to access Pyplan cloud services [here](http:/
 Once identified the server address and with valid user you can login Pyplan through a regular Login form:
 ![](http://img.pyplan.org/Quick_start_login1.png)
 
-
+After login int
 ## User Interface Menu
 ### File Manager
 ### Coding
@@ -54,8 +54,8 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjg2NzQ3OTEsLTE4MDgzNDQwMDksMT
-E3NDY3MjM4OSwtMTQ1NDAwNDkzNywxOTg4OTU0NDAxLDQ1MTI3
-MjcyNCwtODEyNzA1MDUxLC0yNTM0NzQ0ODgsLTEwNjYxOTc5Mz
-EsLTExMTEyODQ3NTIsODM3MTE4Mzg0LDk0OTM4OTE4OV19
+eyJoaXN0b3J5IjpbNzczOTA0NTUsLTE4MDgzNDQwMDksMTE3ND
+Y3MjM4OSwtMTQ1NDAwNDkzNywxOTg4OTU0NDAxLDQ1MTI3Mjcy
+NCwtODEyNzA1MDUxLC0yNTM0NzQ0ODgsLTEwNjYxOTc5MzEsLT
+ExMTEyODQ3NTIsODM3MTE4Mzg0LDk0OTM4OTE4OV19
 -->
