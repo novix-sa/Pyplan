@@ -1,7 +1,10 @@
 # **Quick Start**
 
 ## Login
-You must have installed Pyplan in a server to acmes PyCreating an account
+You must have installed Pyplan in a server to access Pyplan.
+Or you can request a trial account to access Pyplan cloud services.
+
+Creating an account
 Login
 Start modeling
 ## User Interface Menu
@@ -49,7 +52,8 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODIyOTg1MiwxOTg4OTU0NDAxLDQ1MT
-I3MjcyNCwtODEyNzA1MDUxLC0yNTM0NzQ0ODgsLTEwNjYxOTc5
-MzEsLTExMTEyODQ3NTIsODM3MTE4Mzg0LDk0OTM4OTE4OV19
+eyJoaXN0b3J5IjpbLTE0NTQwMDQ5MzcsMTk4ODk1NDQwMSw0NT
+EyNzI3MjQsLTgxMjcwNTA1MSwtMjUzNDc0NDg4LC0xMDY2MTk3
+OTMxLC0xMTExMjg0NzUyLDgzNzExODM4NCw5NDkzODkxODldfQ
+==
 -->
