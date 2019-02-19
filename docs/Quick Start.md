@@ -1,12 +1,12 @@
 # **Quick Start**
 
 ## Login
-Creating an account
+You must have installed Pyplan in a server to acmes PyCreating an account
 Login
 Start modeling
 ## User Interface Menu
 ### File Manager
-### Modeling
+### Coding
 ### User Interfaces
 
 ## Modeling Business Rules
@@ -49,7 +49,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODk1NDQwMSw0NTEyNzI3MjQsLTgxMj
-cwNTA1MSwtMjUzNDc0NDg4LC0xMDY2MTk3OTMxLC0xMTExMjg0
-NzUyLDgzNzExODM4NCw5NDkzODkxODldfQ==
+eyJoaXN0b3J5IjpbLTI1ODIyOTg1MiwxOTg4OTU0NDAxLDQ1MT
+I3MjcyNCwtODEyNzA1MDUxLC0yNTM0NzQ0ODgsLTEwNjYxOTc5
+MzEsLTExMTEyODQ3NTIsODM3MTE4Mzg0LDk0OTM4OTE4OV19
 -->
