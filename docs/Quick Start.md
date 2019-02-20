@@ -60,7 +60,7 @@ Inspecting the node Code Tab you will find new buttons next to the Run button. T
 Through the wizards you will be able to make selections and filtering or create new calculated fields. The resulting code will be displayed on the code section at the left for you to pick up from there.
 ![Pandas Wizards](http://img.pyplan.org/Quick_start_wizards.png)
 
-### Module
+### **Module**
 Modules are ment to contain group of nodes in a way to organize large models.
 For example if your model is an integrated planning tool of a manufacturing company, the influence diagram could look like this:
 ![enter image description here](http://img.pyplan.org/Quick_start_IBP_diagram.png)
@@ -106,11 +106,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDA2MzY4MDcsNzk1MDk3MSwtNTAzMz
-k1NjMwLC0yMDExNzAxMzQ2LDE0OTY1NzIxOTAsMTgxNjQ1MDg2
-NCwtMTQzNDEzNzU1OCwtMTczODcyOTQ4MywxNDYzMzYxNjk5LC
-0zMzgxODExMDIsLTE3Mzk1MjU5MjgsLTE4NzQwMDUxOTMsLTg2
-ODE2NDQ2OSwxMDQ1MzU4Nzg4LC0xNTIyNzg1ODMxLC02NzAyNj
-M3NjQsMTk3MTU2NjY5NSwtMTg0NzkzNDIzMCwtMjA0Njg4NjEz
-NCwtMTgwODM0NDAwOV19
+eyJoaXN0b3J5IjpbLTEzMzMyMTM1NzUsLTExNDA2MzY4MDcsNz
+k1MDk3MSwtNTAzMzk1NjMwLC0yMDExNzAxMzQ2LDE0OTY1NzIx
+OTAsMTgxNjQ1MDg2NCwtMTQzNDEzNzU1OCwtMTczODcyOTQ4My
+wxNDYzMzYxNjk5LC0zMzgxODExMDIsLTE3Mzk1MjU5MjgsLTE4
+NzQwMDUxOTMsLTg2ODE2NDQ2OSwxMDQ1MzU4Nzg4LC0xNTIyNz
+g1ODMxLC02NzAyNjM3NjQsMTk3MTU2NjY5NSwtMTg0NzkzNDIz
+MCwtMjA0Njg4NjEzNF19
 -->
