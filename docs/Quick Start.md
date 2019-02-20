@@ -23,7 +23,7 @@ Now you will access the sandbox for creating your model logic.
 There are five basic components for creating and organizing the calculation logic diplayed at the right side of the modeling app.
 ![Code building blocks](http://img.pyplan.org/Quick_start_code_components2.png)
 
-
+### Node
 A **Node** is the place where you code the data analytic app calculation logic. 
 It usually start loading data from and external datasource to start analyzing.
 Different type of analysis can be conducted in separate nodes or group of nodes, sharing or not steps in the calculation logic. At the end some nodes will collect results to be shown as outputs of the app.
@@ -50,6 +50,8 @@ You can inspect the difference on the console output vs evaluating (Ctrl R or do
 Inspecting the node code tab you will find that some new buttons next to the Run button. These are [Pandas](https://pandas.pydata.org) wizards for helping Python newbies start learning Pandas.
 Through the wizards you will be able to make selections and filtering or create new calculated fields. The resulting code will be displayed on the code section at the left.
 ![Pandas Wizards](http://img.pyplan.org/Quick_start_wizards.png)
+
+###
 
 ## **Evaluating Nodes**
 ### How does it evaluation works
@@ -87,11 +89,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc5NzM3NTQsMTgxNjQ1MDg2NCwtMT
-QzNDEzNzU1OCwtMTczODcyOTQ4MywxNDYzMzYxNjk5LC0zMzgx
-ODExMDIsLTE3Mzk1MjU5MjgsLTE4NzQwMDUxOTMsLTg2ODE2ND
-Q2OSwxMDQ1MzU4Nzg4LC0xNTIyNzg1ODMxLC02NzAyNjM3NjQs
-MTk3MTU2NjY5NSwtMTg0NzkzNDIzMCwtMjA0Njg4NjEzNCwtMT
-gwODM0NDAwOSwxMTc0NjcyMzg5LC0xNDU0MDA0OTM3LDE5ODg5
-NTQ0MDEsNDUxMjcyNzI0XX0=
+eyJoaXN0b3J5IjpbMTkyNjE4NDIyNiwxODE2NDUwODY0LC0xND
+M0MTM3NTU4LC0xNzM4NzI5NDgzLDE0NjMzNjE2OTksLTMzODE4
+MTEwMiwtMTczOTUyNTkyOCwtMTg3NDAwNTE5MywtODY4MTY0ND
+Y5LDEwNDUzNTg3ODgsLTE1MjI3ODU4MzEsLTY3MDI2Mzc2NCwx
+OTcxNTY2Njk1LC0xODQ3OTM0MjMwLC0yMDQ2ODg2MTM0LC0xOD
+A4MzQ0MDA5LDExNzQ2NzIzODksLTE0NTQwMDQ5MzcsMTk4ODk1
+NDQwMSw0NTEyNzI3MjRdfQ==
 -->
