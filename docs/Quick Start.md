@@ -52,11 +52,11 @@ Another alternative way to evaluate a node is by pressing <Ctrl + E>, in this ca
 Create another node (drag and drop a node block) called "Read External Datasource" and set its definition as:
 
     result = pd.read_csv('http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv', sep=None)
-You can again inspect the difference on the console output vs evaluating (Ctrl R or double click) the node. While console output is pure text, 
+You can again inspect the difference on the console output vs evaluating (Ctrl R or double click) the node. While console output is pure text, Pyplan result is a formatted table.
 
 ![Pandas Table](http://img.pyplan.org/Quick_start_first_table.png)
 
-Inspecting the node code tab you will find that some new buttons next to the Run button. These are [Pandas](https://pandas.pydata.org) wizards for helping Python newbies start learning Pandas.
+Inspecting the node Code Tab you will find new buttons next to the Run button. These are [Pandas](https://pandas.pydata.org) wizards for helping Python newbies start learning Pandas.
 Through the wizards you will be able to make selections and filtering or create new calculated fields. The resulting code will be displayed on the code section at the left.
 ![Pandas Wizards](http://img.pyplan.org/Quick_start_wizards.png)
 
@@ -107,11 +107,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcyODQ5MDgsLTUwMzM5NTYzMCwtMj
-AxMTcwMTM0NiwxNDk2NTcyMTkwLDE4MTY0NTA4NjQsLTE0MzQx
-Mzc1NTgsLTE3Mzg3Mjk0ODMsMTQ2MzM2MTY5OSwtMzM4MTgxMT
-AyLC0xNzM5NTI1OTI4LC0xODc0MDA1MTkzLC04NjgxNjQ0Njks
-MTA0NTM1ODc4OCwtMTUyMjc4NTgzMSwtNjcwMjYzNzY0LDE5Nz
-E1NjY2OTUsLTE4NDc5MzQyMzAsLTIwNDY4ODYxMzQsLTE4MDgz
-NDQwMDksMTE3NDY3MjM4OV19
+eyJoaXN0b3J5IjpbNzk1MDk3MSwtNTAzMzk1NjMwLC0yMDExNz
+AxMzQ2LDE0OTY1NzIxOTAsMTgxNjQ1MDg2NCwtMTQzNDEzNzU1
+OCwtMTczODcyOTQ4MywxNDYzMzYxNjk5LC0zMzgxODExMDIsLT
+E3Mzk1MjU5MjgsLTE4NzQwMDUxOTMsLTg2ODE2NDQ2OSwxMDQ1
+MzU4Nzg4LC0xNTIyNzg1ODMxLC02NzAyNjM3NjQsMTk3MTU2Nj
+Y5NSwtMTg0NzkzNDIzMCwtMjA0Njg4NjEzNCwtMTgwODM0NDAw
+OSwxMTc0NjcyMzg5XX0=
 -->
