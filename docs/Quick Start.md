@@ -33,16 +33,18 @@ Let's create a simple analysis to understand how Pyplan works.
 As a first step, drag and drop a "Node" into the canvas, provide a Title:"My first node". After accepting the title (or pressing the TAB key) an ID will be automatically provided.
 ![First Node](http://img.pyplan.org/Quick_start_first_node.png)
 
-Then click on the Code tab and copy and paste the following code:
+Then copy the following code and click on the Code tab:
 
     a = 4
     b = 5
     print('parameters: ' + str(a) + ',' + str(b))
     result = a+b
   
+On the left space you will write your Python code. On the right side will be displayed the console output.
+
   You should see something like this:
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
-On the left space you will write your Python code. On the right side will be displayed the console output.
+
 If you double click the node or press <Ctrl + R>, it will show its result, which in this case is a 9.
 Another alternative way to evaluate a node is by pressing <Ctrl + E>, in this case, not only the console and result output will be displayed, but additional information (as data type) will be shown. It is possible also to inspect calculation performance clicking on **Show Profile** for tunning your code.
 
@@ -106,11 +108,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzM5NTYzMCwtMjAxMTcwMTM0NiwxND
-k2NTcyMTkwLDE4MTY0NTA4NjQsLTE0MzQxMzc1NTgsLTE3Mzg3
-Mjk0ODMsMTQ2MzM2MTY5OSwtMzM4MTgxMTAyLC0xNzM5NTI1OT
-I4LC0xODc0MDA1MTkzLC04NjgxNjQ0NjksMTA0NTM1ODc4OCwt
-MTUyMjc4NTgzMSwtNjcwMjYzNzY0LDE5NzE1NjY2OTUsLTE4ND
-c5MzQyMzAsLTIwNDY4ODYxMzQsLTE4MDgzNDQwMDksMTE3NDY3
-MjM4OSwtMTQ1NDAwNDkzN119
+eyJoaXN0b3J5IjpbMTUwMTc5MDI3NiwtNTAzMzk1NjMwLC0yMD
+ExNzAxMzQ2LDE0OTY1NzIxOTAsMTgxNjQ1MDg2NCwtMTQzNDEz
+NzU1OCwtMTczODcyOTQ4MywxNDYzMzYxNjk5LC0zMzgxODExMD
+IsLTE3Mzk1MjU5MjgsLTE4NzQwMDUxOTMsLTg2ODE2NDQ2OSwx
+MDQ1MzU4Nzg4LC0xNTIyNzg1ODMxLC02NzAyNjM3NjQsMTk3MT
+U2NjY5NSwtMTg0NzkzNDIzMCwtMjA0Njg4NjEzNCwtMTgwODM0
+NDAwOSwxMTc0NjcyMzg5XX0=
 -->
