@@ -35,8 +35,8 @@ For now just drag and drop a "Node" into the canvas, provide a Title and lets in
 And then click on the Code tab.
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 On the left space you will write your Python code. On the right side will be displayed the console output.
-If you double click the node or pressing <Ctrl + R>, it will show its result, which in this case is a 9.
-Another alternative evaluation is the one launched pressing <Ctrl + E>, in this case, not only the console and result output will be displayed, but additional information (as data type) will be shown.
+If you double click the node or press <Ctrl + R>, it will show its result, which in this case is a 9.
+Another alternative way to evaluate a node is by pressing <Ctrl + E>, in this case, not only the console and result output will be displayed, but additional information (as data type) will be shown. It is possible also to inspect calculation performance for tunning your code.
 
 ![Node Inspector](http://img.pyplan.org/Quick_start_inspector.png)
 
@@ -86,11 +86,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQxMzc1NTgsLTE3Mzg3Mjk0ODMsMT
-Q2MzM2MTY5OSwtMzM4MTgxMTAyLC0xNzM5NTI1OTI4LC0xODc0
-MDA1MTkzLC04NjgxNjQ0NjksMTA0NTM1ODc4OCwtMTUyMjc4NT
-gzMSwtNjcwMjYzNzY0LDE5NzE1NjY2OTUsLTE4NDc5MzQyMzAs
-LTIwNDY4ODYxMzQsLTE4MDgzNDQwMDksMTE3NDY3MjM4OSwtMT
-Q1NDAwNDkzNywxOTg4OTU0NDAxLDQ1MTI3MjcyNCwtODEyNzA1
-MDUxLC0yNTM0NzQ0ODhdfQ==
+eyJoaXN0b3J5IjpbNDM0NzA5Mjc5LC0xNDM0MTM3NTU4LC0xNz
+M4NzI5NDgzLDE0NjMzNjE2OTksLTMzODE4MTEwMiwtMTczOTUy
+NTkyOCwtMTg3NDAwNTE5MywtODY4MTY0NDY5LDEwNDUzNTg3OD
+gsLTE1MjI3ODU4MzEsLTY3MDI2Mzc2NCwxOTcxNTY2Njk1LC0x
+ODQ3OTM0MjMwLC0yMDQ2ODg2MTM0LC0xODA4MzQ0MDA5LDExNz
+Q2NzIzODksLTE0NTQwMDQ5MzcsMTk4ODk1NDQwMSw0NTEyNzI3
+MjQsLTgxMjcwNTA1MV19
 -->
