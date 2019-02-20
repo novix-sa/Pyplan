@@ -36,9 +36,10 @@ As a first step, drag and drop a "Node" into the canvas, provide a Title:"My fir
 Then click on the Code tab and copy and paste the following code:
 
     a = 4
-b = 5
-print('parameters: ' + str(a) + ',' + str(b))
-result = a+b 
+    b = 5
+    print('parameters: ' + str(a) + ',' + str(b))
+    result = a+b
+  
 
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 On the left space you will write your Python code. On the right side will be displayed the console output.
@@ -105,7 +106,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjExMzExMCwtMjAxMTcwMTM0NiwxND
+eyJoaXN0b3J5IjpbMTY2MzU5MTMwNCwtMjAxMTcwMTM0NiwxND
 k2NTcyMTkwLDE4MTY0NTA4NjQsLTE0MzQxMzc1NTgsLTE3Mzg3
 Mjk0ODMsMTQ2MzM2MTY5OSwtMzM4MTgxMTAyLC0xNzM5NTI1OT
 I4LC0xODc0MDA1MTkzLC04NjgxNjQ0NjksMTA0NTM1ODc4OCwt
