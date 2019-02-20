@@ -51,7 +51,8 @@ Inspecting the node code tab you will find that some new buttons next to the Run
 Through the wizards you will be able to make selections and filtering or create new calculated fields. The resulting code will be displayed on the code section at the left.
 ![Pandas Wizards](http://img.pyplan.org/Quick_start_wizards.png)
 
-###
+### Module
+### Text
 
 ## **Evaluating Nodes**
 ### How does it evaluation works
@@ -89,7 +90,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjE4NDIyNiwxODE2NDUwODY0LC0xND
+eyJoaXN0b3J5IjpbMTQ5NjU3MjE5MCwxODE2NDUwODY0LC0xND
 M0MTM3NTU4LC0xNzM4NzI5NDgzLDE0NjMzNjE2OTksLTMzODE4
 MTEwMiwtMTczOTUyNTkyOCwtMTg3NDAwNTE5MywtODY4MTY0ND
 Y5LDEwNDUzNTg3ODgsLTE1MjI3ODU4MzEsLTY3MDI2Mzc2NCwx
