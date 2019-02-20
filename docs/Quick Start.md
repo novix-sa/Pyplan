@@ -30,7 +30,7 @@ The app logic, usually starts loading data from an external datasource. Differen
 At the end some nodes will collect results to be shown as outputs of the app.
 
 Let's create a simple analysis to understand how Pyplan works.
-As a first step, drag and drop a "Node" into the canvas, provide a Title:"My first node" and lets inspect its attribute tabs.
+As a first step, drag and drop a "Node" into the canvas, provide a Title:"My first node". After accepting the title (or pressing the TAB key) an ID will be automatically provided. and lets inspect its attribute tabs.
 ![First Node](http://img.pyplan.org/Quick_start_first_node.png)
 
 And then click on the Code tab.
@@ -99,11 +99,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDI5NTcwNywtMjAxMTcwMTM0NiwxND
-k2NTcyMTkwLDE4MTY0NTA4NjQsLTE0MzQxMzc1NTgsLTE3Mzg3
-Mjk0ODMsMTQ2MzM2MTY5OSwtMzM4MTgxMTAyLC0xNzM5NTI1OT
-I4LC0xODc0MDA1MTkzLC04NjgxNjQ0NjksMTA0NTM1ODc4OCwt
-MTUyMjc4NTgzMSwtNjcwMjYzNzY0LDE5NzE1NjY2OTUsLTE4ND
-c5MzQyMzAsLTIwNDY4ODYxMzQsLTE4MDgzNDQwMDksMTE3NDY3
-MjM4OSwtMTQ1NDAwNDkzN119
+eyJoaXN0b3J5IjpbNTA1MTI1MDc1LC0yMDExNzAxMzQ2LDE0OT
+Y1NzIxOTAsMTgxNjQ1MDg2NCwtMTQzNDEzNzU1OCwtMTczODcy
+OTQ4MywxNDYzMzYxNjk5LC0zMzgxODExMDIsLTE3Mzk1MjU5Mj
+gsLTE4NzQwMDUxOTMsLTg2ODE2NDQ2OSwxMDQ1MzU4Nzg4LC0x
+NTIyNzg1ODMxLC02NzAyNjM3NjQsMTk3MTU2NjY5NSwtMTg0Nz
+kzNDIzMCwtMjA0Njg4NjEzNCwtMTgwODM0NDAwOSwxMTc0Njcy
+Mzg5LC0xNDU0MDA0OTM3XX0=
 -->
