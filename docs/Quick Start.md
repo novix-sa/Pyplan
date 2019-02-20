@@ -65,16 +65,10 @@ Modules are ment to contain group of nodes in a way to organize large models.
 For example if your model is an integrated planning tool of a manufacturing company, the influence diagram could look like this:
 ![enter image description here](http://img.pyplan.org/Quick_start_IBP_diagram.png)
 
-
+Where each module contains the underlying logic of each area of a company. In this example, the Supply & Operation Planning Module looks like this:
 
 ![S&OP](http://img.pyplan.org/Quick_start_sop.png)
 
-Where each module contains the underlying logic of each area of a company. In this example, the Supply & Operation Planning Module looks like this:
-
-
-
-
-### Text
 
 ## **Evaluating Nodes**
 ### How does it evaluation works
@@ -112,11 +106,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODcwMTYxMSw3OTUwOTcxLC01MDMzOT
-U2MzAsLTIwMTE3MDEzNDYsMTQ5NjU3MjE5MCwxODE2NDUwODY0
-LC0xNDM0MTM3NTU4LC0xNzM4NzI5NDgzLDE0NjMzNjE2OTksLT
-MzODE4MTEwMiwtMTczOTUyNTkyOCwtMTg3NDAwNTE5MywtODY4
-MTY0NDY5LDEwNDUzNTg3ODgsLTE1MjI3ODU4MzEsLTY3MDI2Mz
-c2NCwxOTcxNTY2Njk1LC0xODQ3OTM0MjMwLC0yMDQ2ODg2MTM0
-LC0xODA4MzQ0MDA5XX0=
+eyJoaXN0b3J5IjpbLTExNDA2MzY4MDcsNzk1MDk3MSwtNTAzMz
+k1NjMwLC0yMDExNzAxMzQ2LDE0OTY1NzIxOTAsMTgxNjQ1MDg2
+NCwtMTQzNDEzNzU1OCwtMTczODcyOTQ4MywxNDYzMzYxNjk5LC
+0zMzgxODExMDIsLTE3Mzk1MjU5MjgsLTE4NzQwMDUxOTMsLTg2
+ODE2NDQ2OSwxMDQ1MzU4Nzg4LC0xNTIyNzg1ODMxLC02NzAyNj
+M3NjQsMTk3MTU2NjY5NSwtMTg0NzkzNDIzMCwtMjA0Njg4NjEz
+NCwtMTgwODM0NDAwOV19
 -->
