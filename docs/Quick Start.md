@@ -63,6 +63,8 @@ Through the wizards you will be able to make selections and filtering or create 
 ### Module
 Modules are ment to contain group of nodes in a way to organize large models.
 For example if your model is an integrated planning tool of a manufacturing company, the influence diagram could look like this:
+![enter image description here](http://img.pyplan.org/Quick_start_IBP_diagram.png)
+
 
 
 ![S&OP](http://img.pyplan.org/Quick_start_sop.png)
@@ -110,11 +112,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NDc1NDYxLDc5NTA5NzEsLTUwMzM5NT
-YzMCwtMjAxMTcwMTM0NiwxNDk2NTcyMTkwLDE4MTY0NTA4NjQs
-LTE0MzQxMzc1NTgsLTE3Mzg3Mjk0ODMsMTQ2MzM2MTY5OSwtMz
-M4MTgxMTAyLC0xNzM5NTI1OTI4LC0xODc0MDA1MTkzLC04Njgx
-NjQ0NjksMTA0NTM1ODc4OCwtMTUyMjc4NTgzMSwtNjcwMjYzNz
-Y0LDE5NzE1NjY2OTUsLTE4NDc5MzQyMzAsLTIwNDY4ODYxMzQs
-LTE4MDgzNDQwMDldfQ==
+eyJoaXN0b3J5IjpbMTQ1ODcwMTYxMSw3OTUwOTcxLC01MDMzOT
+U2MzAsLTIwMTE3MDEzNDYsMTQ5NjU3MjE5MCwxODE2NDUwODY0
+LC0xNDM0MTM3NTU4LC0xNzM4NzI5NDgzLDE0NjMzNjE2OTksLT
+MzODE4MTEwMiwtMTczOTUyNTkyOCwtMTg3NDAwNTE5MywtODY4
+MTY0NDY5LDEwNDUzNTg3ODgsLTE1MjI3ODU4MzEsLTY3MDI2Mz
+c2NCwxOTcxNTY2Njk1LC0xODQ3OTM0MjMwLC0yMDQ2ODg2MTM0
+LC0xODA4MzQ0MDA5XX0=
 -->
