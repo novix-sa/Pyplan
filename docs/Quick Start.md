@@ -52,7 +52,7 @@ Through the wizards you will be able to make selections and filtering or create 
 ![Pandas Wizards](http://img.pyplan.org/Quick_start_wizards.png)
 
 ### Module
-Modules are ment to contain group of nodes 
+Modules are ment to contain group of nodes. For example if you 
 ### Text
 
 ## **Evaluating Nodes**
@@ -91,7 +91,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODM1MTc0MywxNDk2NTcyMTkwLDE4MT
+eyJoaXN0b3J5IjpbLTY5NTQ3ODY5MiwxNDk2NTcyMTkwLDE4MT
 Y0NTA4NjQsLTE0MzQxMzc1NTgsLTE3Mzg3Mjk0ODMsMTQ2MzM2
 MTY5OSwtMzM4MTgxMTAyLC0xNzM5NTI1OTI4LC0xODc0MDA1MT
 kzLC04NjgxNjQ0NjksMTA0NTM1ODc4OCwtMTUyMjc4NTgzMSwt
