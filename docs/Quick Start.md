@@ -36,11 +36,11 @@ And then click on the Code tab.
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 On the left space you will write your Python code. On the right side will be displayed the console output.
 If you double click the node or press <Ctrl + R>, it will show its result, which in this case is a 9.
-Another alternative way to evaluate a node is by pressing <Ctrl + E>, in this case, not only the console and result output will be displayed, but additional information (as data type) will be shown. It is possible also to inspect calculation performance for tunning your code.
+Another alternative way to evaluate a node is by pressing <Ctrl + E>, in this case, not only the console and result output will be displayed, but additional information (as data type) will be shown. It is possible also to inspect calculation performance clicking on **Show Profile** for tunning your code.
 
 ![Node Inspector](http://img.pyplan.org/Quick_start_inspector.png)
 
-Create another node (drag and drop) called "Read External Datasource" and set its definition as:
+Create another node (drag and drop a node block) called "Read External Datasource" and set its definition as:
 
     result = pd.read_csv('http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv', sep=None)
 You can inspect the difference on the console output vs evaluating (Ctrl R or double click) the node.
@@ -86,11 +86,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0NzA5Mjc5LC0xNDM0MTM3NTU4LC0xNz
-M4NzI5NDgzLDE0NjMzNjE2OTksLTMzODE4MTEwMiwtMTczOTUy
-NTkyOCwtMTg3NDAwNTE5MywtODY4MTY0NDY5LDEwNDUzNTg3OD
-gsLTE1MjI3ODU4MzEsLTY3MDI2Mzc2NCwxOTcxNTY2Njk1LC0x
-ODQ3OTM0MjMwLC0yMDQ2ODg2MTM0LC0xODA4MzQ0MDA5LDExNz
-Q2NzIzODksLTE0NTQwMDQ5MzcsMTk4ODk1NDQwMSw0NTEyNzI3
-MjQsLTgxMjcwNTA1MV19
+eyJoaXN0b3J5IjpbMjA2NTIyNDQ0NCwtMTQzNDEzNzU1OCwtMT
+czODcyOTQ4MywxNDYzMzYxNjk5LC0zMzgxODExMDIsLTE3Mzk1
+MjU5MjgsLTE4NzQwMDUxOTMsLTg2ODE2NDQ2OSwxMDQ1MzU4Nz
+g4LC0xNTIyNzg1ODMxLC02NzAyNjM3NjQsMTk3MTU2NjY5NSwt
+MTg0NzkzNDIzMCwtMjA0Njg4NjEzNCwtMTgwODM0NDAwOSwxMT
+c0NjcyMzg5LC0xNDU0MDA0OTM3LDE5ODg5NTQ0MDEsNDUxMjcy
+NzI0LC04MTI3MDUwNTFdfQ==
 -->
