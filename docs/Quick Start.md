@@ -24,7 +24,8 @@ There are five basic components for creating and organizing the calculation logi
 ![Code building blocks](http://img.pyplan.org/Quick_start_code_components2.png)
 
 
-A **Node** is the place where you code the app calculation logic. It can start with a node that read an external data source, followed by another node that makes some calculations and end with a node that produces a desired output.
+A **Node** is the place where you code the data analytic app calculation logic. 
+It usually start loading data from and external datasource to start analyzingwith a node that read an external data source, followed by another node that makes some calculations and end with a node that produces a desired output.
 ![Code Components](http://img.pyplan.org/Quick_start_code_components1.png)
 For now just drag and drop a "Node" into the canvas, provide a Title and lets inspect its attribute tabs.
 ![First Node](http://img.pyplan.org/Quick_start_first_node.png)
@@ -83,7 +84,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDUwNDMyNzUsLTE3Mzg3Mjk0ODMsMT
+eyJoaXN0b3J5IjpbLTIxMjUxNTQyNzgsLTE3Mzg3Mjk0ODMsMT
 Q2MzM2MTY5OSwtMzM4MTgxMTAyLC0xNzM5NTI1OTI4LC0xODc0
 MDA1MTkzLC04NjgxNjQ0NjksMTA0NTM1ODc4OCwtMTUyMjc4NT
 gzMSwtNjcwMjYzNzY0LDE5NzE1NjY2OTUsLTE4NDc5MzQyMzAs
