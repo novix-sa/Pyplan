@@ -40,7 +40,7 @@ Then click on the Code tab and copy and paste the following code:
     print('parameters: ' + str(a) + ',' + str(b))
     result = a+b
   
-
+  You should see something like this:
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 On the left space you will write your Python code. On the right side will be displayed the console output.
 If you double click the node or press <Ctrl + R>, it will show its result, which in this case is a 9.
@@ -106,7 +106,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzU5MTMwNCwtMjAxMTcwMTM0NiwxND
+eyJoaXN0b3J5IjpbLTUwMzM5NTYzMCwtMjAxMTcwMTM0NiwxND
 k2NTcyMTkwLDE4MTY0NTA4NjQsLTE0MzQxMzc1NTgsLTE3Mzg3
 Mjk0ODMsMTQ2MzM2MTY5OSwtMzM4MTgxMTAyLC0xNzM5NTI1OT
 I4LC0xODc0MDA1MTkzLC04NjgxNjQ0NjksMTA0NTM1ODc4OCwt
