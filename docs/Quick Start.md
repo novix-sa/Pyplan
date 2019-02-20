@@ -53,7 +53,9 @@ Through the wizards you will be able to make selections and filtering or create 
 
 ### Module
 Modules are ment to contain group of nodes. For example if your model is an integrated planning tool of a manufacturing company, the influence diagram could look like this:
-![](http://img.pyplan.org/Quick_start_IBP_Diagram.png)
+![](http://img.pyplan.org/Quick_start_IBP_diagram.png)
+
+Where each module contains the underlying logic of each area of a company. In this example, the Supply & Operation Planning Module looks li
 
 
 ### Text
@@ -94,7 +96,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjAzNjI4MiwxNDk2NTcyMTkwLDE4MT
+eyJoaXN0b3J5IjpbLTExNjkwNjkzMSwxNDk2NTcyMTkwLDE4MT
 Y0NTA4NjQsLTE0MzQxMzc1NTgsLTE3Mzg3Mjk0ODMsMTQ2MzM2
 MTY5OSwtMzM4MTgxMTAyLC0xNzM5NTI1OTI4LC0xODc0MDA1MT
 kzLC04NjgxNjQ0NjksMTA0NTM1ODc4OCwtMTUyMjc4NTgzMSwt
