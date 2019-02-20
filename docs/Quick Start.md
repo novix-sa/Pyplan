@@ -48,7 +48,7 @@ You can inspect the difference on the console output vs evaluating (Ctrl R or do
 ![Pandas Table](http://img.pyplan.org/Quick_start_first_table.png)
 
 Inspecting the node code tab you will find that some new buttons next to the Run button. These are [Pandas](https://pandas.pydata.org) wizards for helping Python newbies start learning Pandas.
-Through the wizards you will be able to make selections and filter or create new fields. The resulting code will be displayed on the code section at the left.
+Through the wizards you will be able to make selections and filtering or create new calculated fields. The resulting code will be displayed on the code section at the left.
 ![Pandas Wizards](http://img.pyplan.org/Quick_start_wizards.png)
 
 ## **Evaluating Nodes**
@@ -87,11 +87,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjQ1MDg2NCwtMTQzNDEzNzU1OCwtMT
-czODcyOTQ4MywxNDYzMzYxNjk5LC0zMzgxODExMDIsLTE3Mzk1
-MjU5MjgsLTE4NzQwMDUxOTMsLTg2ODE2NDQ2OSwxMDQ1MzU4Nz
-g4LC0xNTIyNzg1ODMxLC02NzAyNjM3NjQsMTk3MTU2NjY5NSwt
-MTg0NzkzNDIzMCwtMjA0Njg4NjEzNCwtMTgwODM0NDAwOSwxMT
-c0NjcyMzg5LC0xNDU0MDA0OTM3LDE5ODg5NTQ0MDEsNDUxMjcy
-NzI0LC04MTI3MDUwNTFdfQ==
+eyJoaXN0b3J5IjpbLTE5Mzc5NzM3NTQsMTgxNjQ1MDg2NCwtMT
+QzNDEzNzU1OCwtMTczODcyOTQ4MywxNDYzMzYxNjk5LC0zMzgx
+ODExMDIsLTE3Mzk1MjU5MjgsLTE4NzQwMDUxOTMsLTg2ODE2ND
+Q2OSwxMDQ1MzU4Nzg4LC0xNTIyNzg1ODMxLC02NzAyNjM3NjQs
+MTk3MTU2NjY5NSwtMTg0NzkzNDIzMCwtMjA0Njg4NjEzNCwtMT
+gwODM0NDAwOSwxMTc0NjcyMzg5LC0xNDU0MDA0OTM3LDE5ODg5
+NTQ0MDEsNDUxMjcyNzI0XX0=
 -->
