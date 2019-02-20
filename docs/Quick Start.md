@@ -44,7 +44,7 @@ On the left space of the Code Tab, you will paste your Python code. On the right
 After clicking the run button on the same tab, uou should see something like this:
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 
-If you double click the node or press <Ctrl + R>, it will show its result, which in this case is a 9.
+If you double click the node or press <Ctrl + R>, it will show its result, which in this case is a 9. You can appreciate the difference between the console output and the node result.
 Another alternative way to evaluate a node is by pressing <Ctrl + E>, in this case, not only the console and result output will be displayed, but additional information (as data type) will be shown. It is possible also to inspect calculation performance clicking on **Show Profile** for tunning your code.
 
 ![Node Inspector](http://img.pyplan.org/Quick_start_inspector.png)
@@ -107,7 +107,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDgwMDI4NSwtNTAzMzk1NjMwLC0yMD
+eyJoaXN0b3J5IjpbMTMwMDI4OTc4NiwtNTAzMzk1NjMwLC0yMD
 ExNzAxMzQ2LDE0OTY1NzIxOTAsMTgxNjQ1MDg2NCwtMTQzNDEz
 NzU1OCwtMTczODcyOTQ4MywxNDYzMzYxNjk5LC0zMzgxODExMD
 IsLTE3Mzk1MjU5MjgsLTE4NzQwMDUxOTMsLTg2ODE2NDQ2OSwx
