@@ -10,7 +10,8 @@ Once identified the server address and with valid user you can login Pyplan thro
 
 After login in, you will reach the app landpage that looks like the following picture:
 ![Pyplan Homepage](http://img.pyplan.org/Quick_start_home.png)
-Here you will find sections for creating a new model, open recent models, recover any active session, or opening tutorials and examples. Click on create a new model.
+Here you will find sections for creating a new model, open recent models, recover any active session, or opening tutorials and examples. 
+Click on create a new model.
 ## **Homepage Menu**
 After the new model workspace is created, click on "Open Model" 
 ![Open Model](http://img.pyplan.org/Quick_start_open_model.png)
@@ -86,11 +87,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzM2MTY5OSwtMzM4MTgxMTAyLC0xNz
-M5NTI1OTI4LC0xODc0MDA1MTkzLC04NjgxNjQ0NjksMTA0NTM1
-ODc4OCwtMTUyMjc4NTgzMSwtNjcwMjYzNzY0LDE5NzE1NjY2OT
-UsLTE4NDc5MzQyMzAsLTIwNDY4ODYxMzQsLTE4MDgzNDQwMDks
-MTE3NDY3MjM4OSwtMTQ1NDAwNDkzNywxOTg4OTU0NDAxLDQ1MT
-I3MjcyNCwtODEyNzA1MDUxLC0yNTM0NzQ0ODgsLTEwNjYxOTc5
-MzEsLTExMTEyODQ3NTJdfQ==
+eyJoaXN0b3J5IjpbLTE3Mzg3Mjk0ODMsMTQ2MzM2MTY5OSwtMz
+M4MTgxMTAyLC0xNzM5NTI1OTI4LC0xODc0MDA1MTkzLC04Njgx
+NjQ0NjksMTA0NTM1ODc4OCwtMTUyMjc4NTgzMSwtNjcwMjYzNz
+Y0LDE5NzE1NjY2OTUsLTE4NDc5MzQyMzAsLTIwNDY4ODYxMzQs
+LTE4MDgzNDQwMDksMTE3NDY3MjM4OSwtMTQ1NDAwNDkzNywxOT
+g4OTU0NDAxLDQ1MTI3MjcyNCwtODEyNzA1MDUxLC0yNTM0NzQ0
+ODgsLTEwNjYxOTc5MzFdfQ==
 -->
