@@ -70,7 +70,7 @@ Where each module contains the underlying logic of each area of a company. In th
 ![S&OP](http://img.pyplan.org/Quick_start_sop.png)
 
 
-## **Evaluating Nodes**
+## **Evaluating and Visualizing Data**
 ### How does it evaluation works
 ### Types of data structures natively supported
 
@@ -106,11 +106,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMyMTM1NzUsLTExNDA2MzY4MDcsNz
-k1MDk3MSwtNTAzMzk1NjMwLC0yMDExNzAxMzQ2LDE0OTY1NzIx
-OTAsMTgxNjQ1MDg2NCwtMTQzNDEzNzU1OCwtMTczODcyOTQ4My
-wxNDYzMzYxNjk5LC0zMzgxODExMDIsLTE3Mzk1MjU5MjgsLTE4
-NzQwMDUxOTMsLTg2ODE2NDQ2OSwxMDQ1MzU4Nzg4LC0xNTIyNz
-g1ODMxLC02NzAyNjM3NjQsMTk3MTU2NjY5NSwtMTg0NzkzNDIz
-MCwtMjA0Njg4NjEzNF19
+eyJoaXN0b3J5IjpbMzUxMzE3NTY0LC0xMzMzMjEzNTc1LC0xMT
+QwNjM2ODA3LDc5NTA5NzEsLTUwMzM5NTYzMCwtMjAxMTcwMTM0
+NiwxNDk2NTcyMTkwLDE4MTY0NTA4NjQsLTE0MzQxMzc1NTgsLT
+E3Mzg3Mjk0ODMsMTQ2MzM2MTY5OSwtMzM4MTgxMTAyLC0xNzM5
+NTI1OTI4LC0xODc0MDA1MTkzLC04NjgxNjQ0NjksMTA0NTM1OD
+c4OCwtMTUyMjc4NTgzMSwtNjcwMjYzNzY0LDE5NzE1NjY2OTUs
+LTE4NDc5MzQyMzBdfQ==
 -->
