@@ -72,6 +72,7 @@ Where each module contains the underlying logic of each area of a company. In th
 
 ## **Evaluating and Visualizing Data**
 ### How does it evaluation works
+dependency solved, memory persistency
 ### Types of data structures natively supported
 
 ## **Creating an App User Interface**
@@ -106,7 +107,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxMzE3NTY0LC0xMzMzMjEzNTc1LC0xMT
+eyJoaXN0b3J5IjpbMzE4MDAwOTkyLC0xMzMzMjEzNTc1LC0xMT
 QwNjM2ODA3LDc5NTA5NzEsLTUwMzM5NTYzMCwtMjAxMTcwMTM0
 NiwxNDk2NTcyMTkwLDE4MTY0NTA4NjQsLTE0MzQxMzc1NTgsLT
 E3Mzg3Mjk0ODMsMTQ2MzM2MTY5OSwtMzM4MTgxMTAyLC0xNzM5
