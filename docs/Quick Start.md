@@ -87,8 +87,7 @@ The first one is by clicking on the **"Run"** button that you will finde in the 
 Try adding `Print('Hello World')`in the first line before the result definition. Run the node and check the console output.
 You will find this functionality useful for inspecting intermediate values in your calculations.
 
-The second alternative  to evaluate 
-
+The second alternative is, after selecting the node, pressing **<Ctrl + E>**. In this case 
 In order to understand how the Pyplan evaluation works
 
 ### How does it evaluation works
@@ -127,11 +126,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNjk5MDQsMTA4NzEwODM3NywtMTUwMz
-UwNjkyOSwtNjAwNjI4MzYwLDIxODM2MDU0OCwxNzgxNDExNTM4
-LDM1Nzc3MzIyNiwtMjcyMzk1MDgxLC0xNzk3NDUxNDM4LC0zMD
-kzMjU2ODMsMzE4MDAwOTkyLC0xMzMzMjEzNTc1LC0xMTQwNjM2
-ODA3LDc5NTA5NzEsLTUwMzM5NTYzMCwtMjAxMTcwMTM0NiwxND
-k2NTcyMTkwLDE4MTY0NTA4NjQsLTE0MzQxMzc1NTgsLTE3Mzg3
-Mjk0ODNdfQ==
+eyJoaXN0b3J5IjpbMjEyNDM4MDA0LDEwODcxMDgzNzcsLTE1MD
+M1MDY5MjksLTYwMDYyODM2MCwyMTgzNjA1NDgsMTc4MTQxMTUz
+OCwzNTc3NzMyMjYsLTI3MjM5NTA4MSwtMTc5NzQ1MTQzOCwtMz
+A5MzI1NjgzLDMxODAwMDk5MiwtMTMzMzIxMzU3NSwtMTE0MDYz
+NjgwNyw3OTUwOTcxLC01MDMzOTU2MzAsLTIwMTE3MDEzNDYsMT
+Q5NjU3MjE5MCwxODE2NDUwODY0LC0xNDM0MTM3NTU4LC0xNzM4
+NzI5NDgzXX0=
 -->
