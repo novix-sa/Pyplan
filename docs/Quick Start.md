@@ -71,8 +71,8 @@ Where each module contains the underlying logic of each area of a company. In th
 
 
 ## **Evaluating and Visualizing Data**
-Open the app called "My First App" that you will find in the Public folder:
-![My First App file](http://img.pyplan.org/Quick_start_file_app.png)
+Open the app called "My First App.ppl" that you will find in the Public folder:
+![My First App file](http://img.pyplan.org/Quick_start_file_app_.png)
 
 In order to understand how the Pyplan evaluation works
 
@@ -112,11 +112,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc0NTE0MzgsLTMwOTMyNTY4MywzMT
-gwMDA5OTIsLTEzMzMyMTM1NzUsLTExNDA2MzY4MDcsNzk1MDk3
-MSwtNTAzMzk1NjMwLC0yMDExNzAxMzQ2LDE0OTY1NzIxOTAsMT
-gxNjQ1MDg2NCwtMTQzNDEzNzU1OCwtMTczODcyOTQ4MywxNDYz
-MzYxNjk5LC0zMzgxODExMDIsLTE3Mzk1MjU5MjgsLTE4NzQwMD
-UxOTMsLTg2ODE2NDQ2OSwxMDQ1MzU4Nzg4LC0xNTIyNzg1ODMx
-LC02NzAyNjM3NjRdfQ==
+eyJoaXN0b3J5IjpbLTI3MjM5NTA4MSwtMTc5NzQ1MTQzOCwtMz
+A5MzI1NjgzLDMxODAwMDk5MiwtMTMzMzIxMzU3NSwtMTE0MDYz
+NjgwNyw3OTUwOTcxLC01MDMzOTU2MzAsLTIwMTE3MDEzNDYsMT
+Q5NjU3MjE5MCwxODE2NDUwODY0LC0xNDM0MTM3NTU4LC0xNzM4
+NzI5NDgzLDE0NjMzNjE2OTksLTMzODE4MTEwMiwtMTczOTUyNT
+kyOCwtMTg3NDAwNTE5MywtODY4MTY0NDY5LDEwNDUzNTg3ODgs
+LTE1MjI3ODU4MzFdfQ==
 -->
