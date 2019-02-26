@@ -78,9 +78,9 @@ In order to explore the evaluation and visualization alternatives, let's copy to
 
 ![enter image description here](http://img.pyplan.org/Quick_start_own_ws.png)
 
-Now open the copied file and then go to the model (Click Open Model, or the Model icon at the left). You should see the following diagram.
-
-![enter image description here](http://img.pyplan.org/Quick_start_mfa_model.png)
+Now open the copied file and then go to the model (Click Open Model, or the Model icon at the left). You should see the following diagram:
+![enter image description here](http://img.pyplan.org/Quick_start_mfa_model_.png)
+Now you can i
 In order to understand how the Pyplan evaluation works
 
 ### How does it evaluation works
@@ -119,7 +119,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTU0MzIzNCwxMDg3MTA4Mzc3LC0xNT
+eyJoaXN0b3J5IjpbLTU1NjIwMzM4NywxMDg3MTA4Mzc3LC0xNT
 AzNTA2OTI5LC02MDA2MjgzNjAsMjE4MzYwNTQ4LDE3ODE0MTE1
 MzgsMzU3NzczMjI2LC0yNzIzOTUwODEsLTE3OTc0NTE0MzgsLT
 MwOTMyNTY4MywzMTgwMDA5OTIsLTEzMzMyMTM1NzUsLTExNDA2
