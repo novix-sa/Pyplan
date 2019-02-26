@@ -22,7 +22,8 @@ Now you will access the sandbox for creating your model logic.
 ## **Modeling Business Rules**
 There are five basic components for creating and organizing the calculation logic diplayed at the right side of the modeling app.
 
-![Code building blocks](http://img.pyplan.org/Quick_start_code_components2.png =250x)
+![Code building blocks](http://img.pyplan.org/Quick_start_code_components2.png)
+
 
 
 ### **Node**
@@ -75,7 +76,7 @@ Where each module contains the underlying logic of each area of a company. In th
 In order to explore the evaluation and visualization alternatives, let's copy to your own workspace the app called "My First App.ppl" that you will find in the Public folder. After selecting it, click on the "Copy in" section as shown in the figure below:
 ![My First App file](http://img.pyplan.org/Quick_start_file_app_1.png)
 
-![enter image description here](http://img.pyplan.org/Quick_start_own_ws.png =250x)
+![enter image description here](http://img.pyplan.org/Quick_start_own_ws.png {: style="height:150px;width:150px"} )
 
 
 In order to understand how the Pyplan evaluation works
@@ -116,11 +117,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4MzYwNTQ4LDE3ODE0MTE1MzgsMzU3Nz
-czMjI2LC0yNzIzOTUwODEsLTE3OTc0NTE0MzgsLTMwOTMyNTY4
-MywzMTgwMDA5OTIsLTEzMzMyMTM1NzUsLTExNDA2MzY4MDcsNz
-k1MDk3MSwtNTAzMzk1NjMwLC0yMDExNzAxMzQ2LDE0OTY1NzIx
-OTAsMTgxNjQ1MDg2NCwtMTQzNDEzNzU1OCwtMTczODcyOTQ4My
-wxNDYzMzYxNjk5LC0zMzgxODExMDIsLTE3Mzk1MjU5MjgsLTE4
-NzQwMDUxOTNdfQ==
+eyJoaXN0b3J5IjpbLTYwMDYyODM2MCwyMTgzNjA1NDgsMTc4MT
+QxMTUzOCwzNTc3NzMyMjYsLTI3MjM5NTA4MSwtMTc5NzQ1MTQz
+OCwtMzA5MzI1NjgzLDMxODAwMDk5MiwtMTMzMzIxMzU3NSwtMT
+E0MDYzNjgwNyw3OTUwOTcxLC01MDMzOTU2MzAsLTIwMTE3MDEz
+NDYsMTQ5NjU3MjE5MCwxODE2NDUwODY0LC0xNDM0MTM3NTU4LC
+0xNzM4NzI5NDgzLDE0NjMzNjE2OTksLTMzODE4MTEwMiwtMTcz
+OTUyNTkyOF19
 -->
