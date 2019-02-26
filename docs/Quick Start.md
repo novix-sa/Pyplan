@@ -82,7 +82,7 @@ Now open the copied file and then go to the model (Click Open Model, or the Mode
 ![enter image description here](http://img.pyplan.org/Quick_start_mfa_model_.png)
 Now you can inspect any node values by selecting and evaluating it.
 There are three alternatives for evaluating a node:
-The first one is by clicking on the Run button that you 
+The first one is by clicking on the Run button that you will finde in the Code Tab after selecting a node. This will show the console output resulting of evaluating a node.
 ![enter image description here](http://img.pyplan.org/Quick_start_eval1.png)
 
 In order to understand how the Pyplan evaluation works
@@ -123,11 +123,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjIyMjMyNiwxMDg3MTA4Mzc3LC0xNT
-AzNTA2OTI5LC02MDA2MjgzNjAsMjE4MzYwNTQ4LDE3ODE0MTE1
-MzgsMzU3NzczMjI2LC0yNzIzOTUwODEsLTE3OTc0NTE0MzgsLT
-MwOTMyNTY4MywzMTgwMDA5OTIsLTEzMzMyMTM1NzUsLTExNDA2
-MzY4MDcsNzk1MDk3MSwtNTAzMzk1NjMwLC0yMDExNzAxMzQ2LD
-E0OTY1NzIxOTAsMTgxNjQ1MDg2NCwtMTQzNDEzNzU1OCwtMTcz
-ODcyOTQ4M119
+eyJoaXN0b3J5IjpbNjk2NzE5MDAsMTA4NzEwODM3NywtMTUwMz
+UwNjkyOSwtNjAwNjI4MzYwLDIxODM2MDU0OCwxNzgxNDExNTM4
+LDM1Nzc3MzIyNiwtMjcyMzk1MDgxLC0xNzk3NDUxNDM4LC0zMD
+kzMjU2ODMsMzE4MDAwOTkyLC0xMzMzMjEzNTc1LC0xMTQwNjM2
+ODA3LDc5NTA5NzEsLTUwMzM5NTYzMCwtMjAxMTcwMTM0NiwxND
+k2NTcyMTkwLDE4MTY0NTA4NjQsLTE0MzQxMzc1NTgsLTE3Mzg3
+Mjk0ODNdfQ==
 -->
