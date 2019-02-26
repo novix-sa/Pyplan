@@ -89,7 +89,8 @@ You will find this functionality useful for inspecting intermediate values in yo
 
 The second alternative is, after selecting the node, pressing **<Ctrl + E>**. In this case a more complete window is open showing 
 ![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E.png)
-Performance profiling information can be displayed clicking 
+Performance profiling information can be displayed clicking on **"Show Profile"**
+
 
 In order to understand how the Pyplan evaluation works
 
@@ -129,11 +130,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQwNjg5NiwxNTk3NTYzOTQwLDEwOD
-cxMDgzNzcsLTE1MDM1MDY5MjksLTYwMDYyODM2MCwyMTgzNjA1
-NDgsMTc4MTQxMTUzOCwzNTc3NzMyMjYsLTI3MjM5NTA4MSwtMT
-c5NzQ1MTQzOCwtMzA5MzI1NjgzLDMxODAwMDk5MiwtMTMzMzIx
-MzU3NSwtMTE0MDYzNjgwNyw3OTUwOTcxLC01MDMzOTU2MzAsLT
-IwMTE3MDEzNDYsMTQ5NjU3MjE5MCwxODE2NDUwODY0LC0xNDM0
-MTM3NTU4XX0=
+eyJoaXN0b3J5IjpbMTgzODAwOTIzMSwtMTE1NDA2ODk2LDE1OT
+c1NjM5NDAsMTA4NzEwODM3NywtMTUwMzUwNjkyOSwtNjAwNjI4
+MzYwLDIxODM2MDU0OCwxNzgxNDExNTM4LDM1Nzc3MzIyNiwtMj
+cyMzk1MDgxLC0xNzk3NDUxNDM4LC0zMDkzMjU2ODMsMzE4MDAw
+OTkyLC0xMzMzMjEzNTc1LC0xMTQwNjM2ODA3LDc5NTA5NzEsLT
+UwMzM5NTYzMCwtMjAxMTcwMTM0NiwxNDk2NTcyMTkwLDE4MTY0
+NTA4NjRdfQ==
 -->
