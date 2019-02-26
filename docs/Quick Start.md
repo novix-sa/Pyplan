@@ -78,8 +78,9 @@ In order to explore the evaluation and visualization alternatives, let's copy to
 
 ![enter image description here](http://img.pyplan.org/Quick_start_own_ws.png)
 
-Now open the copied file and then go to the model (Click Open Model, or the Model icon at the left)
+Now open the copied file and then go to the model (Click Open Model, or the Model icon at the left). You should see the following diagram.
 
+![enter image description here](http://img.pyplan.org/Quick_start_mfa_model.png)
 In order to understand how the Pyplan evaluation works
 
 ### How does it evaluation works
@@ -118,11 +119,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzEwODM3NywtMTUwMzUwNjkyOSwtNj
-AwNjI4MzYwLDIxODM2MDU0OCwxNzgxNDExNTM4LDM1Nzc3MzIy
-NiwtMjcyMzk1MDgxLC0xNzk3NDUxNDM4LC0zMDkzMjU2ODMsMz
-E4MDAwOTkyLC0xMzMzMjEzNTc1LC0xMTQwNjM2ODA3LDc5NTA5
-NzEsLTUwMzM5NTYzMCwtMjAxMTcwMTM0NiwxNDk2NTcyMTkwLD
-E4MTY0NTA4NjQsLTE0MzQxMzc1NTgsLTE3Mzg3Mjk0ODMsMTQ2
-MzM2MTY5OV19
+eyJoaXN0b3J5IjpbLTIzNTU0MzIzNCwxMDg3MTA4Mzc3LC0xNT
+AzNTA2OTI5LC02MDA2MjgzNjAsMjE4MzYwNTQ4LDE3ODE0MTE1
+MzgsMzU3NzczMjI2LC0yNzIzOTUwODEsLTE3OTc0NTE0MzgsLT
+MwOTMyNTY4MywzMTgwMDA5OTIsLTEzMzMyMTM1NzUsLTExNDA2
+MzY4MDcsNzk1MDk3MSwtNTAzMzk1NjMwLC0yMDExNzAxMzQ2LD
+E0OTY1NzIxOTAsMTgxNjQ1MDg2NCwtMTQzNDEzNzU1OCwtMTcz
+ODcyOTQ4M119
 -->
