@@ -91,7 +91,7 @@ The second alternative is, after selecting the node, pressing **<Ctrl + E>**. In
 ![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E.png)
 Performance profiling information can be displayed clicking on **"Show Profile"**
 
-
+![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E+ShowProfile.png)
 In order to understand how the Pyplan evaluation works
 
 ### How does it evaluation works
@@ -130,7 +130,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODAwOTIzMSwtMTE1NDA2ODk2LDE1OT
+eyJoaXN0b3J5IjpbLTk5ODc0NDA0OCwtMTE1NDA2ODk2LDE1OT
 c1NjM5NDAsMTA4NzEwODM3NywtMTUwMzUwNjkyOSwtNjAwNjI4
 MzYwLDIxODM2MDU0OCwxNzgxNDExNTM4LDM1Nzc3MzIyNiwtMj
 cyMzk1MDgxLC0xNzk3NDUxNDM4LC0zMDkzMjU2ODMsMzE4MDAw
