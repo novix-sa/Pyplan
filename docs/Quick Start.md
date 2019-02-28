@@ -71,7 +71,7 @@ Indexes are important to be explicitly defined as this for two reasons:
 First, it helps homogenize Dimensions domain. That is important to guarantee that when you operate with DataArrays that share dimensions, they share the same domain, so that the result domain is the same of the variables.
 If that is not the case and you have a definition like this
 
-![enter image description here](http://img.pyplan.org/Quick_start_node_domain.png%29)
+![enter image description here](http://img.pyplan.org/Quick_start_node_domain.png)
 
 
 For example if you have an 
@@ -146,7 +146,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUyNTQ1NywxMzM1NDYyMTEwLDE5OD
+eyJoaXN0b3J5IjpbMTMwOTIxMDYzNywxMzM1NDYyMTEwLDE5OD
 g5OTEzOTcsLTIwMTIxNTYwLC05OTg3NDQwNDgsLTExNTQwNjg5
 NiwxNTk3NTYzOTQwLDEwODcxMDgzNzcsLTE1MDM1MDY5MjksLT
 YwMDYyODM2MCwyMTgzNjA1NDgsMTc4MTQxMTUzOCwzNTc3NzMy
