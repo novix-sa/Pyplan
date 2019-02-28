@@ -108,7 +108,8 @@ Performance profiling information can be displayed clicking on **"Show Profile"*
 ![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E+ShowProfile.png)
 
 ### Types of data structures natively supported
-Pyplan supports programming in pure Python, and natively interprets Numpy, Xarray and Pandas objects that are rendered as pivotable multidimensional tables or graphs for result inspecting.
+Pyplan supports programming in pure Python, and natively interprets Numpy, Xarray and Pandas objects that are rendered as pivotable multidimensional tables or graphs for result inspection.
+It is also posible to import and use any other specific library you may need to attend your specific goals.
  
 That means that when
 
@@ -148,11 +149,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTE2OTg1MywtNTI2OTc0NzA0LDg2ND
-Q1NzA1MywxMjU4ODk0MzgzLDEzMzU0NjIxMTAsMTk4ODk5MTM5
-NywtMjAxMjE1NjAsLTk5ODc0NDA0OCwtMTE1NDA2ODk2LDE1OT
-c1NjM5NDAsMTA4NzEwODM3NywtMTUwMzUwNjkyOSwtNjAwNjI4
-MzYwLDIxODM2MDU0OCwxNzgxNDExNTM4LDM1Nzc3MzIyNiwtMj
-cyMzk1MDgxLC0xNzk3NDUxNDM4LC0zMDkzMjU2ODMsMzE4MDAw
-OTkyXX0=
+eyJoaXN0b3J5IjpbNjM5NTY3NzA0LC0yNjExNjk4NTMsLTUyNj
+k3NDcwNCw4NjQ0NTcwNTMsMTI1ODg5NDM4MywxMzM1NDYyMTEw
+LDE5ODg5OTEzOTcsLTIwMTIxNTYwLC05OTg3NDQwNDgsLTExNT
+QwNjg5NiwxNTk3NTYzOTQwLDEwODcxMDgzNzcsLTE1MDM1MDY5
+MjksLTYwMDYyODM2MCwyMTgzNjA1NDgsMTc4MTQxMTUzOCwzNT
+c3NzMyMjYsLTI3MjM5NTA4MSwtMTc5NzQ1MTQzOCwtMzA5MzI1
+NjgzXX0=
 -->
