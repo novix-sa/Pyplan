@@ -43,7 +43,7 @@ Then copy the following code and click on the Code tab:
     result = a+b
   
 On the left space of the Code Tab, you will paste your Python code. On the right side will be displayed the console output.
-After clicking the "run" button on the same tab, uou should see something like this:
+After clicking the "run" button on the same tab, you should see something like this:
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 
 If you double click the node or press <Ctrl + R>, it will show its result, which in this case is a 9. You can appreciate the difference between the console output and the node result.
@@ -130,11 +130,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg3Nzg3MDQsLTIwMTIxNTYwLC05OT
-g3NDQwNDgsLTExNTQwNjg5NiwxNTk3NTYzOTQwLDEwODcxMDgz
-NzcsLTE1MDM1MDY5MjksLTYwMDYyODM2MCwyMTgzNjA1NDgsMT
-c4MTQxMTUzOCwzNTc3NzMyMjYsLTI3MjM5NTA4MSwtMTc5NzQ1
-MTQzOCwtMzA5MzI1NjgzLDMxODAwMDk5MiwtMTMzMzIxMzU3NS
-wtMTE0MDYzNjgwNyw3OTUwOTcxLC01MDMzOTU2MzAsLTIwMTE3
-MDEzNDZdfQ==
+eyJoaXN0b3J5IjpbMjA0MjkzNDgzNiwtMjAxMjE1NjAsLTk5OD
+c0NDA0OCwtMTE1NDA2ODk2LDE1OTc1NjM5NDAsMTA4NzEwODM3
+NywtMTUwMzUwNjkyOSwtNjAwNjI4MzYwLDIxODM2MDU0OCwxNz
+gxNDExNTM4LDM1Nzc3MzIyNiwtMjcyMzk1MDgxLC0xNzk3NDUx
+NDM4LC0zMDkzMjU2ODMsMzE4MDAwOTkyLC0xMzMzMjEzNTc1LC
+0xMTQwNjM2ODA3LDc5NTA5NzEsLTUwMzM5NTYzMCwtMjAxMTcw
+MTM0Nl19
 -->
