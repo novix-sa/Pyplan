@@ -112,6 +112,7 @@ Pyplan supports programming in pure Python, and natively interprets Numpy, Xarra
 Pyplan can also render a node that evaluates generating an HTML file. This functionality is particularly useful for using visualization libraries, which result need to be rendered by the app.
 
 ### Understanding how does it evaluation works
+When you ask for a node to be run, Pyplan trace
 dependency solved, memory persistency
 
 
@@ -147,11 +148,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTcyNDk5NTUsLTI2MTE2OTg1MywtNT
-I2OTc0NzA0LDg2NDQ1NzA1MywxMjU4ODk0MzgzLDEzMzU0NjIx
-MTAsMTk4ODk5MTM5NywtMjAxMjE1NjAsLTk5ODc0NDA0OCwtMT
-E1NDA2ODk2LDE1OTc1NjM5NDAsMTA4NzEwODM3NywtMTUwMzUw
-NjkyOSwtNjAwNjI4MzYwLDIxODM2MDU0OCwxNzgxNDExNTM4LD
-M1Nzc3MzIyNiwtMjcyMzk1MDgxLC0xNzk3NDUxNDM4LC0zMDkz
-MjU2ODNdfQ==
+eyJoaXN0b3J5IjpbMTM0ODU5NzE0NywtMTQxNzI0OTk1NSwtMj
+YxMTY5ODUzLC01MjY5NzQ3MDQsODY0NDU3MDUzLDEyNTg4OTQz
+ODMsMTMzNTQ2MjExMCwxOTg4OTkxMzk3LC0yMDEyMTU2MCwtOT
+k4NzQ0MDQ4LC0xMTU0MDY4OTYsMTU5NzU2Mzk0MCwxMDg3MTA4
+Mzc3LC0xNTAzNTA2OTI5LC02MDA2MjgzNjAsMjE4MzYwNTQ4LD
+E3ODE0MTE1MzgsMzU3NzczMjI2LC0yNzIzOTUwODEsLTE3OTc0
+NTE0MzhdfQ==
 -->
