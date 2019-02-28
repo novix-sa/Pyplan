@@ -20,7 +20,7 @@ Now you will access the sandbox for creating your model logic.
 ![Coding calculation logic](http://img.pyplan.org/Quick_start_model_code.png)
 
 ## **Modeling Business Rules**
-There are five basic components for creating and organizing the calculation logic diplayed at the right side of the modeling app.
+There are five basic components for creating and organizing the calculation logic. They are grouped in a toolbar titled "Code" you can find in the right side of the modeling app.
 
 ![Code building blocks](http://img.pyplan.org/Quick_start_code_components.png)
 
@@ -130,11 +130,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTIxNTYwLC05OTg3NDQwNDgsLTExNT
-QwNjg5NiwxNTk3NTYzOTQwLDEwODcxMDgzNzcsLTE1MDM1MDY5
-MjksLTYwMDYyODM2MCwyMTgzNjA1NDgsMTc4MTQxMTUzOCwzNT
-c3NzMyMjYsLTI3MjM5NTA4MSwtMTc5NzQ1MTQzOCwtMzA5MzI1
-NjgzLDMxODAwMDk5MiwtMTMzMzIxMzU3NSwtMTE0MDYzNjgwNy
-w3OTUwOTcxLC01MDMzOTU2MzAsLTIwMTE3MDEzNDYsMTQ5NjU3
-MjE5MF19
+eyJoaXN0b3J5IjpbNzk5MDY5MjMyLC0yMDEyMTU2MCwtOTk4Nz
+Q0MDQ4LC0xMTU0MDY4OTYsMTU5NzU2Mzk0MCwxMDg3MTA4Mzc3
+LC0xNTAzNTA2OTI5LC02MDA2MjgzNjAsMjE4MzYwNTQ4LDE3OD
+E0MTE1MzgsMzU3NzczMjI2LC0yNzIzOTUwODEsLTE3OTc0NTE0
+MzgsLTMwOTMyNTY4MywzMTgwMDA5OTIsLTEzMzMyMTM1NzUsLT
+ExNDA2MzY4MDcsNzk1MDk3MSwtNTAzMzk1NjMwLC0yMDExNzAx
+MzQ2XX0=
 -->
