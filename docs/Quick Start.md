@@ -67,8 +67,10 @@ An index is used for defining dimensions of DayaArrays and Dataframes. Draging a
 
     result = pd.Index(["Itemm 1","Item 2","Item 3"])
 
-Indexes They are important to be explicitly defined as this for two reasons:
-First, it helps homogenize Dimension domain. That is important to guarantee that when you operate with DataArrays that share dimensions, they share the same domain.
+Indexes are important to be explicitly defined as this for two reasons:
+First, it helps homogenize Dimensions domain. That is important to guarantee that when you operate with DataArrays that share dimensions, they share the same domain, so that the result domain is the same of the variables.
+If that is not the case and you have
+
 For example if you have an 
 
 Its importance comes from
@@ -141,7 +143,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTQxNzU0NiwxOTg4OTkxMzk3LC0yMD
+eyJoaXN0b3J5IjpbMTMzNTQ2MjExMCwxOTg4OTkxMzk3LC0yMD
 EyMTU2MCwtOTk4NzQ0MDQ4LC0xMTU0MDY4OTYsMTU5NzU2Mzk0
 MCwxMDg3MTA4Mzc3LC0xNTAzNTA2OTI5LC02MDA2MjgzNjAsMj
 E4MzYwNTQ4LDE3ODE0MTE1MzgsMzU3NzczMjI2LC0yNzIzOTUw
