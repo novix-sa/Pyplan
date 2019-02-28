@@ -65,7 +65,8 @@ Through the wizards you will be able to select and filter data or create new cal
 ### **Index**
 The Index element creates a Pandas index. An index is used for defining dimensions of DayaArrays and Dataframes. 
 They are important to be explicitly defined as this for two reasons:
-First, it help homogenize Dimension domains. 
+First, it helps homogenize Dimension domain. That is important to guarantee that when you operate with DataArrays that share dimensions, they share the same domain.
+For example
 
 Its importance comes from
 
@@ -137,7 +138,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzUyMDkxMCwtMjAxMjE1NjAsLTk5OD
+eyJoaXN0b3J5IjpbLTY0NzA1NTk2MiwtMjAxMjE1NjAsLTk5OD
 c0NDA0OCwtMTE1NDA2ODk2LDE1OTc1NjM5NDAsMTA4NzEwODM3
 NywtMTUwMzUwNjkyOSwtNjAwNjI4MzYwLDIxODM2MDU0OCwxNz
 gxNDExNTM4LDM1Nzc3MzIyNiwtMjcyMzk1MDgxLC0xNzk3NDUx
