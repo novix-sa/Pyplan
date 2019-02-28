@@ -67,11 +67,11 @@ An index is used for defining dimensions of DayaArrays and Dataframes. Draging a
 
     result = pd.Index(["Itemm 1","Item 2","Item 3"])
 
-Indexes are important to be explicitly defined as this for two reasons:
-First, it helps homogenize Dimensions domain. That is important to guarantee that when you operate with DataArrays that share dimensions, they share the same domain, so that the result domain is the same of the variables.
+Indexes are important to be explicitly defined for two reasons:
+First, it helps **homogenize Dimensions domain**. That is important to guarantee that when you operate with DataArrays that share dimensions, they share the same domain, so that the result domain is the same of the variables.
 If that is not the case and you have a definition like this
 ![enter image description here](http://img.pyplan.org/Quick_start_node_domain.png)
-You can see in the console output, that the sum of node1_ and node2_ is only computed for the intersection of Index domain  "MyTimeof the correspondent variables.
+You can see in the console output, that the sum of node1_ and node2_ is only computed for the intersection of Index domain  "MyTime" of the correspondent variables.
 
 For example if you have an 
 
@@ -145,7 +145,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjQxNDcxNiwxMzM1NDYyMTEwLDE5OD
+eyJoaXN0b3J5IjpbMTY0MDg1OTY5MCwxMzM1NDYyMTEwLDE5OD
 g5OTEzOTcsLTIwMTIxNTYwLC05OTg3NDQwNDgsLTExNTQwNjg5
 NiwxNTk3NTYzOTQwLDEwODcxMDgzNzcsLTE1MDM1MDY5MjksLT
 YwMDYyODM2MCwyMTgzNjA1NDgsMTc4MTQxMTUzOCwzNTc3NzMy
