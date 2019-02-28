@@ -63,8 +63,11 @@ Through the wizards you will be able to select and filter data or create new cal
 ![Pandas Wizards](http://img.pyplan.org/Quick_start_wizards.png)
 
 ### **Index**
-The Index element creates a Pandas index. An index is used for defining dimensions of DayaArrays and Dataframes. 
-They are important to be explicitly defined as this for two reasons:
+An index is used for defining dimensions of DayaArrays and Dataframes. Draging an Index element creates a Pandas index of the form:
+
+    result = pd.Index(["Itemm 1","Item 2","Item 3"])
+
+Indexes They are important to be explicitly defined as this for two reasons:
 First, it helps homogenize Dimension domain. That is important to guarantee that when you operate with DataArrays that share dimensions, they share the same domain.
 For example if you have an 
 
@@ -138,11 +141,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODk5MTM5NywtMjAxMjE1NjAsLTk5OD
-c0NDA0OCwtMTE1NDA2ODk2LDE1OTc1NjM5NDAsMTA4NzEwODM3
-NywtMTUwMzUwNjkyOSwtNjAwNjI4MzYwLDIxODM2MDU0OCwxNz
-gxNDExNTM4LDM1Nzc3MzIyNiwtMjcyMzk1MDgxLC0xNzk3NDUx
-NDM4LC0zMDkzMjU2ODMsMzE4MDAwOTkyLC0xMzMzMjEzNTc1LC
-0xMTQwNjM2ODA3LDc5NTA5NzEsLTUwMzM5NTYzMCwtMjAxMTcw
-MTM0Nl19
+eyJoaXN0b3J5IjpbMTQzMTQxNzU0NiwxOTg4OTkxMzk3LC0yMD
+EyMTU2MCwtOTk4NzQ0MDQ4LC0xMTU0MDY4OTYsMTU5NzU2Mzk0
+MCwxMDg3MTA4Mzc3LC0xNTAzNTA2OTI5LC02MDA2MjgzNjAsMj
+E4MzYwNTQ4LDE3ODE0MTE1MzgsMzU3NzczMjI2LC0yNzIzOTUw
+ODEsLTE3OTc0NTE0MzgsLTMwOTMyNTY4MywzMTgwMDA5OTIsLT
+EzMzMyMTM1NzUsLTExNDA2MzY4MDcsNzk1MDk3MSwtNTAzMzk1
+NjMwXX0=
 -->
