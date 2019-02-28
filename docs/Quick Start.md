@@ -59,8 +59,11 @@ You can again inspect the difference on the console output vs evaluating (Ctrl R
 ![Pandas Table](http://img.pyplan.org/Quick_start_first_table.png)
 
 Inspecting the node Code Tab you will find new buttons next to the Run button. These buttons are displayed whenever a node evaluates to a Dataframe/Pandas object type. The buttons links to [Pandas](https://pandas.pydata.org) wizards for helping Python newbies start learning Pandas.
-Through the wizards you will be able to make selections and filtering or create new calculated fields. The resulting code will be displayed on the code section at the left for you to pick up from there.
+Through the wizards you will be able to select and filter data or create new calculated fields. The resulting code will be displayed on the code section at the left for you to pick up from there.
 ![Pandas Wizards](http://img.pyplan.org/Quick_start_wizards.png)
+
+### **Index**
+The Index 
 
 ### **Module**
 Modules are ment to contain group of nodes in a way to organize large models.
@@ -130,7 +133,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjkzNDgzNiwtMjAxMjE1NjAsLTk5OD
+eyJoaXN0b3J5IjpbMTQwNzE3NDAzNywtMjAxMjE1NjAsLTk5OD
 c0NDA0OCwtMTE1NDA2ODk2LDE1OTc1NjM5NDAsMTA4NzEwODM3
 NywtMTUwMzUwNjkyOSwtNjAwNjI4MzYwLDIxODM2MDU0OCwxNz
 gxNDExNTM4LDM1Nzc3MzIyNiwtMjcyMzk1MDgxLC0xNzk3NDUx
