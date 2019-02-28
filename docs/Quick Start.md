@@ -73,8 +73,7 @@ If that is not the case and you have a definition like this
 ![enter image description here](http://img.pyplan.org/Quick_start_node_domain.png)
 You can see in the console output, that the sum of node1_ and node2_ is only computed for the intersection of Index domain  "MyTime" of the correspondent variables.
 
-Second, we will later see that when creating apps, controls for interacting with the app, are created using indexes.
-
+Second, we will later see that when creating apps, **controls for interacting with the app**, are created using indexes.
 
 ### **Module**
 Modules are ment to contain group of nodes in a way to organize large models.
@@ -144,11 +143,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNDkwOTczLDEzMzU0NjIxMTAsMTk4OD
-k5MTM5NywtMjAxMjE1NjAsLTk5ODc0NDA0OCwtMTE1NDA2ODk2
-LDE1OTc1NjM5NDAsMTA4NzEwODM3NywtMTUwMzUwNjkyOSwtNj
-AwNjI4MzYwLDIxODM2MDU0OCwxNzgxNDExNTM4LDM1Nzc3MzIy
-NiwtMjcyMzk1MDgxLC0xNzk3NDUxNDM4LC0zMDkzMjU2ODMsMz
-E4MDAwOTkyLC0xMzMzMjEzNTc1LC0xMTQwNjM2ODA3LDc5NTA5
-NzFdfQ==
+eyJoaXN0b3J5IjpbMTI1ODg5NDM4MywxMzM1NDYyMTEwLDE5OD
+g5OTEzOTcsLTIwMTIxNTYwLC05OTg3NDQwNDgsLTExNTQwNjg5
+NiwxNTk3NTYzOTQwLDEwODcxMDgzNzcsLTE1MDM1MDY5MjksLT
+YwMDYyODM2MCwyMTgzNjA1NDgsMTc4MTQxMTUzOCwzNTc3NzMy
+MjYsLTI3MjM5NTA4MSwtMTc5NzQ1MTQzOCwtMzA5MzI1NjgzLD
+MxODAwMDk5MiwtMTMzMzIxMzU3NSwtMTE0MDYzNjgwNyw3OTUw
+OTcxXX0=
 -->
