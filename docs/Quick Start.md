@@ -68,6 +68,7 @@ An index is used for defining dimensions of DayaArrays and Dataframes. Draging a
     result = pd.Index(["Itemm 1","Item 2","Item 3"])
 
 Indexes are important to be explicitly defined for two reasons:
+
 First, it helps **homogenize Dimensions domain**. That is important to guarantee that when you operate with DataArrays that share dimensions, they share the same domain, so that the result domain is the same of the variables.
 If that is not the case and you have a definition like this
 ![enter image description here](http://img.pyplan.org/Quick_start_node_domain.png)
@@ -143,11 +144,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODg5NDM4MywxMzM1NDYyMTEwLDE5OD
-g5OTEzOTcsLTIwMTIxNTYwLC05OTg3NDQwNDgsLTExNTQwNjg5
-NiwxNTk3NTYzOTQwLDEwODcxMDgzNzcsLTE1MDM1MDY5MjksLT
-YwMDYyODM2MCwyMTgzNjA1NDgsMTc4MTQxMTUzOCwzNTc3NzMy
-MjYsLTI3MjM5NTA4MSwtMTc5NzQ1MTQzOCwtMzA5MzI1NjgzLD
-MxODAwMDk5MiwtMTMzMzIxMzU3NSwtMTE0MDYzNjgwNyw3OTUw
-OTcxXX0=
+eyJoaXN0b3J5IjpbODY0NDU3MDUzLDEyNTg4OTQzODMsMTMzNT
+Q2MjExMCwxOTg4OTkxMzk3LC0yMDEyMTU2MCwtOTk4NzQ0MDQ4
+LC0xMTU0MDY4OTYsMTU5NzU2Mzk0MCwxMDg3MTA4Mzc3LC0xNT
+AzNTA2OTI5LC02MDA2MjgzNjAsMjE4MzYwNTQ4LDE3ODE0MTE1
+MzgsMzU3NzczMjI2LC0yNzIzOTUwODEsLTE3OTc0NTE0MzgsLT
+MwOTMyNTY4MywzMTgwMDA5OTIsLTEzMzMyMTM1NzUsLTExNDA2
+MzY4MDddfQ==
 -->
