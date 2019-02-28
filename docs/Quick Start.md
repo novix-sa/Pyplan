@@ -106,11 +106,13 @@ The second alternative is, after selecting the node, pressing **<Ctrl + E>**. In
 Performance profiling information can be displayed clicking on **"Show Profile"**
 
 ![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E+ShowProfile.png)
-In order to understand how the Pyplan evaluation works
 
-### How does it evaluation works
-dependency solved, memory persistency
 ### Types of data structures natively supported
+Pyplan natively supports 
+
+### Understanding how does it evaluation works
+dependency solved, memory persistency
+
 
 ## **Creating an App User Interface**
 ### Output Nodes
@@ -144,11 +146,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2NTUwOTIyLDg2NDQ1NzA1MywxMjU4OD
-k0MzgzLDEzMzU0NjIxMTAsMTk4ODk5MTM5NywtMjAxMjE1NjAs
-LTk5ODc0NDA0OCwtMTE1NDA2ODk2LDE1OTc1NjM5NDAsMTA4Nz
-EwODM3NywtMTUwMzUwNjkyOSwtNjAwNjI4MzYwLDIxODM2MDU0
-OCwxNzgxNDExNTM4LDM1Nzc3MzIyNiwtMjcyMzk1MDgxLC0xNz
-k3NDUxNDM4LC0zMDkzMjU2ODMsMzE4MDAwOTkyLC0xMzMzMjEz
-NTc1XX0=
+eyJoaXN0b3J5IjpbLTQ0OTMxMTYxMSw4NjQ0NTcwNTMsMTI1OD
+g5NDM4MywxMzM1NDYyMTEwLDE5ODg5OTEzOTcsLTIwMTIxNTYw
+LC05OTg3NDQwNDgsLTExNTQwNjg5NiwxNTk3NTYzOTQwLDEwOD
+cxMDgzNzcsLTE1MDM1MDY5MjksLTYwMDYyODM2MCwyMTgzNjA1
+NDgsMTc4MTQxMTUzOCwzNTc3NzMyMjYsLTI3MjM5NTA4MSwtMT
+c5NzQ1MTQzOCwtMzA5MzI1NjgzLDMxODAwMDk5MiwtMTMzMzIx
+MzU3NV19
 -->
