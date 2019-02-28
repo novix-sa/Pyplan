@@ -99,7 +99,7 @@ There are three alternatives for evaluating a node:
 The first one is by clicking on the **"Run"** button that you will finde in the Code Tab  after selecting a node. The same result can be obtained by pressing **<Ctrl + Return>** when editing the code. This will show/update the console output resulting of evaluating the node.
 ![enter image description here](http://img.pyplan.org/Quick_start_eval1.png)
 Try adding `Print('Hello World')`in the first line before the result definition. Run the node and check the console output.
-You will find this functionality useful for inspecting intermediate values in your calculations.
+You will find this Printing functionality useful for inspecting intermediate values in your calculations.
 
 The second alternative is, after selecting the node, pressing **<Ctrl + E>**. In this case a more complete window is open showing 
 ![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E.png)
@@ -144,11 +144,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NDU3MDUzLDEyNTg4OTQzODMsMTMzNT
-Q2MjExMCwxOTg4OTkxMzk3LC0yMDEyMTU2MCwtOTk4NzQ0MDQ4
-LC0xMTU0MDY4OTYsMTU5NzU2Mzk0MCwxMDg3MTA4Mzc3LC0xNT
-AzNTA2OTI5LC02MDA2MjgzNjAsMjE4MzYwNTQ4LDE3ODE0MTE1
-MzgsMzU3NzczMjI2LC0yNzIzOTUwODEsLTE3OTc0NTE0MzgsLT
-MwOTMyNTY4MywzMTgwMDA5OTIsLTEzMzMyMTM1NzUsLTExNDA2
-MzY4MDddfQ==
+eyJoaXN0b3J5IjpbMzE2NTUwOTIyLDg2NDQ1NzA1MywxMjU4OD
+k0MzgzLDEzMzU0NjIxMTAsMTk4ODk5MTM5NywtMjAxMjE1NjAs
+LTk5ODc0NDA0OCwtMTE1NDA2ODk2LDE1OTc1NjM5NDAsMTA4Nz
+EwODM3NywtMTUwMzUwNjkyOSwtNjAwNjI4MzYwLDIxODM2MDU0
+OCwxNzgxNDExNTM4LDM1Nzc3MzIyNiwtMjcyMzk1MDgxLC0xNz
+k3NDUxNDM4LC0zMDkzMjU2ODMsMzE4MDAwOTkyLC0xMzMzMjEz
+NTc1XX0=
 -->
