@@ -112,7 +112,7 @@ Pyplan supports programming in pure Python, and natively interprets Numpy, Xarra
 Pyplan can also render a node that evaluates generating an HTML file. This functionality is particularly useful for using visualization libraries, which result need to be rendered by the app.
 
 ### Understanding how does it evaluation works
-When you ask for a node to be run, Pyplan trace
+When you ask for a node to be run, Pyplan trace all predecesor variables and run them in sequence in order to have computed every input that this node needthing 
 dependency solved, memory persistency
 
 
@@ -148,7 +148,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODU5NzE0NywtMTQxNzI0OTk1NSwtMj
+eyJoaXN0b3J5IjpbMTAwNzUyMjc0NiwtMTQxNzI0OTk1NSwtMj
 YxMTY5ODUzLC01MjY5NzQ3MDQsODY0NDU3MDUzLDEyNTg4OTQz
 ODMsMTMzNTQ2MjExMCwxOTg4OTkxMzk3LC0yMDEyMTU2MCwtOT
 k4NzQ0MDQ4LC0xMTU0MDY4OTYsMTU5NzU2Mzk0MCwxMDg3MTA4
