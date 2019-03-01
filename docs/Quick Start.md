@@ -129,17 +129,22 @@ Apps are constructed using one or more user interfaces. To start creating an app
 ![](http://img.pyplan.org/Quick_start_interface_.png)
 
 
+![](http://img.pyplan.org/Quick_start_new_interface2.png)
+
+
+
+
 ### Output Nodes
 ### Controls
 ### Input Nodes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDk2NzEyNSwtODQ5OTMzNTY2LDc0NT
-kxMzMxMiwxODM4Mzc2MTM0LC02ODkzMTExNzUsMTIzNTU0MjEw
-MywxNTAxMDk4OTMwLDYyMjI4NzcyMSwtMTUyNjYyMTMwMiwtNT
-Y2ODU1MDksMTU3MTc3OTUyNywtMjAxMjg2NTg3MywtMTk2ODkw
-MjI3NywtMTM2MTAyMDc0MiwxNjgzNjI3MTEwLC0xNDE3MjQ5OT
-U1LC0yNjExNjk4NTMsLTUyNjk3NDcwNCw4NjQ0NTcwNTMsMTI1
-ODg5NDM4M119
+eyJoaXN0b3J5IjpbLTIxMzgzNTQ5NzMsLTg0OTkzMzU2Niw3ND
+U5MTMzMTIsMTgzODM3NjEzNCwtNjg5MzExMTc1LDEyMzU1NDIx
+MDMsMTUwMTA5ODkzMCw2MjIyODc3MjEsLTE1MjY2MjEzMDIsLT
+U2Njg1NTA5LDE1NzE3Nzk1MjcsLTIwMTI4NjU4NzMsLTE5Njg5
+MDIyNzcsLTEzNjEwMjA3NDIsMTY4MzYyNzExMCwtMTQxNzI0OT
+k1NSwtMjYxMTY5ODUzLC01MjY5NzQ3MDQsODY0NDU3MDUzLDEy
+NTg4OTQzODNdfQ==
 -->
