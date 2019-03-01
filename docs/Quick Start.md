@@ -144,9 +144,10 @@ There are several type of components that can be included in an interface: Table
 
 ### Output Nodes
 You can define what type of object you want in a specific division and then search for the node that contains the data to be shown
-![](http://img.pyplan.org/Quick_start_inserting_component.png)
+![](Quick_start_inserting_component.pngQuick_start_inserting_component.png)
 
 
+![ ](Quick_start_inserting_component.pngQuick_start_inserting_component.png)
 or you can directly display the diagram in one division and then keeping pressed the **<Shift>** key and clicking a node, selecting it and dragging and dropping it at the desired division.
 ![](http://img.pyplan.org/Quick_start_create_interface.png)
 
@@ -157,11 +158,11 @@ or you can directly display the diagram in one division and then keeping pressed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc1NzU1OTIsMTg3MDAxNTQ3MSwyMT
-M5Mzk1NTQ5LC0xMzgwMDA5OTg1LC04NDk5MzM1NjYsNzQ1OTEz
-MzEyLDE4MzgzNzYxMzQsLTY4OTMxMTE3NSwxMjM1NTQyMTAzLD
-E1MDEwOTg5MzAsNjIyMjg3NzIxLC0xNTI2NjIxMzAyLC01NjY4
-NTUwOSwxNTcxNzc5NTI3LC0yMDEyODY1ODczLC0xOTY4OTAyMj
-c3LC0xMzYxMDIwNzQyLDE2ODM2MjcxMTAsLTE0MTcyNDk5NTUs
-LTI2MTE2OTg1M119
+eyJoaXN0b3J5IjpbMTY0NDg3NDc1OSwxODcwMDE1NDcxLDIxMz
+kzOTU1NDksLTEzODAwMDk5ODUsLTg0OTkzMzU2Niw3NDU5MTMz
+MTIsMTgzODM3NjEzNCwtNjg5MzExMTc1LDEyMzU1NDIxMDMsMT
+UwMTA5ODkzMCw2MjIyODc3MjEsLTE1MjY2MjEzMDIsLTU2Njg1
+NTA5LDE1NzE3Nzk1MjcsLTIwMTI4NjU4NzMsLTE5Njg5MDIyNz
+csLTEzNjEwMjA3NDIsMTY4MzYyNzExMCwtMTQxNzI0OTk1NSwt
+MjYxMTY5ODUzXX0=
 -->
