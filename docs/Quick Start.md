@@ -116,6 +116,8 @@ One interesting feature is the ability to show the node result as table and grap
 All customization are lost when closing the node, unless you explicitly indicates that you want to set the current view as the default view for opening this specific node. To do that you must click on the icon with a pencil ![enter image description here](http://img.pyplan.org/Quick_start_pencil.png =20x20) , at the top left corner.
 
 
+![enter image description here](img src="http://img.pyplan.org/Quick_start_pencil.png height=%22200px%22%20/%3E)
+
 ### Types of data structures natively supported
 Pyplan supports programming in pure Python, and natively interprets Numpy, Xarray and Pandas objects that are rendered as pivotable multidimensional tables or graphs for result inspection. It allows to import and use any other specific library you may need to attend your specific goals.
 Pyplan can also render a node that evaluates generating an HTML file. This functionality is particularly useful for using visualization libraries, which result need to be rendered by the app.
@@ -156,11 +158,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyMjg3NzIxLC0xNTI2NjIxMzAyLC01Nj
-Y4NTUwOSwxNTcxNzc5NTI3LC0yMDEyODY1ODczLC0xOTY4OTAy
-Mjc3LC0xMzYxMDIwNzQyLDE2ODM2MjcxMTAsLTE0MTcyNDk5NT
-UsLTI2MTE2OTg1MywtNTI2OTc0NzA0LDg2NDQ1NzA1MywxMjU4
-ODk0MzgzLDEzMzU0NjIxMTAsMTk4ODk5MTM5NywtMjAxMjE1Nj
-AsLTk5ODc0NDA0OCwtMTE1NDA2ODk2LDE1OTc1NjM5NDAsMTA4
-NzEwODM3N119
+eyJoaXN0b3J5IjpbNzI2NTY2NzAsNjIyMjg3NzIxLC0xNTI2Nj
+IxMzAyLC01NjY4NTUwOSwxNTcxNzc5NTI3LC0yMDEyODY1ODcz
+LC0xOTY4OTAyMjc3LC0xMzYxMDIwNzQyLDE2ODM2MjcxMTAsLT
+E0MTcyNDk5NTUsLTI2MTE2OTg1MywtNTI2OTc0NzA0LDg2NDQ1
+NzA1MywxMjU4ODk0MzgzLDEzMzU0NjIxMTAsMTk4ODk5MTM5Ny
+wtMjAxMjE1NjAsLTk5ODc0NDA0OCwtMTE1NDA2ODk2LDE1OTc1
+NjM5NDBdfQ==
 -->
