@@ -108,8 +108,9 @@ Performance profiling information can be displayed clicking on **"Show Profile"*
 ![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E+ShowProfile.png)
 
 The third way of running a node is by **double clicking** it or pressing **<Ctrl + R>**. Any node is initially evaluated as a table, until the user customize it visualization.
-There is a group of customization that can be rapidly set clicking on the configuration icon next to
+There is a group of customization that can be rapidly set clicking on the configuration icon next to the title of the node:
 ![enter image description here](http://img.pyplan.org/Quick_start_configuration_wheel.png)
+
 ![enter image description here](http://img.pyplan.org/Quick_start_evaluate.png)
 
 ### Types of data structures natively supported
@@ -152,11 +153,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5MjU0MjI4LC0yMDEyODY1ODczLC0xOT
-Y4OTAyMjc3LC0xMzYxMDIwNzQyLDE2ODM2MjcxMTAsLTE0MTcy
-NDk5NTUsLTI2MTE2OTg1MywtNTI2OTc0NzA0LDg2NDQ1NzA1My
-wxMjU4ODk0MzgzLDEzMzU0NjIxMTAsMTk4ODk5MTM5NywtMjAx
-MjE1NjAsLTk5ODc0NDA0OCwtMTE1NDA2ODk2LDE1OTc1NjM5ND
-AsMTA4NzEwODM3NywtMTUwMzUwNjkyOSwtNjAwNjI4MzYwLDIx
-ODM2MDU0OF19
+eyJoaXN0b3J5IjpbMTU3MTc3OTUyNywtMjAxMjg2NTg3MywtMT
+k2ODkwMjI3NywtMTM2MTAyMDc0MiwxNjgzNjI3MTEwLC0xNDE3
+MjQ5OTU1LC0yNjExNjk4NTMsLTUyNjk3NDcwNCw4NjQ0NTcwNT
+MsMTI1ODg5NDM4MywxMzM1NDYyMTEwLDE5ODg5OTEzOTcsLTIw
+MTIxNTYwLC05OTg3NDQwNDgsLTExNTQwNjg5NiwxNTk3NTYzOT
+QwLDEwODcxMDgzNzcsLTE1MDM1MDY5MjksLTYwMDYyODM2MCwy
+MTgzNjA1NDhdfQ==
 -->
