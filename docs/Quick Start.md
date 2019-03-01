@@ -123,40 +123,15 @@ Pyplan can also render a node that evaluates generating an HTML file. This funct
 ### Understanding how does it evaluation works
 When you ask for a node to be run, Pyplan trace all predecesor variables and run them in sequence in order to have computed every input that this node needs. The results of intermediate nodes are preserved in memory for future inspection. When the definition of a node change, all downstream nodes are marked to be recalculated so that the user does not need to be aware about the updated value of any predecesor when running a node.
 
-
 ## **Creating an App User Interface**
+
 ### Output Nodes
 ### Controls
 ### Input Nodes
 
 
-Pyplan main object is called “node” and it´s codification, after importing any Python Library, can be easily done through its **_code_** windows.
-Numpy Array could be codified as:
-
-    >result = np.array([1,2,3])
-
-Check that final line of Pyplan node should have the expression **_result=_** in order to indicate node which is going to be the final object of the code.
-Numpy Array could be codified as:
-
-![enter image description here](http://img.pyplan.org/Home_code_view.png)
-
-By pressing **_Ctrl+R_** Pyplan will evaluate this object and show results in a table.
-
-![enter image description here](http://img.pyplan.org/Home_result_view)
-
-Graphical representation can be simple access through table menu:
-
-![enter image description here](http://img.pyplan.org/Home_show_graph)
-
-And result will be shown as a graph
-
-![enter image description here](http://img.pyplan.org/Home_graph_view)
-As simple as indicated Python based model can be structure.
-
-Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjk5MDIwNCwtNjg5MzExMTc1LDEyMz
+eyJoaXN0b3J5IjpbMTgzODM3NjEzNCwtNjg5MzExMTc1LDEyMz
 U1NDIxMDMsMTUwMTA5ODkzMCw2MjIyODc3MjEsLTE1MjY2MjEz
 MDIsLTU2Njg1NTA5LDE1NzE3Nzk1MjcsLTIwMTI4NjU4NzMsLT
 E5Njg5MDIyNzcsLTEzNjEwMjA3NDIsMTY4MzYyNzExMCwtMTQx
