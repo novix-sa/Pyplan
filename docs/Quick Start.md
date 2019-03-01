@@ -138,7 +138,7 @@ Now double click the new interface to start designing it:
 ![](http://img.pyplan.org/Quick_start_interface_design.png)
 
 You can start splitting the screen horizontally or vertically for later indicating which node you want in each canvas. You can further divide any time.
-There are several elem
+There are several type of components that elements that can be included: Tables, graphs, diagram, Text, Filters, Pivot Tables, Maps and 
 
 
 
@@ -148,11 +148,11 @@ There are several elem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzY2ODM5MSwtODQ5OTMzNTY2LDc0NT
-kxMzMxMiwxODM4Mzc2MTM0LC02ODkzMTExNzUsMTIzNTU0MjEw
-MywxNTAxMDk4OTMwLDYyMjI4NzcyMSwtMTUyNjYyMTMwMiwtNT
-Y2ODU1MDksMTU3MTc3OTUyNywtMjAxMjg2NTg3MywtMTk2ODkw
-MjI3NywtMTM2MTAyMDc0MiwxNjgzNjI3MTEwLC0xNDE3MjQ5OT
-U1LC0yNjExNjk4NTMsLTUyNjk3NDcwNCw4NjQ0NTcwNTMsMTI1
-ODg5NDM4M119
+eyJoaXN0b3J5IjpbLTEzODAwMDk5ODUsLTg0OTkzMzU2Niw3ND
+U5MTMzMTIsMTgzODM3NjEzNCwtNjg5MzExMTc1LDEyMzU1NDIx
+MDMsMTUwMTA5ODkzMCw2MjIyODc3MjEsLTE1MjY2MjEzMDIsLT
+U2Njg1NTA5LDE1NzE3Nzk1MjcsLTIwMTI4NjU4NzMsLTE5Njg5
+MDIyNzcsLTEzNjEwMjA3NDIsMTY4MzYyNzExMCwtMTQxNzI0OT
+k1NSwtMjYxMTY5ODUzLC01MjY5NzQ3MDQsODY0NDU3MDUzLDEy
+NTg4OTQzODNdfQ==
 -->
