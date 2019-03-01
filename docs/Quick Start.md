@@ -107,6 +107,8 @@ Performance profiling information can be displayed clicking on **"Show Profile"*
 
 ![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E+ShowProfile.png)
 
+The third way of running a node is 
+
 ### Types of data structures natively supported
 Pyplan supports programming in pure Python, and natively interprets Numpy, Xarray and Pandas objects that are rendered as pivotable multidimensional tables or graphs for result inspection. It allows to import and use any other specific library you may need to attend your specific goals.
 Pyplan can also render a node that evaluates generating an HTML file. This functionality is particularly useful for using visualization libraries, which result need to be rendered by the app.
@@ -147,7 +149,7 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDEwMDkxLC0xMzYxMDIwNzQyLDE2OD
+eyJoaXN0b3J5IjpbLTM4OTQ0MzE1LC0xMzYxMDIwNzQyLDE2OD
 M2MjcxMTAsLTE0MTcyNDk5NTUsLTI2MTE2OTg1MywtNTI2OTc0
 NzA0LDg2NDQ1NzA1MywxMjU4ODk0MzgzLDEzMzU0NjIxMTAsMT
 k4ODk5MTM5NywtMjAxMjE1NjAsLTk5ODc0NDA0OCwtMTE1NDA2
