@@ -128,7 +128,10 @@ One of the most important characteristic of Pyplan is its ability for rapidly cr
 Apps are constructed using one or more user interfaces. To start creating an app, you need first to enter into the interface designer:
 ![](http://img.pyplan.org/Quick_start_interface_.png)
 
+Click on the New green button, and then select Interface
+![](http://img.pyplan.org/Quick_start_new_interface.png)
 
+Provide the name "First
 ![](http://img.pyplan.org/Quick_start_new_interface2.png)
 
 
@@ -140,11 +143,11 @@ Apps are constructed using one or more user interfaces. To start creating an app
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzgzNTQ5NzMsLTg0OTkzMzU2Niw3ND
-U5MTMzMTIsMTgzODM3NjEzNCwtNjg5MzExMTc1LDEyMzU1NDIx
-MDMsMTUwMTA5ODkzMCw2MjIyODc3MjEsLTE1MjY2MjEzMDIsLT
-U2Njg1NTA5LDE1NzE3Nzk1MjcsLTIwMTI4NjU4NzMsLTE5Njg5
-MDIyNzcsLTEzNjEwMjA3NDIsMTY4MzYyNzExMCwtMTQxNzI0OT
-k1NSwtMjYxMTY5ODUzLC01MjY5NzQ3MDQsODY0NDU3MDUzLDEy
-NTg4OTQzODNdfQ==
+eyJoaXN0b3J5IjpbLTI1MTc3MTYxMiwtODQ5OTMzNTY2LDc0NT
+kxMzMxMiwxODM4Mzc2MTM0LC02ODkzMTExNzUsMTIzNTU0MjEw
+MywxNTAxMDk4OTMwLDYyMjI4NzcyMSwtMTUyNjYyMTMwMiwtNT
+Y2ODU1MDksMTU3MTc3OTUyNywtMjAxMjg2NTg3MywtMTk2ODkw
+MjI3NywtMTM2MTAyMDc0MiwxNjgzNjI3MTEwLC0xNDE3MjQ5OT
+U1LC0yNjExNjk4NTMsLTUyNjk3NDcwNCw4NjQ0NTcwNTMsMTI1
+ODg5NDM4M119
 -->
