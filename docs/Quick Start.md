@@ -131,9 +131,10 @@ Apps are constructed using one or more user interfaces. To start creating an app
 Click on the New green button, and then select Interface
 ![](http://img.pyplan.org/Quick_start_new_interface.png)
 
-Provide the name "First
+Provide the name **"First I/O dashboard"** to the new interface
 ![](http://img.pyplan.org/Quick_start_new_interface2.png)
 
+Now double click the new interface to start designing it:
 
 
 
@@ -143,7 +144,7 @@ Provide the name "First
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTc3MTYxMiwtODQ5OTMzNTY2LDc0NT
+eyJoaXN0b3J5IjpbMTU3NjA4OTM4MywtODQ5OTMzNTY2LDc0NT
 kxMzMxMiwxODM4Mzc2MTM0LC02ODkzMTExNzUsMTIzNTU0MjEw
 MywxNTAxMDk4OTMwLDYyMjI4NzcyMSwtMTUyNjYyMTMwMiwtNT
 Y2ODU1MDksMTU3MTc3OTUyNywtMjAxMjg2NTg3MywtMTk2ODkw
