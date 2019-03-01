@@ -124,18 +124,19 @@ Pyplan can also render a node that evaluates generating an HTML file. This funct
 When you ask for a node to be run, Pyplan trace all predecesor variables and run them in sequence in order to have computed every input that this node needs. The results of intermediate nodes are preserved in memory for future inspection. When the definition of a node change, all downstream nodes are marked to be recalculated so that the user does not need to be aware about the updated value of any predecesor when running a node.
 
 ## **Creating an App User Interface**
-One of the 
+One of the most important characteristic of Pyplan is its ability for rapidly creating and sharing apps.
+Apps are constructed using one or more user interfaces.
 ### Output Nodes
 ### Controls
 ### Input Nodes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY4OTE2MjQsNzQ1OTEzMzEyLDE4Mz
-gzNzYxMzQsLTY4OTMxMTE3NSwxMjM1NTQyMTAzLDE1MDEwOTg5
-MzAsNjIyMjg3NzIxLC0xNTI2NjIxMzAyLC01NjY4NTUwOSwxNT
-cxNzc5NTI3LC0yMDEyODY1ODczLC0xOTY4OTAyMjc3LC0xMzYx
-MDIwNzQyLDE2ODM2MjcxMTAsLTE0MTcyNDk5NTUsLTI2MTE2OT
-g1MywtNTI2OTc0NzA0LDg2NDQ1NzA1MywxMjU4ODk0MzgzLDEz
-MzU0NjIxMTBdfQ==
+eyJoaXN0b3J5IjpbLTg0OTkzMzU2Niw3NDU5MTMzMTIsMTgzOD
+M3NjEzNCwtNjg5MzExMTc1LDEyMzU1NDIxMDMsMTUwMTA5ODkz
+MCw2MjIyODc3MjEsLTE1MjY2MjEzMDIsLTU2Njg1NTA5LDE1Nz
+E3Nzk1MjcsLTIwMTI4NjU4NzMsLTE5Njg5MDIyNzcsLTEzNjEw
+MjA3NDIsMTY4MzYyNzExMCwtMTQxNzI0OTk1NSwtMjYxMTY5OD
+UzLC01MjY5NzQ3MDQsODY0NDU3MDUzLDEyNTg4OTQzODMsMTMz
+NTQ2MjExMF19
 -->
