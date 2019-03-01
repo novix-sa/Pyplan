@@ -127,13 +127,15 @@ When you ask for a node to be run, Pyplan trace all predecesor variables and run
 One of the most important characteristic of Pyplan is its ability for rapidly creating and sharing apps.
 Apps are constructed using one or more user interfaces. To start creating an app, you need first to enter into the interface designer:
 ![](http://img.pyplan.org/Quick_start_interface_.png)
+
+
 ### Output Nodes
 ### Controls
 ### Input Nodes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTE0MjAwOSwtODQ5OTMzNTY2LDc0NT
+eyJoaXN0b3J5IjpbLTgyNDk2NzEyNSwtODQ5OTMzNTY2LDc0NT
 kxMzMxMiwxODM4Mzc2MTM0LC02ODkzMTExNzUsMTIzNTU0MjEw
 MywxNTAxMDk4OTMwLDYyMjI4NzcyMSwtMTUyNjYyMTMwMiwtNT
 Y2ODU1MDksMTU3MTc3OTUyNywtMjAxMjg2NTg3MywtMTk2ODkw
