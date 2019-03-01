@@ -113,7 +113,9 @@ There is a group of customization that can be rapidly set clicking on the config
 
 ![enter image description here](http://img.pyplan.org/Quick_start_evaluate.png)
 One interesting feature is the ability to show the node result as table and graph simutaneously.
-You can e
+All customization are lost until yo
+
+
 ### Types of data structures natively supported
 Pyplan supports programming in pure Python, and natively interprets Numpy, Xarray and Pandas objects that are rendered as pivotable multidimensional tables or graphs for result inspection. It allows to import and use any other specific library you may need to attend your specific goals.
 Pyplan can also render a node that evaluates generating an HTML file. This functionality is particularly useful for using visualization libraries, which result need to be rendered by the app.
@@ -154,11 +156,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjExNzM2MzUsMTU3MTc3OTUyNywtMj
-AxMjg2NTg3MywtMTk2ODkwMjI3NywtMTM2MTAyMDc0MiwxNjgz
-NjI3MTEwLC0xNDE3MjQ5OTU1LC0yNjExNjk4NTMsLTUyNjk3ND
-cwNCw4NjQ0NTcwNTMsMTI1ODg5NDM4MywxMzM1NDYyMTEwLDE5
-ODg5OTEzOTcsLTIwMTIxNTYwLC05OTg3NDQwNDgsLTExNTQwNj
-g5NiwxNTk3NTYzOTQwLDEwODcxMDgzNzcsLTE1MDM1MDY5Mjks
-LTYwMDYyODM2MF19
+eyJoaXN0b3J5IjpbMzk5OTgzNDk3LDE1NzE3Nzk1MjcsLTIwMT
+I4NjU4NzMsLTE5Njg5MDIyNzcsLTEzNjEwMjA3NDIsMTY4MzYy
+NzExMCwtMTQxNzI0OTk1NSwtMjYxMTY5ODUzLC01MjY5NzQ3MD
+QsODY0NDU3MDUzLDEyNTg4OTQzODMsMTMzNTQ2MjExMCwxOTg4
+OTkxMzk3LC0yMDEyMTU2MCwtOTk4NzQ0MDQ4LC0xMTU0MDY4OT
+YsMTU5NzU2Mzk0MCwxMDg3MTA4Mzc3LC0xNTAzNTA2OTI5LC02
+MDA2MjgzNjBdfQ==
 -->
