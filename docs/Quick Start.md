@@ -150,13 +150,13 @@ or you can directly display the diagram in one division and then keeping pressed
 ![](http://img.pyplan.org/Quick_start_create_interface.png)
 
 
+### Input Nodes
 
 ### Controls
-### Input Nodes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY1ODA0ODksLTE3MjY3MjIwNjUsMT
+eyJoaXN0b3J5IjpbLTIwMzQzNTI1OTksLTE3MjY3MjIwNjUsMT
 g3MDAxNTQ3MSwyMTM5Mzk1NTQ5LC0xMzgwMDA5OTg1LC04NDk5
 MzM1NjYsNzQ1OTEzMzEyLDE4MzgzNzYxMzQsLTY4OTMxMTE3NS
 wxMjM1NTQyMTAzLDE1MDEwOTg5MzAsNjIyMjg3NzIxLC0xNTI2
