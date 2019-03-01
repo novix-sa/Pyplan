@@ -143,7 +143,10 @@ There are several type of components that can be included in an interface: Table
 
 
 ### Output Nodes
-You can define what type of object
+You can define what type of object you want in a specific division and then search for the node that contains the data to be shown
+
+
+or you can directly display the diagram in one division and then press 
 ![](http://img.pyplan.org/Quick_start_create_interface.png)
 
 
@@ -153,7 +156,7 @@ You can define what type of object
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5ODAwOTM1LDIxMzkzOTU1NDksLTEzOD
+eyJoaXN0b3J5IjpbLTU4NTA3NzY2LDIxMzkzOTU1NDksLTEzOD
 AwMDk5ODUsLTg0OTkzMzU2Niw3NDU5MTMzMTIsMTgzODM3NjEz
 NCwtNjg5MzExMTc1LDEyMzU1NDIxMDMsMTUwMTA5ODkzMCw2Mj
 IyODc3MjEsLTE1MjY2MjEzMDIsLTU2Njg1NTA5LDE1NzE3Nzk1
