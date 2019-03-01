@@ -113,7 +113,7 @@ There is a group of customization that can be rapidly set clicking on the config
 
 ![enter image description here](http://img.pyplan.org/Quick_start_evaluate.png)
 One interesting feature is the ability to show the node result as table and graph simutaneously.
-All customization are lost when closing the node, unless you explicitly indicates that you want to set the current view as the default view for opening this specific node. To do that you must click on the icon with a pencil ![enter image description here](http://img.pyplan.org/Quick_start_pencil20.png) , at the top left corner. This will open the 
+All customization are lost when closing the node, unless you explicitly indicates that you want to set the current view as the default view for opening this specific node. To do that you must click on the icon with a pencil ![enter image description here](http://img.pyplan.org/Quick_start_pencil20.png) , at the top left corner. This will open the visualization editor with all the customization features. Click on the check mark to accept changes and setting the default view of the node.
 
 
 ### Types of data structures natively supported
@@ -156,11 +156,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczODYwODksMTIzNTU0MjEwMywxNTAxMD
-k4OTMwLDYyMjI4NzcyMSwtMTUyNjYyMTMwMiwtNTY2ODU1MDks
-MTU3MTc3OTUyNywtMjAxMjg2NTg3MywtMTk2ODkwMjI3NywtMT
-M2MTAyMDc0MiwxNjgzNjI3MTEwLC0xNDE3MjQ5OTU1LC0yNjEx
-Njk4NTMsLTUyNjk3NDcwNCw4NjQ0NTcwNTMsMTI1ODg5NDM4My
-wxMzM1NDYyMTEwLDE5ODg5OTEzOTcsLTIwMTIxNTYwLC05OTg3
-NDQwNDhdfQ==
+eyJoaXN0b3J5IjpbLTY4OTMxMTE3NSwxMjM1NTQyMTAzLDE1MD
+EwOTg5MzAsNjIyMjg3NzIxLC0xNTI2NjIxMzAyLC01NjY4NTUw
+OSwxNTcxNzc5NTI3LC0yMDEyODY1ODczLC0xOTY4OTAyMjc3LC
+0xMzYxMDIwNzQyLDE2ODM2MjcxMTAsLTE0MTcyNDk5NTUsLTI2
+MTE2OTg1MywtNTI2OTc0NzA0LDg2NDQ1NzA1MywxMjU4ODk0Mz
+gzLDEzMzU0NjIxMTAsMTk4ODk5MTM5NywtMjAxMjE1NjAsLTk5
+ODc0NDA0OF19
 -->
