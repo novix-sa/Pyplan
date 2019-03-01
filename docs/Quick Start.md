@@ -135,7 +135,7 @@ Provide the name **"First I/O dashboard"** to the new interface
 ![](http://img.pyplan.org/Quick_start_new_interface2.png)
 
 Now double click the new interface to start designing it:
-![]çQuick_start_interface_design.png)
+![](http://img.pyplan.org/Quick_start_interface_design.png)
 
 You can start splitting the screen horizontally or vertically for later indicating which node you want in each canvas. You can further divide any time.
 There are several type of components that can be included in an interface: Tables, graphs, diagram, Text, Filters, Pivot Tables, and Maps. 
@@ -144,7 +144,7 @@ There are several type of components that can be included in an interface: Table
 
 ### Output Nodes
 You can define what type of object you want in a specific division and then search for the node that contains the data to be shown
-![](Quick_start_ins_comp.png)
+![](http://img.pyplan.org/Quick_start_ins_comp.png)
 
 
 
@@ -160,11 +160,11 @@ or you can directly display the diagram in one division and then keeping pressed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTczMjY5LC0xNzI2NzIyMDY1LDE4Nz
-AwMTU0NzEsMjEzOTM5NTU0OSwtMTM4MDAwOTk4NSwtODQ5OTMz
-NTY2LDc0NTkxMzMxMiwxODM4Mzc2MTM0LC02ODkzMTExNzUsMT
-IzNTU0MjEwMywxNTAxMDk4OTMwLDYyMjI4NzcyMSwtMTUyNjYy
-MTMwMiwtNTY2ODU1MDksMTU3MTc3OTUyNywtMjAxMjg2NTg3My
-wtMTk2ODkwMjI3NywtMTM2MTAyMDc0MiwxNjgzNjI3MTEwLC0x
-NDE3MjQ5OTU1XX0=
+eyJoaXN0b3J5IjpbMTUxMTM5MDc2MiwtMTcyNjcyMjA2NSwxOD
+cwMDE1NDcxLDIxMzkzOTU1NDksLTEzODAwMDk5ODUsLTg0OTkz
+MzU2Niw3NDU5MTMzMTIsMTgzODM3NjEzNCwtNjg5MzExMTc1LD
+EyMzU1NDIxMDMsMTUwMTA5ODkzMCw2MjIyODc3MjEsLTE1MjY2
+MjEzMDIsLTU2Njg1NTA5LDE1NzE3Nzk1MjcsLTIwMTI4NjU4Nz
+MsLTE5Njg5MDIyNzcsLTEzNjEwMjA3NDIsMTY4MzYyNzExMCwt
+MTQxNzI0OTk1NV19
 -->
