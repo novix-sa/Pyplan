@@ -113,7 +113,7 @@ There is a group of customization that can be rapidly set clicking on the config
 
 ![enter image description here](http://img.pyplan.org/Quick_start_evaluate.png)
 One interesting feature is the ability to show the node result as table and graph simutaneously.
-All customization are lost when closing the node, unless you explicitly indicates that you want to set the current view as the default view for opening this specific node. To do that you must click on the icon with a pencil ![enter image description here](http://img.pyplan.org/Quick_start_pencil.png =20x20) , at the top left corner.
+All customization are lost when closing the node, unless you explicitly indicates that you want to set the current view as the default view for opening this specific node. To do that you must click on the icon with a pencil ![enter image description here](http://img.pyplan.org/Quick_start_pencil.png) , at the top left corner.
 
 
 ![description here](<img src="http://img.pyplan.org/Quick_start_pencil.png" width="20px" height="20px" />)
@@ -158,11 +158,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTA5ODkzMCw2MjIyODc3MjEsLTE1Mj
-Y2MjEzMDIsLTU2Njg1NTA5LDE1NzE3Nzk1MjcsLTIwMTI4NjU4
-NzMsLTE5Njg5MDIyNzcsLTEzNjEwMjA3NDIsMTY4MzYyNzExMC
-wtMTQxNzI0OTk1NSwtMjYxMTY5ODUzLC01MjY5NzQ3MDQsODY0
-NDU3MDUzLDEyNTg4OTQzODMsMTMzNTQ2MjExMCwxOTg4OTkxMz
-k3LC0yMDEyMTU2MCwtOTk4NzQ0MDQ4LC0xMTU0MDY4OTYsMTU5
-NzU2Mzk0MF19
+eyJoaXN0b3J5IjpbMTIzNTU0MjEwMywxNTAxMDk4OTMwLDYyMj
+I4NzcyMSwtMTUyNjYyMTMwMiwtNTY2ODU1MDksMTU3MTc3OTUy
+NywtMjAxMjg2NTg3MywtMTk2ODkwMjI3NywtMTM2MTAyMDc0Mi
+wxNjgzNjI3MTEwLC0xNDE3MjQ5OTU1LC0yNjExNjk4NTMsLTUy
+Njk3NDcwNCw4NjQ0NTcwNTMsMTI1ODg5NDM4MywxMzM1NDYyMT
+EwLDE5ODg5OTEzOTcsLTIwMTIxNTYwLC05OTg3NDQwNDgsLTEx
+NTQwNjg5Nl19
 -->
