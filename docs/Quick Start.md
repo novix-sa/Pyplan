@@ -112,7 +112,7 @@ Pyplan supports programming in pure Python, and natively interprets Numpy, Xarra
 Pyplan can also render a node that evaluates generating an HTML file. This functionality is particularly useful for using visualization libraries, which result need to be rendered by the app.
 
 ### Understanding how does it evaluation works
-When you ask for a node to be run, Pyplan trace all predecesor variables and run them in sequence in order to have computed every input that this node needs. The results of intermediate nodes are preserved in memory for future inspection. When the definition of a node change, all downstream nodes are marked to be recalculated.
+When you ask for a node to be run, Pyplan trace all predecesor variables and run them in sequence in order to have computed every input that this node needs. The results of intermediate nodes are preserved in memory for future inspection. When the definition of a node change, all downstream nodes are marked to be recalculated so the user does not need to be aware about 
 
 ## **Creating an App User Interface**
 ### Output Nodes
@@ -146,11 +146,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjEwMjA3NDIsMTY4MzYyNzExMCwtMT
-QxNzI0OTk1NSwtMjYxMTY5ODUzLC01MjY5NzQ3MDQsODY0NDU3
-MDUzLDEyNTg4OTQzODMsMTMzNTQ2MjExMCwxOTg4OTkxMzk3LC
-0yMDEyMTU2MCwtOTk4NzQ0MDQ4LC0xMTU0MDY4OTYsMTU5NzU2
-Mzk0MCwxMDg3MTA4Mzc3LC0xNTAzNTA2OTI5LC02MDA2MjgzNj
-AsMjE4MzYwNTQ4LDE3ODE0MTE1MzgsMzU3NzczMjI2LC0yNzIz
-OTUwODFdfQ==
+eyJoaXN0b3J5IjpbNDA4MDY2NDM1LC0xMzYxMDIwNzQyLDE2OD
+M2MjcxMTAsLTE0MTcyNDk5NTUsLTI2MTE2OTg1MywtNTI2OTc0
+NzA0LDg2NDQ1NzA1MywxMjU4ODk0MzgzLDEzMzU0NjIxMTAsMT
+k4ODk5MTM5NywtMjAxMjE1NjAsLTk5ODc0NDA0OCwtMTE1NDA2
+ODk2LDE1OTc1NjM5NDAsMTA4NzEwODM3NywtMTUwMzUwNjkyOS
+wtNjAwNjI4MzYwLDIxODM2MDU0OCwxNzgxNDExNTM4LDM1Nzc3
+MzIyNl19
 -->
