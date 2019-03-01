@@ -135,7 +135,8 @@ Provide the name **"First I/O dashboard"** to the new interface
 ![](http://img.pyplan.org/Quick_start_new_interface2.png)
 
 Now double click the new interface to start designing it:
-![](http://img.pyplan.org/Quick_start_new_interface_design.png)
+![](http://img.pyplan.org/Quick_start_interface_design.png)
+
 
 
 
@@ -145,11 +146,11 @@ Now double click the new interface to start designing it:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjI3MTgwOCwtODQ5OTMzNTY2LDc0NT
-kxMzMxMiwxODM4Mzc2MTM0LC02ODkzMTExNzUsMTIzNTU0MjEw
-MywxNTAxMDk4OTMwLDYyMjI4NzcyMSwtMTUyNjYyMTMwMiwtNT
-Y2ODU1MDksMTU3MTc3OTUyNywtMjAxMjg2NTg3MywtMTk2ODkw
-MjI3NywtMTM2MTAyMDc0MiwxNjgzNjI3MTEwLC0xNDE3MjQ5OT
-U1LC0yNjExNjk4NTMsLTUyNjk3NDcwNCw4NjQ0NTcwNTMsMTI1
-ODg5NDM4M119
+eyJoaXN0b3J5IjpbMjUxODUxODg5LC04NDk5MzM1NjYsNzQ1OT
+EzMzEyLDE4MzgzNzYxMzQsLTY4OTMxMTE3NSwxMjM1NTQyMTAz
+LDE1MDEwOTg5MzAsNjIyMjg3NzIxLC0xNTI2NjIxMzAyLC01Nj
+Y4NTUwOSwxNTcxNzc5NTI3LC0yMDEyODY1ODczLC0xOTY4OTAy
+Mjc3LC0xMzYxMDIwNzQyLDE2ODM2MjcxMTAsLTE0MTcyNDk5NT
+UsLTI2MTE2OTg1MywtNTI2OTc0NzA0LDg2NDQ1NzA1MywxMjU4
+ODk0MzgzXX0=
 -->
