@@ -113,7 +113,7 @@ There is a group of customization that can be rapidly set clicking on the config
 
 ![enter image description here](http://img.pyplan.org/Quick_start_evaluate.png)
 One interesting feature is the ability to show the node result as table and graph simutaneously.
-All customization are lost until yo
+All customization are lost when closing the node, unless you explicitly indicates that you want to set the current view as the default view for opening this specific node. To do that you must click on the 
 
 
 ### Types of data structures natively supported
@@ -156,11 +156,11 @@ As simple as indicated Python based model can be structure.
 Pyplan also provides user friendly interfaces for model management and API deployment. Check more about these topics on following chapters.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5OTgzNDk3LDE1NzE3Nzk1MjcsLTIwMT
-I4NjU4NzMsLTE5Njg5MDIyNzcsLTEzNjEwMjA3NDIsMTY4MzYy
-NzExMCwtMTQxNzI0OTk1NSwtMjYxMTY5ODUzLC01MjY5NzQ3MD
-QsODY0NDU3MDUzLDEyNTg4OTQzODMsMTMzNTQ2MjExMCwxOTg4
-OTkxMzk3LC0yMDEyMTU2MCwtOTk4NzQ0MDQ4LC0xMTU0MDY4OT
-YsMTU5NzU2Mzk0MCwxMDg3MTA4Mzc3LC0xNTAzNTA2OTI5LC02
-MDA2MjgzNjBdfQ==
+eyJoaXN0b3J5IjpbMTgwNTQwOTU5NCwxNTcxNzc5NTI3LC0yMD
+EyODY1ODczLC0xOTY4OTAyMjc3LC0xMzYxMDIwNzQyLDE2ODM2
+MjcxMTAsLTE0MTcyNDk5NTUsLTI2MTE2OTg1MywtNTI2OTc0Nz
+A0LDg2NDQ1NzA1MywxMjU4ODk0MzgzLDEzMzU0NjIxMTAsMTk4
+ODk5MTM5NywtMjAxMjE1NjAsLTk5ODc0NDA0OCwtMTE1NDA2OD
+k2LDE1OTc1NjM5NDAsMTA4NzEwODM3NywtMTUwMzUwNjkyOSwt
+NjAwNjI4MzYwXX0=
 -->
