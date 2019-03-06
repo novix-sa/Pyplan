@@ -137,7 +137,7 @@ Provide the name **"First I/O dashboard"** to the new interface
 Now double click the new interface to start designing it:
 ![](http://img.pyplan.org/Quick_start_interface_design.png)
 
-You can start splitting the screen horizontally or vertically for later indicating which node you want in each canvas. You can further divide any time.
+You can start splitting the screen horizontally or vertically for later indicating which node you want in each canvas. You can further divide the canvas any time.
 There are several type of components that can be included in an interface: Tables, graphs, diagram, Text, Filters, Pivot Tables, and Maps. 
 ![](http://img.pyplan.org/Quick_start_interface_elements.png)
 
@@ -158,11 +158,11 @@ Filters and selectors
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQzMDg4NTIsLTIwMzQzNTI1OTksLT
-E3MjY3MjIwNjUsMTg3MDAxNTQ3MSwyMTM5Mzk1NTQ5LC0xMzgw
-MDA5OTg1LC04NDk5MzM1NjYsNzQ1OTEzMzEyLDE4MzgzNzYxMz
-QsLTY4OTMxMTE3NSwxMjM1NTQyMTAzLDE1MDEwOTg5MzAsNjIy
-Mjg3NzIxLC0xNTI2NjIxMzAyLC01NjY4NTUwOSwxNTcxNzc5NT
-I3LC0yMDEyODY1ODczLC0xOTY4OTAyMjc3LC0xMzYxMDIwNzQy
-LDE2ODM2MjcxMTBdfQ==
+eyJoaXN0b3J5IjpbMTMxNzI2OTk4NSwtMTQ3NDMwODg1MiwtMj
+AzNDM1MjU5OSwtMTcyNjcyMjA2NSwxODcwMDE1NDcxLDIxMzkz
+OTU1NDksLTEzODAwMDk5ODUsLTg0OTkzMzU2Niw3NDU5MTMzMT
+IsMTgzODM3NjEzNCwtNjg5MzExMTc1LDEyMzU1NDIxMDMsMTUw
+MTA5ODkzMCw2MjIyODc3MjEsLTE1MjY2MjEzMDIsLTU2Njg1NT
+A5LDE1NzE3Nzk1MjcsLTIwMTI4NjU4NzMsLTE5Njg5MDIyNzcs
+LTEzNjEwMjA3NDJdfQ==
 -->
