@@ -138,15 +138,15 @@ Now double click the new interface to start designing it:
 ![](http://img.pyplan.org/Quick_start_interface_design.png)
 
 You can start splitting the screen horizontally or vertically for later indicating which node you want in each canvas. You can further divide the canvas any time.
-There are several type of components that can be included in an interface: Tables, graphs, diagram, Text, Filters, Pivot Tables, and Maps. 
-![](http://img.pyplan.org/Quick_start_interface_elements.png)
-
 
 ### Output Nodes
+There are several type of components that can be included in an interface: Tables, Charts, Diagrams, Text, Filters, Pivot Tables, and Maps. 
+![](http://img.pyplan.org/Quick_start_interface_elements.png)
+
 You can define what type of object you want in a specific division and then search for the node that contains the data to be shown
 ![](http://img.pyplan.org/Quick_start_ins_comp.png)
 
-or you can directly display the diagram in one division and then keeping pressed the **<Shift>** key and clicking a node, selecting it and dragging and dropping it at the desired division.
+Or you can directly display the diagram in one division and then keeping pressed the **<Shift>** key and clicking a node, selecting it and dragging and dropping it at the desired division.
 ![](http://img.pyplan.org/Quick_start_create_interface.png)
 
 
@@ -158,11 +158,11 @@ Filters and selectors
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzI2OTk4NSwtMTQ3NDMwODg1MiwtMj
-AzNDM1MjU5OSwtMTcyNjcyMjA2NSwxODcwMDE1NDcxLDIxMzkz
-OTU1NDksLTEzODAwMDk5ODUsLTg0OTkzMzU2Niw3NDU5MTMzMT
-IsMTgzODM3NjEzNCwtNjg5MzExMTc1LDEyMzU1NDIxMDMsMTUw
-MTA5ODkzMCw2MjIyODc3MjEsLTE1MjY2MjEzMDIsLTU2Njg1NT
-A5LDE1NzE3Nzk1MjcsLTIwMTI4NjU4NzMsLTE5Njg5MDIyNzcs
-LTEzNjEwMjA3NDJdfQ==
+eyJoaXN0b3J5IjpbLTE4NDA0MTQzMzAsMTMxNzI2OTk4NSwtMT
+Q3NDMwODg1MiwtMjAzNDM1MjU5OSwtMTcyNjcyMjA2NSwxODcw
+MDE1NDcxLDIxMzkzOTU1NDksLTEzODAwMDk5ODUsLTg0OTkzMz
+U2Niw3NDU5MTMzMTIsMTgzODM3NjEzNCwtNjg5MzExMTc1LDEy
+MzU1NDIxMDMsMTUwMTA5ODkzMCw2MjIyODc3MjEsLTE1MjY2Mj
+EzMDIsLTU2Njg1NTA5LDE1NzE3Nzk1MjcsLTIwMTI4NjU4NzMs
+LTE5Njg5MDIyNzddfQ==
 -->
