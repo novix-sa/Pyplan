@@ -152,20 +152,19 @@ Or you can directly display the diagram in one division and then keeping pressed
 
 ### Input Nodes
 They are ment to enter data needed for the application calculation logic.
-They can be plain tables to enter numbers, 
-
-Edit Tables
+They can be plain tables to enter numbers or tables for choosing among predefined options.
 
 ### Controls
-Filters and selectors
+Are the elements for driving
+Filters (index) and selectors (choice)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzM3NjcyNCwtMTg0MDQxNDMzMCwxMz
-E3MjY5OTg1LC0xNDc0MzA4ODUyLC0yMDM0MzUyNTk5LC0xNzI2
-NzIyMDY1LDE4NzAwMTU0NzEsMjEzOTM5NTU0OSwtMTM4MDAwOT
-k4NSwtODQ5OTMzNTY2LDc0NTkxMzMxMiwxODM4Mzc2MTM0LC02
-ODkzMTExNzUsMTIzNTU0MjEwMywxNTAxMDk4OTMwLDYyMjI4Nz
-cyMSwtMTUyNjYyMTMwMiwtNTY2ODU1MDksMTU3MTc3OTUyNywt
-MjAxMjg2NTg3M119
+eyJoaXN0b3J5IjpbLTE0NTU3NTA4ODksLTE4NDA0MTQzMzAsMT
+MxNzI2OTk4NSwtMTQ3NDMwODg1MiwtMjAzNDM1MjU5OSwtMTcy
+NjcyMjA2NSwxODcwMDE1NDcxLDIxMzkzOTU1NDksLTEzODAwMD
+k5ODUsLTg0OTkzMzU2Niw3NDU5MTMzMTIsMTgzODM3NjEzNCwt
+Njg5MzExMTc1LDEyMzU1NDIxMDMsMTUwMTA5ODkzMCw2MjIyOD
+c3MjEsLTE1MjY2MjEzMDIsLTU2Njg1NTA5LDE1NzE3Nzk1Mjcs
+LTIwMTI4NjU4NzNdfQ==
 -->
