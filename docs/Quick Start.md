@@ -155,16 +155,16 @@ They are meant to enter data needed for the application calculation logic.
 They can be plain tables to enter numbers or tables for choosing among predefined options.
 
 ### Controls
-Are the elements for interacting with the app can take the form of filters that automatically applies over all nodes that share that dimension
+Are the elements for interacting with the app. Can take the form of filters that automatically applies over all nodes that share the same dimension
 Filters (index) and selectors (choice)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODkwNTU2MCwtMTg0MDQxNDMzMCwxMz
-E3MjY5OTg1LC0xNDc0MzA4ODUyLC0yMDM0MzUyNTk5LC0xNzI2
-NzIyMDY1LDE4NzAwMTU0NzEsMjEzOTM5NTU0OSwtMTM4MDAwOT
-k4NSwtODQ5OTMzNTY2LDc0NTkxMzMxMiwxODM4Mzc2MTM0LC02
-ODkzMTExNzUsMTIzNTU0MjEwMywxNTAxMDk4OTMwLDYyMjI4Nz
-cyMSwtMTUyNjYyMTMwMiwtNTY2ODU1MDksMTU3MTc3OTUyNywt
-MjAxMjg2NTg3M119
+eyJoaXN0b3J5IjpbNDA0MDMwMzM2LC0xODQwNDE0MzMwLDEzMT
+cyNjk5ODUsLTE0NzQzMDg4NTIsLTIwMzQzNTI1OTksLTE3MjY3
+MjIwNjUsMTg3MDAxNTQ3MSwyMTM5Mzk1NTQ5LC0xMzgwMDA5OT
+g1LC04NDk5MzM1NjYsNzQ1OTEzMzEyLDE4MzgzNzYxMzQsLTY4
+OTMxMTE3NSwxMjM1NTQyMTAzLDE1MDEwOTg5MzAsNjIyMjg3Nz
+IxLC0xNTI2NjIxMzAyLC01NjY4NTUwOSwxNTcxNzc5NTI3LC0y
+MDEyODY1ODczXX0=
 -->
