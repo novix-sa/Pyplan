@@ -151,7 +151,9 @@ Or you can directly display the diagram in one division and then keeping pressed
 
 
 ### Input Nodes
-They are ment to enter data for the application 
+They are ment to enter data needed for the application calculation logic.
+They can be plain tables to enter numbers, 
+
 Edit Tables
 
 ### Controls
@@ -159,7 +161,7 @@ Filters and selectors
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTE2NjA1NywtMTg0MDQxNDMzMCwxMz
+eyJoaXN0b3J5IjpbMTY0MzM3NjcyNCwtMTg0MDQxNDMzMCwxMz
 E3MjY5OTg1LC0xNDc0MzA4ODUyLC0yMDM0MzUyNTk5LC0xNzI2
 NzIyMDY1LDE4NzAwMTU0NzEsMjEzOTM5NTU0OSwtMTM4MDAwOT
 k4NSwtODQ5OTMzNTY2LDc0NTkxMzMxMiwxODM4Mzc2MTM0LC02
