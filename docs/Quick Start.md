@@ -151,6 +151,7 @@ Or you can directly display the diagram in one division and then keeping pressed
 
 
 ### Input Nodes
+They are ment to enter data for the application 
 Edit Tables
 
 ### Controls
@@ -158,11 +159,11 @@ Filters and selectors
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA0MTQzMzAsMTMxNzI2OTk4NSwtMT
-Q3NDMwODg1MiwtMjAzNDM1MjU5OSwtMTcyNjcyMjA2NSwxODcw
-MDE1NDcxLDIxMzkzOTU1NDksLTEzODAwMDk5ODUsLTg0OTkzMz
-U2Niw3NDU5MTMzMTIsMTgzODM3NjEzNCwtNjg5MzExMTc1LDEy
-MzU1NDIxMDMsMTUwMTA5ODkzMCw2MjIyODc3MjEsLTE1MjY2Mj
-EzMDIsLTU2Njg1NTA5LDE1NzE3Nzk1MjcsLTIwMTI4NjU4NzMs
-LTE5Njg5MDIyNzddfQ==
+eyJoaXN0b3J5IjpbLTc3OTE2NjA1NywtMTg0MDQxNDMzMCwxMz
+E3MjY5OTg1LC0xNDc0MzA4ODUyLC0yMDM0MzUyNTk5LC0xNzI2
+NzIyMDY1LDE4NzAwMTU0NzEsMjEzOTM5NTU0OSwtMTM4MDAwOT
+k4NSwtODQ5OTMzNTY2LDc0NTkxMzMxMiwxODM4Mzc2MTM0LC02
+ODkzMTExNzUsMTIzNTU0MjEwMywxNTAxMDk4OTMwLDYyMjI4Nz
+cyMSwtMTUyNjYyMTMwMiwtNTY2ODU1MDksMTU3MTc3OTUyNywt
+MjAxMjg2NTg3M119
 -->
