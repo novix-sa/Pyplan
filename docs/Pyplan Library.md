@@ -7,8 +7,8 @@ Pyplan library is a [Python](https://www.python.org/) set of functions intended 
 Pyplan library is based on two main objects:
 
 ### Index
-The index object is the way to define a dimension in Pyplan. Indexes are created using a Graphical Using Interface (GUI), through drag and drop method.
-![Index Definition](http://img.pyplan.org/Pyplan_library_index_definition.png)
+The index object is the way to define a dimension in Pyplan. Indexes are created using a Graphical Using Interface (GUI), through drag and drop method, and they are created as Pandas Index
+![Index Definition](http://img.pyplan.org/Pyplan_library_index.png)
 
     pp.index(["Item 1","Item 2","Item 3"])
 
@@ -110,11 +110,11 @@ pp.subset
 ### Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzcwODA0LC0xMjUyMDI1OTg2LDUwOD
-M3ODYxNSwzMzYzMTg3OTYsLTIwMTk5Njk5ODMsLTI0Nzg0NTk0
-NiwtMTU5NDI1NDQ4OSw5MDg3NTIyNzAsLTQzNDk2ODAyNCwtMT
-MxNzA2MTczMSwtMTgzNDcyMjI4OCw5NzI5NzE5OTYsLTIxMzU3
-MjI2ODgsMTExODc0OTA2Niw0OTQyODU0NTksMTE2MjgzODI5NC
-wtMTAwNzQ5MjM3OCwtNDA2NzM1MjM4LDE2NzExOTY1MDYsMTAw
-MTk0MjgxNF19
+eyJoaXN0b3J5IjpbMTk4MjU5NjgxNiwtMzYzNzA4MDQsLTEyNT
+IwMjU5ODYsNTA4Mzc4NjE1LDMzNjMxODc5NiwtMjAxOTk2OTk4
+MywtMjQ3ODQ1OTQ2LC0xNTk0MjU0NDg5LDkwODc1MjI3MCwtND
+M0OTY4MDI0LC0xMzE3MDYxNzMxLC0xODM0NzIyMjg4LDk3Mjk3
+MTk5NiwtMjEzNTcyMjY4OCwxMTE4NzQ5MDY2LDQ5NDI4NTQ1OS
+wxMTYyODM4Mjk0LC0xMDA3NDkyMzc4LC00MDY3MzUyMzgsMTY3
+MTE5NjUwNl19
 -->
