@@ -10,7 +10,7 @@ Pyplan library is based on two main objects:
 The index object is the way to define a dimension in Pyplan. Indexes are created using a Graphical Using Interface (GUI), through drag and drop method, and they are created as Pandas Index
 ![Index Definition](http://img.pyplan.org/Pyplan_library_index.png)
 
-    pp.index(["Item 1","Item 2","Item 3"])
+    pd.Index(["Item 1","Item 2","Item 3"])
 
 For someone coming from Xarray, the index Id property is the equivalent of Xarray "Dim" and the index values are the equivalent of "Coords".
 Different than Xarray, Pyplan index are defined with a unique set of values, and when used, all the elements are present in that dimension.
@@ -110,11 +110,11 @@ pp.subset
 ### Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjU5NjgxNiwtMzYzNzA4MDQsLTEyNT
-IwMjU5ODYsNTA4Mzc4NjE1LDMzNjMxODc5NiwtMjAxOTk2OTk4
-MywtMjQ3ODQ1OTQ2LC0xNTk0MjU0NDg5LDkwODc1MjI3MCwtND
-M0OTY4MDI0LC0xMzE3MDYxNzMxLC0xODM0NzIyMjg4LDk3Mjk3
-MTk5NiwtMjEzNTcyMjY4OCwxMTE4NzQ5MDY2LDQ5NDI4NTQ1OS
-wxMTYyODM4Mjk0LC0xMDA3NDkyMzc4LC00MDY3MzUyMzgsMTY3
-MTE5NjUwNl19
+eyJoaXN0b3J5IjpbLTEwMDY5MTU0MjAsLTM2MzcwODA0LC0xMj
+UyMDI1OTg2LDUwODM3ODYxNSwzMzYzMTg3OTYsLTIwMTk5Njk5
+ODMsLTI0Nzg0NTk0NiwtMTU5NDI1NDQ4OSw5MDg3NTIyNzAsLT
+QzNDk2ODAyNCwtMTMxNzA2MTczMSwtMTgzNDcyMjI4OCw5NzI5
+NzE5OTYsLTIxMzU3MjI2ODgsMTExODc0OTA2Niw0OTQyODU0NT
+ksMTE2MjgzODI5NCwtMTAwNzQ5MjM3OCwtNDA2NzM1MjM4LDE2
+NzExOTY1MDZdfQ==
 -->
