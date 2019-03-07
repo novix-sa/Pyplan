@@ -1,7 +1,7 @@
 
 # **Pyplan Library**
 
-Pyplan is a [Python](https://www.python.org/) library intended for supporting multidimensional dynamic simulation running on the Pyplan IDE web application. It is based on [Xarray](http://xarray.pydata.org/) DataArray object and take advantage of its N-dimensional labeled arrays functionalities.
+Pyplan library is a [Python](https://www.python.org/) set of functions intended for supporting multidimensional dynamic simulation running on the Pyplan IDE web application. It is based on [Xarray](http://xarray.pydata.org/) DataArray object and take advantage of its N-dimensional labeled arrays functionalities.
 
 ## Main concepts
 Pyplan library is based on two main objects:
@@ -110,11 +110,11 @@ pp.subset
 ### Other functions
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTIwMjU5ODYsNTA4Mzc4NjE1LDMzNj
-MxODc5NiwtMjAxOTk2OTk4MywtMjQ3ODQ1OTQ2LC0xNTk0MjU0
-NDg5LDkwODc1MjI3MCwtNDM0OTY4MDI0LC0xMzE3MDYxNzMxLC
-0xODM0NzIyMjg4LDk3Mjk3MTk5NiwtMjEzNTcyMjY4OCwxMTE4
-NzQ5MDY2LDQ5NDI4NTQ1OSwxMTYyODM4Mjk0LC0xMDA3NDkyMz
-c4LC00MDY3MzUyMzgsMTY3MTE5NjUwNiwxMDAxOTQyODE0LC00
-NDU3MDYwMzBdfQ==
+eyJoaXN0b3J5IjpbLTM2MzcwODA0LC0xMjUyMDI1OTg2LDUwOD
+M3ODYxNSwzMzYzMTg3OTYsLTIwMTk5Njk5ODMsLTI0Nzg0NTk0
+NiwtMTU5NDI1NDQ4OSw5MDg3NTIyNzAsLTQzNDk2ODAyNCwtMT
+MxNzA2MTczMSwtMTgzNDcyMjI4OCw5NzI5NzE5OTYsLTIxMzU3
+MjI2ODgsMTExODc0OTA2Niw0OTQyODU0NTksMTE2MjgzODI5NC
+wtMTAwNzQ5MjM3OCwtNDA2NzM1MjM4LDE2NzExOTY1MDYsMTAw
+MTk0MjgxNF19
 -->
