@@ -7,13 +7,13 @@ Nodes are added by a drag and drop user interface and Python code is written ins
 ![Node Code](http://img.pyplan.org/index_node_code.png)
 
 Nodes have several properties: Title, ID, Units, Inputs, Outputs that are displayed when focus. 
-The ID allows calling its result from other nodes, working as global variables.
+The ID allows calling its result from other nodes, working as global variables for programming.
 
 ![Node properties](http://img.pyplan.org/index_node_properties1.png)
 
 
 ## **Node Evaluation**
-Pyplan natively interprets Pandas, Numpy and XArray dataobjects. That allows any node which result is an object of these types can be evaluated (by double clicking the node) and visualized with native Pyplan charts and tables with no additional coding.
+Pyplan natively interprets Pandas, Numpy and XArray dataobjects. Any node which result is an object of these types can be evaluated (by double clicking the node) and visualized with native Pyplan charts and tables with no additional coding.
 ![enter image description here](http://img.pyplan.org/index_node_result1.png)
 
 When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps track of any change in a node that triggers recalculation downstream the calc logic path.
@@ -37,11 +37,11 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzExMTI5NywtMTkwMzc5OTA3OSwtMT
-E1MTAwNDk4MiwtMTY0NDM1NjE1NywxNzY4OTUxNDcsMTk1Nzcw
-MDU0NCwtNDc0NzI0MTExLDEzNzA0NzM1MTMsMjAzMjI3NjEwMS
-wxMTI0ODIzNDY2LDQxMjA4MTIyMCwtMTEzMzk5MDU3MCw2Mjgw
-NjIxOTksLTE3MDY3NDU0MTcsLTE4NjkyNzk0Miw4Nzg5OTU0OC
-wtMjA2ODM1MjAzNyw4MDA1MjkyMDIsMTc3NTQwODQwLC0xNDgz
-NDc1NjEzXX0=
+eyJoaXN0b3J5IjpbLTIwMzUzMzk5NDIsLTYwNzExMTI5NywtMT
+kwMzc5OTA3OSwtMTE1MTAwNDk4MiwtMTY0NDM1NjE1NywxNzY4
+OTUxNDcsMTk1NzcwMDU0NCwtNDc0NzI0MTExLDEzNzA0NzM1MT
+MsMjAzMjI3NjEwMSwxMTI0ODIzNDY2LDQxMjA4MTIyMCwtMTEz
+Mzk5MDU3MCw2MjgwNjIxOTksLTE3MDY3NDU0MTcsLTE4NjkyNz
+k0Miw4Nzg5OTU0OCwtMjA2ODM1MjAzNyw4MDA1MjkyMDIsMTc3
+NTQwODQwXX0=
 -->
