@@ -161,15 +161,15 @@ They can be plain tables to enter numbers or tables for choosing among predefine
 ### Controls
 Are the elements for interacting with the app. Can take the form of filters that automatically applies over all nodes that share the same dimension or selectors for choosing specific slices of data.
 
-There are other type of controls like buttons for launching specific tasks (scripts) or hyperlinks to navigate among interfaces.
+There are other type of controls like buttons for launching specific tasks (scripts) or hyperlinks to create menus and navigate among interfaces.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzNjUwNzgxLC01MDk0Nzg1ODAsODcwMz
-A2NzMzLC0xMDE1MzY2MzYxLC0xMDgyMjgxNjA2LC0xMjk1MjUw
-NTQ4LDQwNDAzMDMzNiwtMTg0MDQxNDMzMCwxMzE3MjY5OTg1LC
-0xNDc0MzA4ODUyLC0yMDM0MzUyNTk5LC0xNzI2NzIyMDY1LDE4
-NzAwMTU0NzEsMjEzOTM5NTU0OSwtMTM4MDAwOTk4NSwtODQ5OT
-MzNTY2LDc0NTkxMzMxMiwxODM4Mzc2MTM0LC02ODkzMTExNzUs
-MTIzNTU0MjEwM119
+eyJoaXN0b3J5IjpbMjA1MTQ5MzkwOCwtNTA5NDc4NTgwLDg3MD
+MwNjczMywtMTAxNTM2NjM2MSwtMTA4MjI4MTYwNiwtMTI5NTI1
+MDU0OCw0MDQwMzAzMzYsLTE4NDA0MTQzMzAsMTMxNzI2OTk4NS
+wtMTQ3NDMwODg1MiwtMjAzNDM1MjU5OSwtMTcyNjcyMjA2NSwx
+ODcwMDE1NDcxLDIxMzkzOTU1NDksLTEzODAwMDk5ODUsLTg0OT
+kzMzU2Niw3NDU5MTMzMTIsMTgzODM3NjEzNCwtNjg5MzExMTc1
+LDEyMzU1NDIxMDNdfQ==
 -->
