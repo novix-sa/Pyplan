@@ -160,16 +160,16 @@ They can be plain tables to enter numbers or tables for choosing among predefine
 
 ### Controls
 Are the elements for interacting with the app. Can take the form of filters that automatically applies over all nodes that share the same dimension or selectors for choosing specific slices of data.
-
+![enter image description here](http://img.pyplan.org/Quick_start_I-O.png)
 There are other type of controls like buttons for launching specific tasks (scripts) or hyperlinks to create menus and navigate among interfaces.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTQ5MzkwOCwtNTA5NDc4NTgwLDg3MD
-MwNjczMywtMTAxNTM2NjM2MSwtMTA4MjI4MTYwNiwtMTI5NTI1
-MDU0OCw0MDQwMzAzMzYsLTE4NDA0MTQzMzAsMTMxNzI2OTk4NS
-wtMTQ3NDMwODg1MiwtMjAzNDM1MjU5OSwtMTcyNjcyMjA2NSwx
-ODcwMDE1NDcxLDIxMzkzOTU1NDksLTEzODAwMDk5ODUsLTg0OT
-kzMzU2Niw3NDU5MTMzMTIsMTgzODM3NjEzNCwtNjg5MzExMTc1
-LDEyMzU1NDIxMDNdfQ==
+eyJoaXN0b3J5IjpbNTY3Nzg4ODU0LDIwNTE0OTM5MDgsLTUwOT
+Q3ODU4MCw4NzAzMDY3MzMsLTEwMTUzNjYzNjEsLTEwODIyODE2
+MDYsLTEyOTUyNTA1NDgsNDA0MDMwMzM2LC0xODQwNDE0MzMwLD
+EzMTcyNjk5ODUsLTE0NzQzMDg4NTIsLTIwMzQzNTI1OTksLTE3
+MjY3MjIwNjUsMTg3MDAxNTQ3MSwyMTM5Mzk1NTQ5LC0xMzgwMD
+A5OTg1LC04NDk5MzM1NjYsNzQ1OTEzMzEyLDE4MzgzNzYxMzQs
+LTY4OTMxMTE3NV19
 -->
