@@ -154,17 +154,22 @@ Or you can directly display the diagram in one division and then keeping pressed
 They are meant to enter data needed for the application calculation logic.
 They can be plain tables to enter numbers or tables for choosing among predefined options.
 ![enter image description here](http://img.pyplan.org/Quick_start_inputs.png)
+
+![enter image description here](http://img.pyplan.org/Quick_start_inputs.png)
+
+ftp://imgpyplan@ftp.novix.com/Quick_start_inputs.png
+
 ### Controls
 Are the elements for interacting with the app. Can take the form of filters that automatically applies over all nodes that share the same dimension
 Filters (index) and selectors (choice)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTMwNDM5NCw0MDQwMzAzMzYsLTE4ND
-A0MTQzMzAsMTMxNzI2OTk4NSwtMTQ3NDMwODg1MiwtMjAzNDM1
-MjU5OSwtMTcyNjcyMjA2NSwxODcwMDE1NDcxLDIxMzkzOTU1ND
-ksLTEzODAwMDk5ODUsLTg0OTkzMzU2Niw3NDU5MTMzMTIsMTgz
-ODM3NjEzNCwtNjg5MzExMTc1LDEyMzU1NDIxMDMsMTUwMTA5OD
-kzMCw2MjIyODc3MjEsLTE1MjY2MjEzMDIsLTU2Njg1NTA5LDE1
-NzE3Nzk1MjddfQ==
+eyJoaXN0b3J5IjpbLTEyOTUyNTA1NDgsNDA0MDMwMzM2LC0xOD
+QwNDE0MzMwLDEzMTcyNjk5ODUsLTE0NzQzMDg4NTIsLTIwMzQz
+NTI1OTksLTE3MjY3MjIwNjUsMTg3MDAxNTQ3MSwyMTM5Mzk1NT
+Q5LC0xMzgwMDA5OTg1LC04NDk5MzM1NjYsNzQ1OTEzMzEyLDE4
+MzgzNzYxMzQsLTY4OTMxMTE3NSwxMjM1NTQyMTAzLDE1MDEwOT
+g5MzAsNjIyMjg3NzIxLC0xNTI2NjIxMzAyLC01NjY4NTUwOSwx
+NTcxNzc5NTI3XX0=
 -->
