@@ -156,7 +156,6 @@ They can be plain tables to enter numbers or tables for choosing among predefine
 ![enter image description here](http://img.pyplan.org/Quick_start_inputs.png)
 
 ![enter image description here](http://img.pyplan.org/Quick_start_inputs.png)
-
 ftp://imgpyplan@ftp.novix.com/Quick_start_inputs.png
 
 ### Controls
@@ -165,11 +164,11 @@ Filters (index) and selectors (choice)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTUyNTA1NDgsNDA0MDMwMzM2LC0xOD
-QwNDE0MzMwLDEzMTcyNjk5ODUsLTE0NzQzMDg4NTIsLTIwMzQz
-NTI1OTksLTE3MjY3MjIwNjUsMTg3MDAxNTQ3MSwyMTM5Mzk1NT
-Q5LC0xMzgwMDA5OTg1LC04NDk5MzM1NjYsNzQ1OTEzMzEyLDE4
-MzgzNzYxMzQsLTY4OTMxMTE3NSwxMjM1NTQyMTAzLDE1MDEwOT
-g5MzAsNjIyMjg3NzIxLC0xNTI2NjIxMzAyLC01NjY4NTUwOSwx
-NTcxNzc5NTI3XX0=
+eyJoaXN0b3J5IjpbLTEwODIyODE2MDYsLTEyOTUyNTA1NDgsND
+A0MDMwMzM2LC0xODQwNDE0MzMwLDEzMTcyNjk5ODUsLTE0NzQz
+MDg4NTIsLTIwMzQzNTI1OTksLTE3MjY3MjIwNjUsMTg3MDAxNT
+Q3MSwyMTM5Mzk1NTQ5LC0xMzgwMDA5OTg1LC04NDk5MzM1NjYs
+NzQ1OTEzMzEyLDE4MzgzNzYxMzQsLTY4OTMxMTE3NSwxMjM1NT
+QyMTAzLDE1MDEwOTg5MzAsNjIyMjg3NzIxLC0xNTI2NjIxMzAy
+LC01NjY4NTUwOV19
 -->
