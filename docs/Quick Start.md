@@ -155,7 +155,10 @@ They are meant to enter data needed for the application calculation logic.
 They can be plain tables to enter numbers or tables for choosing among predefined options.
 ![enter image description here](http://img.pyplan.org/Quick_start_inputs.png)
 
-![enter image description here](http://img.pyplan.org/Quick_start_inputs.png)
+
+
+![enter image description here](http://img.pyplan.org/Quick_start_inputs1.png)
+
 ftp://imgpyplan@ftp.novix.com/Quick_start_inputs.png
 
 ### Controls
@@ -164,11 +167,11 @@ Filters (index) and selectors (choice)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODIyODE2MDYsLTEyOTUyNTA1NDgsND
-A0MDMwMzM2LC0xODQwNDE0MzMwLDEzMTcyNjk5ODUsLTE0NzQz
-MDg4NTIsLTIwMzQzNTI1OTksLTE3MjY3MjIwNjUsMTg3MDAxNT
-Q3MSwyMTM5Mzk1NTQ5LC0xMzgwMDA5OTg1LC04NDk5MzM1NjYs
-NzQ1OTEzMzEyLDE4MzgzNzYxMzQsLTY4OTMxMTE3NSwxMjM1NT
-QyMTAzLDE1MDEwOTg5MzAsNjIyMjg3NzIxLC0xNTI2NjIxMzAy
-LC01NjY4NTUwOV19
+eyJoaXN0b3J5IjpbLTEwMTUzNjYzNjEsLTEwODIyODE2MDYsLT
+EyOTUyNTA1NDgsNDA0MDMwMzM2LC0xODQwNDE0MzMwLDEzMTcy
+Njk5ODUsLTE0NzQzMDg4NTIsLTIwMzQzNTI1OTksLTE3MjY3Mj
+IwNjUsMTg3MDAxNTQ3MSwyMTM5Mzk1NTQ5LC0xMzgwMDA5OTg1
+LC04NDk5MzM1NjYsNzQ1OTEzMzEyLDE4MzgzNzYxMzQsLTY4OT
+MxMTE3NSwxMjM1NTQyMTAzLDE1MDEwOTg5MzAsNjIyMjg3NzIx
+LC0xNTI2NjIxMzAyXX0=
 -->
