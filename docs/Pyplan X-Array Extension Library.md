@@ -26,15 +26,17 @@ Pyplan X-Array Extension Library group a set of functions that helps operate wit
 ### DataArray from Excel
 ### Split Text
 
-## Excel connection
-## Kind to String
+## Other Functions
+### Excel connection
+### Kind to String
 
+## Special func
 ## Choice
 ## Dynamic
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjEyNjgyLC02MjY3NzcwODIsMTYxMj
+eyJoaXN0b3J5IjpbODY5NDg2Nzg2LC02MjY3NzcwODIsMTYxMj
 E5ODQ2OF19
 -->
