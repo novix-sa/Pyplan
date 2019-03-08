@@ -27,7 +27,7 @@ A Plotly 3D representation is appreciated in the figure below.
 
 ## **Creating Apps**
 Apps interfaces are created dragging and dropping nodes on an interface design tool.
-
+![enter image description here](http://img.pyplan.org/index_interface_design.png)
 
 ![Interface Designer](http://img.pyplan.org/index_new_interface2.png)
 
@@ -39,11 +39,11 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI2MzY1ODcsLTUxMzgyNTEwMywtMT
-k5NzQzNTA4MywtMjAzNTMzOTk0MiwtNjA3MTExMjk3LC0xOTAz
-Nzk5MDc5LC0xMTUxMDA0OTgyLC0xNjQ0MzU2MTU3LDE3Njg5NT
-E0NywxOTU3NzAwNTQ0LC00NzQ3MjQxMTEsMTM3MDQ3MzUxMywy
-MDMyMjc2MTAxLDExMjQ4MjM0NjYsNDEyMDgxMjIwLC0xMTMzOT
-kwNTcwLDYyODA2MjE5OSwtMTcwNjc0NTQxNywtMTg2OTI3OTQy
-LDg3ODk5NTQ4XX0=
+eyJoaXN0b3J5IjpbNjYxOTI5NjIwLC0xMTQyNjM2NTg3LC01MT
+M4MjUxMDMsLTE5OTc0MzUwODMsLTIwMzUzMzk5NDIsLTYwNzEx
+MTI5NywtMTkwMzc5OTA3OSwtMTE1MTAwNDk4MiwtMTY0NDM1Nj
+E1NywxNzY4OTUxNDcsMTk1NzcwMDU0NCwtNDc0NzI0MTExLDEz
+NzA0NzM1MTMsMjAzMjI3NjEwMSwxMTI0ODIzNDY2LDQxMjA4MT
+IyMCwtMTEzMzk5MDU3MCw2MjgwNjIxOTksLTE3MDY3NDU0MTcs
+LTE4NjkyNzk0Ml19
 -->
