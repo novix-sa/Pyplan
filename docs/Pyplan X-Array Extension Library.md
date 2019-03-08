@@ -30,13 +30,13 @@ Pyplan X-Array Extension Library group a set of functions that helps operate wit
 ### Excel connection
 ### Kind to String
 
-## Special func
-## Choice
-## Dynamic
+## Special Functions
+### Choice
+### Dynamic
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5NDg2Nzg2LC02MjY3NzcwODIsMTYxMj
-E5ODQ2OF19
+eyJoaXN0b3J5IjpbLTYxODkzODU4NywtNjI2Nzc3MDgyLDE2MT
+IxOTg0NjhdfQ==
 -->
