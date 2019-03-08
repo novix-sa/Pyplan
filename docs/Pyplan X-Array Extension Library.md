@@ -3,10 +3,15 @@
 
 Pyplan X-Array Extension Library group a set of functions that helps operate with the concept of Index as defined in Pyplan.
 
+## Operating with Indexes
+### Set domain
+### Subset
+### Change index
+### Index from Pandas
+### Index from Excel
+### Concat Index
+## Operating with dataArray along Indexes
 
-## Set domain
-## Subset
-## Change index
 
 
 ## Build Report
@@ -15,13 +20,10 @@ Pyplan X-Array Extension Library group a set of functions that helps operate wit
 ## Apply
 ## Split Text
 ## Get pos
-## Concat Index
 ## Excel connection
 ## Subscript
 ## Kind to String
 ## Pandas from excel
-## Index from Pandas
-## Index from Excel
 ## DataArray from Excel
 ## Lookup
 ## Aggregate
@@ -31,6 +33,6 @@ Pyplan X-Array Extension Library group a set of functions that helps operate wit
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0NjM3MTg0LC02MjY3NzcwODIsMTYxMj
+eyJoaXN0b3J5IjpbODI0NDQ2MDE0LC02MjY3NzcwODIsMTYxMj
 E5ODQ2OF19
 -->
