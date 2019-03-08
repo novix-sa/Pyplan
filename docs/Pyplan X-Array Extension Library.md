@@ -6,6 +6,8 @@ Pyplan X-Array Extension Library group a set of functions that helps operate wit
 ## Operating with Indexes
 ### Set domain
 ### Subset
+Returns a list of all the elements of the index for which cube is true. The function is used to create a new index that is a subset of an existing index.
+        Ex. subset(sales>0)
 ### Change index
 ### Index from Pandas
 ### Index from Excel
@@ -37,6 +39,6 @@ Pyplan X-Array Extension Library group a set of functions that helps operate wit
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODkzODU4NywtNjI2Nzc3MDgyLDE2MT
-IxOTg0NjhdfQ==
+eyJoaXN0b3J5IjpbMTM4OTE4MTUwMSwtNjE4OTM4NTg3LC02Mj
+Y3NzcwODIsMTYxMjE5ODQ2OF19
 -->
