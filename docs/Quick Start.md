@@ -62,8 +62,18 @@ Inspecting the node Code Tab you will find new buttons next to the Run button. T
 Through the wizards you will be able to select and filter data or create new calculated fields. The resulting code will be displayed on the code section at the left for you to pick up from there.
 ![Pandas Wizards](http://img.pyplan.org/Quick_start_wizards.png)
 
+### Index
+The index object is the way to define a dimension in Pyplan. Indexes are created using a Graphical Using Interface (GUI), through drag and drop method, and they are created as Pandas Index
+![Index Definition](http://img.pyplan.org/Pyplan_library_index.png)
+
+    pd.Index(["Item 1","Item 2","Item 3"])
+
+For someone coming from Xarray, the index Id property is the equivalent of Xarray "Dim" and the index values are the equivalent of "Coords".
+Different than Xarray, Pyplan index are defined with a unique set of values, and when used, all the elements are present in that dimension.
+Following the example above, any data cube indexed by "Items" will contain "Item 1" , "Item 2" , "Item 3"
+
 ### **Index**
-An index is used for defining dimensions of DayaArrays and Dataframes. Draging an Index element creates a Pandas index of the form:
+An index is used for defining dimensions of DataArrays and Dataframes. Draging an Index element creates a Pandas index of the form:
 
     result = pd.Index(["Itemm 1","Item 2","Item 3"])
 
@@ -165,11 +175,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3Nzg4ODU0LDIwNTE0OTM5MDgsLTUwOT
-Q3ODU4MCw4NzAzMDY3MzMsLTEwMTUzNjYzNjEsLTEwODIyODE2
-MDYsLTEyOTUyNTA1NDgsNDA0MDMwMzM2LC0xODQwNDE0MzMwLD
-EzMTcyNjk5ODUsLTE0NzQzMDg4NTIsLTIwMzQzNTI1OTksLTE3
-MjY3MjIwNjUsMTg3MDAxNTQ3MSwyMTM5Mzk1NTQ5LC0xMzgwMD
-A5OTg1LC04NDk5MzM1NjYsNzQ1OTEzMzEyLDE4MzgzNzYxMzQs
-LTY4OTMxMTE3NV19
+eyJoaXN0b3J5IjpbLTE2ODIxNzUwNzcsNTY3Nzg4ODU0LDIwNT
+E0OTM5MDgsLTUwOTQ3ODU4MCw4NzAzMDY3MzMsLTEwMTUzNjYz
+NjEsLTEwODIyODE2MDYsLTEyOTUyNTA1NDgsNDA0MDMwMzM2LC
+0xODQwNDE0MzMwLDEzMTcyNjk5ODUsLTE0NzQzMDg4NTIsLTIw
+MzQzNTI1OTksLTE3MjY3MjIwNjUsMTg3MDAxNTQ3MSwyMTM5Mz
+k1NTQ5LC0xMzgwMDA5OTg1LC04NDk5MzM1NjYsNzQ1OTEzMzEy
+LDE4MzgzNzYxMzRdfQ==
 -->
