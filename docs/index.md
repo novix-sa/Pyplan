@@ -2,7 +2,7 @@
 Pyplan is an assisted **Graphical Integrated Development Environment** designed for easy creation and sharing of **Data Analytics Apps** based on **Python** programming language.
 
 ## **Code Organization**
-The app code is structured through a hierarchicaln Influence Diagram of nodes -a Workflow- that helps understand the calculation logic.
+The app code is structured through a hierarchical Influence Diagram of nodes -a Workflow- that helps understand the calculation logic.
 Nodes are added by a drag and drop user interface and Python code is written inside their Code attribute. 
 ![Node Code](http://img.pyplan.org/index_node_code.png)
 
@@ -37,11 +37,11 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc0MzUwODMsLTIwMzUzMzk5NDIsLT
-YwNzExMTI5NywtMTkwMzc5OTA3OSwtMTE1MTAwNDk4MiwtMTY0
-NDM1NjE1NywxNzY4OTUxNDcsMTk1NzcwMDU0NCwtNDc0NzI0MT
-ExLDEzNzA0NzM1MTMsMjAzMjI3NjEwMSwxMTI0ODIzNDY2LDQx
-MjA4MTIyMCwtMTEzMzk5MDU3MCw2MjgwNjIxOTksLTE3MDY3ND
-U0MTcsLTE4NjkyNzk0Miw4Nzg5OTU0OCwtMjA2ODM1MjAzNyw4
-MDA1MjkyMDJdfQ==
+eyJoaXN0b3J5IjpbLTUxMzgyNTEwMywtMTk5NzQzNTA4MywtMj
+AzNTMzOTk0MiwtNjA3MTExMjk3LC0xOTAzNzk5MDc5LC0xMTUx
+MDA0OTgyLC0xNjQ0MzU2MTU3LDE3Njg5NTE0NywxOTU3NzAwNT
+Q0LC00NzQ3MjQxMTEsMTM3MDQ3MzUxMywyMDMyMjc2MTAxLDEx
+MjQ4MjM0NjYsNDEyMDgxMjIwLC0xMTMzOTkwNTcwLDYyODA2Mj
+E5OSwtMTcwNjc0NTQxNywtMTg2OTI3OTQyLDg3ODk5NTQ4LC0y
+MDY4MzUyMDM3XX0=
 -->
