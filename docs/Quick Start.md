@@ -78,7 +78,7 @@ If that is not the case and you have a definition like this
 ![enter image description here](http://img.pyplan.org/Quick_start_node_domain.png)
 You can see in the console output, that the sum of node1_ and node2_ is only computed for the intersection of Index domain  "MyTime" of the correspondent variables.
 
-Second, we will later see that when creating apps, **controls for interacting with the app**, are created using indexes.
+Second, we will later see that when creating apps, **controls for interacting with apps**, will be created using indexes.
 
 ### **Module**
 Modules are ment to contain group of nodes in a way to organize large models.
@@ -169,11 +169,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODc5MzAzMSwtMjA2MjI1Nzg3NCw1Nj
-c3ODg4NTQsMjA1MTQ5MzkwOCwtNTA5NDc4NTgwLDg3MDMwNjcz
-MywtMTAxNTM2NjM2MSwtMTA4MjI4MTYwNiwtMTI5NTI1MDU0OC
-w0MDQwMzAzMzYsLTE4NDA0MTQzMzAsMTMxNzI2OTk4NSwtMTQ3
-NDMwODg1MiwtMjAzNDM1MjU5OSwtMTcyNjcyMjA2NSwxODcwMD
-E1NDcxLDIxMzkzOTU1NDksLTEzODAwMDk5ODUsLTg0OTkzMzU2
-Niw3NDU5MTMzMTJdfQ==
+eyJoaXN0b3J5IjpbNjc5ODk4NTI4LC0yMDYyMjU3ODc0LDU2Nz
+c4ODg1NCwyMDUxNDkzOTA4LC01MDk0Nzg1ODAsODcwMzA2NzMz
+LC0xMDE1MzY2MzYxLC0xMDgyMjgxNjA2LC0xMjk1MjUwNTQ4LD
+QwNDAzMDMzNiwtMTg0MDQxNDMzMCwxMzE3MjY5OTg1LC0xNDc0
+MzA4ODUyLC0yMDM0MzUyNTk5LC0xNzI2NzIyMDY1LDE4NzAwMT
+U0NzEsMjEzOTM5NTU0OSwtMTM4MDAwOTk4NSwtODQ5OTMzNTY2
+LDc0NTkxMzMxMl19
 -->
