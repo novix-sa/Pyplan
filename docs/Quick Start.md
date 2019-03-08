@@ -70,15 +70,9 @@ The index object is the way to define a dimension in Pyplan. Indexes are created
 
 For someone coming from Xarray, the index Id property is equivalent to Xarray "Dim" and the index values are the equivalent of "Coords".
 Different than Xarray, Pyplan index are defined with a unique set of values, and when used, all the elements are present in that dimension.
-Following the example above, any data cube indexed by "Items" will contain "Item 1" , "Item 2" , "Item 3"
+Following the example above, any data cube indexed by "Items" will contain the elements "Item 1" , "Item 2" , "Item 3"
 
-### **Index**
-An index is used for defining dimensions of DataArrays and Dataframes. Draging an Index element creates a Pandas index of the form:
-
-    result = pd.Index(["Itemm 1","Item 2","Item 3"])
-
-Indexes are important to be explicitly defined for two reasons:
-
+The reasons that justify defining the index behavior as previously described are:
 First, it helps **homogenize Dimensions domain**. That is important to guarantee that when you operate with DataArrays that share dimensions, they share the same domain, so that the result domain is the same of the variables.
 If that is not the case and you have a definition like this
 ![enter image description here](http://img.pyplan.org/Quick_start_node_domain.png)
@@ -175,11 +169,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIyNTc4NzQsNTY3Nzg4ODU0LDIwNT
-E0OTM5MDgsLTUwOTQ3ODU4MCw4NzAzMDY3MzMsLTEwMTUzNjYz
-NjEsLTEwODIyODE2MDYsLTEyOTUyNTA1NDgsNDA0MDMwMzM2LC
-0xODQwNDE0MzMwLDEzMTcyNjk5ODUsLTE0NzQzMDg4NTIsLTIw
-MzQzNTI1OTksLTE3MjY3MjIwNjUsMTg3MDAxNTQ3MSwyMTM5Mz
-k1NTQ5LC0xMzgwMDA5OTg1LC04NDk5MzM1NjYsNzQ1OTEzMzEy
-LDE4MzgzNzYxMzRdfQ==
+eyJoaXN0b3J5IjpbMTI0ODc5MzAzMSwtMjA2MjI1Nzg3NCw1Nj
+c3ODg4NTQsMjA1MTQ5MzkwOCwtNTA5NDc4NTgwLDg3MDMwNjcz
+MywtMTAxNTM2NjM2MSwtMTA4MjI4MTYwNiwtMTI5NTI1MDU0OC
+w0MDQwMzAzMzYsLTE4NDA0MTQzMzAsMTMxNzI2OTk4NSwtMTQ3
+NDMwODg1MiwtMjAzNDM1MjU5OSwtMTcyNjcyMjA2NSwxODcwMD
+E1NDcxLDIxMzkzOTU1NDksLTEzODAwMDk5ODUsLTg0OTkzMzU2
+Niw3NDU5MTMzMTJdfQ==
 -->
