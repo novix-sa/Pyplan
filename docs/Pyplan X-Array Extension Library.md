@@ -18,6 +18,7 @@ Pyplan X-Array Extension Library group a set of functions that helps operate wit
 ### Apply
 ### Subscript
 ### Lookup
+### Get pos
 
 ## Create Indexed dataArrays
 ### Build Report
@@ -25,7 +26,6 @@ Pyplan X-Array Extension Library group a set of functions that helps operate wit
 ### DataArray from Excel
 
 ## Split Text
-## Get pos
 ## Excel connection
 ## Kind to String
 
@@ -35,6 +35,6 @@ Pyplan X-Array Extension Library group a set of functions that helps operate wit
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1Mzc1MTU2LC02MjY3NzcwODIsMTYxMj
+eyJoaXN0b3J5IjpbMTk5OTI5ODIzLC02MjY3NzcwODIsMTYxMj
 E5ODQ2OF19
 -->
