@@ -19,19 +19,22 @@ Pyplan X-Array Extension Library group a set of functions that helps operate wit
 ### Subscript
 ### Lookup
 
-## Build Report
+## Create Indexed dataArrays
+### Build Report
+### Pandas from excel
+### DataArray from Excel
+
 ## Split Text
 ## Get pos
 ## Excel connection
 ## Kind to String
-## Pandas from excel
-## DataArray from Excel
+
 ## Choice
 ## Dynamic
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA1MTk4ODYsLTYyNjc3NzA4MiwxNj
-EyMTk4NDY4XX0=
+eyJoaXN0b3J5IjpbMzU1Mzc1MTU2LC02MjY3NzcwODIsMTYxMj
+E5ODQ2OF19
 -->
