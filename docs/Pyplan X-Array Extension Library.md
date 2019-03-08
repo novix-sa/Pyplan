@@ -15,10 +15,14 @@ Pyplan X-Array Extension Library group a set of functions that helps operate wit
 ## Excel connection
 ## Subscript
 ## Change index
+## Kind to String
+## Pandas from excel
+## Index from Pandas
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzA2OTUwMywtNjI2Nzc3MDgyLDE2MT
-IxOTg0NjhdfQ==
+eyJoaXN0b3J5IjpbNzkzOTY1NjE2LC02MjY3NzcwODIsMTYxMj
+E5ODQ2OF19
 -->
