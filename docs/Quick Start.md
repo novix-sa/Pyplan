@@ -68,7 +68,7 @@ The index object is the way to define a dimension in Pyplan. Indexes are created
 
     pd.Index(["Item 1","Item 2","Item 3"])
 
-For someone coming from Xarray, the index Id property is the equivalent of Xarray "Dim" and the index values are the equivalent of "Coords".
+For someone coming from Xarray, the index Id property is equivalent to Xarray "Dim" and the index values are the equivalent of "Coords".
 Different than Xarray, Pyplan index are defined with a unique set of values, and when used, all the elements are present in that dimension.
 Following the example above, any data cube indexed by "Items" will contain "Item 1" , "Item 2" , "Item 3"
 
@@ -175,7 +175,7 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODIxNzUwNzcsNTY3Nzg4ODU0LDIwNT
+eyJoaXN0b3J5IjpbLTIwNjIyNTc4NzQsNTY3Nzg4ODU0LDIwNT
 E0OTM5MDgsLTUwOTQ3ODU4MCw4NzAzMDY3MzMsLTEwMTUzNjYz
 NjEsLTEwODIyODE2MDYsLTEyOTUyNTA1NDgsNDA0MDMwMzM2LC
 0xODQwNDE0MzMwLDEzMTcyNjk5ODUsLTE0NzQzMDg4NTIsLTIw
