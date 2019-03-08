@@ -24,8 +24,8 @@ Pyplan X-Array Extension Library group a set of functions that helps operate wit
 ### Build Report
 ### Pandas from excel
 ### DataArray from Excel
+### Split Text
 
-## Split Text
 ## Excel connection
 ## Kind to String
 
@@ -35,6 +35,6 @@ Pyplan X-Array Extension Library group a set of functions that helps operate wit
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTI5ODIzLC02MjY3NzcwODIsMTYxMj
+eyJoaXN0b3J5IjpbLTc5MjEyNjgyLC02MjY3NzcwODIsMTYxMj
 E5ODQ2OF19
 -->
