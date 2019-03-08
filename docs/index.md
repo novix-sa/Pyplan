@@ -13,10 +13,10 @@ The ID allows calling its result from other nodes, working as global variables f
 
 
 ## **Node Evaluation**
-Pyplan natively interprets Pandas, Numpy and XArray dataobjects. Any node which result is an object of these types can be evaluated (by double clicking the node) and visualized with native Pyplan charts and tables with no additional coding.
+Pyplan natively interprets Pandas, Numpy and XArray data objects. Any node which result is an object of these types can be evaluated (by double clicking the node) and visualized with native Pyplan charts and tables with no additional coding.
 ![enter image description here](http://img.pyplan.org/index_node_result1.png)
 
-When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps track of any change in a node that triggers recalculation downstream the calc logic path.
+When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps track of any change in a node that triggers recalculation downstream the calculation logic path.
 
 ## **Using Python Libraries**
 Any library from the extended Python developing community can be imported to be used to solve specific needs.
@@ -37,11 +37,11 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUzMzk5NDIsLTYwNzExMTI5NywtMT
-kwMzc5OTA3OSwtMTE1MTAwNDk4MiwtMTY0NDM1NjE1NywxNzY4
-OTUxNDcsMTk1NzcwMDU0NCwtNDc0NzI0MTExLDEzNzA0NzM1MT
-MsMjAzMjI3NjEwMSwxMTI0ODIzNDY2LDQxMjA4MTIyMCwtMTEz
-Mzk5MDU3MCw2MjgwNjIxOTksLTE3MDY3NDU0MTcsLTE4NjkyNz
-k0Miw4Nzg5OTU0OCwtMjA2ODM1MjAzNyw4MDA1MjkyMDIsMTc3
-NTQwODQwXX0=
+eyJoaXN0b3J5IjpbLTQzMjYxNjU2NCwtMjAzNTMzOTk0MiwtNj
+A3MTExMjk3LC0xOTAzNzk5MDc5LC0xMTUxMDA0OTgyLC0xNjQ0
+MzU2MTU3LDE3Njg5NTE0NywxOTU3NzAwNTQ0LC00NzQ3MjQxMT
+EsMTM3MDQ3MzUxMywyMDMyMjc2MTAxLDExMjQ4MjM0NjYsNDEy
+MDgxMjIwLC0xMTMzOTkwNTcwLDYyODA2MjE5OSwtMTcwNjc0NT
+QxNywtMTg2OTI3OTQyLDg3ODk5NTQ4LC0yMDY4MzUyMDM3LDgw
+MDUyOTIwMl19
 -->
