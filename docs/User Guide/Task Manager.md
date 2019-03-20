@@ -2,7 +2,7 @@
 
  Please add convenient information about task manager
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjYzMTY0OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTU1NTM0MjA1MiwxNTYyNjMxNjQ4LDczMD
+k5ODExNl19
 -->
