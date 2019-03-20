@@ -1,7 +1,7 @@
-
 # ##Configuration
 
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTkwNDc0NywzNDE1NjI0NDNdfQ==
+eyJoaXN0b3J5IjpbMTEzNzcxODk4NywyMDIxOTA0NzQ3LDM0MT
+U2MjQ0M119
 -->
