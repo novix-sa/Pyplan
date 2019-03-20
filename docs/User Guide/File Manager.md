@@ -1,9 +1,18 @@
+# ##Modeler
+
+There are five basic components for creating and organizing the calculation logic
+![Code Components](http://img.pyplan.org/Quick_start_code_components.png)
+
+ Variable
 
 
-# File manager
+### Check Shorcuts
+(need to be updated)
+http://www.cubeplat.com:8081/wiki/es/knowledge-base/shortcuts/
 
-This window allows you to manage all files and models. It looks like this:
-![enter image description here](http://img.pyplan.org/File_Manager_General_view)
+Please add infromation about influence Diagram
+> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzAyNTMxNiwxNzQ1MjMyNTU4XX0=
+eyJoaXN0b3J5IjpbLTE3NjMxMDAyMjQsLTI5MzAyNTMxNiwxNz
+Q1MjMyNTU4XX0=
 -->
