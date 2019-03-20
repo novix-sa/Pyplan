@@ -73,7 +73,7 @@ Different than Xarray, Pyplan index are defined with a unique set of values, and
 Following the example above, any data cube indexed by "Items" will contain the elements "Item 1" , "Item 2" , "Item 3"
 
 The reasons that justify defining the index behavior as previously described are:
-First, it helps **homogenize Dimensions domain**. That is important to guarantee that when you operate with DataArrays that share dimensions, they share the same domain, so that the result domain is the same of the variables.
+First, it helps **homogenize dimensions domain**. That is important to guarantee that when you operate with DataArrays that share dimensions, they share the same domain, so that the result domain is the same of the variables.
 If that is not the case and you have a definition like this
 ![enter image description here](http://img.pyplan.org/Quick_start_node_domain.png)
 You can see in the console output, that the sum of node1_ and node2_ is only computed for the intersection of Index domain  "MyTime" of the correspondent variables.
@@ -169,11 +169,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Njc1Mzc1Myw4MjM3OTgxMTgsMTA1OD
-gwNDg5Myw2Nzk4OTg1MjgsLTIwNjIyNTc4NzQsNTY3Nzg4ODU0
-LDIwNTE0OTM5MDgsLTUwOTQ3ODU4MCw4NzAzMDY3MzMsLTEwMT
-UzNjYzNjEsLTEwODIyODE2MDYsLTEyOTUyNTA1NDgsNDA0MDMw
-MzM2LC0xODQwNDE0MzMwLDEzMTcyNjk5ODUsLTE0NzQzMDg4NT
-IsLTIwMzQzNTI1OTksLTE3MjY3MjIwNjUsMTg3MDAxNTQ3MSwy
-MTM5Mzk1NTQ5XX0=
+eyJoaXN0b3J5IjpbLTEzMDkwMjg2MTUsODIzNzk4MTE4LDEwNT
+g4MDQ4OTMsNjc5ODk4NTI4LC0yMDYyMjU3ODc0LDU2Nzc4ODg1
+NCwyMDUxNDkzOTA4LC01MDk0Nzg1ODAsODcwMzA2NzMzLC0xMD
+E1MzY2MzYxLC0xMDgyMjgxNjA2LC0xMjk1MjUwNTQ4LDQwNDAz
+MDMzNiwtMTg0MDQxNDMzMCwxMzE3MjY5OTg1LC0xNDc0MzA4OD
+UyLC0yMDM0MzUyNTk5LC0xNzI2NzIyMDY1LDE4NzAwMTU0NzEs
+MjEzOTM5NTU0OV19
 -->
