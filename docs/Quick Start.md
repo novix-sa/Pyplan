@@ -51,7 +51,7 @@ Another alternative way to evaluate a node is by pressing <Ctrl + E>, in this ca
 
 ![Node Inspector](http://img.pyplan.org/Quick_start_inspector.png)
 
-Create another node (drag and drop a node block) called "Read External Datasource" and set its definition as:
+Create another node, drag and drop a node block) called "Read External Datasource" and set its definition as:
 
     result = pd.read_csv('http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv', sep=None)
 You can again inspect the difference on the console output vs evaluating (Ctrl R or double click) the node. While console output is pure text, Pyplan result is a formatted table.
@@ -169,11 +169,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzNzk4MTE4LDEwNTg4MDQ4OTMsNjc5OD
-k4NTI4LC0yMDYyMjU3ODc0LDU2Nzc4ODg1NCwyMDUxNDkzOTA4
-LC01MDk0Nzg1ODAsODcwMzA2NzMzLC0xMDE1MzY2MzYxLC0xMD
-gyMjgxNjA2LC0xMjk1MjUwNTQ4LDQwNDAzMDMzNiwtMTg0MDQx
-NDMzMCwxMzE3MjY5OTg1LC0xNDc0MzA4ODUyLC0yMDM0MzUyNT
-k5LC0xNzI2NzIyMDY1LDE4NzAwMTU0NzEsMjEzOTM5NTU0OSwt
-MTM4MDAwOTk4NV19
+eyJoaXN0b3J5IjpbMTk3MjA4OTgxMCw4MjM3OTgxMTgsMTA1OD
+gwNDg5Myw2Nzk4OTg1MjgsLTIwNjIyNTc4NzQsNTY3Nzg4ODU0
+LDIwNTE0OTM5MDgsLTUwOTQ3ODU4MCw4NzAzMDY3MzMsLTEwMT
+UzNjYzNjEsLTEwODIyODE2MDYsLTEyOTUyNTA1NDgsNDA0MDMw
+MzM2LC0xODQwNDE0MzMwLDEzMTcyNjk5ODUsLTE0NzQzMDg4NT
+IsLTIwMzQzNTI1OTksLTE3MjY3MjIwNjUsMTg3MDAxNTQ3MSwy
+MTM5Mzk1NTQ5XX0=
 -->
