@@ -20,7 +20,7 @@ Now you will access the sandbox for creating your model logic.
 ![Coding calculation logic](http://img.pyplan.org/Quick_start_model_code.png)
 
 ## **Modeling Business Rules**
-There are three basic components for creating and organizing the calculation logic. They are grouped in a toolbar titled "Code" you can find in the right side of the modeling app.
+The basic objets for creating and organizing the calculation logic are grouped in a toolbar titled "Code". You can find in the right side of the modeling app.
 
 ![Code building blocks](http://img.pyplan.org/Quick_start_code_components.png)
 
@@ -169,11 +169,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyNzE0MDExLDEwNTg4MDQ4OTMsNjc5OD
-k4NTI4LC0yMDYyMjU3ODc0LDU2Nzc4ODg1NCwyMDUxNDkzOTA4
-LC01MDk0Nzg1ODAsODcwMzA2NzMzLC0xMDE1MzY2MzYxLC0xMD
-gyMjgxNjA2LC0xMjk1MjUwNTQ4LDQwNDAzMDMzNiwtMTg0MDQx
-NDMzMCwxMzE3MjY5OTg1LC0xNDc0MzA4ODUyLC0yMDM0MzUyNT
-k5LC0xNzI2NzIyMDY1LDE4NzAwMTU0NzEsMjEzOTM5NTU0OSwt
-MTM4MDAwOTk4NV19
+eyJoaXN0b3J5IjpbMTA1MDg4ODU1NSwxMDU4ODA0ODkzLDY3OT
+g5ODUyOCwtMjA2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MTQ5Mzkw
+OCwtNTA5NDc4NTgwLDg3MDMwNjczMywtMTAxNTM2NjM2MSwtMT
+A4MjI4MTYwNiwtMTI5NTI1MDU0OCw0MDQwMzAzMzYsLTE4NDA0
+MTQzMzAsMTMxNzI2OTk4NSwtMTQ3NDMwODg1MiwtMjAzNDM1Mj
+U5OSwtMTcyNjcyMjA2NSwxODcwMDE1NDcxLDIxMzkzOTU1NDks
+LTEzODAwMDk5ODVdfQ==
 -->
