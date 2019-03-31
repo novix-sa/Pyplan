@@ -90,17 +90,16 @@ In order to explore the evaluation and visualization alternatives, let's copy on
 
 Now open the copied file and then go to the model (Click “Open Model,” or the Model icon on the left.) You should be able to see the following diagram:
 ![enter image description here](http://img.pyplan.org/Quick_start_mfa_model_.png)
-Now you can inspect any node values by selecting and evaluating them. There are three alternatives for evaluating a node: The first one is by clicking on the  **"Run"**button that you will find in the “Code” tab after selecting a node. The same result can be obtained by  pressing[L1] when editing the code. This will show/update the console output resulting from the evaluation of the node.
+Now you can inspect any node values by selecting and evaluating them. There are three alternatives for evaluating a node: The first one is by clicking on the  **"Run"** button that you will find in the “Code” tab after selecting a node. The same result can be obtained by  pressing **<Ctrl + Return>** when editing the code. This will show/update the console output resulting from the evaluation of the node.
+
+![enter image description here](http://img.pyplan.org/Quick_start_eval1.png)
+Try adding `Print('Hello World')`in the first line before the result definition.[L1] Run the node and check the console output. You will find this Printing functionality useful for inspecting intermediate values in your calculations.
+
+The second alternative is pressing "." after selecting the node. In this case, a more complete window opens showing this:
 
 ----------
 
-[L1]Al parecer, falta un elemento después de “pressing”; es decir, lo que debe presionarse.
-
-Now you can inspect any node values by selecting and evaluating it.
-There are three alternatives for evaluating a node:
-The first one is by clicking on the **"Run"** button that you will finde in the Code Tab  after selecting a node. The same result can be obtained by pressing **<Ctrl + Return>** when editing the code. This will show/update the console output resulting of evaluating the node.
-![enter image description here](http://img.pyplan.org/Quick_start_eval1.png)
-Try adding `Print('Hello World')`in the first line before the result definition. Run the node and check the console output.
+[L1]Sería conveniente agregar una captura en la que se muestre este paso.Try adding `Print('Hello World')`in the first line before the result definition. Run the node and check the console output.
 You will find this Printing functionality useful for inspecting intermediate values in your calculations.
 
 The second alternative is, after selecting the node, pressing **<Ctrl + E>**. In this case a more complete window is open showing 
@@ -167,7 +166,7 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDIxNDQ0MjAsLTQyMTg1NjE4MiwtMT
+eyJoaXN0b3J5IjpbLTIxNDA0NTI1NDUsLTQyMTg1NjE4MiwtMT
 AwNjk1MTcwNywxNDAyODExNjI3LDEyMzg3MzE3MDMsLTY3NTAx
 MzQ4OCw4MjM3OTgxMTgsMTA1ODgwNDg5Myw2Nzk4OTg1MjgsLT
 IwNjIyNTc4NzQsNTY3Nzg4ODU0LDIwNTE0OTM5MDgsLTUwOTQ3
