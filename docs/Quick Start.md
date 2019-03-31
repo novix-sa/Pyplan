@@ -101,9 +101,8 @@ The second alternative is pressing **<Ctrl + E>** after selecting the node. In t
 Performance profiling information can be displayed by clicking on **"Show Profile"**
 
 ![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E+ShowProfile.png)
+The third way to run a node is by  **double clicking** it or  pressing **<Ctrl + R>**. Any node is initially evaluated as a table, until the user customizes its visualization. There is a customization group that can be rapidly set by clicking on the configuration icon next to the node title:
 
-The third way of running a node is by **double clicking** it or pressing **<Ctrl + R>**. Any node is initially evaluated as a table, until the user customize it visualization.
-There is a group of customization that can be rapidly set clicking on the configuration icon next to the title of the node:
 ![enter image description here](http://img.pyplan.org/Quick_start_configuration_wheel.png)
 
 ![enter image description here](http://img.pyplan.org/Quick_start_evaluate.png)
@@ -160,7 +159,7 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwNjM0MTk1LDI5NDk0MTE0OCwtNDIxOD
+eyJoaXN0b3J5IjpbMTc3Njg3ODM3LDI5NDk0MTE0OCwtNDIxOD
 U2MTgyLC0xMDA2OTUxNzA3LDE0MDI4MTE2MjcsMTIzODczMTcw
 MywtNjc1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OT
 g5ODUyOCwtMjA2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MTQ5Mzkw
