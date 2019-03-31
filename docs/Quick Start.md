@@ -2,6 +2,10 @@
 
 ## **Login**
 
+To access Pyplan, it must be installed in a server. Or you can request a trial account to access Pyplan cloud services  [here](http://pyplan.com/contact/).
+
+Once the server address has been identified, you can log into Pyplan with valid user credentials using a regular login form:
+
 You must have installed Pyplan in a server to access Pyplan.
 Or you can request a trial account to access Pyplan cloud services [here](http://pyplan.com/contact/).
 
@@ -169,11 +173,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTAxMzQ4OCw4MjM3OTgxMTgsMTA1OD
-gwNDg5Myw2Nzk4OTg1MjgsLTIwNjIyNTc4NzQsNTY3Nzg4ODU0
-LDIwNTE0OTM5MDgsLTUwOTQ3ODU4MCw4NzAzMDY3MzMsLTEwMT
-UzNjYzNjEsLTEwODIyODE2MDYsLTEyOTUyNTA1NDgsNDA0MDMw
-MzM2LC0xODQwNDE0MzMwLDEzMTcyNjk5ODUsLTE0NzQzMDg4NT
-IsLTIwMzQzNTI1OTksLTE3MjY3MjIwNjUsMTg3MDAxNTQ3MSwy
-MTM5Mzk1NTQ5XX0=
+eyJoaXN0b3J5IjpbLTE2ODYzNzQ0OCwtNjc1MDEzNDg4LDgyMz
+c5ODExOCwxMDU4ODA0ODkzLDY3OTg5ODUyOCwtMjA2MjI1Nzg3
+NCw1Njc3ODg4NTQsMjA1MTQ5MzkwOCwtNTA5NDc4NTgwLDg3MD
+MwNjczMywtMTAxNTM2NjM2MSwtMTA4MjI4MTYwNiwtMTI5NTI1
+MDU0OCw0MDQwMzAzMzYsLTE4NDA0MTQzMzAsMTMxNzI2OTk4NS
+wtMTQ3NDMwODg1MiwtMjAzNDM1MjU5OSwtMTcyNjcyMjA2NSwx
+ODcwMDE1NDcxXX0=
 -->
