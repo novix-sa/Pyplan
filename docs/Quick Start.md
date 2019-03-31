@@ -42,7 +42,7 @@ Paste your Python code on the left side of the “Code” tab. The console outpu
 
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 
-While the node is selected , if you press <Ctrl + R> or double click it, the result will be shown, which is 9 in this case. You can appreciate the difference between the console output and the node result. An alternative way to evaluate a node is by pressing ",". In this case, not only the console and result output will be displayed, but also additional information (as data type) will be shown. It is also possible to inspect the calculation performance by clicking on “**Show Profile”,**which allows you to fine-tune your code.
+While the node is selected , if you press <Ctrl + R> or double click it, the result will be shown, which is 9 in this case. You can appreciate the difference between the console output and the node result. An alternative way to evaluate a node is by pressing <Ctrl + E>. In this case, not only the console and result output will be displayed, but also additional information (as data type) will be shown. It is also possible to inspect the calculation performance by clicking on “**Show Profile”,**which allows you to fine-tune your code.
 
 ----------
 
@@ -173,11 +173,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0MzMxMDkyLDEyMzg3MzE3MDMsLTY3NT
-AxMzQ4OCw4MjM3OTgxMTgsMTA1ODgwNDg5Myw2Nzk4OTg1Mjgs
-LTIwNjIyNTc4NzQsNTY3Nzg4ODU0LDIwNTE0OTM5MDgsLTUwOT
-Q3ODU4MCw4NzAzMDY3MzMsLTEwMTUzNjYzNjEsLTEwODIyODE2
-MDYsLTEyOTUyNTA1NDgsNDA0MDMwMzM2LC0xODQwNDE0MzMwLD
-EzMTcyNjk5ODUsLTE0NzQzMDg4NTIsLTIwMzQzNTI1OTksLTE3
-MjY3MjIwNjVdfQ==
+eyJoaXN0b3J5IjpbMTUxMjEyNTAxNywxMjM4NzMxNzAzLC02Nz
+UwMTM0ODgsODIzNzk4MTE4LDEwNTg4MDQ4OTMsNjc5ODk4NTI4
+LC0yMDYyMjU3ODc0LDU2Nzc4ODg1NCwyMDUxNDkzOTA4LC01MD
+k0Nzg1ODAsODcwMzA2NzMzLC0xMDE1MzY2MzYxLC0xMDgyMjgx
+NjA2LC0xMjk1MjUwNTQ4LDQwNDAzMDMzNiwtMTg0MDQxNDMzMC
+wxMzE3MjY5OTg1LC0xNDc0MzA4ODUyLC0yMDM0MzUyNTk5LC0x
+NzI2NzIyMDY1XX0=
 -->
