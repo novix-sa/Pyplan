@@ -21,11 +21,13 @@ Now you will access the sandbox for creating the logic of your model.
 ## **Modeling Business Rules**
 The basic objects for creating and organizing the calculation logic are grouped in a toolbar titled "Code". You will find it on the right side of the modeling interface.
 
-![Quick_start_code_comp_right.png)
-
+![enter image description here](http://img.pyplan.org/Quick_start_code_comp_right.png)
 
 
 ### **Node**
+A  **node** is the place where you code, in pure Python, the calculation logic for the data analytics app. The app logic usually starts loading data from an external data source. Different types of analyses can be conducted in separate nodes or groups of nodes, which can either share or not steps in the calculation logic. At the end, some nodes will collect the results that will be shown as outputs of the app.
+
+Let's create a simple analysis to understand how Pyplan works. As a first step, drag and drop a "Node" into the canvas, and enter a Title: "My first node". After accepting the title (or pressing the TAB key), an ID will be automatically provided
 A **Node** is the place where you code, in pure Python, the data analytic app calculation logic. 
 The app logic, usually starts loading data from an external datasource. Different type of analysis can be conducted in separate nodes or group of nodes, sharing or not steps in the calculation logic.
 At the end some nodes will collect results to be shown as outputs of the app.
@@ -168,11 +170,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTczMzY2NSwxMjM4NzMxNzAzLC02Nz
-UwMTM0ODgsODIzNzk4MTE4LDEwNTg4MDQ4OTMsNjc5ODk4NTI4
-LC0yMDYyMjU3ODc0LDU2Nzc4ODg1NCwyMDUxNDkzOTA4LC01MD
-k0Nzg1ODAsODcwMzA2NzMzLC0xMDE1MzY2MzYxLC0xMDgyMjgx
-NjA2LC0xMjk1MjUwNTQ4LDQwNDAzMDMzNiwtMTg0MDQxNDMzMC
-wxMzE3MjY5OTg1LC0xNDc0MzA4ODUyLC0yMDM0MzUyNTk5LC0x
-NzI2NzIyMDY1XX0=
+eyJoaXN0b3J5IjpbLTEwMDE4ODA2NDMsMTIzODczMTcwMywtNj
+c1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OTg5ODUy
+OCwtMjA2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MTQ5MzkwOCwtNT
+A5NDc4NTgwLDg3MDMwNjczMywtMTAxNTM2NjM2MSwtMTA4MjI4
+MTYwNiwtMTI5NTI1MDU0OCw0MDQwMzAzMzYsLTE4NDA0MTQzMz
+AsMTMxNzI2OTk4NSwtMTQ3NDMwODg1MiwtMjAzNDM1MjU5OSwt
+MTcyNjcyMjA2NV19
 -->
