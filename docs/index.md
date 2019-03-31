@@ -2,9 +2,14 @@
 Pyplan is an assisted  **Graphical Integrated Development Environment** designed for easily creating and sharing **Data Analytics Apps** based on  **Python** programming language.
 
 ## **Code Organization**
-The app code is structured through a hierarchical influence diagram of nodes -a Workflow- that helps understand the calculation logic.
-Nodes are added by a drag and drop user interface and Python code is written inside their Code attribute. 
+The app code is structured using a hierarchical influence diagram of nodes -a Workflow- that helps understand the calculation logic. Nodes are added by means of a drag and drop user interface, and Python code is written inside their Code attribute tab. 
 ![Node Code](http://img.pyplan.org/index_node_code.png)
+
+Nodes have several properties: Title, ID, Units, Inputs, and Outputs, which are displayed by hovering the cursor over them[L1] . The ID function allows to call the results from other nodes, and works as a global variable for programming.
+
+----------
+
+[L1]El término “focus” es un poco confuso en este contexto. ¿Es la idea que las características aparecen cuando se posa el cursor sobre ellas? La modificación que hicimos expresa eso.
 
 Nodes have several properties: Title, ID, Units, Inputs, Outputs that are displayed when focus. 
 The ID allows calling its result from other nodes, working as global variables for programming.
@@ -40,11 +45,11 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjI0MzM3NSwtMzYzNDU2MjMxLDY2MT
-kyOTYyMCwtMTE0MjYzNjU4NywtNTEzODI1MTAzLC0xOTk3NDM1
-MDgzLC0yMDM1MzM5OTQyLC02MDcxMTEyOTcsLTE5MDM3OTkwNz
-ksLTExNTEwMDQ5ODIsLTE2NDQzNTYxNTcsMTc2ODk1MTQ3LDE5
-NTc3MDA1NDQsLTQ3NDcyNDExMSwxMzcwNDczNTEzLDIwMzIyNz
-YxMDEsMTEyNDgyMzQ2Niw0MTIwODEyMjAsLTExMzM5OTA1NzAs
-NjI4MDYyMTk5XX0=
+eyJoaXN0b3J5IjpbMTMyNjM5ODA2LC0zNjM0NTYyMzEsNjYxOT
+I5NjIwLC0xMTQyNjM2NTg3LC01MTM4MjUxMDMsLTE5OTc0MzUw
+ODMsLTIwMzUzMzk5NDIsLTYwNzExMTI5NywtMTkwMzc5OTA3OS
+wtMTE1MTAwNDk4MiwtMTY0NDM1NjE1NywxNzY4OTUxNDcsMTk1
+NzcwMDU0NCwtNDc0NzI0MTExLDEzNzA0NzM1MTMsMjAzMjI3Nj
+EwMSwxMTI0ODIzNDY2LDQxMjA4MTIyMCwtMTEzMzk5MDU3MCw2
+MjgwNjIxOTldfQ==
 -->
