@@ -38,8 +38,8 @@ Then, copy the following code and click on the Code tab:
     print('parameters: ' + str(a) + ',' + str(b))
     result = a+b
   
-On the left space of the Code Tab, you will paste your Python code. On the right side will be displayed the console output.
-After clicking the "run" button on the same tab, you should see something like this:
+Paste your Python code on the left side of the “Code” tab. The console output will be displayed on the right side. After clicking the "run" button on the same tab, you should see something like this:
+
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 
 If you double click the node or press <Ctrl + R>, it will show its result, which in this case is a 9. You can appreciate the difference between the console output and the node result.
@@ -165,7 +165,7 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ3NjM0MjIsMTIzODczMTcwMywtNj
+eyJoaXN0b3J5IjpbLTE3MDkzOTE2MTEsMTIzODczMTcwMywtNj
 c1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OTg5ODUy
 OCwtMjA2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MTQ5MzkwOCwtNT
 A5NDc4NTgwLDg3MDMwNjczMywtMTAxNTM2NjM2MSwtMTA4MjI4
