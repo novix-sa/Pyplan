@@ -54,8 +54,8 @@ Then set its definition as:
 You can inspect again the difference between the console output vs the node evaluation (Ctrl + R or double click). While the console output is pure text, Pyplan shows the result in a formatted table.
 ![Pandas Table](http://img.pyplan.org/Quick_start_first_table.png)
 
-Inspecting the node Code Tab you will find new buttons next to the Run button. These buttons are displayed whenever a node evaluates to a Dataframe/Pandas object type. The buttons links to [Pandas](https://pandas.pydata.org) wizards for helping Python newbies start learning Pandas.
-Through the wizards you will be able to select and filter data or create new calculated fields. The resulting code will be displayed on the code section at the left for you to pick up from there.
+If you inspect the “Code” tab of the node, you will find new buttons next to the “Run” button . These buttons are displayed whenever a node evaluates a Dataframe/Pandas object type. The buttons provide a link to  [Pandas](https://pandas.pydata.org/)wizards to help Python beginners start learning how to use Pandas. Wizards allow you to select and filter data or create new calculation fields. The resulting code will be displayed on the left-hand code section for you to pick up from there.
+
 ![Pandas Wizards](http://img.pyplan.org/Quick_start_wizards.png)
 
 ### Index
@@ -165,11 +165,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNjMxNTkzLDE0MDI4MTE2MjcsMTIzOD
-czMTcwMywtNjc1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0ODkz
-LDY3OTg5ODUyOCwtMjA2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MT
-Q5MzkwOCwtNTA5NDc4NTgwLDg3MDMwNjczMywtMTAxNTM2NjM2
-MSwtMTA4MjI4MTYwNiwtMTI5NTI1MDU0OCw0MDQwMzAzMzYsLT
-E4NDA0MTQzMzAsMTMxNzI2OTk4NSwtMTQ3NDMwODg1MiwtMjAz
-NDM1MjU5OV19
+eyJoaXN0b3J5IjpbMTk5MTEzNDcyMSwxNDAyODExNjI3LDEyMz
+g3MzE3MDMsLTY3NTAxMzQ4OCw4MjM3OTgxMTgsMTA1ODgwNDg5
+Myw2Nzk4OTg1MjgsLTIwNjIyNTc4NzQsNTY3Nzg4ODU0LDIwNT
+E0OTM5MDgsLTUwOTQ3ODU4MCw4NzAzMDY3MzMsLTEwMTUzNjYz
+NjEsLTEwODIyODE2MDYsLTEyOTUyNTA1NDgsNDA0MDMwMzM2LC
+0xODQwNDE0MzMwLDEzMTcyNjk5ODUsLTE0NzQzMDg4NTIsLTIw
+MzQzNTI1OTldfQ==
 -->
