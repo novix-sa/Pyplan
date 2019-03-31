@@ -148,13 +148,13 @@ They are designed to enter the data needed for the calculation logic of the app.
 
 
 ### Controls
-Are the elements for interacting with the app. Can take the form of filters that automatically applies over all nodes that share the same dimension or selectors for choosing specific slices of data.
+These are the elements used to interact with the app. They can take the form of filters that automatically apply to all nodes that share the same dimension, or of selectors for choosing specific slices of data.
 ![enter image description here](http://img.pyplan.org/Quick_start_I-O.png)
-There are other type of controls like buttons for launching specific tasks (scripts) or hyperlinks to create menus and navigate among interfaces.
+There are other types of controls, like buttons for launching specific tasks (scripts), or hyperlinks to create menus and navigate among interfaces.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDY1NTQyOCwyOTQ5NDExNDgsLTQyMT
+eyJoaXN0b3J5IjpbMTU0NTExMjkyNywyOTQ5NDExNDgsLTQyMT
 g1NjE4MiwtMTAwNjk1MTcwNywxNDAyODExNjI3LDEyMzg3MzE3
 MDMsLTY3NTAxMzQ4OCw4MjM3OTgxMTgsMTA1ODgwNDg5Myw2Nz
 k4OTg1MjgsLTIwNjIyNTc4NzQsNTY3Nzg4ODU0LDIwNTE0OTM5
