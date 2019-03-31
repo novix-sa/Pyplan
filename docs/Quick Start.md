@@ -12,14 +12,14 @@ After login in, you will reach the app land page, which looks like the following
 Here you will find sections for creating a new model, opening recent models, recovering any active session, or opening tutorials and examples. Click on  “Create new” to create a new model.
 
 ## **Homepage Menu**
-After the new model workspace is created, click on "Open Model" 
+After the new model workspace has been created, click on "Open model"
 ![Open Model](http://img.pyplan.org/Quick_start_open_model.png)
 
-Now you will access the sandbox for creating your model logic.
+Now you will access the sandbox for creating the logic of your model.
 ![Coding calculation logic](http://img.pyplan.org/Quick_start_model_code.png)
 
 ## **Modeling Business Rules**
-The basic objets for creating and organizing the calculation logic are grouped in a toolbar titled "Code". You will find it at the right side of the modeling interface.
+The basic objects for creating and organizing the calculation logic are grouped in a toolbar titled "Code". You will find it on the right side of the modeling interface.
 
 ![Code building blocks](http://img.pyplan.org/Quick_start_code_components.png)
 
@@ -168,7 +168,7 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDI4ODY4OCwtNjc1MDEzNDg4LDgyMz
+eyJoaXN0b3J5IjpbMTIzODczMTcwMywtNjc1MDEzNDg4LDgyMz
 c5ODExOCwxMDU4ODA0ODkzLDY3OTg5ODUyOCwtMjA2MjI1Nzg3
 NCw1Njc3ODg4NTQsMjA1MTQ5MzkwOCwtNTA5NDc4NTgwLDg3MD
 MwNjczMywtMTAxNTM2NjM2MSwtMTA4MjI4MTYwNiwtMTI5NTI1
