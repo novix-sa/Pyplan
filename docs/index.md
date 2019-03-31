@@ -28,7 +28,7 @@ Apps interfaces can be created by dragging and dropping nodes on an interface de
 
 ![Interface Designer](http://img.pyplan.org/index_interface_design1.png)
 
-After creation, the app can be shared with anybody internally or outside the enterprise environment.
+After being created, the app can be shared with anybody, both inside and outside the enterprise environment.
 
 ![enter image description here](http://img.pyplan.org/index_share_app_ext.png)
 
@@ -37,11 +37,11 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg5Njg4NDMsLTM2MzQ1NjIzMSw2Nj
-E5Mjk2MjAsLTExNDI2MzY1ODcsLTUxMzgyNTEwMywtMTk5NzQz
-NTA4MywtMjAzNTMzOTk0MiwtNjA3MTExMjk3LC0xOTAzNzk5MD
-c5LC0xMTUxMDA0OTgyLC0xNjQ0MzU2MTU3LDE3Njg5NTE0Nywx
-OTU3NzAwNTQ0LC00NzQ3MjQxMTEsMTM3MDQ3MzUxMywyMDMyMj
-c2MTAxLDExMjQ4MjM0NjYsNDEyMDgxMjIwLC0xMTMzOTkwNTcw
-LDYyODA2MjE5OV19
+eyJoaXN0b3J5IjpbLTYzOTIzMjA2NiwtMzYzNDU2MjMxLDY2MT
+kyOTYyMCwtMTE0MjYzNjU4NywtNTEzODI1MTAzLC0xOTk3NDM1
+MDgzLC0yMDM1MzM5OTQyLC02MDcxMTEyOTcsLTE5MDM3OTkwNz
+ksLTExNTEwMDQ5ODIsLTE2NDQzNTYxNTcsMTc2ODk1MTQ3LDE5
+NTc3MDA1NDQsLTQ3NDcyNDExMSwxMzcwNDczNTEzLDIwMzIyNz
+YxMDEsMTEyNDgyMzQ2Niw0MTIwODEyMjAsLTExMzM5OTA1NzAs
+NjI4MDYyMTk5XX0=
 -->
