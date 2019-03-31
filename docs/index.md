@@ -11,12 +11,17 @@ Nodes have several properties: Title, ID, Units, Inputs, and Outputs, which are 
 
 
 ## **Node Evaluation**
-Pyplan natively interprets Pandas, Numpy and XArray data objects. Any node which result is an object of these types can be evaluated (by double clicking the node) and visualized with native Pyplan charts and tables with no additional coding.
+Pyplan natively interprets Pandas, Numpy, and XArray data objects. Any node whose result is an object of these types can be evaluated (by double clicking the node) and visualized using native Pyplan charts and tables with no additional coding.
 ![enter image description here](http://img.pyplan.org/index_node_result1.png)
 
-When asking to run a node, all precedent nodes are calculated too, and its results are kept in memory, available for inspection and reuse. Pyplan engine keeps track of any change in a node that triggers recalculation downstream the calculation logic path.
+When a request to run a node is executed, all precedent nodes are calculated too, and their results are stored in memory, available for inspection and reuse. Pyplan engine keeps track of any change in a node that triggers recalculation downstream the calculation logic path.
 
 ## **Using Python Libraries**
+Any library from the extended Python developing community can be imported and used to meet specific needs. [L1]
+
+----------
+
+[L1]Sería conveniente agregar una captura en la que se muestre este paso. La imagen siguiente muestra los elementos importados, pero no cómo llegaron ahí.
 Any library from the extended Python developing community can be imported to be used to solve specific needs.
 ![Importing libraries for use within Pyplan](http://img.pyplan.org/index_import_lib.png)
 The example above imports Sklearn for machine learning and the Plottly visualization library for rendering the graph. 
@@ -38,7 +43,7 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODYxNTA5NCwtMzYzNDU2MjMxLDY2MT
+eyJoaXN0b3J5IjpbMTA1MDUxMjUxMywtMzYzNDU2MjMxLDY2MT
 kyOTYyMCwtMTE0MjYzNjU4NywtNTEzODI1MTAzLC0xOTk3NDM1
 MDgzLC0yMDM1MzM5OTQyLC02MDcxMTEyOTcsLTE5MDM3OTkwNz
 ksLTExNTEwMDQ5ODIsLTE2NDQzNTYxNTcsMTc2ODk1MTQ3LDE5
