@@ -9,8 +9,8 @@ Once the server address has been identified, you can log into Pyplan with valid 
 
 After login in, you will reach the app land page, which looks like the following picture:
 ![Pyplan Homepage](http://img.pyplan.org/Quick_start_home1.png)
-Here you will find sections for creating a new model, open recent models, recover any active session, or opening tutorials and examples. 
-Click on create a new model.
+Here you will find sections for creating a new model, opening recent models, recovering any active session, or opening tutorials and examples. Click on  “Create new” to create a new model.
+
 ## **Homepage Menu**
 After the new model workspace is created, click on "Open Model" 
 ![Open Model](http://img.pyplan.org/Quick_start_open_model.png)
@@ -168,7 +168,7 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjM0ODc3NCwtNjc1MDEzNDg4LDgyMz
+eyJoaXN0b3J5IjpbMTg5MDI4ODY4OCwtNjc1MDEzNDg4LDgyMz
 c5ODExOCwxMDU4ODA0ODkzLDY3OTg5ODUyOCwtMjA2MjI1Nzg3
 NCw1Njc3ODg4NTQsMjA1MTQ5MzkwOCwtNTA5NDc4NTgwLDg3MD
 MwNjczMywtMTAxNTM2NjM2MSwtMTA4MjI4MTYwNiwtMTI5NTI1
