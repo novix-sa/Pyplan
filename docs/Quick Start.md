@@ -116,7 +116,8 @@ When you request a node to be run, Pyplan traces all predecessor variables and r
 
 ## **Creating an App User Interface**
 One of the most important characteristics of Pyplan is its ability to rapidly create and share apps. Apps are developed using one or more user interfaces. To start creating an app, first you need to go to the interface designer:
-![](http://img.pyplan.org/Quick_start_interface_.png)
+![](http://img.pyplan.org/Quick_start_interface.png)
+
 
 Click on the New green button, and then select Interface
 ![](http://img.pyplan.org/Quick_start_new_interface.png)
@@ -155,7 +156,7 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDYzMDMxLDI5NDk0MTE0OCwtNDIxOD
+eyJoaXN0b3J5IjpbMzc2MTk3NjY4LDI5NDk0MTE0OCwtNDIxOD
 U2MTgyLC0xMDA2OTUxNzA3LDE0MDI4MTE2MjcsMTIzODczMTcw
 MywtNjc1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OT
 g5ODUyOCwtMjA2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MTQ5Mzkw
