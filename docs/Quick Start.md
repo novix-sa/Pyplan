@@ -106,16 +106,13 @@ The third way to run a node is by  **double clicking** it or  pressing **<Ctrl +
 ![enter image description here](http://img.pyplan.org/Quick_start_configuration_wheel.png)
 
 ![enter image description here](http://img.pyplan.org/Quick_start_evaluate.png)
-One interesting feature is the ability to show the node result as table and graph simutaneously.
-All customization are lost when closing the node, unless you explicitly indicates that you want to set the current view as the default view for opening this specific node. To do that you must click on the icon with a pencil ![enter image description here](http://img.pyplan.org/Quick_start_pencil20.png) , at the top left corner. This will open the visualization editor with all the customization features. Click on the check mark to accept changes and setting the default view of the node.
-
+One interesting feature is the ability to show the node result as a table and graph simultaneously. All customization parameters are lost when closing the node, unless you explicitly indicate that you want to set the current view as the default view for opening this specific node. To do that, you must click on the pencil icon![enter image description here](blob:https://stackedit.io/b16f2e01-84b1-4002-bf61-4758a5a62f12), on the top left corner. This will open the visualization editor, which contains all the customization features. Click on the check mark to accept the changes and set the default view of the node.
 
 ### Types of data structures natively supported
-Pyplan supports programming in pure Python, and natively interprets Numpy, Xarray and Pandas objects that are rendered as pivotable multidimensional tables or graphs for result inspection. It allows to import and use any other specific library you may need to attend your specific goals.
-Pyplan can also render a node that evaluates generating an HTML file. This functionality is particularly useful for using visualization libraries, which result need to be rendered by the app.
+Pyplan supports programming in pure Python, and natively interprets Numpy, Xarray, and Pandas objects that are rendered as pivotable multidimensional tables or graphs for inspecting results. It allows to import and use any other specific library you may need to attain your particular goals. Pyplan can also render an evaluated node by generating an HTML file. This functionality is particularly useful for using visualization libraries, whose result must be rendered by the app.
 
 ### Understanding how does it evaluation works
-When you ask for a node to be run, Pyplan trace all predecesor variables and run them in sequence in order to have computed every input that this node needs. The results of intermediate nodes are preserved in memory for future inspection. When the definition of a node change, all downstream nodes are marked to be recalculated so that the user does not need to be aware about the updated value of any predecesor when running a node.
+When you request a node to be run, Pyplan traces all predecessor variables and runs them in sequence in order to compute every input this node needs. The results of intermediate nodes are stored in memory for future inspection. When the definition of a node changes, all downstream nodes are marked to be recalculated, so that the user does not need to be aware of the updated value of any predecessor variable when running a node.
 
 ## **Creating an App User Interface**
 One of the most important characteristic of Pyplan is its ability for rapidly creating and sharing apps.
@@ -159,7 +156,7 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Njg3ODM3LDI5NDk0MTE0OCwtNDIxOD
+eyJoaXN0b3J5IjpbNDU1NTY3NDAxLDI5NDk0MTE0OCwtNDIxOD
 U2MTgyLC0xMDA2OTUxNzA3LDE0MDI4MTE2MjcsMTIzODczMTcw
 MywtNjc1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OT
 g5ODUyOCwtMjA2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MTQ5Mzkw
