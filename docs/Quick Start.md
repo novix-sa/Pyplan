@@ -83,13 +83,19 @@ Where each module contains the underlying logic of each area of the company. In 
 
 
 ## **Evaluating and Visualizing Data**
-In order to explore the evaluation and visualization alternatives, let's copy to your own workspace the app called "My First App.ppl" that you will find in the Public folder. After selecting it, click on the "Copy in" section as shown in the figure below:
+In order to explore the evaluation and visualization alternatives, let's copy onto your own workspace the app called "My First App.ppl," which you will find in the “Public” folder. After selecting it, click on the "Copy in" section as shown in the figure below:
 ![My First App file](http://img.pyplan.org/Quick_start_file_app_1.png)
 
 ![enter image description here](http://img.pyplan.org/Quick_start_own_ws_ad.png)
 
-Now open the copied file and then go to the model (Click Open Model, or the Model icon at the left). You should see the following diagram:
+Now open the copied file and then go to the model (Click “Open Model,” or the Model icon on the left.) You should be able to see the following diagram:
 ![enter image description here](http://img.pyplan.org/Quick_start_mfa_model_.png)
+Now you can inspect any node values by selecting and evaluating them. There are three alternatives for evaluating a node: The first one is by clicking on the  **"Run"**button that you will find in the “Code” tab after selecting a node. The same result can be obtained by  pressing[L1] when editing the code. This will show/update the console output resulting from the evaluation of the node.
+
+----------
+
+[L1]Al parecer, falta un elemento después de “pressing”; es decir, lo que debe presionarse.
+
 Now you can inspect any node values by selecting and evaluating it.
 There are three alternatives for evaluating a node:
 The first one is by clicking on the **"Run"** button that you will finde in the Code Tab  after selecting a node. The same result can be obtained by pressing **<Ctrl + Return>** when editing the code. This will show/update the console output resulting of evaluating the node.
@@ -161,11 +167,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjIyMzE1LC00MjE4NTYxODIsLTEwMD
-Y5NTE3MDcsMTQwMjgxMTYyNywxMjM4NzMxNzAzLC02NzUwMTM0
-ODgsODIzNzk4MTE4LDEwNTg4MDQ4OTMsNjc5ODk4NTI4LC0yMD
-YyMjU3ODc0LDU2Nzc4ODg1NCwyMDUxNDkzOTA4LC01MDk0Nzg1
-ODAsODcwMzA2NzMzLC0xMDE1MzY2MzYxLC0xMDgyMjgxNjA2LC
-0xMjk1MjUwNTQ4LDQwNDAzMDMzNiwtMTg0MDQxNDMzMCwxMzE3
-MjY5OTg1XX0=
+eyJoaXN0b3J5IjpbLTEzNDIxNDQ0MjAsLTQyMTg1NjE4MiwtMT
+AwNjk1MTcwNywxNDAyODExNjI3LDEyMzg3MzE3MDMsLTY3NTAx
+MzQ4OCw4MjM3OTgxMTgsMTA1ODgwNDg5Myw2Nzk4OTg1MjgsLT
+IwNjIyNTc4NzQsNTY3Nzg4ODU0LDIwNTE0OTM5MDgsLTUwOTQ3
+ODU4MCw4NzAzMDY3MzMsLTEwMTUzNjYzNjEsLTEwODIyODE2MD
+YsLTEyOTUyNTA1NDgsNDA0MDMwMzM2LC0xODQwNDE0MzMwLDEz
+MTcyNjk5ODVdfQ==
 -->
