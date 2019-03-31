@@ -59,18 +59,15 @@ If you inspect the “Code” tab of the node, you will find new buttons next to
 ![Pandas Wizards](http://img.pyplan.org/Quick_start_wizards.png)
 
 ### Index
-The index object is the way to define a dimension in Pyplan. Indexes are created using a Graphical Using Interface (GUI), through drag and drop method, and they are created as Pandas Index
+The index object is how you define a dimension in Pyplan. Indexes are created using a Graphical Using Interface (GUI), by means of the drag and drop method, and they are created as Pandas Index.
 ![Index Definition](http://img.pyplan.org/Pyplan_library_index.png)
 
     pd.Index(["Item 1","Item 2","Item 3"])
 
-For someone coming from Xarray, the index Id property is equivalent to Xarray "Dim" and the index values are the equivalent of "Coords".
-Different than Xarray, Pyplan index are defined with a unique set of values, and when used, all the elements are present in that dimension.
-Following the example above, any data cube indexed by "Items" will contain the elements "Item 1" , "Item 2" , "Item 3"
 
-The reasons that justify defining the index behavior as previously described are:
-First, it helps **homogenize dimensions domain**. That is important to guarantee that when you operate with DataArrays that share dimensions, they share the same domain, so that the result domain is the same of the variables.
-If that is not the case and you have a definition like this
+For someone used to Xarray, the Index ID property is equivalent to the "Dim" property in Xarray, and the index values are the equivalent of "Coords." Unlike Xarray, Pyplan Index is defined by a unique set of values, and when used, all the elements are present in that dimension. Following the example above, any data cube indexed by "Items" will contain the elements "Item 1," "Item 2," and "Item 3".
+
+The reasons that justify defining the Index behavior as previously described are: First, it helps to  **standardize the dimensions domain**. This is important to guarantee that when operating with DataArrays that share dimensions, these arrays share the same domain, so that the resulting domain is the same as that of the variables. If that is not the case, and you have a definition like this one:
 ![enter image description here](http://img.pyplan.org/Quick_start_node_domain.png)
 You can see in the console output, that the sum of node1_ and node2_ is only computed for the intersection of Index domain  "MyTime" of the correspondent variables.
 
@@ -165,11 +162,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY5NTE3MDcsMTQwMjgxMTYyNywxMj
-M4NzMxNzAzLC02NzUwMTM0ODgsODIzNzk4MTE4LDEwNTg4MDQ4
-OTMsNjc5ODk4NTI4LC0yMDYyMjU3ODc0LDU2Nzc4ODg1NCwyMD
-UxNDkzOTA4LC01MDk0Nzg1ODAsODcwMzA2NzMzLC0xMDE1MzY2
-MzYxLC0xMDgyMjgxNjA2LC0xMjk1MjUwNTQ4LDQwNDAzMDMzNi
-wtMTg0MDQxNDMzMCwxMzE3MjY5OTg1LC0xNDc0MzA4ODUyLC0y
-MDM0MzUyNTk5XX0=
+eyJoaXN0b3J5IjpbLTQyMTg1NjE4MiwtMTAwNjk1MTcwNywxND
+AyODExNjI3LDEyMzg3MzE3MDMsLTY3NTAxMzQ4OCw4MjM3OTgx
+MTgsMTA1ODgwNDg5Myw2Nzk4OTg1MjgsLTIwNjIyNTc4NzQsNT
+Y3Nzg4ODU0LDIwNTE0OTM5MDgsLTUwOTQ3ODU4MCw4NzAzMDY3
+MzMsLTEwMTUzNjYzNjEsLTEwODIyODE2MDYsLTEyOTUyNTA1ND
+gsNDA0MDMwMzM2LC0xODQwNDE0MzMwLDEzMTcyNjk5ODUsLTE0
+NzQzMDg4NTJdfQ==
 -->
