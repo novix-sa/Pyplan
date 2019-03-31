@@ -69,9 +69,9 @@ For someone used to Xarray, the Index ID property is equivalent to the "Dim" pro
 
 The reasons that justify defining the Index behavior as previously described are: First, it helps to  **standardize the dimensions domain**. This is important to guarantee that when operating with DataArrays that share dimensions, these arrays share the same domain, so that the resulting domain is the same as that of the variables. If that is not the case, and you have a definition like this one:
 ![enter image description here](http://img.pyplan.org/Quick_start_node_domain.png)
-You can see in the console output, that the sum of node1_ and node2_ is only computed for the intersection of Index domain  "MyTime" of the correspondent variables.
+You can see in the console output, that the sum of “node1_” and “node2_” is only computed for the intersection of Index domain "MyTime" of the corresponding variables.
 
-Second, we will later see that when creating apps, **controls for interacting with apps**, will be created using indexes.
+Second, as we will later see, when creating apps,  **controls for interacting with those apps** will be created using indexes.
 
 ### **Module**
 Modules are meant to contain group of nodes in a way to organize large models.
@@ -162,11 +162,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTg1NjE4MiwtMTAwNjk1MTcwNywxND
-AyODExNjI3LDEyMzg3MzE3MDMsLTY3NTAxMzQ4OCw4MjM3OTgx
-MTgsMTA1ODgwNDg5Myw2Nzk4OTg1MjgsLTIwNjIyNTc4NzQsNT
-Y3Nzg4ODU0LDIwNTE0OTM5MDgsLTUwOTQ3ODU4MCw4NzAzMDY3
-MzMsLTEwMTUzNjYzNjEsLTEwODIyODE2MDYsLTEyOTUyNTA1ND
-gsNDA0MDMwMzM2LC0xODQwNDE0MzMwLDEzMTcyNjk5ODUsLTE0
-NzQzMDg4NTJdfQ==
+eyJoaXN0b3J5IjpbMTI5MjEyMzQ3MywtNDIxODU2MTgyLC0xMD
+A2OTUxNzA3LDE0MDI4MTE2MjcsMTIzODczMTcwMywtNjc1MDEz
+NDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OTg5ODUyOCwtMj
+A2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MTQ5MzkwOCwtNTA5NDc4
+NTgwLDg3MDMwNjczMywtMTAxNTM2NjM2MSwtMTA4MjI4MTYwNi
+wtMTI5NTI1MDU0OCw0MDQwMzAzMzYsLTE4NDA0MTQzMzAsMTMx
+NzI2OTk4NV19
 -->
