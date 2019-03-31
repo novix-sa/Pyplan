@@ -74,11 +74,10 @@ You can see in the console output, that the sum of “node1_” and “node2_”
 Second, as we will later see, when creating apps,  **controls for interacting with those apps** will be created using indexes.
 
 ### **Module**
-Modules are meant to contain group of nodes in a way to organize large models.
-For example if your model is an integrated planning tool of a manufacturing company, the influence diagram could look like this:
+Modules are meant to contain groups of nodes as a means of organizing large models. For example, if your model is an integrated planning tool of a manufacturing company, the influence diagram would look like this:
 ![enter image description here](http://img.pyplan.org/Quick_start_IBP_diagram.png)
 
-Where each module contains the underlying logic of each area of a company. In this example, the Supply & Operation Planning Module looks like this:
+Where each module contains the underlying logic of each area of the company. In this example, the Supply & Operation Planning Module looks like this:
 
 ![S&OP](http://img.pyplan.org/Quick_start_sop.png)
 
@@ -162,11 +161,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjEyMzQ3MywtNDIxODU2MTgyLC0xMD
-A2OTUxNzA3LDE0MDI4MTE2MjcsMTIzODczMTcwMywtNjc1MDEz
-NDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OTg5ODUyOCwtMj
-A2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MTQ5MzkwOCwtNTA5NDc4
-NTgwLDg3MDMwNjczMywtMTAxNTM2NjM2MSwtMTA4MjI4MTYwNi
-wtMTI5NTI1MDU0OCw0MDQwMzAzMzYsLTE4NDA0MTQzMzAsMTMx
-NzI2OTk4NV19
+eyJoaXN0b3J5IjpbLTIzMjIyMzE1LC00MjE4NTYxODIsLTEwMD
+Y5NTE3MDcsMTQwMjgxMTYyNywxMjM4NzMxNzAzLC02NzUwMTM0
+ODgsODIzNzk4MTE4LDEwNTg4MDQ4OTMsNjc5ODk4NTI4LC0yMD
+YyMjU3ODc0LDU2Nzc4ODg1NCwyMDUxNDkzOTA4LC01MDk0Nzg1
+ODAsODcwMzA2NzMzLC0xMDE1MzY2MzYxLC0xMDgyMjgxNjA2LC
+0xMjk1MjUwNTQ4LDQwNDAzMDMzNiwtMTg0MDQxNDMzMCwxMzE3
+MjY5OTg1XX0=
 -->
