@@ -42,6 +42,14 @@ Paste your Python code on the left side of the “Code” tab. The console outpu
 
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 
+While the node is selected , if you press <Ctrl + R> or double click it, the result will be shown, which is 9 in this case. You can appreciate the difference between the console output and the node result. An alternative way to evaluate a node is by pressing ",". In this case, not only the console and result output will be displayed, but also additional information (as data type) will be shown. It is also possible to inspect the calculation performance by clicking on “**Show Profile”,**which allows you to fine-tune your code.
+
+----------
+
+[HLA1]Este texto no estaba en las instrucciones, pero entendemos que para que la instrucción funcione el nodo debe estar seleccionado.
+
+
+------
 If you double click the node or press <Ctrl + R>, it will show its result, which in this case is a 9. You can appreciate the difference between the console output and the node result.
 Another alternative way to evaluate a node is by pressing <Ctrl + E>, in this case, not only the console and result output will be displayed, but additional information (as data type) will be shown. It is possible also to inspect calculation performance clicking on **Show Profile** for tunning your code.
 
@@ -165,11 +173,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDkzOTE2MTEsMTIzODczMTcwMywtNj
-c1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OTg5ODUy
-OCwtMjA2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MTQ5MzkwOCwtNT
-A5NDc4NTgwLDg3MDMwNjczMywtMTAxNTM2NjM2MSwtMTA4MjI4
-MTYwNiwtMTI5NTI1MDU0OCw0MDQwMzAzMzYsLTE4NDA0MTQzMz
-AsMTMxNzI2OTk4NSwtMTQ3NDMwODg1MiwtMjAzNDM1MjU5OSwt
-MTcyNjcyMjA2NV19
+eyJoaXN0b3J5IjpbODU0MzMxMDkyLDEyMzg3MzE3MDMsLTY3NT
+AxMzQ4OCw4MjM3OTgxMTgsMTA1ODgwNDg5Myw2Nzk4OTg1Mjgs
+LTIwNjIyNTc4NzQsNTY3Nzg4ODU0LDIwNTE0OTM5MDgsLTUwOT
+Q3ODU4MCw4NzAzMDY3MzMsLTEwMTUzNjYzNjEsLTEwODIyODE2
+MDYsLTEyOTUyNTA1NDgsNDA0MDMwMzM2LC0xODQwNDE0MzMwLD
+EzMTcyNjk5ODUsLTE0NzQzMDg4NTIsLTIwMzQzNTI1OTksLTE3
+MjY3MjIwNjVdfQ==
 -->
