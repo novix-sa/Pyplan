@@ -127,13 +127,13 @@ Enter the name  **"First I/O dashboard"** in the name field for the new interfac
 Now double click the new interface to start designing it:
 ![](http://img.pyplan.org/Quick_start_interface_design.png)
 
-You can start splitting the screen horizontally or vertically for later indicating which node you want in each canvas. You can further divide the canvas any time.
+You can start by splitting the screen horizontally or vertically, and then indicating which node you want in each canvas. You can further divide the canvas any time.
 
 ### Output Nodes
-There are several type of components that can be included in an interface: Tables, Charts, Diagrams, Text, Filters, Pivot Tables, and Maps. 
+There are several types of components that can be included in an interface: Tables, Charts, Diagrams, Text, Filters, Pivot Tables, and Maps. 
 ![](http://img.pyplan.org/Quick_start_interface_elements.png)
 
-You can define what type of object you want in a specific division and then search for the node that contains the data to be shown
+You can define what type of object you want in a specific section of the canvas, and then search for the node that contains the data to be shown.
 ![](http://img.pyplan.org/Quick_start_ins_comp.png)
 
 Or you can directly display the diagram in one division and then keeping pressed the **<Shift>** key and clicking a node, selecting it and dragging and dropping it at the desired division.
@@ -155,7 +155,7 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDEwOTM1MiwyOTQ5NDExNDgsLTQyMT
+eyJoaXN0b3J5IjpbLTM1NjE0MDc4NywyOTQ5NDExNDgsLTQyMT
 g1NjE4MiwtMTAwNjk1MTcwNywxNDAyODExNjI3LDEyMzg3MzE3
 MDMsLTY3NTAxMzQ4OCw4MjM3OTgxMTgsMTA1ODgwNDg5Myw2Nz
 k4OTg1MjgsLTIwNjIyNTc4NzQsNTY3Nzg4ODU0LDIwNTE0OTM5
