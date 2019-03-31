@@ -46,7 +46,9 @@ While the node is selected , if you press <Ctrl + R> or double click it, the res
 
 ![Node Inspector](http://img.pyplan.org/Quick_start_inspector.png)
 
-Create another node, draging and dropping a node called "CSV" that you will find in the "Data sources" section on the right menu. Then set its definition as:
+Create another node, draging and dropping a node called "CSV" that you will find in the "Data sources" section on the right menu. 
+
+Then set its definition as:
 
     result = pd.read_csv('http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv', sep=None)
 You can again inspect the difference on the console output vs evaluating (Ctrl R or double click) the node. While console output is pure text, Pyplan result is a formatted table.
@@ -164,11 +166,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjgxMTYyNywxMjM4NzMxNzAzLC02Nz
-UwMTM0ODgsODIzNzk4MTE4LDEwNTg4MDQ4OTMsNjc5ODk4NTI4
-LC0yMDYyMjU3ODc0LDU2Nzc4ODg1NCwyMDUxNDkzOTA4LC01MD
-k0Nzg1ODAsODcwMzA2NzMzLC0xMDE1MzY2MzYxLC0xMDgyMjgx
-NjA2LC0xMjk1MjUwNTQ4LDQwNDAzMDMzNiwtMTg0MDQxNDMzMC
-wxMzE3MjY5OTg1LC0xNDc0MzA4ODUyLC0yMDM0MzUyNTk5LC0x
-NzI2NzIyMDY1XX0=
+eyJoaXN0b3J5IjpbLTEzNDI3NzU0MDksMTQwMjgxMTYyNywxMj
+M4NzMxNzAzLC02NzUwMTM0ODgsODIzNzk4MTE4LDEwNTg4MDQ4
+OTMsNjc5ODk4NTI4LC0yMDYyMjU3ODc0LDU2Nzc4ODg1NCwyMD
+UxNDkzOTA4LC01MDk0Nzg1ODAsODcwMzA2NzMzLC0xMDE1MzY2
+MzYxLC0xMDgyMjgxNjA2LC0xMjk1MjUwNTQ4LDQwNDAzMDMzNi
+wtMTg0MDQxNDMzMCwxMzE3MjY5OTg1LC0xNDc0MzA4ODUyLC0y
+MDM0MzUyNTk5XX0=
 -->
