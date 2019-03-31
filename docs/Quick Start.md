@@ -136,6 +136,7 @@ There are several types of components that can be included in an interface: Tabl
 You can define what type of object you want in a specific section of the canvas, and then search for the node that contains the data to be shown.
 ![](http://img.pyplan.org/Quick_start_ins_comp.png)
 
+Alternatively, you can directly display the diagram in one section of the canvas, then keeping pressed the  **<Shift>** key click on a node and keep it pressed to select it, and drag and drop it into the desired canvas section.
 Or you can directly display the diagram in one division and then keeping pressed the **<Shift>** key and clicking a node, selecting it and dragging and dropping it at the desired division.
 ![](http://img.pyplan.org/Quick_start_create_interface.png)
 
@@ -155,7 +156,7 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjE0MDc4NywyOTQ5NDExNDgsLTQyMT
+eyJoaXN0b3J5IjpbLTQzNTQ5MTc3OSwyOTQ5NDExNDgsLTQyMT
 g1NjE4MiwtMTAwNjk1MTcwNywxNDAyODExNjI3LDEyMzg3MzE3
 MDMsLTY3NTAxMzQ4OCw4MjM3OTgxMTgsMTA1ODgwNDg5Myw2Nz
 k4OTg1MjgsLTIwNjIyNTc4NzQsNTY3Nzg4ODU0LDIwNTE0OTM5
