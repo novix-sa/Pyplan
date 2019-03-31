@@ -17,19 +17,13 @@ Pyplan natively interprets Pandas, Numpy, and XArray data objects. Any node whos
 When a request to run a node is executed, all precedent nodes are calculated too, and their results are stored in memory, available for inspection and reuse. Pyplan engine keeps track of any change in a node that triggers recalculation downstream the calculation logic path.
 
 ## **Using Python Libraries**
-Any library from the extended Python developing community can be imported and used to meet specific needs. [L1]
-
-----------
-
-[L1]Sería conveniente agregar una captura en la que se muestre este paso. La imagen siguiente muestra los elementos importados, pero no cómo llegaron ahí.
-Any library from the extended Python developing community can be imported to be used to solve specific needs.
+Any library from the extended Python developing community can be imported and used to meet specific needs.
 ![Importing libraries for use within Pyplan](http://img.pyplan.org/index_import_lib.png)
-The example above imports Sklearn for machine learning and the Plottly visualization library for rendering the graph. 
-A Plotly 3D representation is appreciated in the figure below.
+The example above imports Sklearn for machine learning, and the Plotly visualization library in order to render the graph. A Plotly 3D representation is shown in the figure below.
 ![enter image description here](http://img.pyplan.org/index_plotly_graph.png)
 
 ## **Creating Apps**
-Apps interfaces are created dragging and dropping nodes on an interface design tool.
+Apps interfaces can be created by dragging and dropping nodes on an interface design tool.
 ![enter image description here](http://img.pyplan.org/index_interface_design.png)
 
 ![Interface Designer](http://img.pyplan.org/index_interface_design1.png)
@@ -43,11 +37,11 @@ After creation, the app can be shared with anybody internally or outside the ent
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDUxMjUxMywtMzYzNDU2MjMxLDY2MT
-kyOTYyMCwtMTE0MjYzNjU4NywtNTEzODI1MTAzLC0xOTk3NDM1
-MDgzLC0yMDM1MzM5OTQyLC02MDcxMTEyOTcsLTE5MDM3OTkwNz
-ksLTExNTEwMDQ5ODIsLTE2NDQzNTYxNTcsMTc2ODk1MTQ3LDE5
-NTc3MDA1NDQsLTQ3NDcyNDExMSwxMzcwNDczNTEzLDIwMzIyNz
-YxMDEsMTEyNDgyMzQ2Niw0MTIwODEyMjAsLTExMzM5OTA1NzAs
-NjI4MDYyMTk5XX0=
+eyJoaXN0b3J5IjpbLTE1Nzg5Njg4NDMsLTM2MzQ1NjIzMSw2Nj
+E5Mjk2MjAsLTExNDI2MzY1ODcsLTUxMzgyNTEwMywtMTk5NzQz
+NTA4MywtMjAzNTMzOTk0MiwtNjA3MTExMjk3LC0xOTAzNzk5MD
+c5LC0xMTUxMDA0OTgyLC0xNjQ0MzU2MTU3LDE3Njg5NTE0Nywx
+OTU3NzAwNTQ0LC00NzQ3MjQxMTEsMTM3MDQ3MzUxMywyMDMyMj
+c2MTAxLDExMjQ4MjM0NjYsNDEyMDgxMjIwLC0xMTMzOTkwNTcw
+LDYyODA2MjE5OV19
 -->
