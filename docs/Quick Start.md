@@ -97,14 +97,8 @@ Try adding `Print('Hello World')`in the first line before the result definition.
 
 The second alternative is pressing **<Ctrl + E>** after selecting the node. In this case, a more complete window opens showing this:
 
-----------
-
-[L1]Sería conveniente agregar una captura en la que se muestre este paso.Try adding `Print('Hello World')`in the first line before the result definition. Run the node and check the console output.
-You will find this Printing functionality useful for inspecting intermediate values in your calculations.
-
-The second alternative is, after selecting the node, pressing **<Ctrl + E>**. In this case a more complete window is open showing 
 ![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E.png)
-Performance profiling information can be displayed clicking on **"Show Profile"**
+Performance profiling information can be displayed by clicking on **"Show Profile"**
 
 ![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E+ShowProfile.png)
 
@@ -166,11 +160,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0OTQxMTQ4LC00MjE4NTYxODIsLTEwMD
-Y5NTE3MDcsMTQwMjgxMTYyNywxMjM4NzMxNzAzLC02NzUwMTM0
-ODgsODIzNzk4MTE4LDEwNTg4MDQ4OTMsNjc5ODk4NTI4LC0yMD
-YyMjU3ODc0LDU2Nzc4ODg1NCwyMDUxNDkzOTA4LC01MDk0Nzg1
-ODAsODcwMzA2NzMzLC0xMDE1MzY2MzYxLC0xMDgyMjgxNjA2LC
-0xMjk1MjUwNTQ4LDQwNDAzMDMzNiwtMTg0MDQxNDMzMCwxMzE3
-MjY5OTg1XX0=
+eyJoaXN0b3J5IjpbMjgwNjM0MTk1LDI5NDk0MTE0OCwtNDIxOD
+U2MTgyLC0xMDA2OTUxNzA3LDE0MDI4MTE2MjcsMTIzODczMTcw
+MywtNjc1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OT
+g5ODUyOCwtMjA2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MTQ5Mzkw
+OCwtNTA5NDc4NTgwLDg3MDMwNjczMywtMTAxNTM2NjM2MSwtMT
+A4MjI4MTYwNiwtMTI5NTI1MDU0OCw0MDQwMzAzMzYsLTE4NDA0
+MTQzMzBdfQ==
 -->
