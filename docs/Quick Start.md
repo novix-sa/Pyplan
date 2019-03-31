@@ -95,7 +95,7 @@ Now you can inspect any node values by selecting and evaluating them. There are 
 ![enter image description here](http://img.pyplan.org/Quick_start_eval1.png)
 Try adding `Print('Hello World')`in the first line before the result definition.[L1] Run the node and check the console output. You will find this Printing functionality useful for inspecting intermediate values in your calculations.
 
-The second alternative is pressing "." after selecting the node. In this case, a more complete window opens showing this:
+The second alternative is pressing **<Ctrl + E>** after selecting the node. In this case, a more complete window opens showing this:
 
 ----------
 
@@ -166,11 +166,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA0NTI1NDUsLTQyMTg1NjE4MiwtMT
-AwNjk1MTcwNywxNDAyODExNjI3LDEyMzg3MzE3MDMsLTY3NTAx
-MzQ4OCw4MjM3OTgxMTgsMTA1ODgwNDg5Myw2Nzk4OTg1MjgsLT
-IwNjIyNTc4NzQsNTY3Nzg4ODU0LDIwNTE0OTM5MDgsLTUwOTQ3
-ODU4MCw4NzAzMDY3MzMsLTEwMTUzNjYzNjEsLTEwODIyODE2MD
-YsLTEyOTUyNTA1NDgsNDA0MDMwMzM2LC0xODQwNDE0MzMwLDEz
-MTcyNjk5ODVdfQ==
+eyJoaXN0b3J5IjpbMjk0OTQxMTQ4LC00MjE4NTYxODIsLTEwMD
+Y5NTE3MDcsMTQwMjgxMTYyNywxMjM4NzMxNzAzLC02NzUwMTM0
+ODgsODIzNzk4MTE4LDEwNTg4MDQ4OTMsNjc5ODk4NTI4LC0yMD
+YyMjU3ODc0LDU2Nzc4ODg1NCwyMDUxNDkzOTA4LC01MDk0Nzg1
+ODAsODcwMzA2NzMzLC0xMDE1MzY2MzYxLC0xMDgyMjgxNjA2LC
+0xMjk1MjUwNTQ4LDQwNDAzMDMzNiwtMTg0MDQxNDMzMCwxMzE3
+MjY5OTg1XX0=
 -->
