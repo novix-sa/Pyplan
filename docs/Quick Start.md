@@ -47,12 +47,11 @@ While the node is selected , if you press <Ctrl + R> or double click it, the res
 ![Node Inspector](http://img.pyplan.org/Quick_start_inspector.png)
 
 Create another node, draging and dropping a node called "CSV" that you will find in the "Data sources" section on the right menu. 
-
+![enter image description here](http://img.pyplan.org/Quick_start_csv.png)
 Then set its definition as:
 
     result = pd.read_csv('http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv', sep=None)
-You can again inspect the difference on the console output vs evaluating (Ctrl R or double click) the node. While console output is pure text, Pyplan result is a formatted table.
-
+You can inspect again the difference between the console output vs the node evaluation (Ctrl + R or double click). While the console output is pure text, Pyplan shows the result in a formatted table.
 ![Pandas Table](http://img.pyplan.org/Quick_start_first_table.png)
 
 Inspecting the node Code Tab you will find new buttons next to the Run button. These buttons are displayed whenever a node evaluates to a Dataframe/Pandas object type. The buttons links to [Pandas](https://pandas.pydata.org) wizards for helping Python newbies start learning Pandas.
@@ -166,11 +165,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI3NzU0MDksMTQwMjgxMTYyNywxMj
-M4NzMxNzAzLC02NzUwMTM0ODgsODIzNzk4MTE4LDEwNTg4MDQ4
-OTMsNjc5ODk4NTI4LC0yMDYyMjU3ODc0LDU2Nzc4ODg1NCwyMD
-UxNDkzOTA4LC01MDk0Nzg1ODAsODcwMzA2NzMzLC0xMDE1MzY2
-MzYxLC0xMDgyMjgxNjA2LC0xMjk1MjUwNTQ4LDQwNDAzMDMzNi
-wtMTg0MDQxNDMzMCwxMzE3MjY5OTg1LC0xNDc0MzA4ODUyLC0y
-MDM0MzUyNTk5XX0=
+eyJoaXN0b3J5IjpbMjIzNjMxNTkzLDE0MDI4MTE2MjcsMTIzOD
+czMTcwMywtNjc1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0ODkz
+LDY3OTg5ODUyOCwtMjA2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MT
+Q5MzkwOCwtNTA5NDc4NTgwLDg3MDMwNjczMywtMTAxNTM2NjM2
+MSwtMTA4MjI4MTYwNiwtMTI5NTI1MDU0OCw0MDQwMzAzMzYsLT
+E4NDA0MTQzMzAsMTMxNzI2OTk4NSwtMTQ3NDMwODg1MiwtMjAz
+NDM1MjU5OV19
 -->
