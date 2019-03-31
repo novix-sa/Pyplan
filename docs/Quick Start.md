@@ -29,15 +29,9 @@ A  **node** is the place where you code, in pure Python, the calculation logic f
 
 Let's create a simple analysis to understand how Pyplan works. As a first step, drag and drop a "Node" into the canvas, and enter a Title: "My first node". After accepting the title (or pressing the TAB key), an ID will be automatically provided
 
-A **Node** is the place where you code, in pure Python, the data analytic app calculation logic. 
-The app logic, usually starts loading data from an external datasource. Different type of analysis can be conducted in separate nodes or group of nodes, sharing or not steps in the calculation logic.
-At the end some nodes will collect results to be shown as outputs of the app.
-
-Let's create a simple analysis to understand how Pyplan works.
-As a first step, drag and drop a "Node" into the canvas, provide a Title:"My first node". After accepting the title (or pressing the TAB key) an ID will be automatically provided.
 ![First Node](http://img.pyplan.org/Quick_start_first_node.png)
 
-Then copy the following code and click on the Code tab:
+Then, copy the following code and click on the Code tab:
 
     a = 4
     b = 5
@@ -171,11 +165,11 @@ There are other type of controls like buttons for launching specific tasks (scri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDUzMjI2NywxMjM4NzMxNzAzLC02Nz
-UwMTM0ODgsODIzNzk4MTE4LDEwNTg4MDQ4OTMsNjc5ODk4NTI4
-LC0yMDYyMjU3ODc0LDU2Nzc4ODg1NCwyMDUxNDkzOTA4LC01MD
-k0Nzg1ODAsODcwMzA2NzMzLC0xMDE1MzY2MzYxLC0xMDgyMjgx
-NjA2LC0xMjk1MjUwNTQ4LDQwNDAzMDMzNiwtMTg0MDQxNDMzMC
-wxMzE3MjY5OTg1LC0xNDc0MzA4ODUyLC0yMDM0MzUyNTk5LC0x
-NzI2NzIyMDY1XX0=
+eyJoaXN0b3J5IjpbLTE1MzQ3NjM0MjIsMTIzODczMTcwMywtNj
+c1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OTg5ODUy
+OCwtMjA2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MTQ5MzkwOCwtNT
+A5NDc4NTgwLDg3MDMwNjczMywtMTAxNTM2NjM2MSwtMTA4MjI4
+MTYwNiwtMTI5NTI1MDU0OCw0MDQwMzAzMzYsLTE4NDA0MTQzMz
+AsMTMxNzI2OTk4NSwtMTQ3NDMwODg1MiwtMjAzNDM1MjU5OSwt
+MTcyNjcyMjA2NV19
 -->
