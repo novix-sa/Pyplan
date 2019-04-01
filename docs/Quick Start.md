@@ -5,7 +5,7 @@
 To access Pyplan, it must be installed in a server. Or you can request a trial account to access Pyplan cloud services  [here](http://pyplan.com/contact/).
 
 Once the server address has been identified, you can log into Pyplan with valid user credentials using a regular login form:
-![](http://img.pyplan.org/Quick_start_login_en.png)
+![login](http://img.pyplan.org/Quick_start_login_en.png)
 
 After login in, you will reach the app land page, which looks like the following picture:
 ![Pyplan Homepage](http://img.pyplan.org/Quick_start_home1.png)
@@ -154,11 +154,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDU2MDU1MiwxNTQ1MTEyOTI3LDI5ND
-k0MTE0OCwtNDIxODU2MTgyLC0xMDA2OTUxNzA3LDE0MDI4MTE2
-MjcsMTIzODczMTcwMywtNjc1MDEzNDg4LDgyMzc5ODExOCwxMD
-U4ODA0ODkzLDY3OTg5ODUyOCwtMjA2MjI1Nzg3NCw1Njc3ODg4
-NTQsMjA1MTQ5MzkwOCwtNTA5NDc4NTgwLDg3MDMwNjczMywtMT
-AxNTM2NjM2MSwtMTA4MjI4MTYwNiwtMTI5NTI1MDU0OCw0MDQw
-MzAzMzZdfQ==
+eyJoaXN0b3J5IjpbOTIyNzU2NDI1LDIwODQ1NjA1NTIsMTU0NT
+ExMjkyNywyOTQ5NDExNDgsLTQyMTg1NjE4MiwtMTAwNjk1MTcw
+NywxNDAyODExNjI3LDEyMzg3MzE3MDMsLTY3NTAxMzQ4OCw4Mj
+M3OTgxMTgsMTA1ODgwNDg5Myw2Nzk4OTg1MjgsLTIwNjIyNTc4
+NzQsNTY3Nzg4ODU0LDIwNTE0OTM5MDgsLTUwOTQ3ODU4MCw4Nz
+AzMDY3MzMsLTEwMTUzNjYzNjEsLTEwODIyODE2MDYsLTEyOTUy
+NTA1NDhdfQ==
 -->
