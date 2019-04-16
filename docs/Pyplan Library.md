@@ -22,7 +22,7 @@ You can see in the console output, that the sum of “node1_” and “node2_”
 
 Second, as we will later see, when creating apps,  **controls for interacting with those apps** will be created using indexes.
 
-![](http://img.pyplan.org/pyplan library list of functions.png)
+![](http://img.pyplan.org/pyplan_library_list_of_functions.png)
 
 ## Operating with Indexes
 ### Set domain
@@ -61,5 +61,5 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDc2Njg4Ml19
+eyJoaXN0b3J5IjpbLTE4NDM0OTgxNzZdfQ==
 -->
