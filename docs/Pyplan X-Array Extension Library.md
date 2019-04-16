@@ -1,6 +1,5 @@
 
 # Pyplan X-Array Extension Library
-
 Pyplan X-Array Extension Library group a set of functions that helps operate with the concept of Index as defined in Pyplan.
 
 ## Operating with Indexes
@@ -39,6 +38,6 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTczMjg5NSwtNjE4OTM4NTg3LC02Mj
-Y3NzcwODIsMTYxMjE5ODQ2OF19
+eyJoaXN0b3J5IjpbLTE1OTQwNDM3ODksLTgwOTczMjg5NSwtNj
+E4OTM4NTg3LC02MjY3NzcwODIsMTYxMjE5ODQ2OF19
 -->
