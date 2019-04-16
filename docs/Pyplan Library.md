@@ -1,7 +1,7 @@
 
 # Pyplan Library
 Pyplan natively interprets Pandas, Numpy and Xarray objects. That means that any of this type of objects can be evaluated and rendered as a table or graph with all customization natively offered by Pyplan.
-Additionally, Pyplan pro
+Additionally, Pyplan encourage a the usage of Index for defining dimensions for Xarray datin a different manner than how it is used
 
 ## **Index**
 The index object is how you define a dimension in Pyplan. Indexes are created using a Graphical Using Interface (GUI), by means of the drag and drop method, and they are created as Pandas Index.
@@ -68,5 +68,6 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjIzODc5MywtMTg0MzQ5ODE3Nl19
+eyJoaXN0b3J5IjpbLTEyMjM2NDE3NzksLTE4NDM0OTgxNzZdfQ
+==
 -->
