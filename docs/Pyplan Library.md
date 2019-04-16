@@ -15,7 +15,6 @@ For someone used to Xarray, the Index ID property is equivalent to the "Dim" pro
 The reasons that justify defining the Index behavior as previously described are: First, it helps to  **standardize the dimensions domain**. This is important to guarantee that when operating with DataArrays that share dimensions, these arrays share the same domain, so that the resulting domain is the same as that of the variables. If that is not the case, and you have a definition like this one:
 ![enter image description here](http://img.pyplan.org/Quick_start_node_domain.png)
 You can see in the console output, that the sum of “node1_” and “node2_” is only computed for the intersection of Index domain "MyTime" of the corresponding variables.
-
 Second, as we will later see, when creating apps,  **controls for interacting with those apps** will be created using indexes.
 
 
@@ -68,6 +67,6 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc1NjcwMTcsLTE4NDM0OTgxNzZdfQ
-==
+eyJoaXN0b3J5IjpbMTUwNDA4MTEyOSwtMTExNzU2NzAxNywtMT
+g0MzQ5ODE3Nl19
 -->
