@@ -1,13 +1,7 @@
 
 # Pyplan Library
-## Explicar la forma de trabajo de Pyplan con indices
-## Dynamic
-## Listado de funciones
-
-
-Pyplan X-Array Extension Library group a set of functions that helps operate with the concept of Index as defined in Pyplan.
-
-### **Index**
+Pyplan natively interprets Pandas
+## **Index**
 The index object is how you define a dimension in Pyplan. Indexes are created using a Graphical Using Interface (GUI), by means of the drag and drop method, and they are created as Pandas Index.
 ![Index Definition](http://img.pyplan.org/Pyplan_library_index.png)
 
@@ -21,6 +15,17 @@ The reasons that justify defining the Index behavior as previously described are
 You can see in the console output, that the sum of “node1_” and “node2_” is only computed for the intersection of Index domain "MyTime" of the corresponding variables.
 
 Second, as we will later see, when creating apps,  **controls for interacting with those apps** will be created using indexes.
+
+
+
+## Explicar la forma de trabajo de Pyplan con indices
+## Dynamic
+## Listado de funciones
+
+
+Pyplan Library group a set of functions that helps operate with the concept of Index as defined in Pyplan.
+
+
 
 ![](http://img.pyplan.org/pyplan_library_list_of_functions.png)
 
@@ -61,5 +66,5 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM0OTgxNzZdfQ==
+eyJoaXN0b3J5IjpbLTU2MjU1MDg5LC0xODQzNDk4MTc2XX0=
 -->
