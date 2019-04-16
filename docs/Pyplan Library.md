@@ -28,6 +28,7 @@ Second, as we will later see, when creating apps,  **controls for interacting wi
 ### Subset
 Returns a list of all the elements of the index for which dataArray is true. The function is used to create a new index that is a subset of an existing index.
         Ex. subset(sales>0)
+ 
 ### Change index
 ### Index from Pandas
 ### Index from Excel
@@ -59,5 +60,5 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTUwMDY1OF19
+eyJoaXN0b3J5IjpbLTE4OTg1NzUwMTZdfQ==
 -->
