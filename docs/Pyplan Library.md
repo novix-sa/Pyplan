@@ -1,6 +1,8 @@
 
 # Pyplan Library
-Pyplan natively interprets Pandas
+Pyplan natively interprets Pandas, Numpy and Xarray objects. That means that means that all the visualization alternatives
+
+
 ## **Index**
 The index object is how you define a dimension in Pyplan. Indexes are created using a Graphical Using Interface (GUI), by means of the drag and drop method, and they are created as Pandas Index.
 ![Index Definition](http://img.pyplan.org/Pyplan_library_index.png)
@@ -66,5 +68,5 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjU1MDg5LC0xODQzNDk4MTc2XX0=
+eyJoaXN0b3J5IjpbNDYyOTQ3NTQxLC0xODQzNDk4MTc2XX0=
 -->
