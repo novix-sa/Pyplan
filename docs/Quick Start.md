@@ -43,7 +43,7 @@ Paste your Python code on the left side of the “Code” tab. The console outpu
 
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 
-While the node is selected , if you press <Ctrl + R> or double click it, the result will be shown, which is 9 in this case. You can appreciate the difference between the console output and the node result. An alternative way to evaluate a node is by pressing "< Ctrl + E >". In this case, not only the console and result output will be displayed, but also additional information (as data type) will be shown. It is also possible to inspect the calculation performance by clicking on **Show Profile** which allows you to fine-tune your code.
+While the node is selected , if you press <Ctrl + R> or double click it, the result will be shown, which is 9 in this case. You can appreciate the difference between the console output and the node result. An alternative way to evaluate a node is by pressing < Ctrl + E >. In this case, not only the console and result output will be displayed, but also additional information (as data type) will be shown. It is also possible to inspect the calculation performance by clicking on **Show Profile** which allows you to fine-tune your code.
 
 ![Node Inspector](http://img.pyplan.org/Quick_start_inspector.png)
 
@@ -155,11 +155,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5MDg4NDQ1LC0zOTYwMTA1MjEsLTE5Mj
-E5NTk4MzIsMTQzMDU0OTUzMSw5MjI3NTY0MjUsMjA4NDU2MDU1
-MiwxNTQ1MTEyOTI3LDI5NDk0MTE0OCwtNDIxODU2MTgyLC0xMD
-A2OTUxNzA3LDE0MDI4MTE2MjcsMTIzODczMTcwMywtNjc1MDEz
-NDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OTg5ODUyOCwtMj
-A2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MTQ5MzkwOCwtNTA5NDc4
-NTgwXX0=
+eyJoaXN0b3J5IjpbMTMzMDE3NTQ3MywtMzk2MDEwNTIxLC0xOT
+IxOTU5ODMyLDE0MzA1NDk1MzEsOTIyNzU2NDI1LDIwODQ1NjA1
+NTIsMTU0NTExMjkyNywyOTQ5NDExNDgsLTQyMTg1NjE4MiwtMT
+AwNjk1MTcwNywxNDAyODExNjI3LDEyMzg3MzE3MDMsLTY3NTAx
+MzQ4OCw4MjM3OTgxMTgsMTA1ODgwNDg5Myw2Nzk4OTg1MjgsLT
+IwNjIyNTc4NzQsNTY3Nzg4ODU0LDIwNTE0OTM5MDgsLTUwOTQ3
+ODU4MF19
 -->
