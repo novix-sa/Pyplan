@@ -59,7 +59,7 @@ If you inspect the “Code” tab of the node, you will find new buttons next to
 
 ![Pandas Wizards](http://img.pyplan.org/Quick_start_wizards.png)
 
-### Index
+### **Index**
 The index object is how you define a dimension in Pyplan. Indexes are created using a Graphical Using Interface (GUI), by means of the drag and drop method, and they are created as Pandas Index.
 ![Index Definition](http://img.pyplan.org/Pyplan_library_index.png)
 
@@ -155,11 +155,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDE3NTQ3MywtMzk2MDEwNTIxLC0xOT
-IxOTU5ODMyLDE0MzA1NDk1MzEsOTIyNzU2NDI1LDIwODQ1NjA1
-NTIsMTU0NTExMjkyNywyOTQ5NDExNDgsLTQyMTg1NjE4MiwtMT
-AwNjk1MTcwNywxNDAyODExNjI3LDEyMzg3MzE3MDMsLTY3NTAx
-MzQ4OCw4MjM3OTgxMTgsMTA1ODgwNDg5Myw2Nzk4OTg1MjgsLT
-IwNjIyNTc4NzQsNTY3Nzg4ODU0LDIwNTE0OTM5MDgsLTUwOTQ3
-ODU4MF19
+eyJoaXN0b3J5IjpbNjI5MzgyMjU3LDEzMzAxNzU0NzMsLTM5Nj
+AxMDUyMSwtMTkyMTk1OTgzMiwxNDMwNTQ5NTMxLDkyMjc1NjQy
+NSwyMDg0NTYwNTUyLDE1NDUxMTI5MjcsMjk0OTQxMTQ4LC00Mj
+E4NTYxODIsLTEwMDY5NTE3MDcsMTQwMjgxMTYyNywxMjM4NzMx
+NzAzLC02NzUwMTM0ODgsODIzNzk4MTE4LDEwNTg4MDQ4OTMsNj
+c5ODk4NTI4LC0yMDYyMjU3ODc0LDU2Nzc4ODg1NCwyMDUxNDkz
+OTA4XX0=
 -->
