@@ -2,6 +2,7 @@
 # Pyplan Library
 ## Explicar la forma de trabajo de Pyplan con indices
 ## Dynamic
+## Listado de funciones
 
 
 Pyplan X-Array Extension Library group a set of functions that helps operate with the concept of Index as defined in Pyplan.
@@ -58,5 +59,5 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTgzMTQ1OV19
+eyJoaXN0b3J5IjpbLTQ1OTUwMDY1OF19
 -->
