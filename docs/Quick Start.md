@@ -43,7 +43,7 @@ Paste your Python code on the left side of the “Code” tab. The console outpu
 
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 
-While the node is selected , if you press <Ctrl + R> or double click it, the result will be shown, which is 9 in this case. You can appreciate the difference between the console output and the node result. An alternative way to evaluate a node is by pressing <Ctrl + E>. In this case, not only the console and result output will be displayed, but also additional information (as data type) will be shown. It is also possible to inspect the calculation performance by clicking on **Show Profile** which allows you to fine-tune your code.
+While the node is selected , if you press <Ctrl + R> or double click it, the result will be shown, which is 9 in this case. You can appreciate the difference between the console output and the node result. An alternative way to evaluate a node is by pressing-<Ctrl + E>. In this case, not only the console and result output will be displayed, but also additional information (as data type) will be shown. It is also possible to inspect the calculation performance by clicking on **Show Profile** which allows you to fine-tune your code.
 
 ![Node Inspector](http://img.pyplan.org/Quick_start_inspector.png)
 
@@ -155,11 +155,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDU0OTUzMSw5MjI3NTY0MjUsMjA4ND
-U2MDU1MiwxNTQ1MTEyOTI3LDI5NDk0MTE0OCwtNDIxODU2MTgy
-LC0xMDA2OTUxNzA3LDE0MDI4MTE2MjcsMTIzODczMTcwMywtNj
-c1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OTg5ODUy
-OCwtMjA2MjI1Nzg3NCw1Njc3ODg4NTQsMjA1MTQ5MzkwOCwtNT
-A5NDc4NTgwLDg3MDMwNjczMywtMTAxNTM2NjM2MSwtMTA4MjI4
-MTYwNl19
+eyJoaXN0b3J5IjpbLTE5MjE5NTk4MzIsMTQzMDU0OTUzMSw5Mj
+I3NTY0MjUsMjA4NDU2MDU1MiwxNTQ1MTEyOTI3LDI5NDk0MTE0
+OCwtNDIxODU2MTgyLC0xMDA2OTUxNzA3LDE0MDI4MTE2MjcsMT
+IzODczMTcwMywtNjc1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0
+ODkzLDY3OTg5ODUyOCwtMjA2MjI1Nzg3NCw1Njc3ODg4NTQsMj
+A1MTQ5MzkwOCwtNTA5NDc4NTgwLDg3MDMwNjczMywtMTAxNTM2
+NjM2MV19
 -->
