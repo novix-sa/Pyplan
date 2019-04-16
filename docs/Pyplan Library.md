@@ -19,7 +19,7 @@ Second, as we will later see, when creating apps,  **controls for interacting wi
 
 ## Function List
 Pyplan Library group a set of functions that helps operate with the concept of Index as defined in Pyplan.
-For more transparency, these functions are contained in a module that is automatically imported when creating a model.
+For more transparency, these functions are contained in a module that is automatically imported when creating or opening a model. You can inspect its code, searching the functions by name in the Search Box
 You can search for any of the following functions at the digram
 ![](http://img.pyplan.org/pyplan_library_list_of_functions.png)
 
@@ -60,6 +60,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTkwODI5NDMsLTExMzgyMzcyNzcsMT
-UwNDA4MTEyOSwtMTExNzU2NzAxNywtMTg0MzQ5ODE3Nl19
+eyJoaXN0b3J5IjpbLTE5NTc5NDczMzcsLTEyMTkwODI5NDMsLT
+ExMzgyMzcyNzcsMTUwNDA4MTEyOSwtMTExNzU2NzAxNywtMTg0
+MzQ5ODE3Nl19
 -->
