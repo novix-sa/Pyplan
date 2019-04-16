@@ -17,13 +17,7 @@ The reasons that justify defining the Index behavior as previously described are
 You can see in the console output, that the sum of “node1_” and “node2_” is only computed for the intersection of Index domain "MyTime" of the corresponding variables.
 Second, as we will later see, when creating apps,  **controls for interacting with those apps** will be created using indexes.
 
-
-
-## Explicar la forma de trabajo de Pyplan con indices
-## Dynamic
-## Listado de funciones
-
-
+## Function List
 Pyplan Library group a set of functions that helps operate with the concept of Index as defined in Pyplan.
 
 
@@ -67,6 +61,6 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDA4MTEyOSwtMTExNzU2NzAxNywtMT
-g0MzQ5ODE3Nl19
+eyJoaXN0b3J5IjpbLTExNjY2NzM0MzcsMTUwNDA4MTEyOSwtMT
+ExNzU2NzAxNywtMTg0MzQ5ODE3Nl19
 -->
