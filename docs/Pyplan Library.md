@@ -38,8 +38,6 @@ Returns a list of all the elements of the index for which dataArray is true. The
 ### Create Time
 ### Add Periods
 
-
-
 ## Operating with dataArray along Indexes
 ### Aggregate
 ### Create dataArray
@@ -52,7 +50,6 @@ Returns a list of all the elements of the index for which dataArray is true. The
 ### Linear Depreciation
 ### IRR
 ### NPV
-
 
 ## Create Indexed dataArrays
 ### Build Report
@@ -76,7 +73,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzA4MDk5MywtNDY3MDQwOTEwLC0xOT
-U3OTQ3MzM3LC0xMjE5MDgyOTQzLC0xMTM4MjM3Mjc3LDE1MDQw
-ODExMjksLTExMTc1NjcwMTcsLTE4NDM0OTgxNzZdfQ==
+eyJoaXN0b3J5IjpbMTM3MDgwNDMzLC00NjcwNDA5MTAsLTE5NT
+c5NDczMzcsLTEyMTkwODI5NDMsLTExMzgyMzcyNzcsMTUwNDA4
+MTEyOSwtMTExNzU2NzAxNywtMTg0MzQ5ODE3Nl19
 -->
