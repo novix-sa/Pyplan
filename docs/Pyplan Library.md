@@ -40,7 +40,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 ## Operating with dataArray along Indexes
 
-### Aggregate(x, map,  `I`,  `J`)
+### Aggregate (dataArray,mapInfo,sourceIndex,targetIndex)
 Aggregates the values in DataArray to generate the result indexed by  targetIndex.
         Map gives the value of targetIndex for each element of sourceIndex (If the map does not match then the element will not be set into target index and information will be lost)
 
@@ -87,7 +87,8 @@ returns the population by continent.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NzgwMTQ5OCwtNDY3MDQwOTEwLC0xOT
-U3OTQ3MzM3LC0xMjE5MDgyOTQzLC0xMTM4MjM3Mjc3LDE1MDQw
-ODExMjksLTExMTc1NjcwMTcsLTE4NDM0OTgxNzZdfQ==
+eyJoaXN0b3J5IjpbMTQ1NTA4OTA5MCwxODg3ODAxNDk4LC00Nj
+cwNDA5MTAsLTE5NTc5NDczMzcsLTEyMTkwODI5NDMsLTExMzgy
+MzcyNzcsMTUwNDA4MTEyOSwtMTExNzU2NzAxNywtMTg0MzQ5OD
+E3Nl19
 -->
