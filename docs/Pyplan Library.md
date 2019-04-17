@@ -42,17 +42,18 @@ Returns a list of all the elements of the index for which dataArray is true. The
 ### Subscript
 ### Lookup
 ### Get pos
+### 
 
 ## Create Indexed dataArrays
 ### Build Report
 ### Pandas from excel
 ### DataArray from Excel
-### CreateDataArray
-### Split Text
+### Create dataArray
 
 ## Other Functions
 ### Excel connection
 ### Kind to String
+### Split Text
 
 ## Special Functions
 ### Choice
@@ -61,7 +62,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4Mzc5MTA5LC0xOTU3OTQ3MzM3LC0xMj
-E5MDgyOTQzLC0xMTM4MjM3Mjc3LDE1MDQwODExMjksLTExMTc1
-NjcwMTcsLTE4NDM0OTgxNzZdfQ==
+eyJoaXN0b3J5IjpbLTc1NzA3ODQzMCwtMTk1Nzk0NzMzNywtMT
+IxOTA4Mjk0MywtMTEzODIzNzI3NywxNTA0MDgxMTI5LC0xMTE3
+NTY3MDE3LC0xODQzNDk4MTc2XX0=
 -->
