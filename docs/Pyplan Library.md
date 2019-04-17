@@ -35,11 +35,14 @@ Returns a list of all the elements of the index for which dataArray is true. The
 ### Concat Index
 ### Create Time
 
+## Operating with Time 
+
 ## Operating with dataArray along Indexes
 ### Aggregate
 ### Create dataArray
 ### Find
 ### Apply
+### Slice
 ### Subscript
 ### Lookup
 ### Get pos
@@ -69,7 +72,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI1MDQwMDEsLTQ2NzA0MDkxMCwtMT
-k1Nzk0NzMzNywtMTIxOTA4Mjk0MywtMTEzODIzNzI3NywxNTA0
-MDgxMTI5LC0xMTE3NTY3MDE3LC0xODQzNDk4MTc2XX0=
+eyJoaXN0b3J5IjpbLTIyNTI5MTk2NiwtNDY3MDQwOTEwLC0xOT
+U3OTQ3MzM3LC0xMjE5MDgyOTQzLC0xMTM4MjM3Mjc3LDE1MDQw
+ODExMjksLTExMTc1NjcwMTcsLTE4NDM0OTgxNzZdfQ==
 -->
