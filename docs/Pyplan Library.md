@@ -47,6 +47,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 ### Build Report
 ### Pandas from excel
 ### DataArray from Excel
+### CreateDataArray
 ### Split Text
 
 ## Other Functions
@@ -60,7 +61,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc5NDczMzcsLTEyMTkwODI5NDMsLT
-ExMzgyMzcyNzcsMTUwNDA4MTEyOSwtMTExNzU2NzAxNywtMTg0
-MzQ5ODE3Nl19
+eyJoaXN0b3J5IjpbMjc4Mzc5MTA5LC0xOTU3OTQ3MzM3LC0xMj
+E5MDgyOTQzLC0xMTM4MjM3Mjc3LDE1MDQwODExMjksLTExMTc1
+NjcwMTcsLTE4NDM0OTgxNzZdfQ==
 -->
