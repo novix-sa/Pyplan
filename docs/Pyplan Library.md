@@ -23,13 +23,13 @@ For more transparency, these functions are contained in a module that is automat
 
 ## Operating with Indexes
 ### Set domain
+### Index from Pandas
+### Index from Excel
+### Copy Index
+### Concat Index
 ### Subset
 Returns a list of all the elements of the index for which dataArray is true. The function is used to create a new index that is a subset of an existing index.
         Ex. subset(sales>0)
-### Index from Pandas
-### Index from Excel
-### Concat Index
-### Copy Index
 ### Change index
 
 ## Operating with Time Index
@@ -78,7 +78,7 @@ aggregate(dataArray, map, time, years )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzkwNjkwOCwxNDU1MDg5MDkwLDE4OD
+eyJoaXN0b3J5IjpbLTMwNTQwMjIxNiwxNDU1MDg5MDkwLDE4OD
 c4MDE0OTgsLTQ2NzA0MDkxMCwtMTk1Nzk0NzMzNywtMTIxOTA4
 Mjk0MywtMTEzODIzNzI3NywxNTA0MDgxMTI5LC0xMTE3NTY3MD
 E3LC0xODQzNDk4MTc2XX0=
