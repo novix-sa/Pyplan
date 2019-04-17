@@ -20,8 +20,6 @@ Second, as we will later see, when creating apps,  **controls for interacting wi
 ## Function List
 Pyplan Library group a set of functions that helps operate with the concept of Index as defined in Pyplan.
 For more transparency, these functions are contained in a module that is automatically imported when creating or opening a model. You can inspect its code, searching the functions by name in the Search Box
-You can search for any of the following functions at the digram
-![](http://img.pyplan.org/pyplan_library_list_of_functions.png)
 
 ## Operating with Indexes
 ### Set domain
@@ -80,7 +78,7 @@ aggregate(dataArray, map, time, years )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDMyMTg5NCwxNDU1MDg5MDkwLDE4OD
+eyJoaXN0b3J5IjpbMTMyNzkwNjkwOCwxNDU1MDg5MDkwLDE4OD
 c4MDE0OTgsLTQ2NzA0MDkxMCwtMTk1Nzk0NzMzNywtMTIxOTA4
 Mjk0MywtMTEzODIzNzI3NywxNTA0MDgxMTI5LC0xMTE3NTY3MD
 E3LC0xODQzNDk4MTc2XX0=
