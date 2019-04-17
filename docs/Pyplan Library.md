@@ -42,13 +42,16 @@ Returns a list of all the elements of the index for which dataArray is true. The
 ### Subscript
 ### Lookup
 ### Get pos
-### 
+### Linear Depreciation
+### IRR
+
 
 ## Create Indexed dataArrays
 ### Build Report
 ### Pandas from excel
 ### DataArray from Excel
 ### Create dataArray
+### Copy as values
 
 ## Other Functions
 ### Excel connection
@@ -62,7 +65,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzA3ODQzMCwtMTk1Nzk0NzMzNywtMT
+eyJoaXN0b3J5IjpbLTQ2NzA0MDkxMCwtMTk1Nzk0NzMzNywtMT
 IxOTA4Mjk0MywtMTEzODIzNzI3NywxNTA0MDgxMTI5LC0xMTE3
 NTY3MDE3LC0xODQzNDk4MTc2XX0=
 -->
