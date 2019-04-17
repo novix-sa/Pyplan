@@ -28,12 +28,11 @@ You can search for any of the following functions at the digram
 ### Subset
 Returns a list of all the elements of the index for which dataArray is true. The function is used to create a new index that is a subset of an existing index.
         Ex. subset(sales>0)
- 
-### Change index
 ### Index from Pandas
 ### Index from Excel
 ### Concat Index
 ### Copy Index
+### Change index
 
 ## Operating with Time Index
 ### Create Time
@@ -77,7 +76,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NDczMTQ1LC00NjcwNDA5MTAsLTE5NT
-c5NDczMzcsLTEyMTkwODI5NDMsLTExMzgyMzcyNzcsMTUwNDA4
-MTEyOSwtMTExNzU2NzAxNywtMTg0MzQ5ODE3Nl19
+eyJoaXN0b3J5IjpbLTM2NzA4MDk5MywtNDY3MDQwOTEwLC0xOT
+U3OTQ3MzM3LC0xMjE5MDgyOTQzLC0xMTM4MjM3Mjc3LDE1MDQw
+ODExMjksLTExMTc1NjcwMTcsLTE4NDM0OTgxNzZdfQ==
 -->
