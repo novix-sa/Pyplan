@@ -44,16 +44,9 @@ Returns a list of all the elements of the index for which dataArray is true. The
 Aggregates the values in dataArray from sourceIndex to targetIndex using mapInfo as reference.
 mapInfo set the value of targetIndex for each element of sourceIndex (If the map does not match then the element will not be set into target index and information will be lost)
 
-        Example for aggregating time information into annual index the syntax is:
-            aggregate(dataArray, map, time, years )
-Aggregates the values in array «x» over index «`I`» to produce a result indexed by «`J`», a coarser grained value. For example, «`I`» and «`J`» might be days and months, or countries and continents, respectivly. Parameter «map» is indexed by «`I`». It gives the value of «`J`» for each element of «`I`». It gives a warning if any value in «map» is not in index «`J`», unless you set «`noMapError`» to True.
+Example for aggregating time information into annual index the syntax is:
+aggregate(dataArray, map, time, years )
 
-  
-For example, suppose we want to aggregate  `Population_by_country`  indexed by  `Country`  to produce an array of populations by  `Continent`. We need a map  `Continent_by_country`  giving the name of the continent containing each (indexed by  `Country`):
-
-`Aggregate(Population_by_country, Continent_by_country, Country, Continent)`
-
-returns the population by continent.
 ### Create dataArray
 ### Find
 ### Apply
@@ -87,8 +80,8 @@ returns the population by continent.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczNjMxMTcsMTQ1NTA4OTA5MCwxODg3OD
-AxNDk4LC00NjcwNDA5MTAsLTE5NTc5NDczMzcsLTEyMTkwODI5
-NDMsLTExMzgyMzcyNzcsMTUwNDA4MTEyOSwtMTExNzU2NzAxNy
-wtMTg0MzQ5ODE3Nl19
+eyJoaXN0b3J5IjpbLTI1MDMyMTg5NCwxNDU1MDg5MDkwLDE4OD
+c4MDE0OTgsLTQ2NzA0MDkxMCwtMTk1Nzk0NzMzNywtMTIxOTA4
+Mjk0MywtMTEzODIzNzI3NywxNTA0MDgxMTI5LC0xMTE3NTY3MD
+E3LC0xODQzNDk4MTc2XX0=
 -->
