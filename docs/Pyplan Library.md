@@ -39,9 +39,13 @@ Returns a list of all the elements of the index for which dataArray is true. The
 ### Add Periods
 
 ## Operating with dataArray along Indexes
-### Aggregate
-## Aggregate(x, map,  `I`,  `J`)
 
+### Aggregate(x, map,  `I`,  `J`)
+Aggregates the values in DataArray to generate the result indexed by  targetIndex.
+        Map gives the value of targetIndex for each element of sourceIndex (If the map does not match then the element will not be set into target index and information will be lost)
+
+        Example for aggregating time information into annual index the syntax is:
+            aggregate(dataArray, map, time, years )
 Aggregates the values in array «x» over index «`I`» to produce a result indexed by «`J`», a coarser grained value. For example, «`I`» and «`J`» might be days and months, or countries and continents, respectivly. Parameter «map» is indexed by «`I`». It gives the value of «`J`» for each element of «`I`». It gives a warning if any value in «map» is not in index «`J`», unless you set «`noMapError`» to True.
 
   
@@ -83,7 +87,7 @@ returns the population by continent.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyMjYzNzUsLTQ2NzA0MDkxMCwtMTk1Nz
-k0NzMzNywtMTIxOTA4Mjk0MywtMTEzODIzNzI3NywxNTA0MDgx
-MTI5LC0xMTE3NTY3MDE3LC0xODQzNDk4MTc2XX0=
+eyJoaXN0b3J5IjpbMTg4NzgwMTQ5OCwtNDY3MDQwOTEwLC0xOT
+U3OTQ3MzM3LC0xMjE5MDgyOTQzLC0xMTM4MjM3Mjc3LDE1MDQw
+ODExMjksLTExMTc1NjcwMTcsLTE4NDM0OTgxNzZdfQ==
 -->
