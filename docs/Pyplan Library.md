@@ -33,6 +33,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 ### Index from Pandas
 ### Index from Excel
 ### Concat Index
+### Create Time
 
 ## Operating with dataArray along Indexes
 ### Aggregate
@@ -59,6 +60,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 ### Kind to String
 ### Split Text
 ### Goal Seek
+### Intall Library
 
 ## Special Functions
 ### Choice
@@ -67,7 +69,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTQ0OTYwMywtNDY3MDQwOTEwLC0xOT
-U3OTQ3MzM3LC0xMjE5MDgyOTQzLC0xMTM4MjM3Mjc3LDE1MDQw
-ODExMjksLTExMTc1NjcwMTcsLTE4NDM0OTgxNzZdfQ==
+eyJoaXN0b3J5IjpbLTExODI1MDQwMDEsLTQ2NzA0MDkxMCwtMT
+k1Nzk0NzMzNywtMTIxOTA4Mjk0MywtMTEzODIzNzI3NywxNTA0
+MDgxMTI5LC0xMTE3NTY3MDE3LC0xODQzNDk4MTc2XX0=
 -->
