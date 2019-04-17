@@ -33,9 +33,13 @@ Returns a list of all the elements of the index for which dataArray is true. The
 ### Index from Pandas
 ### Index from Excel
 ### Concat Index
-### Create Time
+### Copy Index
 
-## Operating with Time 
+## Operating with Time Index
+### Create Time
+### Add Periods
+
+
 
 ## Operating with dataArray along Indexes
 ### Aggregate
@@ -48,6 +52,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 ### Get pos
 ### Linear Depreciation
 ### IRR
+### NPV
 
 
 ## Create Indexed dataArrays
@@ -72,7 +77,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTI5MTk2NiwtNDY3MDQwOTEwLC0xOT
-U3OTQ3MzM3LC0xMjE5MDgyOTQzLC0xMTM4MjM3Mjc3LDE1MDQw
-ODExMjksLTExMTc1NjcwMTcsLTE4NDM0OTgxNzZdfQ==
+eyJoaXN0b3J5IjpbNzE1NDczMTQ1LC00NjcwNDA5MTAsLTE5NT
+c5NDczMzcsLTEyMTkwODI5NDMsLTExMzgyMzcyNzcsMTUwNDA4
+MTEyOSwtMTExNzU2NzAxNywtMTg0MzQ5ODE3Nl19
 -->
