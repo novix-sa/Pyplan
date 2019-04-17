@@ -40,9 +40,8 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 ## Operating with dataArray along Indexes
 
-### Aggregate 
-Aggregate (dataArray,mapInfo,sourceIndex,targetIndex)
-Aggregates the values in DataArray to generate the result indexed by  targetIndex.
+### Aggregate (dataArray,mapInfo,sourceIndex,targetIndex)
+Aggregates the values in dataArray from sourceIndex to targetIndex using mapInfoto generate the result indexed by  targetIndex.
         Map gives the value of targetIndex for each element of sourceIndex (If the map does not match then the element will not be set into target index and information will be lost)
 
         Example for aggregating time information into annual index the syntax is:
@@ -88,8 +87,8 @@ returns the population by continent.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1NjUwNDE1LDE0NTUwODkwOTAsMTg4Nz
-gwMTQ5OCwtNDY3MDQwOTEwLC0xOTU3OTQ3MzM3LC0xMjE5MDgy
-OTQzLC0xMTM4MjM3Mjc3LDE1MDQwODExMjksLTExMTc1NjcwMT
-csLTE4NDM0OTgxNzZdfQ==
+eyJoaXN0b3J5IjpbLTE2Mjg3OTA3NywxNDU1MDg5MDkwLDE4OD
+c4MDE0OTgsLTQ2NzA0MDkxMCwtMTk1Nzk0NzMzNywtMTIxOTA4
+Mjk0MywtMTEzODIzNzI3NywxNTA0MDgxMTI5LC0xMTE3NTY3MD
+E3LC0xODQzNDk4MTc2XX0=
 -->
