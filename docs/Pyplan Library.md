@@ -40,6 +40,16 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 ## Operating with dataArray along Indexes
 ### Aggregate
+## Aggregate(x, map,  `I`,  `J`)
+
+Aggregates the values in array «x» over index «`I`» to produce a result indexed by «`J`», a coarser grained value. For example, «`I`» and «`J`» might be days and months, or countries and continents, respectivly. Parameter «map» is indexed by «`I`». It gives the value of «`J`» for each element of «`I`». It gives a warning if any value in «map» is not in index «`J`», unless you set «`noMapError`» to True.
+
+  
+For example, suppose we want to aggregate  `Population_by_country`  indexed by  `Country`  to produce an array of populations by  `Continent`. We need a map  `Continent_by_country`  giving the name of the continent containing each (indexed by  `Country`):
+
+`Aggregate(Population_by_country, Continent_by_country, Country, Continent)`
+
+returns the population by continent.
 ### Create dataArray
 ### Find
 ### Apply
@@ -73,7 +83,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDgwNDMzLC00NjcwNDA5MTAsLTE5NT
-c5NDczMzcsLTEyMTkwODI5NDMsLTExMzgyMzcyNzcsMTUwNDA4
-MTEyOSwtMTExNzU2NzAxNywtMTg0MzQ5ODE3Nl19
+eyJoaXN0b3J5IjpbOTYyMjYzNzUsLTQ2NzA0MDkxMCwtMTk1Nz
+k0NzMzNywtMTIxOTA4Mjk0MywtMTEzODIzNzI3NywxNTA0MDgx
+MTI5LC0xMTE3NTY3MDE3LC0xODQzNDk4MTc2XX0=
 -->
