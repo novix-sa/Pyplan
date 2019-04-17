@@ -52,11 +52,13 @@ Returns a list of all the elements of the index for which dataArray is true. The
 ### DataArray from Excel
 ### Create dataArray
 ### Copy as values
+### to Dataarray
 
 ## Other Functions
 ### Excel connection
 ### Kind to String
 ### Split Text
+### Goal Seek
 
 ## Special Functions
 ### Choice
@@ -65,7 +67,7 @@ Returns a list of all the elements of the index for which dataArray is true. The
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzA0MDkxMCwtMTk1Nzk0NzMzNywtMT
-IxOTA4Mjk0MywtMTEzODIzNzI3NywxNTA0MDgxMTI5LC0xMTE3
-NTY3MDE3LC0xODQzNDk4MTc2XX0=
+eyJoaXN0b3J5IjpbMTY5OTQ0OTYwMywtNDY3MDQwOTEwLC0xOT
+U3OTQ3MzM3LC0xMjE5MDgyOTQzLC0xMTM4MjM3Mjc3LDE1MDQw
+ODExMjksLTExMTc1NjcwMTcsLTE4NDM0OTgxNzZdfQ==
 -->
