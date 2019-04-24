@@ -16,12 +16,10 @@ All native Pyplan visualization alternatives and parameters configuration are de
 It is important to highlight that it is also possible to use many other visualization libraries available in Python like for example [Bokeh](https://bokeh.pydata.org/en/latest/) or [Plotly](https://github.com/plotly/plotly.py) for rendering results.
 
 ### Interface Designer
-Visualization and user controls are grouped in interfaces for letting the user interact with your app and explore results. In this chapter it will be explained how to create, configure and share this apps. Most important: no coding will be required!
-
-then further interaction is defined how to create user interfaces for interacting with data analytics apps
+Visualization and user controls are grouped in interfaces for letting the user interact with your app and explore results. In this chapter it will be explained how to create, configure and share this apps. **Most important: no coding required!**
 
 ### Configuration
-It is explored the Pyplan architecture and how to administer users regarding security and resources.
+Pyplan It is explored the Pyplan architecture and how to administer users regarding security and resources.
 
 ## What you will NOT find in this User Guide
 You must learn Pandas, Numpy and Xarray elsewhere
@@ -33,8 +31,8 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzkzMTMzNzMsMzkwOTEzMTM0LDExOT
-U3NTU1MzMsMjA2NTUyNjk5OCwtMjYwNTY4MTU1LDEwMTg2MjI5
-NDgsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjczNDc2NDYwLC
-0xODAyMzAzNTg0XX0=
+eyJoaXN0b3J5IjpbLTg3NzkyOTAzNywzOTA5MTMxMzQsMTE5NT
+c1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMTAxODYyMjk0
+OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEyNzM0NzY0NjAsLT
+E4MDIzMDM1ODRdfQ==
 -->
