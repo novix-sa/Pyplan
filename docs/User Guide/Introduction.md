@@ -1,9 +1,6 @@
 # User Guide
-
 The following sections covers basic functionalities and features of Pyplan.
 Pyplan is always evolving so that it is probable you will find minor differences between this document and the last Pyplan version running online.
-
-Pyplan can be considered a Python Integrated Development Environment and it is strongly 
 
 ## What you will find in this User Guide
 The user guide has been structured in the following sections:
@@ -35,6 +32,6 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzAwOTg3NTgsMTM4MjU4MjkxMSwtMT
+eyJoaXN0b3J5IjpbLTIwNTI5NDc2MjEsMTM4MjU4MjkxMSwtMT
 I3MzQ3NjQ2MCwtMTgwMjMwMzU4NF19
 -->
