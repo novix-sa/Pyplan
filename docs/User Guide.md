@@ -1,4 +1,9 @@
 # User Guide
+
+ 1. item 1
+ 2. item2
+
+
 # Homepage
 # File Manager
 # Model
@@ -10,5 +15,6 @@ explicamos todas las funcionalidades que tiene la aplicación Pyplan (arrastrar 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4MTcyNjE4LDEzMTE0MjQyMF19
+eyJoaXN0b3J5IjpbMjExNjc2NjMxNiw2MzgxNzI2MTgsMTMxMT
+QyNDIwXX0=
 -->
