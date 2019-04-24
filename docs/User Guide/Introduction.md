@@ -21,6 +21,8 @@ Visualization and user controls are grouped in interfaces for letting the user i
 ### Configuration
 The enterprise version of Pyplan is installed on a server. In this section it is explored the app architecture and how to administer users regarding security and resources.
 
+### Tutorials and Examples
+In the Public folder that y
 ## What you will NOT find in this User Guide
 Pyplan can be considered a Python integrated development environment for data analytics apps. It is not the purpose of this user guide to explain how to programming in Python, neither on any of the other used libraries like Pandas, Numpy or Xarray just to name a few.
 There are plenty of introductory tutorials and courses for you to learn from.
@@ -28,15 +30,17 @@ An always good source of information will be the libraries own documentation.
 And for any challenging task you can also count with the community help gathered in sites like StackOverflow.
 
 ## Formerly Cubeplan users
-Pyplan is the software evolution of Cubeplan. The change is so radical that required a change in the name of 
+Pyplan is the software evolution of Cubeplan. The improvement were so radical that required a change in the name of the product.
+But in order to make it easy for
+
 
 Similar user interface
 Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDM3OTk5MiwzOTA5MTMxMzQsMTE5NT
-c1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMTAxODYyMjk0
-OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEyNzM0NzY0NjAsLT
-E4MDIzMDM1ODRdfQ==
+eyJoaXN0b3J5IjpbOTM3NzQ5OTQ5LDM5MDkxMzEzNCwxMTk1Nz
+U1NTMzLDIwNjU1MjY5OTgsLTI2MDU2ODE1NSwxMDE4NjIyOTQ4
+LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3MzQ3NjQ2MCwtMT
+gwMjMwMzU4NF19
 -->
