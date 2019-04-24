@@ -1,8 +1,11 @@
 # Migrating from Cubeplan
-##
+## Similarities
+## Differences
+## Functions equivalence list
+## How to do in Pylan
 
 
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3MTc4MDMxXX0=
+eyJoaXN0b3J5IjpbLTE3ODY5MjY4MTZdfQ==
 -->
