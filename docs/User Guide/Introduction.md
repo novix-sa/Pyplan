@@ -15,8 +15,8 @@ Calculation steps are contained in nodes that end with a result. These nodes can
 All native Pyplan visualization alternatives and parameters configuration are described in this section. 
 It is important to highlight that it is also possible to use many other visualization libraries available in Python like for example [Bokeh](https://bokeh.pydata.org/en/latest/) or [Plotly](https://github.com/plotly/plotly.py) for rendering results.
 
-### Interfaces
-how to create user interfaces for interacting with data analytics apps
+### Interface Designer
+Visualization and user controls areinterfaces how to create user interfaces for interacting with data analytics apps
 
 ### Configuration
 It is explored the Pyplan architecture and how to administer users regarding security and resources.
@@ -31,8 +31,8 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwOTEzMTM0LDExOTU3NTU1MzMsMjA2NT
-UyNjk5OCwtMjYwNTY4MTU1LDEwMTg2MjI5NDgsMTQxMTc3NDIw
-NiwxMzgyNTgyOTExLC0xMjczNDc2NDYwLC0xODAyMzAzNTg0XX
-0=
+eyJoaXN0b3J5IjpbLTczMjQyODU2NiwzOTA5MTMxMzQsMTE5NT
+c1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMTAxODYyMjk0
+OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEyNzM0NzY0NjAsLT
+E4MDIzMDM1ODRdfQ==
 -->
