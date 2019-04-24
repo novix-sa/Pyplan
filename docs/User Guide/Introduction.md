@@ -6,13 +6,6 @@ Pyplan is always evolving so that it is probable you will find minor differences
 Pyplan can be considered a Python Integrated Development Environment and it is strongly 
 
 ## What you will find in this User Guide
-You must learn Pandas, Numpy and Xarray elsewhere
-
-## What you will NOT find in this User Guide
-A tutorial for learning Pandas, Numpy, Xarray
-
-## Formerly Cubeplan users
-
 The user guide has been structured in the following sections:
 ### Pyplan App Homepage
 Where it is described the application main menu and sections Describes what you see after login
@@ -32,7 +25,13 @@ how to create user interfaces for interacting with data analytics apps
 ### Configuration
 It is explored the Pyplan architecture and how to administer users regarding security and resources.
 
+## What you will NOT find in this User Guide
+You must learn Pandas, Numpy and Xarray elsewhere
+A tutorial for learning Pandas, Numpy, Xarray
+
+## Formerly Cubeplan users
+The app user inter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDU5OTY2OSwxMzgyNTgyOTExLC0xMj
+eyJoaXN0b3J5IjpbMTc5Nzc3MTQ1NCwxMzgyNTgyOTExLC0xMj
 czNDc2NDYwLC0xODAyMzAzNTg0XX0=
 -->
