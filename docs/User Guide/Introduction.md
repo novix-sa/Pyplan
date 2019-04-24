@@ -5,30 +5,32 @@ Pyplan is always evolving so that it is probable you will find minor differences
 
 Pyplan can be considered a Python Integrated Development Environment and it is strongly 
 
-What you will find in this User Guide
+## What you will find in this User Guide
 You must learn Pandas, Numpy and Xarray elsewhere
 
+## What you will NOT find in this User Guide
+A tutorial for learning Pandas, Numpy, Xarray
 
 The user guide has been structured in the following sections:
-## Pyplan App Homepage
+### Pyplan App Homepage
 Where it is described the application main menu and sections Describes what you see after login
 
-## File Manager
+### File Manager
 In this section you will be working with files related to your models
 
-## Model
+### Model
 Workspace to code
 
-## Visualization
+### Visualization
 Tables and graphs options
 
-## Interfaces
+### Interfaces
 how to create user interfaces for interacting with data analytics apps
 
-## Configuration
+### Configuration
 It is explored the Pyplan architecture and how to administer users regarding security and resources.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzQ0OTY1LC0xMjczNDc2NDYwLC0xOD
-AyMzAzNTg0XX0=
+eyJoaXN0b3J5IjpbMTM4MjU4MjkxMSwtMTI3MzQ3NjQ2MCwtMT
+gwMjMwMzU4NF19
 -->
