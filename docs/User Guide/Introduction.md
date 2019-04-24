@@ -9,9 +9,9 @@ Where it is described the application main menu and tools.
 ### File Manager
 Users have their own workspace and can also access a Public workspace. The File Manager provides assistance for working with files related to our applications.
 ### Model
-Pyplan organizes Python code in nodes that are represented as a workflow (influence diagram). In this section it is explained all the tools and features created for helping creating calculation and data manipulation l
+Pyplan organizes Python code in nodes that are represented as a workflow (influence diagram). In this section it is explained all the tools and features created for helping creating calculation and data manipulation logic.
 ### Visualization
-Tables and graphs options
+Calculation step contained in a node end with a resultTables and graphs options
 
 ### Interfaces
 how to create user interfaces for interacting with data analytics apps
@@ -29,6 +29,6 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA1NzUxNDAsMTM4MjU4MjkxMSwtMT
-I3MzQ3NjQ2MCwtMTgwMjMwMzU4NF19
+eyJoaXN0b3J5IjpbMTk3NzkzNTE3NywxMzgyNTgyOTExLC0xMj
+czNDc2NDYwLC0xODAyMzAzNTg0XX0=
 -->
