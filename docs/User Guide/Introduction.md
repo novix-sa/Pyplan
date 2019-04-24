@@ -33,16 +33,10 @@ And for any challenging task you can also count with the community help gathered
 
 ## Formerly Cubeplan users
 **Pyplan** is the software evolution of **Cubeplan**. The improvement were so radical that required a change in the name of the product. But in order to make it easy for former Cubeplan users migrate to Pyplan it has been created a Library that reproduces, as similar as possible, Cubeplan functions and syntax.
-Cubeplan models can not be run in Pyplan. It is a good way to learn Python migra
-
-
-Similar user interface
-Library for smooth transition
-More speed
-Unlimited resources (link to Python libraries)
+Cubeplan models can not be run in Pyplan. It is a good way to learn Python migrate an existing Cubeplan model.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTA0NjAyLDc3MjE1MDUzNCwzOTA5MT
-MxMzQsMTE5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUs
-MTAxODYyMjk0OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEyNz
-M0NzY0NjAsLTE4MDIzMDM1ODRdfQ==
+eyJoaXN0b3J5IjpbMTM2MzY3OTg0Nyw3NzIxNTA1MzQsMzkwOT
+EzMTM0LDExOTU3NTU1MzMsMjA2NTUyNjk5OCwtMjYwNTY4MTU1
+LDEwMTg2MjI5NDgsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMj
+czNDc2NDYwLC0xODAyMzAzNTg0XX0=
 -->
