@@ -9,8 +9,7 @@ Where it is described the application main menu and tools.
 ### File Manager
 Users have their own workspace and can also access a Public workspace. The File Manager provides assistance for working with files related to our applications.
 ### Model
-Pyplan organizes Python code through an influence diagram.
-
+Pyplan organizes Python code through an influence diagram. In this section it is explained all the tools and features created for helping creating data analytics apps.
 ### Visualization
 Tables and graphs options
 
@@ -30,6 +29,6 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjcyNjI3NywxMzgyNTgyOTExLC0xMj
+eyJoaXN0b3J5IjpbMTg3NjQzMDI2OCwxMzgyNTgyOTExLC0xMj
 czNDc2NDYwLC0xODAyMzAzNTg0XX0=
 -->
