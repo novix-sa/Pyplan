@@ -19,9 +19,10 @@ It is important to highlight that it is also possible to use many other visualiz
 Visualization and user controls are grouped in interfaces for letting the user interact with your app and explore results. In this chapter it will be explained how to create, configure and share this apps. **Most important: no coding required!**
 
 ### Configuration
-The enterprise version of Pyplan is installed on a server. In this section it is It is explored the Pyplan architecture and how to administer users regarding security and resources.
+The enterprise version of Pyplan is installed on a server. In this section it is explored the app architecture and how to administer users regarding security and resources.
 
 ## What you will NOT find in this User Guide
+
 You must learn Pandas, Numpy and Xarray elsewhere
 A tutorial for learning Pandas, Numpy, Xarray
 
@@ -31,8 +32,8 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjExODY3MjIsMzkwOTEzMTM0LDExOT
-U3NTU1MzMsMjA2NTUyNjk5OCwtMjYwNTY4MTU1LDEwMTg2MjI5
-NDgsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjczNDc2NDYwLC
-0xODAyMzAzNTg0XX0=
+eyJoaXN0b3J5IjpbMzk4Njg2NjcyLDM5MDkxMzEzNCwxMTk1Nz
+U1NTMzLDIwNjU1MjY5OTgsLTI2MDU2ODE1NSwxMDE4NjIyOTQ4
+LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3MzQ3NjQ2MCwtMT
+gwMjMwMzU4NF19
 -->
