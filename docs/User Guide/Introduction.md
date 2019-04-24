@@ -9,9 +9,9 @@ Where it is described the application main menu and tools.
 ### File Manager
 Users have their own workspace and can also access a Public workspace. The File Manager provides assistance for working with files related to your applications.
 ### Model
-Pyplan organizes Python code in nodes that are represented as a workflow (an influence diagram). In this section it is explained all the tools and features created for helping creating calculation and data manipulation logic.
+Pyplan organizes Python code in nodes that are represented as a workflow (influence diagram). In this section it is explained all the tools and features created for helping creating calculation and data manipulation logic.
 ### Visualization
-Calculation steps are contained in nodes that ends evaluating  with a result. These nodes can be evaluated and its result displayed as tables, graphs or maps.
+Calculation steps are contained in nodes that end with a result. These nodes can be evaluated and its result displayed as table, graph or map.
 All native Pyplan visualization alternatives and parameters configuration are described in this section. 
 It is important to highlight that it is also possible to use many other visualization libraries available in Python like for example Bokeh or Plotly.
 
@@ -31,7 +31,7 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTk2MTYzNiwtMjYwNTY4MTU1LDEwMT
-g2MjI5NDgsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjczNDc2
-NDYwLC0xODAyMzAzNTg0XX0=
+eyJoaXN0b3J5IjpbLTIxNDI0NDc2OTcsLTI2MDU2ODE1NSwxMD
+E4NjIyOTQ4LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3MzQ3
+NjQ2MCwtMTgwMjMwMzU4NF19
 -->
