@@ -24,8 +24,8 @@ The enterprise version of Pyplan is installed on a server. In this section it is
 ## What you will NOT find in this User Guide
 Pyplan can be considered a Python integrated development environment for data analytics apps. It is not the purpose of this user guide to explain how to programming in Python, neither on any of the other used libraries like Pandas, Numpy or Xarray just to name a few.
 There are plenty of introductory tutorials and courses for you to learn from.
-An always good source of information will be the lib
-A tutorial for learning Pandas, Numpy, Xarray
+An always good source of information will be the libraries own documentation.
+And for any challenging task you can also count with the community help gathered in sites like StackOverflow.
 
 ## Formerly Cubeplan users
 Similar user interface
@@ -33,8 +33,8 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5ODI2NTI0LDM5MDkxMzEzNCwxMTk1Nz
-U1NTMzLDIwNjU1MjY5OTgsLTI2MDU2ODE1NSwxMDE4NjIyOTQ4
-LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3MzQ3NjQ2MCwtMT
-gwMjMwMzU4NF19
+eyJoaXN0b3J5IjpbMTI5MTA2MTA2NiwzOTA5MTMxMzQsMTE5NT
+c1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMTAxODYyMjk0
+OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEyNzM0NzY0NjAsLT
+E4MDIzMDM1ODRdfQ==
 -->
