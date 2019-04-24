@@ -13,7 +13,7 @@ Pyplan organizes Python code in nodes that are represented as a workflow (influe
 ### Visualization
 Calculation steps are contained in nodes that end with a result. These nodes can be evaluated and its result displayed as table, graph or map.
 All native Pyplan visualization alternatives and parameters configuration are described in this section. 
-It is important to highlight that it is also possible to use many other visualization libraries available in Python like for example Bokeh or Plotly.
+It is important to highlight that it is also possible to use many other visualization libraries available in Python like for example Bokeh or Plotly for rendering results
 
 ### Interfaces
 how to create user interfaces for interacting with data analytics apps
@@ -31,7 +31,7 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI0NDc2OTcsLTI2MDU2ODE1NSwxMD
-E4NjIyOTQ4LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3MzQ3
-NjQ2MCwtMTgwMjMwMzU4NF19
+eyJoaXN0b3J5IjpbMjA2NTUyNjk5OCwtMjYwNTY4MTU1LDEwMT
+g2MjI5NDgsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjczNDc2
+NDYwLC0xODAyMzAzNTg0XX0=
 -->
