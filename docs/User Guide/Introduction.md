@@ -22,7 +22,7 @@ Visualization and user controls are grouped in interfaces for letting the user i
 The enterprise version of Pyplan is installed on a server. In this section it is explored the app architecture and how to administer users regarding security and resources.
 
 ## What you will NOT find in this User Guide
-
+Pyplan can be considered a Python integrated development environment for data analytics apps. It is not the purpose of this user guide to explain how to programming in Python, neither on any of the other used libraries li
 You must learn Pandas, Numpy and Xarray elsewhere
 A tutorial for learning Pandas, Numpy, Xarray
 
@@ -32,8 +32,8 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4Njg2NjcyLDM5MDkxMzEzNCwxMTk1Nz
-U1NTMzLDIwNjU1MjY5OTgsLTI2MDU2ODE1NSwxMDE4NjIyOTQ4
-LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3MzQ3NjQ2MCwtMT
-gwMjMwMzU4NF19
+eyJoaXN0b3J5IjpbLTQ4OTkwOTAzOSwzOTA5MTMxMzQsMTE5NT
+c1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMTAxODYyMjk0
+OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEyNzM0NzY0NjAsLT
+E4MDIzMDM1ODRdfQ==
 -->
