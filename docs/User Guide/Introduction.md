@@ -12,7 +12,7 @@ Users have their own workspace and can also access a Public workspace. The File 
 Pyplan organizes Python code in nodes that are represented as a workflow (influence diagram). In this section it is explained all the tools and features created for helping creating calculation and data manipulation logic.
 ### Visualization
 Calculation steps are contained in nodes that end with a result. These nodes can be evaluated and its result displayed as tables, graphs or maps.
-All native Pyplan visualization alternatives are described in this section. It is important to highlight 
+All native Pyplan visualization alternatives are described in this section. It is important to highlight that it also possible to use many other visualization libraries available in Python like Bokeh, 
 
 ### Interfaces
 how to create user interfaces for interacting with data analytics apps
@@ -30,6 +30,6 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzODg1MDQsMTQxMTc3NDIwNiwxMzgyNT
-gyOTExLC0xMjczNDc2NDYwLC0xODAyMzAzNTg0XX0=
+eyJoaXN0b3J5IjpbMTAxODYyMjk0OCwxNDExNzc0MjA2LDEzOD
+I1ODI5MTEsLTEyNzM0NzY0NjAsLTE4MDIzMDM1ODRdfQ==
 -->
