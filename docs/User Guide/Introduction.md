@@ -4,17 +4,17 @@
  2. item2
 
 
-# Homepage
-## primera seccion
-### tercer nivel
-# File Manager
-# Model
-# Execution
-# Visualization
-# Interfaces
+## Homepage
+### primera seccion
+#### tercer nivel
+## File Manager
+## Model
+## Execution
+## Visualization
+## Interfaces
 
 explicamos todas las funcionalidades que tiene la aplicación Pyplan (arrastrar nodos, evaluar, consola, interfaces)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzY3OTYyNF19
+eyJoaXN0b3J5IjpbLTE4MDIzMDM1ODRdfQ==
 -->
