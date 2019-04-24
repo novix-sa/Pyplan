@@ -18,9 +18,13 @@ Tables and graphs options
 ## Interfaces
 how to create user interfaces for interacting with data analytics apps
 
+## Configuration
+### Architecture
+
+
 explicamos todas las funcionalidades que tiene la aplicación Pyplan (arrastrar nodos, evaluar, consola, interfaces)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyMDQxMDI3LC0xMjczNDc2NDYwLC0xOD
-AyMzAzNTg0XX0=
+eyJoaXN0b3J5IjpbLTIwNzIyMDk3MTEsLTEyNzM0NzY0NjAsLT
+E4MDIzMDM1ODRdfQ==
 -->
