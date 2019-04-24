@@ -23,7 +23,8 @@ The enterprise version of Pyplan is installed on a server. In this section it is
 
 ### Tutorials and Examples
 In the Public folder that you can access through the File Manager, you will find tutorials that will explain **"How to"** do many things.
-The Examples are intended to demon
+The Examples are intended to demonstrate what is possible to do. It is up to you to go through its code to understand how to adapt or reuse any piece of code in your own project.
+
 ## What you will NOT find in this User Guide
 Pyplan can be considered a Python integrated development environment for data analytics apps. It is not the purpose of this user guide to explain how to programming in Python, neither on any of the other used libraries like Pandas, Numpy or Xarray just to name a few.
 There are plenty of introductory tutorials and courses for you to learn from.
@@ -40,7 +41,7 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYxODM2MTAsMzkwOTEzMTM0LDExOT
+eyJoaXN0b3J5IjpbLTE3MDgyNzk0MjksMzkwOTEzMTM0LDExOT
 U3NTU1MzMsMjA2NTUyNjk5OCwtMjYwNTY4MTU1LDEwMTg2MjI5
 NDgsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjczNDc2NDYwLC
 0xODAyMzAzNTg0XX0=
