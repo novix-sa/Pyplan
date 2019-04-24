@@ -10,19 +10,13 @@ The user guide has been structured as the
 
 
 ## Visualization
-### Tables
-#### Regular Tables
-#### Pivot Tables
-### Graphs
-describe configuration parameters
-### Pandas
-### Numpy
-### Xarray
+
+
 ## Interfaces
-### Results
+
 
 explicamos todas las funcionalidades que tiene la aplicación Pyplan (arrastrar nodos, evaluar, consola, interfaces)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTEzMTQ1NCwtMTgwMjMwMzU4NF19
+eyJoaXN0b3J5IjpbNzU4NDE3OTA2LC0xODAyMzAzNTg0XX0=
 -->
