@@ -11,6 +11,8 @@ You must learn Pandas, Numpy and Xarray elsewhere
 ## What you will NOT find in this User Guide
 A tutorial for learning Pandas, Numpy, Xarray
 
+## Formerly Cubeplan users
+
 The user guide has been structured in the following sections:
 ### Pyplan App Homepage
 Where it is described the application main menu and sections Describes what you see after login
@@ -31,6 +33,6 @@ how to create user interfaces for interacting with data analytics apps
 It is explored the Pyplan architecture and how to administer users regarding security and resources.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjU4MjkxMSwtMTI3MzQ3NjQ2MCwtMT
-gwMjMwMzU4NF19
+eyJoaXN0b3J5IjpbLTcyMDU5OTY2OSwxMzgyNTgyOTExLC0xMj
+czNDc2NDYwLC0xODAyMzAzNTg0XX0=
 -->
