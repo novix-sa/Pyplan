@@ -7,7 +7,8 @@ The user guide has been structured in the following sections:
 ### Pyplan App Homepage
 Where it is described the application main menu and tools.
 ### File Manager
-In this section you will be working with files related to your models
+Users have their own workspace and can 
+In this section it is explained how you will be working with files related to your models
 
 ### Model
 Workspace to code
@@ -31,6 +32,6 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2MjM4MTM4LDEzODI1ODI5MTEsLTEyNz
-M0NzY0NjAsLTE4MDIzMDM1ODRdfQ==
+eyJoaXN0b3J5IjpbMTI0NTY4MDcwOSwxMzgyNTgyOTExLC0xMj
+czNDc2NDYwLC0xODAyMzAzNTg0XX0=
 -->
