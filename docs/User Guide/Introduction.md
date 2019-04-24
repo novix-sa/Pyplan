@@ -1,12 +1,11 @@
 # User Guide
 The following sections covers basic functionalities and features of Pyplan.
-Pyplan is always evolving so that it is probable you will find minor differences between this document and the last Pyplan version running online.
+Pyplan is in permanent evolution so that it is probable you will find minor differences between this document and the last Pyplan version running online.
 
 ## What you will find in this User Guide
 The user guide has been structured in the following sections:
 ### Pyplan App Homepage
-Where it is described the application main menu and sections Describes what you see after login
-
+Where it is described the application main menu and tools.
 ### File Manager
 In this section you will be working with files related to your models
 
@@ -32,6 +31,6 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI5NDc2MjEsMTM4MjU4MjkxMSwtMT
-I3MzQ3NjQ2MCwtMTgwMjMwMzU4NF19
+eyJoaXN0b3J5IjpbODY2MjM4MTM4LDEzODI1ODI5MTEsLTEyNz
+M0NzY0NjAsLTE4MDIzMDM1ODRdfQ==
 -->
