@@ -13,14 +13,14 @@ In this section you will be working with files related to your models
 Workspace to code
 
 ## Visualization
-
+Tables and graphs options
 
 ## Interfaces
-
+how to create user interfaces for interacting 
 
 explicamos todas las funcionalidades que tiene la aplicación Pyplan (arrastrar nodos, evaluar, consola, interfaces)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDIxNDc2OCwtMTI3MzQ3NjQ2MCwtMT
+eyJoaXN0b3J5IjpbMTg0NTA2MDU4OCwtMTI3MzQ3NjQ2MCwtMT
 gwMjMwMzU4NF19
 -->
