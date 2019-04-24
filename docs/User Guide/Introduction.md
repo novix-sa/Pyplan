@@ -7,8 +7,8 @@ The user guide has been structured as the
 #### tercer nivel
 ## File Manager
 ## Model
-### Execution
-### Pyplan approach to Xarray
+
+
 ## Visualization
 ### Tables
 #### Regular Tables
@@ -24,5 +24,5 @@ describe configuration parameters
 explicamos todas las funcionalidades que tiene la aplicación Pyplan (arrastrar nodos, evaluar, consola, interfaces)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDgwMzI5NCwtMTgwMjMwMzU4NF19
+eyJoaXN0b3J5IjpbMTY1MTEzMTQ1NCwtMTgwMjMwMzU4NF19
 -->
