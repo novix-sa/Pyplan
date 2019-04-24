@@ -10,6 +10,11 @@ The user guide has been structured as the
 ### Execution
 ### Pyplan approach to Xarray
 ## Visualization
+### Tables
+#### Regular Tables
+#### Pivot Tables
+### Graphs
+describe configuration parameters
 ### Pandas
 ### Numpy
 ### Xarray
@@ -19,6 +24,5 @@ The user guide has been structured as the
 explicamos todas las funcionalidades que tiene la aplicación Pyplan (arrastrar nodos, evaluar, consola, interfaces)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzY5NzAyMzcsLTE4MDIzMDM1ODRdfQ
-==
+eyJoaXN0b3J5IjpbMTU2MDgwMzI5NCwtMTgwMjMwMzU4NF19
 -->
