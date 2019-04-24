@@ -33,8 +33,8 @@ A tutorial for learning Pandas, Numpy, Xarray
 Similar user interface
 Library for smooth transition
 More speed
-Unlimited resources (
+Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU5NTg5MDcsMTM4MjU4MjkxMSwtMT
+eyJoaXN0b3J5IjpbLTEyNzAwOTg3NTgsMTM4MjU4MjkxMSwtMT
 I3MzQ3NjQ2MCwtMTgwMjMwMzU4NF19
 -->
