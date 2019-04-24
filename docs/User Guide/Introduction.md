@@ -3,7 +3,9 @@
 The following sections covers basic functionalities and features of Pyplan.
 Pyplan is always evolving so that it is probable you will find minor differences between this document and the last Pyplan version running online.
 
-Pyplan can be considered a Python Integrated Development Environment
+Pyplan can be considered a Python Integrated Development Environment and it is strongly 
+
+What you will find in this User Guide
 You must learn Pandas, Numpy and Xarray elsewhere
 
 
@@ -27,6 +29,6 @@ how to create user interfaces for interacting with data analytics apps
 It is explored the Pyplan architecture and how to administer users regarding security and resources.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyNDU3NDksLTEyNzM0NzY0NjAsLTE4MD
-IzMDM1ODRdfQ==
+eyJoaXN0b3J5IjpbMjA4NzQ0OTY1LC0xMjczNDc2NDYwLC0xOD
+AyMzAzNTg0XX0=
 -->
