@@ -7,7 +7,8 @@ The user guide has been structured as the
 Describes what you see after login
 
 ## File Manager
-In this section you will be ab
+In this section you will be working with the datafiles related to your models
+
 ## Model
 
 
@@ -20,5 +21,6 @@ In this section you will be ab
 explicamos todas las funcionalidades que tiene la aplicación Pyplan (arrastrar nodos, evaluar, consola, interfaces)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5ODM2MDc5LC0xODAyMzAzNTg0XX0=
+eyJoaXN0b3J5IjpbLTEyNzM0NzY0NjAsLTE4MDIzMDM1ODRdfQ
+==
 -->
