@@ -8,11 +8,17 @@ The user guide has been structured as the
 ## File Manager
 ## Model
 ### Execution
+### Pyplan approach to Xarray
 ## Visualization
+### Pandas
+### Numpy
+### Xarray
 ## Interfaces
+### Results
 
 explicamos todas las funcionalidades que tiene la aplicación Pyplan (arrastrar nodos, evaluar, consola, interfaces)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjEyNDQ1MywtMTgwMjMwMzU4NF19
+eyJoaXN0b3J5IjpbLTE3NzY5NzAyMzcsLTE4MDIzMDM1ODRdfQ
+==
 -->
