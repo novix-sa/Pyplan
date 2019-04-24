@@ -28,12 +28,14 @@ An always good source of information will be the libraries own documentation.
 And for any challenging task you can also count with the community help gathered in sites like StackOverflow.
 
 ## Formerly Cubeplan users
+Pyplan is the software evolution of Cubeplan. The change is so radical that required a change in the name of 
+
 Similar user interface
 Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTA2MTA2NiwzOTA5MTMxMzQsMTE5NT
+eyJoaXN0b3J5IjpbMTk2NDM3OTk5MiwzOTA5MTMxMzQsMTE5NT
 c1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMTAxODYyMjk0
 OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEyNzM0NzY0NjAsLT
 E4MDIzMDM1ODRdfQ==
