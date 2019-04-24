@@ -30,8 +30,11 @@ You must learn Pandas, Numpy and Xarray elsewhere
 A tutorial for learning Pandas, Numpy, Xarray
 
 ## Formerly Cubeplan users
-The app user inter
+Similar user interface
+Library for smooth transition
+More speed
+Unlimited resources (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Nzc3MTQ1NCwxMzgyNTgyOTExLC0xMj
-czNDc2NDYwLC0xODAyMzAzNTg0XX0=
+eyJoaXN0b3J5IjpbLTEyMjU5NTg5MDcsMTM4MjU4MjkxMSwtMT
+I3MzQ3NjQ2MCwtMTgwMjMwMzU4NF19
 -->
