@@ -7,7 +7,7 @@ The user guide has been structured in the following sections:
 ### Pyplan App Homepage
 Where it is described the application main menu and tools.
 ### File Manager
-Users have their own workspace and can also access a Public workspace. The File Manager provides assistance for working with files related to our applications.
+Users have their own workspace and can also access a Public workspace. The File Manager provides assistance for working with files related to your applications.
 ### Model
 Pyplan organizes Python code in nodes that are represented as a workflow (influence diagram). In this section it is explained all the tools and features created for helping creating calculation and data manipulation logic.
 ### Visualization
@@ -31,7 +31,7 @@ Library for smooth transition
 More speed
 Unlimited resources (link to Python libraries)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDU2ODE1NSwxMDE4NjIyOTQ4LDE0MT
-E3NzQyMDYsMTM4MjU4MjkxMSwtMTI3MzQ3NjQ2MCwtMTgwMjMw
-MzU4NF19
+eyJoaXN0b3J5IjpbMTYzMTMyMjI1NiwtMjYwNTY4MTU1LDEwMT
+g2MjI5NDgsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjczNDc2
+NDYwLC0xODAyMzAzNTg0XX0=
 -->
