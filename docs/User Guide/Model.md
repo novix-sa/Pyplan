@@ -4,8 +4,9 @@
 ## Dynamic simulation
 ## Using Python libraries
 
-dsfasd
 
+<img src="image.jpg" width="50%" height="50%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDQwNzc1MCwtMTQ0NjM3MTg5N119
+eyJoaXN0b3J5IjpbLTEwNzEyNzE3OTcsLTE0NDYzNzE4OTddfQ
+==
 -->
