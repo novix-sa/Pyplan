@@ -76,18 +76,18 @@ In order to explore the evaluation and visualization alternatives, let's copy on
 
 Now open the copied file and then go to the model (Click “Open Model,” or the Model icon on the left.) You should be able to see the following diagram:
 ![enter image description here](http://img.pyplan.org/Quick_start_mfa_model_.png)
-Now you can inspect any node values by selecting and evaluating them. There are three alternatives for evaluating a node: The first one is by clicking on the  **"Run"** button that you will find in the “Code” tab after selecting a node. The same result can be obtained by  pressing **<Ctrl + Return>** when editing the code. This will show/update the console output resulting from the evaluation of the node.
+Now you can inspect any node values by selecting and evaluating them. There are three alternatives for evaluating a node: The first one is by clicking on the  **"Run"** button that you will find in the “Code” tab after selecting a node. The same result can be obtained by  pressing <kbd>Ctrl + return</kbd> when editing the code. This will show/update the console output resulting from the evaluation of the node.
 
 ![enter image description here](http://img.pyplan.org/Quick_start_eval1.png)
 Try adding `Print('Hello World')`in the first line before the result definition.[L1] Run the node and check the console output. You will find this Printing functionality useful for inspecting intermediate values in your calculations.
 
-The second alternative is pressing **<Ctrl + E>** after selecting the node. In this case, a more complete window opens showing this:
+The second alternative is pressing <kbd>Ctrl+E</kbd> after selecting the node. In this case, a more complete window opens showing this:
 
 ![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E.png)
 Performance profiling information can be displayed by clicking on **"Show Profile"**
 
 ![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E+ShowProfile.png)
-The third way to run a node is by  **double clicking** it or  pressing **<Ctrl + R>**. Any node is initially evaluated as a table, until the user customizes its visualization. There is a customization group that can be rapidly set by clicking on the configuration icon next to the node title:
+The third way to run a node is by  **double clicking** it or  pressing <kbd>Ctrl+R</kbd>. Any node is initially evaluated as a table, until the user customizes its visualization. There is a customization group that can be rapidly set by clicking on the configuration icon next to the node title:
 
 ![enter image description here](http://img.pyplan.org/Quick_start_configuration_wheel.png)
 
@@ -140,11 +140,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTkwODA3NCwtMTgzMzQzNTM1MSw2Mj
-kzODIyNTcsMTMzMDE3NTQ3MywtMzk2MDEwNTIxLC0xOTIxOTU5
-ODMyLDE0MzA1NDk1MzEsOTIyNzU2NDI1LDIwODQ1NjA1NTIsMT
-U0NTExMjkyNywyOTQ5NDExNDgsLTQyMTg1NjE4MiwtMTAwNjk1
-MTcwNywxNDAyODExNjI3LDEyMzg3MzE3MDMsLTY3NTAxMzQ4OC
-w4MjM3OTgxMTgsMTA1ODgwNDg5Myw2Nzk4OTg1MjgsLTIwNjIy
-NTc4NzRdfQ==
+eyJoaXN0b3J5IjpbLTE1OTc0ODgzODEsLTE4MzM0MzUzNTEsNj
+I5MzgyMjU3LDEzMzAxNzU0NzMsLTM5NjAxMDUyMSwtMTkyMTk1
+OTgzMiwxNDMwNTQ5NTMxLDkyMjc1NjQyNSwyMDg0NTYwNTUyLD
+E1NDUxMTI5MjcsMjk0OTQxMTQ4LC00MjE4NTYxODIsLTEwMDY5
+NTE3MDcsMTQwMjgxMTYyNywxMjM4NzMxNzAzLC02NzUwMTM0OD
+gsODIzNzk4MTE4LDEwNTg4MDQ4OTMsNjc5ODk4NTI4LC0yMDYy
+MjU3ODc0XX0=
 -->
