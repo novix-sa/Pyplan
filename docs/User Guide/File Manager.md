@@ -12,14 +12,14 @@ You can only read and run the models from Public workspace, or copy any model to
 ## Uploading
 Files can be uploaded through drag-and-drop user interface.
 ![enter image description here](http://img.pyplan.org/FileManager-upload.gif)
-S
+When the uploaded file match with an existing file, the new uploaded file p
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MTY4OTA0LDE3NDk4NDcyNTMsLTE1Mj
-A2NzI5MDEsNzY4MTYzNDY2LC02MDc1MjQ5NjQsNTY2NTc5NjY2
-LC0yMTE1MDg2NTAyLDE0NTMwMTQyODIsLTYyMDg2MjMzNywtMT
-U4NTU2MDAwNiwxNDA1MTkzMTQ4LDE0NDI0MDk4NjEsODIyNDM1
-NTQ0LDIwNzIyOTQyOTEsLTI4Nzk5MjIyNCwxNzQzMTgxNzA3LC
-0xMjIxODU5ODAzLDQ2MDk5OTgyOCwtMjkzMDI1MzE2LDE3NDUy
-MzI1NThdfQ==
+eyJoaXN0b3J5IjpbLTE3OTEzMDg1OCwxNzQ5ODQ3MjUzLC0xNT
+IwNjcyOTAxLDc2ODE2MzQ2NiwtNjA3NTI0OTY0LDU2NjU3OTY2
+NiwtMjExNTA4NjUwMiwxNDUzMDE0MjgyLC02MjA4NjIzMzcsLT
+E1ODU1NjAwMDYsMTQwNTE5MzE0OCwxNDQyNDA5ODYxLDgyMjQz
+NTU0NCwyMDcyMjk0MjkxLC0yODc5OTIyMjQsMTc0MzE4MTcwNy
+wtMTIyMTg1OTgwMyw0NjA5OTk4MjgsLTI5MzAyNTMxNiwxNzQ1
+MjMyNTU4XX0=
 -->
