@@ -43,7 +43,7 @@ Paste your Python code on the left side of the “Code” tab. The console outpu
 
 ![Coding and running](http://img.pyplan.org/Quick_start_evaluation.png)
 
-While the node is selected , if you press <Ctrl + R> or double click it, the result will be shown, which is 9 in this case. You can appreciate the difference between the console output and the node result. An alternative way to evaluate a node is by pressing < Ctrl + E >. In this case, not only the console and result output will be displayed, but also additional information (as data type) will be shown. It is also possible to inspect the calculation performance by clicking on **Show Profile** which allows you to fine-tune your code.
+While the node is selected , if you press <kbd>Ctrl+R</kbd> or double click it, the result will be shown, which is 9 in this case. You can appreciate the difference between the console output and the node result. An alternative way to evaluate a node is by pressing <kbd>Ctrl+E</kbd>. In this case, not only the console and result output will be displayed, but also additional information (as data type) will be shown. It is also possible to inspect the calculation performance by clicking on **Show Profile** which allows you to fine-tune your code.
 
 ![Node Inspector](http://img.pyplan.org/Quick_start_inspector.png)
 
@@ -52,7 +52,7 @@ Create another node, draging and dropping a node called "CSV" that you will find
 Then set its definition as:
 
     result = pd.read_csv('http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv', sep=None)
-You can inspect again the difference between the console output vs the node evaluation (Ctrl + R or double click). While the console output is pure text, Pyplan shows the result in a formatted table.
+You can inspect again the difference between the console output vs the node evaluation (<kbd>Ctrl+R</kbd> or double click). While the console output is pure text, Pyplan shows the result in a formatted table.
 ![Pandas Table](http://img.pyplan.org/Quick_start_first_table.png)
 
 If you inspect the “Code” tab of the node, you will find new buttons next to the “Run” button . These buttons are displayed whenever a node evaluates a Dataframe/Pandas object type. The buttons provide a link to  [Pandas](https://pandas.pydata.org/) wizards to help Python beginners start learning how to use Pandas. Wizards allow you to select and filter data or create new calculation fields. The resulting code will be displayed on the left-hand code section for you to pick up from there.
@@ -140,11 +140,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzM0MzUzNTEsNjI5MzgyMjU3LDEzMz
-AxNzU0NzMsLTM5NjAxMDUyMSwtMTkyMTk1OTgzMiwxNDMwNTQ5
-NTMxLDkyMjc1NjQyNSwyMDg0NTYwNTUyLDE1NDUxMTI5MjcsMj
-k0OTQxMTQ4LC00MjE4NTYxODIsLTEwMDY5NTE3MDcsMTQwMjgx
-MTYyNywxMjM4NzMxNzAzLC02NzUwMTM0ODgsODIzNzk4MTE4LD
-EwNTg4MDQ4OTMsNjc5ODk4NTI4LC0yMDYyMjU3ODc0LDU2Nzc4
-ODg1NF19
+eyJoaXN0b3J5IjpbMjAxNTkwODA3NCwtMTgzMzQzNTM1MSw2Mj
+kzODIyNTcsMTMzMDE3NTQ3MywtMzk2MDEwNTIxLC0xOTIxOTU5
+ODMyLDE0MzA1NDk1MzEsOTIyNzU2NDI1LDIwODQ1NjA1NTIsMT
+U0NTExMjkyNywyOTQ5NDExNDgsLTQyMTg1NjE4MiwtMTAwNjk1
+MTcwNywxNDAyODExNjI3LDEyMzg3MzE3MDMsLTY3NTAxMzQ4OC
+w4MjM3OTgxMTgsMTA1ODgwNDg5Myw2Nzk4OTg1MjgsLTIwNjIy
+NTc4NzRdfQ==
 -->
