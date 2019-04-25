@@ -1,5 +1,5 @@
 # **User Guide**
--------------
+
 The following sections covers basic functionalities and features of Pyplan.
 Pyplan is in permanent evolution so that it is probable you will find minor differences between this document and the last Pyplan version running online.
 
@@ -39,7 +39,7 @@ And for any challenging task you can also count with the community help gathered
 **Pyplan** is the software evolution of **Cubeplan**. The improvement were so radical that required a change in the name of the product. But in order to make it easy for former Cubeplan users migrate to Pyplan it has been created a Library that reproduces, as similar as possible, Cubeplan functions and syntax.
 Cubeplan models can not be run in Pyplan. It is a good way to learn Python migrate an existing Cubeplan model.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzUzMzEyNywxMDQ5Njk3NzY3LDc3Mj
+eyJoaXN0b3J5IjpbLTkzOTUyNTk1MCwxMDQ5Njk3NzY3LDc3Mj
 E1MDUzNCwzOTA5MTMxMzQsMTE5NTc1NTUzMywyMDY1NTI2OTk4
 LC0yNjA1NjgxNTUsMTAxODYyMjk0OCwxNDExNzc0MjA2LDEzOD
 I1ODI5MTEsLTEyNzM0NzY0NjAsLTE4MDIzMDM1ODRdfQ==
