@@ -7,10 +7,10 @@
 
 <img src="image.jpg" width="50%" height="50%" />
 <i class="icon-file"></i>
-<i class="far fa-folder-open"></i>
+<i class="fa fa-folder-open"></i>
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY4ODU0MjIsLTQwOTI2MzYyMSwtMT
-Q0NjM3MTg5N119
+eyJoaXN0b3J5IjpbNjMwMjQxODQ0LC0xNDA2ODg1NDIyLC00MD
+kyNjM2MjEsLTE0NDYzNzE4OTddfQ==
 -->
