@@ -1,6 +1,13 @@
 # File Manager
 Clicking on the folder icon found at the left menu you will access the file manager.
-![](http://img.pyplan.org/FileManger-Open_small.png)The file manager has two panes. The left one works as a navigation tool. You can navigate through the folders hierarchy opening or closing folders by clicking the + icon or double clicking on the folder.
+![](http://img.pyplan.org/FileManger-Open_small.png)
+
+<img src="http://img.pyplan.org/FileManger-Open_small.png" width="50%" height="50%" />
+
+    http://img.pyplan.org/FileManger-Open_small.png
+
+
+The file manager has two panes. The left one works as a navigation tool. You can navigate through the folders hierarchy opening or closing folders by clicking the + icon or double clicking on the folder.
 The right pane is where you select files for operating with them (deleting, renaming, etc).
 ![enter image description here](http://img.pyplan.org/FileManager-home.png)
 As can be seen there are two workspaces, the Public one were you will find the examples and tutorials, and your own workspace "My workspace" where you will be able to create your own applications.
@@ -9,7 +16,7 @@ You can only read and run the models from Public workspace, or copy any model to
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMjkwNjMsODIyNDM1NTQ0LDIwNzIyOT
-QyOTEsLTI4Nzk5MjIyNCwxNzQzMTgxNzA3LC0xMjIxODU5ODAz
-LDQ2MDk5OTgyOCwtMjkzMDI1MzE2LDE3NDUyMzI1NThdfQ==
+eyJoaXN0b3J5IjpbNDU3NzI1MzU3LDgyMjQzNTU0NCwyMDcyMj
+k0MjkxLC0yODc5OTIyMjQsMTc0MzE4MTcwNywtMTIyMTg1OTgw
+Myw0NjA5OTk4MjgsLTI5MzAyNTMxNiwxNzQ1MjMyNTU4XX0=
 -->
