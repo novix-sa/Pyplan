@@ -4,7 +4,7 @@ Clicking on the folder icon found at the left menu you will access the file mana
 
 <p><img alt="Image" title="icon coco" src="http://img.pyplan.org/FileManger-Open_small.png" width="50%" height="50%"/></p>
 
-<img alt="Image" title="icon 2" src="http://img.pyplan.org/FileManger-Open_small.png" width="400" />
+<img alt="Image" title="icon 2" src="http://img.pyplan.org/FileManger-Open_small.png" width="600" />
 
 The file manager has two panes. The left one works as a navigation tool. You can navigate through the folders hierarchy opening or closing folders by clicking the + icon or double clicking on the folder.
 The right pane is where you select files for operating with them (deleting, renaming, etc).
@@ -15,8 +15,8 @@ You can only read and run the models from Public workspace, or copy any model to
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU1NjAwMDYsMTQwNTE5MzE0OCwxND
-QyNDA5ODYxLDgyMjQzNTU0NCwyMDcyMjk0MjkxLC0yODc5OTIy
-MjQsMTc0MzE4MTcwNywtMTIyMTg1OTgwMyw0NjA5OTk4MjgsLT
-I5MzAyNTMxNiwxNzQ1MjMyNTU4XX0=
+eyJoaXN0b3J5IjpbNTE4MzA1OTgwLC0xNTg1NTYwMDA2LDE0MD
+UxOTMxNDgsMTQ0MjQwOTg2MSw4MjI0MzU1NDQsMjA3MjI5NDI5
+MSwtMjg3OTkyMjI0LDE3NDMxODE3MDcsLTEyMjE4NTk4MDMsND
+YwOTk5ODI4LC0yOTMwMjUzMTYsMTc0NTIzMjU1OF19
 -->
