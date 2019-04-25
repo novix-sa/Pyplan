@@ -1,7 +1,7 @@
 site_name: Pyplan
 site_description: 'Pyplan Docs'
-site_author: 'Novix'
-copyright: 'Copyright &copy; 2018 - Novix'
+site_author: 'Pyplan'
+copyright: 'Copyright &copy; 2019 - Pyplan'
 
 theme:
   name: null
