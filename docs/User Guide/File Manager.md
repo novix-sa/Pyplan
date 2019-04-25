@@ -9,9 +9,10 @@ As can be seen there are two workspaces, the Public one were you will find the e
 You can only read and run the models from Public workspace, or copy any model to your own workspace to edit:
 ![enter image description here](http://img.pyplan.org/FileManager-CopyIn.png)
 
+## Uploading
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTExOTI3OSw1NjY1Nzk2NjYsLTIxMT
+eyJoaXN0b3J5IjpbLTYwNzUyNDk2NCw1NjY1Nzk2NjYsLTIxMT
 UwODY1MDIsMTQ1MzAxNDI4MiwtNjIwODYyMzM3LC0xNTg1NTYw
 MDA2LDE0MDUxOTMxNDgsMTQ0MjQwOTg2MSw4MjI0MzU1NDQsMj
 A3MjI5NDI5MSwtMjg3OTkyMjI0LDE3NDMxODE3MDcsLTEyMjE4
