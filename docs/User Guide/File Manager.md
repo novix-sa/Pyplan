@@ -2,7 +2,7 @@
 Clicking on the folder icon found at the left menu you will access the file manager.
 ![](http://img.pyplan.org/FileManger-Open_small.png)
 
-<img src="http://img.pyplan.org/FileManger-Open_small.png" width="50%" height="50%" />
+![](<img src="http://img.pyplan.org/FileManger-Open_small.png" width="50%" height="50%" />)
 
     http://img.pyplan.org/FileManger-Open_small.png
 
@@ -16,7 +16,7 @@ You can only read and run the models from Public workspace, or copy any model to
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NzI1MzU3LDgyMjQzNTU0NCwyMDcyMj
-k0MjkxLC0yODc5OTIyMjQsMTc0MzE4MTcwNywtMTIyMTg1OTgw
-Myw0NjA5OTk4MjgsLTI5MzAyNTMxNiwxNzQ1MjMyNTU4XX0=
+eyJoaXN0b3J5IjpbMTQ0MjQwOTg2MSw4MjI0MzU1NDQsMjA3Mj
+I5NDI5MSwtMjg3OTkyMjI0LDE3NDMxODE3MDcsLTEyMjE4NTk4
+MDMsNDYwOTk5ODI4LC0yOTMwMjUzMTYsMTc0NTIzMjU1OF19
 -->
