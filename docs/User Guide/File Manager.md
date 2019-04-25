@@ -4,12 +4,12 @@ Clicking on the folder icon found at the left menu you will access the file mana
 The right pane is where you select files for operating with them (deleting, renaming, etc).
 ![enter image description here](http://img.pyplan.org/FileManager-home.png)
 As can be seen there are two workspaces, the Public one were you will find the examples and tutorials, and your own workspace "My workspace" where you will be able to create your own applications.
-You can only read and run the models of this space or copy any model to your own workspace:
+You can only read and run the models from Public workspace, or copy any model to your own workspace:
 ![enter image description here](http://img.pyplan.org/FileManager-CopyIn.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjQ2Mzg4NCw4MjI0MzU1NDQsMjA3Mj
-I5NDI5MSwtMjg3OTkyMjI0LDE3NDMxODE3MDcsLTEyMjE4NTk4
-MDMsNDYwOTk5ODI4LC0yOTMwMjUzMTYsMTc0NTIzMjU1OF19
+eyJoaXN0b3J5IjpbNzcyMjkwNjMsODIyNDM1NTQ0LDIwNzIyOT
+QyOTEsLTI4Nzk5MjIyNCwxNzQzMTgxNzA3LC0xMjIxODU5ODAz
+LDQ2MDk5OTgyOCwtMjkzMDI1MzE2LDE3NDUyMzI1NThdfQ==
 -->
