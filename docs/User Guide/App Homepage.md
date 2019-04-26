@@ -1,10 +1,10 @@
-# Home
+# App Home
 After log-in the user lands at the app homepage that works as a starting point to go to:
  - Create a new app
- - Open recent
+ - Open recent models
  - Recover any opened session
  - Open tutorials or examples
- - Open a tool (wich are enabled or not depending there is any open session)
+ - Open a tool (left menu wich  are enabled or not depending on there is any open session)
 
 ![enter image description here](http://img.pyplan.org/app%20home.png)
 
@@ -19,8 +19,8 @@ In the case there are multiple sessions opened, they are listed as follows:
 The user can jump from one session to another just clicking on the session name or close any open session by clicking the cross red button.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjk0NTcyNSwxOTAxNjQ0MDU4LDE2MT
-E4Mjk3MDAsMTk1MDgyNTI2OCwtODg4ODMxNjI4LDY3NDEyMTcz
-MywtMTM3MjgxODM2MywxOTcxMTM1NDI0LDEzMzMxOTU0LC02OD
-EzNjUwNSwxMjc4NTA5NTgwXX0=
+eyJoaXN0b3J5IjpbLTE3MjQzMTI4MTcsMTkwMTY0NDA1OCwxNj
+ExODI5NzAwLDE5NTA4MjUyNjgsLTg4ODgzMTYyOCw2NzQxMjE3
+MzMsLTEzNzI4MTgzNjMsMTk3MTEzNTQyNCwxMzMzMTk1NCwtNj
+gxMzY1MDUsMTI3ODUwOTU4MF19
 -->
