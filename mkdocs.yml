@@ -43,7 +43,7 @@ nav:
     - Pyplan Library: Pyplan Library.md
     - User Guide: 
       - Introduction: User Guide/Introduction.md
-      - Home: User Guide/App Homepage.md
+      - App Home: User Guide/App Homepage.md
       - File manager: User Guide/File Manager.md
       - Modeler: User Guide/Model.md
       - UI Designer: User Guide/UI Designer (Former Report Manager).md
