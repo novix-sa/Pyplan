@@ -21,8 +21,10 @@ The user can jump from one session to another just clicking on the session name 
 <i  class="fa fa-trash-o"  aria-hidden="true"></i>
 </a>
 <i class="fa fa-times" aria-hidden="true"></i>
+<button class="btn btn-danger"><i class="fa fa-times" aria-hidden="true"></i></button>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTgyOTcwMCwxOTUwODI1MjY4LC04OD
-g4MzE2MjgsNjc0MTIxNzMzLC0xMzcyODE4MzYzLDE5NzExMzU0
-MjQsMTMzMzE5NTQsLTY4MTM2NTA1LDEyNzg1MDk1ODBdfQ==
+eyJoaXN0b3J5IjpbMTkwMTY0NDA1OCwxNjExODI5NzAwLDE5NT
+A4MjUyNjgsLTg4ODgzMTYyOCw2NzQxMjE3MzMsLTEzNzI4MTgz
+NjMsMTk3MTEzNTQyNCwxMzMzMTk1NCwtNjgxMzY1MDUsMTI3OD
+UwOTU4MF19
 -->
