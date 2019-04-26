@@ -7,7 +7,7 @@ After log-in the user lands at the app homepage that works as a starting point t
  - Open a tool (wich are enabled or not depending there is any open session)
 
 ![enter image description here](http://img.pyplan.org/app%20home.png)
-Users c
+Users can go back to homepage any time clicking at the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjM2MjEwNywxMjc4NTA5NTgwXX0=
+eyJoaXN0b3J5IjpbLTY4MTM2NTA1LDEyNzg1MDk1ODBdfQ==
 -->
