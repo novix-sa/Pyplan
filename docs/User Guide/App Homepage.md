@@ -11,7 +11,11 @@ Users can go back to homepage any time clicking at the Pyplan icon or selecting 
 ![enter image description here](http://img.pyplan.org/app%20home-goto.png)
 Clicking on the model name you can access information about the model and an option to close it.
 ![enter image description here](http://img.pyplan.org/app%20home-model.png)
+
+In the case there are multiple sessions opened, they are listed a
+![enter image description here](http://img.pyplan.org/app%20home-sessions.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTEzNTQyNCwxMzMzMTk1NCwtNjgxMz
-Y1MDUsMTI3ODUwOTU4MF19
+eyJoaXN0b3J5IjpbLTgwOTA1MzA2MSwxOTcxMTM1NDI0LDEzMz
+MxOTU0LC02ODEzNjUwNSwxMjc4NTA5NTgwXX0=
 -->
