@@ -7,8 +7,10 @@ After log-in the user lands at the app homepage that works as a starting point t
  - Open a tool (wich are enabled or not depending there is any open session)
 
 ![enter image description here](http://img.pyplan.org/app%20home.png)
+
 Users can go back to homepage any time clicking at the Pyplan icon or selecting Summary from the dropdown menu at app header.
 ![enter image description here](http://img.pyplan.org/app%20home-goto.png)
+
 Clicking on the model name you can access information about the model and an option to close it.
 ![enter image description here](http://img.pyplan.org/app%20home-model.png)
 
@@ -19,7 +21,7 @@ The user can jump from one session to another just clicking on the session name 
 <i  class="fa fa-trash-o"  aria-hidden="true"></i>
 </a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODgzMTYyOCw2NzQxMjE3MzMsLTEzNz
-I4MTgzNjMsMTk3MTEzNTQyNCwxMzMzMTk1NCwtNjgxMzY1MDUs
-MTI3ODUwOTU4MF19
+eyJoaXN0b3J5IjpbMTk1MDgyNTI2OCwtODg4ODMxNjI4LDY3ND
+EyMTczMywtMTM3MjgxODM2MywxOTcxMTM1NDI0LDEzMzMxOTU0
+LC02ODEzNjUwNSwxMjc4NTA5NTgwXX0=
 -->
