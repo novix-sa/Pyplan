@@ -9,8 +9,9 @@ After log-in the user lands at the app homepage that works as a starting point t
 ![enter image description here](http://img.pyplan.org/app%20home.png)
 Users can go back to homepage any time clicking at the Pyplan icon or selecting Summary from the dropdown menu at app header.
 ![enter image description here](http://img.pyplan.org/app%20home-goto.png)
-Clicking on the model name you can access infor
+Clicking on the model name you can access information about the model and an option to close it.
+![enter image description here](http://img.pyplan.org/app%20home-model.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY5NDk1OTMsMTMzMzE5NTQsLTY4MT
-M2NTA1LDEyNzg1MDk1ODBdfQ==
+eyJoaXN0b3J5IjpbMTk3MTEzNTQyNCwxMzMzMTk1NCwtNjgxMz
+Y1MDUsMTI3ODUwOTU4MF19
 -->
