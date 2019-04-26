@@ -5,7 +5,7 @@ Pyplan is in permanent evolution so that it is probable you will find minor diff
 ## **What you will find in this User Guide**
 -------------
 The user guide has been structured in the following sections:
-####Pyplan App Homepage
+### Pyplan App Homepage
 Where it is described the application main menu and tools.
 ### File Manager
 Users have their own workspace and can also access a Public workspace. The File Manager provides assistance for working with files related to your applications.
@@ -39,9 +39,9 @@ And for any challenging task you can also count with the community help gathered
 **Pyplan** is the software evolution of **Cubeplan**. The improvement were so radical that required a change in the name of the product. But in order to make it easy for former Cubeplan users migrate to Pyplan it has been created a Library that reproduces, as similar as possible, Cubeplan functions and syntax.
 Cubeplan models can not be run in Pyplan. It is a good way to learn Python migrate an existing Cubeplan model.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNTIyOTMsLTIxNDM1NTQ2ODYsMTA0OT
-Y5Nzc2Nyw3NzIxNTA1MzQsMzkwOTEzMTM0LDExOTU3NTU1MzMs
-MjA2NTUyNjk5OCwtMjYwNTY4MTU1LDEwMTg2MjI5NDgsMTQxMT
-c3NDIwNiwxMzgyNTgyOTExLC0xMjczNDc2NDYwLC0xODAyMzAz
-NTg0XX0=
+eyJoaXN0b3J5IjpbLTIxNDM1NTQ2ODYsLTIxNDM1NTQ2ODYsMT
+A0OTY5Nzc2Nyw3NzIxNTA1MzQsMzkwOTEzMTM0LDExOTU3NTU1
+MzMsMjA2NTUyNjk5OCwtMjYwNTY4MTU1LDEwMTg2MjI5NDgsMT
+QxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjczNDc2NDYwLC0xODAy
+MzAzNTg0XX0=
 -->
