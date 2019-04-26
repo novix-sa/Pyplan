@@ -20,8 +20,9 @@ The user can jump from one session to another just clicking on the session name 
 <a  class="btn btn-danger"  href="path/to/settings"  aria-label="Delete">
 <i  class="fa fa-trash-o"  aria-hidden="true"></i>
 </a>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDgyNTI2OCwtODg4ODMxNjI4LDY3ND
-EyMTczMywtMTM3MjgxODM2MywxOTcxMTM1NDI0LDEzMzMxOTU0
-LC02ODEzNjUwNSwxMjc4NTA5NTgwXX0=
+eyJoaXN0b3J5IjpbLTEyNDA0MDA5NCwxOTUwODI1MjY4LC04OD
+g4MzE2MjgsNjc0MTIxNzMzLC0xMzcyODE4MzYzLDE5NzExMzU0
+MjQsMTMzMzE5NTQsLTY4MTM2NTA1LDEyNzg1MDk1ODBdfQ==
 -->
