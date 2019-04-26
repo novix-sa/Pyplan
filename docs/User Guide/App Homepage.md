@@ -15,8 +15,11 @@ Clicking on the model name you can access information about the model and an opt
 In the case there are multiple sessions opened, they are listed as follows:
 ![enter image description here](http://img.pyplan.org/app%20home-sessions.png)
 The user can jump from one session to another just clicking on the session name or close any open session by clicking the red cross <i class="fa fa-times-circle"></i>
+<a  class="btn btn-danger"  href="path/to/settings"  aria-label="Delete">
+<i  class="fa fa-trash-o"  aria-hidden="true"></i>
+</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0MTIxNzMzLC0xMzcyODE4MzYzLDE5Nz
-ExMzU0MjQsMTMzMzE5NTQsLTY4MTM2NTA1LDEyNzg1MDk1ODBd
-fQ==
+eyJoaXN0b3J5IjpbLTg4ODgzMTYyOCw2NzQxMjE3MzMsLTEzNz
+I4MTgzNjMsMTk3MTEzNTQyNCwxMzMzMTk1NCwtNjgxMzY1MDUs
+MTI3ODUwOTU4MF19
 -->
