@@ -37,7 +37,7 @@ extra:
 nav:
     - Home: index.md
     - Quick Start: Quick Start.md
-    - User Guide: User Guide/Introduction.md
+#    - User Guide: User Guide/Introduction.md
     - Tutorials: Tutorials.md
     - Examples: Examples.md
     - Pyplan Library: Pyplan Library.md
