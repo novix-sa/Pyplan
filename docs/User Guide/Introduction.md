@@ -20,10 +20,10 @@ It is important to highlight that it is also possible to use many other visualiz
 Visualization and user controls are grouped in interfaces for letting the user interact with your app and explore results. In this chapter it will be explained how to create, configure and share this apps. **Most important: no coding required!**
 
 ### Configuration
-The enterprise version of Pyplan is installed on a server or provided as a service through A. In this section it is explored the app architecture and how to administer users regarding security and resources.
+The enterprise version of Pyplan is installed on a server or provided as a service through Amazon Elastic Cloud. In this section it is explored the app architecture and how to administer users regarding security and resources.
 
-### Tutorials and Examples
-In the Public folder that you can access through the File Manager, you will find tutorials that will explain **"How to"** do many things.
+### Tutorials, Examples and Demos
+In the Public folder that you can access through the File Manager, you will find many Pylan models gropu tutorials that will explain **"How to"** do many things.
 The Examples are intended to demonstrate what is possible to do. It is up to you to go through its code to understand how to adapt or reuse any piece of code in your own project.
 
 
@@ -39,9 +39,9 @@ And for any challenging task you can also count with the community help gathered
 **Pyplan** is the software evolution of **Cubeplan**. The improvement were so radical that required a change in the name of the product. But in order to make it easy for former Cubeplan users migrate to Pyplan it has been created a Library that reproduces, as similar as possible, Cubeplan functions and syntax.
 Cubeplan models can not be run in Pyplan. It is a good way to learn Python migrate an existing Cubeplan model.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ2MzUyNjMsLTIxNDM1NTQ2ODYsLT
-IxNDM1NTQ2ODYsMTA0OTY5Nzc2Nyw3NzIxNTA1MzQsMzkwOTEz
-MTM0LDExOTU3NTU1MzMsMjA2NTUyNjk5OCwtMjYwNTY4MTU1LD
-EwMTg2MjI5NDgsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjcz
-NDc2NDYwLC0xODAyMzAzNTg0XX0=
+eyJoaXN0b3J5IjpbMTE2MDc0MDQsLTIxNDM1NTQ2ODYsLTIxND
+M1NTQ2ODYsMTA0OTY5Nzc2Nyw3NzIxNTA1MzQsMzkwOTEzMTM0
+LDExOTU3NTU1MzMsMjA2NTUyNjk5OCwtMjYwNTY4MTU1LDEwMT
+g2MjI5NDgsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjczNDc2
+NDYwLC0xODAyMzAzNTg0XX0=
 -->
