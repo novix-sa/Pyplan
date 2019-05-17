@@ -22,6 +22,9 @@ Visualization and user controls are grouped in interfaces for letting the user i
 ### Configuration
 The enterprise version of Pyplan is installed on a server or provided as a service through Amazon Elastic Cloud. In this section it is explored the app architecture and how to administer users regarding security and resources.
 
+### User Management
+#### Users, Roles and Groups
+
 ### Tutorials, Examples and Demos
 In the Public folder that you can access through the File Manager, you will find many Pylan models grouped as Tutorials, Examples and Demos. 
 **Tutorials** are basic examples that illustrate how Pyplan natively handles and interact with Python objects. 
@@ -38,9 +41,9 @@ Pyplan can be considered a Python integrated development environment for data an
 **Pyplan** is the software evolution of **Cubeplan**. The improvement were so radical that required a change in the name of the product. But in order to make it easy for former Cubeplan users migrate to Pyplan it has been created a Library that reproduces, as similar as possible, Cubeplan functions and syntax.
 Cubeplan models can not be run in Pyplan. It is a good way to learn Python migrate an existing Cubeplan model.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTYzMTk0LC0yMTQzNTU0Njg2LC0yMT
-QzNTU0Njg2LDEwNDk2OTc3NjcsNzcyMTUwNTM0LDM5MDkxMzEz
-NCwxMTk1NzU1NTMzLDIwNjU1MjY5OTgsLTI2MDU2ODE1NSwxMD
-E4NjIyOTQ4LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3MzQ3
-NjQ2MCwtMTgwMjMwMzU4NF19
+eyJoaXN0b3J5IjpbMTIwMDI2ODE2OSwtNzQ1NjMxOTQsLTIxND
+M1NTQ2ODYsLTIxNDM1NTQ2ODYsMTA0OTY5Nzc2Nyw3NzIxNTA1
+MzQsMzkwOTEzMTM0LDExOTU3NTU1MzMsMjA2NTUyNjk5OCwtMj
+YwNTY4MTU1LDEwMTg2MjI5NDgsMTQxMTc3NDIwNiwxMzgyNTgy
+OTExLC0xMjczNDc2NDYwLC0xODAyMzAzNTg0XX0=
 -->
