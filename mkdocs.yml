@@ -41,7 +41,7 @@ nav:
     - Tutorials: Tutorials.md
     - Examples: Examples.md
     - Pyplan Library: Pyplan Library.md
-    - User Guide: 
+    - User: 
         - Introduction: User Guide/Introduction.md
         - App Home: User Guide/App Homepage.md
         - 'File manager': 'User Guide/File Manager.md'
