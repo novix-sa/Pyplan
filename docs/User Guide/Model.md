@@ -2,14 +2,15 @@
 
 Pyplan structures code trough an influence digram of nodes. Nodes have properties that could be inspected and edited trough tabs.
 ![enter image description here](http://img.pyplan.org/model-node-prop1.png)
-The Properties tab contains:
+The **Properties** tab contains:
  - **Title**: is the legend that will be displayed over the node
  - **ID**: the node identification. The way to call the node values when coding.
  - **Units**: A text value that will be displayed next to the title when evaluating a node.
  - **#**: the number format of the node.
  - **Inputs/Outputs**: list of nodes titles related to the selected node. You can navigate to anyone through clicking on the name.
  - **Code**: shortcut to the Code tab
-The
+The **Code** tab:
+
 The Python code is included asNodes are the su
 The app code is structured using a hierarchical influence diagram of nodes -a Workflow- that helps understand the calculation logic. Nodes are added by means of a drag and drop user interface, and Python code is written inside their Code attribute tab. 
 ![Node Code](http://img.pyplan.org/index_node_code.png)
@@ -46,8 +47,8 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0OTEyODEsNzU5MjkyNzg4LDE1ODE2OT
-EwMjcsLTIwODAzMDQ3OTcsLTQxNzA5NjM3LC0xODM2MDUzNTE5
-LDUxMTg5NTU4MCw2MzAyNDE4NDQsLTE0MDY4ODU0MjIsLTQwOT
-I2MzYyMSwtMTQ0NjM3MTg5N119
+eyJoaXN0b3J5IjpbMzc0ODYzMDc5LDc1OTI5Mjc4OCwxNTgxNj
+kxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYzNywtMTgzNjA1MzUx
+OSw1MTE4OTU1ODAsNjMwMjQxODQ0LC0xNDA2ODg1NDIyLC00MD
+kyNjM2MjEsLTE0NDYzNzE4OTddfQ==
 -->
