@@ -26,24 +26,21 @@ The enterprise version of Pyplan is installed on a server or provided as a servi
 In the Public folder that you can access through the File Manager, you will find many Pylan models grouped as Tutorials, Examples and Demos. 
 **Tutorials** are basic examples that illustrate how Pyplan natively handles and interact with Python objects. 
 The **Examples** are intended to demonstrate what is possible to do with Pyplan. It is up to you to go through its code to understand how to adapt or reuse any piece of code in your own project.
-At **Demos** folder you will find complete applications of s
+At **Demos** folder you will find complete applications related to certain topic and/or industry
 
 
 ## **What you will NOT find in this User Guide**
 -------------
-Pyplan can be considered a Python integrated development environment for data analytics apps. It is not the purpose of this user guide to explain how to programming in Python, neither on any of the other used libraries like Pandas, Numpy or Xarray just to name a few.
-There are plenty of introductory tutorials and courses for you to learn from.
-An always good source of information will be the libraries own documentation.
-And for any challenging task you can also count with the community help gathered in sites like StackOverflow.
+Pyplan can be considered a Python integrated development environment for data analytics apps. It is not the purpose of this user guide to explain how to programming in Python, neither on any of the other used libraries like Pandas, Numpy or Xarray just to name a few. There are plenty of introductory tutorials and courses for you to learn from. An always good source of information will be the libraries own documentation. And for any challenging task you can also count with the community help gathered in sites like StackOverflow.
 
 ## **Formerly Cubeplan users**
 -------------
 **Pyplan** is the software evolution of **Cubeplan**. The improvement were so radical that required a change in the name of the product. But in order to make it easy for former Cubeplan users migrate to Pyplan it has been created a Library that reproduces, as similar as possible, Cubeplan functions and syntax.
 Cubeplan models can not be run in Pyplan. It is a good way to learn Python migrate an existing Cubeplan model.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzY4MjE3MiwtMjE0MzU1NDY4NiwtMj
-E0MzU1NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5MTMx
-MzQsMTE5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMT
-AxODYyMjk0OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEyNzM0
-NzY0NjAsLTE4MDIzMDM1ODRdfQ==
+eyJoaXN0b3J5IjpbLTE0ODUyMTIyNzAsLTIxNDM1NTQ2ODYsLT
+IxNDM1NTQ2ODYsMTA0OTY5Nzc2Nyw3NzIxNTA1MzQsMzkwOTEz
+MTM0LDExOTU3NTU1MzMsMjA2NTUyNjk5OCwtMjYwNTY4MTU1LD
+EwMTg2MjI5NDgsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjcz
+NDc2NDYwLC0xODAyMzAzNTg0XX0=
 -->
