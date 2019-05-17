@@ -24,9 +24,9 @@ The enterprise version of Pyplan is installed on a server or provided as a servi
 
 ### Tutorials, Examples and Demos
 In the Public folder that you can access through the File Manager, you will find many Pylan models grouped as Tutorials, Examples and Demos. 
-Tutorials are basic examples that illustrate how Pyplan natively handles and interact Python objects.
- tutorials that will explain **"How to"** do many things.
-The Examples are intended to demonstrate what is possible to do. It is up to you to go through its code to understand how to adapt or reuse any piece of code in your own project.
+**Tutorials** are basic examples that illustrate how Pyplan natively handles and interact with Python objects. 
+The **Examples** are intended to demonstrate what is possible to do with Pyplan. It is up to you to go through its code to understand how to adapt or reuse any piece of code in your own project.
+At **Demos** folder you will find complete applications of s
 
 
 ## **What you will NOT find in this User Guide**
@@ -41,9 +41,9 @@ And for any challenging task you can also count with the community help gathered
 **Pyplan** is the software evolution of **Cubeplan**. The improvement were so radical that required a change in the name of the product. But in order to make it easy for former Cubeplan users migrate to Pyplan it has been created a Library that reproduces, as similar as possible, Cubeplan functions and syntax.
 Cubeplan models can not be run in Pyplan. It is a good way to learn Python migrate an existing Cubeplan model.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTEwODc2LC0yMTQzNTU0Njg2LC0yMT
-QzNTU0Njg2LDEwNDk2OTc3NjcsNzcyMTUwNTM0LDM5MDkxMzEz
-NCwxMTk1NzU1NTMzLDIwNjU1MjY5OTgsLTI2MDU2ODE1NSwxMD
-E4NjIyOTQ4LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3MzQ3
-NjQ2MCwtMTgwMjMwMzU4NF19
+eyJoaXN0b3J5IjpbLTYwMzY4MjE3MiwtMjE0MzU1NDY4NiwtMj
+E0MzU1NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5MTMx
+MzQsMTE5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMT
+AxODYyMjk0OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEyNzM0
+NzY0NjAsLTE4MDIzMDM1ODRdfQ==
 -->
