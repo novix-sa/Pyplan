@@ -3,7 +3,16 @@ Py
 ## Model Creation
 ### Creating a new model
 ### Default imports
-In order to avoid declaring the 'Import' sentence en each node, there is a node, called Default imports that collects the Library that will not require to declare import all across the in every model.
+In order to avoid declaring the 'Import' sentence en each node, there is a node, called Default imports that collects the Library that will not require to declare import all across the model.
+
+`import numpy, pandas, cubepy, xarray
+#fill the following dict keys with the alias you need to import in each node
+result = {
+    "np":numpy,
+    "pd":pandas,
+    "cubepy":cubepy,
+    "xr":xarray
+}` in every model.
 
 
 ## Execution
@@ -18,7 +27,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzE2MDE4NCwtNDE3MDk2MzcsLTE4Mz
+eyJoaXN0b3J5IjpbMTE5Mzc3MTAyMCwtNDE3MDk2MzcsLTE4Mz
 YwNTM1MTksNTExODk1NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQy
 MiwtNDA5MjYzNjIxLC0xNDQ2MzcxODk3XX0=
 -->
