@@ -5,7 +5,8 @@ Pyplan structures code trough an influence digram of nodes. Nodes have propertie
 The properties tab contains:
 
  - Title: is the legend that will be displayed over the node
- - 
+ - ID: the node identification. The way to call the node values when coding.
+ - Units: A text value that will be displayed next to the title
 
 The Python code is included asNodes are the su
 The app code is structured using a hierarchical influence diagram of nodes -a Workflow- that helps understand the calculation logic. Nodes are added by means of a drag and drop user interface, and Python code is written inside their Code attribute tab. 
@@ -43,8 +44,8 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzkwMDUwOCwxNTgxNjkxMDI3LC0yMD
-gwMzA0Nzk3LC00MTcwOTYzNywtMTgzNjA1MzUxOSw1MTE4OTU1
-ODAsNjMwMjQxODQ0LC0xNDA2ODg1NDIyLC00MDkyNjM2MjEsLT
-E0NDYzNzE4OTddfQ==
+eyJoaXN0b3J5IjpbLTE3ODEyNjgyMjksMTU4MTY5MTAyNywtMj
+A4MDMwNDc5NywtNDE3MDk2MzcsLTE4MzYwNTM1MTksNTExODk1
+NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQyMiwtNDA5MjYzNjIxLC
+0xNDQ2MzcxODk3XX0=
 -->
