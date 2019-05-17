@@ -1,6 +1,9 @@
 # Model
 Py
 ## Model Creation
+### Creating a new model
+### Default imports
+
 ## Execution
 ## Pyplan approach to Xarray
 ## Dynamic simulation
@@ -13,7 +16,7 @@ Py
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYwNTM1MTksNTExODk1NTgwLDYzMD
-I0MTg0NCwtMTQwNjg4NTQyMiwtNDA5MjYzNjIxLC0xNDQ2Mzcx
-ODk3XX0=
+eyJoaXN0b3J5IjpbLTQxNzA5NjM3LC0xODM2MDUzNTE5LDUxMT
+g5NTU4MCw2MzAyNDE4NDQsLTE0MDY4ODU0MjIsLTQwOTI2MzYy
+MSwtMTQ0NjM3MTg5N119
 -->
