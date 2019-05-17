@@ -1,7 +1,8 @@
 # Model
 
-Pyplan structures code trough and influence digram of nodes. Nodes have properties that could be inspected and edited trough tabs.
+Pyplan structures code trough an influence digram of nodes. Nodes have properties that could be inspected and edited trough tabs.
 
+model-node-prop
 The Python code is included asNodes are the su
 The app code is structured using a hierarchical influence diagram of nodes -a Workflow- that helps understand the calculation logic. Nodes are added by means of a drag and drop user interface, and Python code is written inside their Code attribute tab. 
 ![Node Code](http://img.pyplan.org/index_node_code.png)
@@ -38,8 +39,8 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTY5MTAyNywtMjA4MDMwNDc5NywtND
-E3MDk2MzcsLTE4MzYwNTM1MTksNTExODk1NTgwLDYzMDI0MTg0
-NCwtMTQwNjg4NTQyMiwtNDA5MjYzNjIxLC0xNDQ2MzcxODk3XX
-0=
+eyJoaXN0b3J5IjpbLTE5NjUxNDA4ODEsMTU4MTY5MTAyNywtMj
+A4MDMwNDc5NywtNDE3MDk2MzcsLTE4MzYwNTM1MTksNTExODk1
+NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQyMiwtNDA5MjYzNjIxLC
+0xNDQ2MzcxODk3XX0=
 -->
