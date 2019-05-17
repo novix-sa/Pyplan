@@ -3,7 +3,7 @@ Py
 ## Model Creation
 ### Creating a new model
 ### Default imports
-There is a node, called Default imports in every model.
+In order to avoid declaring the 'Import' sentence en each node, there is a node, called Default imports that collects the Library that will not require to declare import all across the in every model.
 
 
 ## Execution
@@ -18,7 +18,7 @@ There is a node, called Default imports in every model.
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzYwOTM1NSwtNDE3MDk2MzcsLTE4Mz
+eyJoaXN0b3J5IjpbLTUzNzE2MDE4NCwtNDE3MDk2MzcsLTE4Mz
 YwNTM1MTksNTExODk1NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQy
 MiwtNDA5MjYzNjIxLC0xNDQ2MzcxODk3XX0=
 -->
