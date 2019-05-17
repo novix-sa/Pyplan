@@ -1,5 +1,14 @@
 # Model
-Pyplan structure code trough nodes. The Python code is included asNodes are the su
+
+Pyplan structure code trough and influence digram of nodes. The Python code is included asNodes are the su
+The app code is structured using a hierarchical influence diagram of nodes -a Workflow- that helps understand the calculation logic. Nodes are added by means of a drag and drop user interface, and Python code is written inside their Code attribute tab. 
+![Node Code](http://img.pyplan.org/index_node_code.png)
+
+Nodes have several properties: Title, ID, Units, Inputs, and Outputs, which are displayed when a node is selected. The ID function allows to call the results from other nodes, and works as a global variable for programming.
+
+![Node properties](http://img.pyplan.org/index_node_properties1.png)
+
+
 ## Model Creation
 ### Creating a new model
 ### Default imports
@@ -27,7 +36,7 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA3MDk5NSwtNDE3MDk2MzcsLTE4Mz
-YwNTM1MTksNTExODk1NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQy
-MiwtNDA5MjYzNjIxLC0xNDQ2MzcxODk3XX0=
+eyJoaXN0b3J5IjpbLTE4ODIwNjQ2OTEsLTQxNzA5NjM3LC0xOD
+M2MDUzNTE5LDUxMTg5NTU4MCw2MzAyNDE4NDQsLTE0MDY4ODU0
+MjIsLTQwOTI2MzYyMSwtMTQ0NjM3MTg5N119
 -->
