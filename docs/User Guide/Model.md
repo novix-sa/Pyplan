@@ -3,6 +3,8 @@ Py
 ## Model Creation
 ### Creating a new model
 ### Default imports
+There is a node, called Default imports in every model.
+
 
 ## Execution
 ## Pyplan approach to Xarray
@@ -16,7 +18,7 @@ Py
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzA5NjM3LC0xODM2MDUzNTE5LDUxMT
-g5NTU4MCw2MzAyNDE4NDQsLTE0MDY4ODU0MjIsLTQwOTI2MzYy
-MSwtMTQ0NjM3MTg5N119
+eyJoaXN0b3J5IjpbLTU1NzYwOTM1NSwtNDE3MDk2MzcsLTE4Mz
+YwNTM1MTksNTExODk1NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQy
+MiwtNDA5MjYzNjIxLC0xNDQ2MzcxODk3XX0=
 -->
