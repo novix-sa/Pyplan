@@ -1,5 +1,5 @@
 # Model
-Pyplan structure code trough nodes. Nodes are the su
+Pyplan structure code trough nodes. The Python code is included asNodes are the su
 ## Model Creation
 ### Creating a new model
 ### Default imports
@@ -27,7 +27,7 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTUyMTI2MywtNDE3MDk2MzcsLTE4Mz
+eyJoaXN0b3J5IjpbLTE4MDA3MDk5NSwtNDE3MDk2MzcsLTE4Mz
 YwNTM1MTksNTExODk1NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQy
 MiwtNDA5MjYzNjIxLC0xNDQ2MzcxODk3XX0=
 -->
