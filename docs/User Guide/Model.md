@@ -6,7 +6,9 @@ The properties tab contains:
 
  - Title: is the legend that will be displayed over the node
  - ID: the node identification. The way to call the node values when coding.
- - Units: A text value that will be displayed next to the title
+ - Units: A text value that will be displayed next to the title when evaluating a node.
+ - #: the number format of the node.
+ - Inputs/Outputs: list of nodes titles related to the selected node. You can navigate to anyone through clicking on the name.
 
 The Python code is included asNodes are the su
 The app code is structured using a hierarchical influence diagram of nodes -a Workflow- that helps understand the calculation logic. Nodes are added by means of a drag and drop user interface, and Python code is written inside their Code attribute tab. 
@@ -44,7 +46,7 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODEyNjgyMjksMTU4MTY5MTAyNywtMj
+eyJoaXN0b3J5IjpbLTE1NDcxNTM0MDgsMTU4MTY5MTAyNywtMj
 A4MDMwNDc5NywtNDE3MDk2MzcsLTE4MzYwNTM1MTksNTExODk1
 NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQyMiwtNDA5MjYzNjIxLC
 0xNDQ2MzcxODk3XX0=
