@@ -17,7 +17,9 @@ The code tab presents two windows. The left one is the space to insert the code 
 Nodes code **must end with the result definition**. The **"result"** variable contains the result of the node. That is the output to be displayed when the node is evaluated or when called from other node.
 Intermediate local variables can be used and results printed in the console for tracing calculation, but at the end must come the result definition.
 The right window displays the console output. Any `print()` statement will display outputs here.
-When the code is modified, it shows a check and cancel box, and the Play button is turned orange to indicate the node needs to be run. You can accept changes and run by pressing <kbd>Ctrl + Enter</></kbd> or clicking on the icons. After running the node the Play button is turned blue.
+When the code is modified, it shows a check and cancel box, and the Play button is turned orange to indicate the node needs to be run. 
+
+You can accept changes and run by pressing <kbd>Ctrl + Enter</></kbd> or clicking on the icons. After running the node the Play button is turned blue.
  
 
 the status of the windows is set to: 
@@ -59,10 +61,10 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDg4OTQyMCwtNjgyODA2NDAxLDQ0NT
-kzNDcyNyw2MTI0OTA1MSwtMzUyNzI3ODI3LC03NDUyNjExNzks
-Mzc0ODYzMDc5LDc1OTI5Mjc4OCwxNTgxNjkxMDI3LC0yMDgwMz
-A0Nzk3LC00MTcwOTYzNywtMTgzNjA1MzUxOSw1MTE4OTU1ODAs
-NjMwMjQxODQ0LC0xNDA2ODg1NDIyLC00MDkyNjM2MjEsLTE0ND
-YzNzE4OTddfQ==
+eyJoaXN0b3J5IjpbMTkxMzgyMzEyLC02ODI4MDY0MDEsNDQ1OT
+M0NzI3LDYxMjQ5MDUxLC0zNTI3Mjc4MjcsLTc0NTI2MTE3OSwz
+NzQ4NjMwNzksNzU5MjkyNzg4LDE1ODE2OTEwMjcsLTIwODAzMD
+Q3OTcsLTQxNzA5NjM3LC0xODM2MDUzNTE5LDUxMTg5NTU4MCw2
+MzAyNDE4NDQsLTE0MDY4ODU0MjIsLTQwOTI2MzYyMSwtMTQ0Nj
+M3MTg5N119
 -->
