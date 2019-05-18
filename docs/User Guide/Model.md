@@ -11,9 +11,9 @@ The <kbd>Properties</kbd> tab contains:
  - **Inputs/Outputs**: list of nodes titles directly linked to the selected node. You can navigate to anyone through clicking on the node name.
  - **Code**: shortcut to the Code tab
 The <kbd>Code</></kbd> tab:
-The code tab presents two windows. The left one is the space to insert the code of the node.
-The code is Python 3.5
 ![enter image description here](http://img.pyplan.org/model-code-tab.png)
+The code tab presents two windows. The left one is the space to insert the code of the node.
+Nodes definition must end with defining the variable result
 
 On the right window you will find the console output. It shows 
 
@@ -55,9 +55,9 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjcyNzgyNywtNzQ1MjYxMTc5LDM3ND
-g2MzA3OSw3NTkyOTI3ODgsMTU4MTY5MTAyNywtMjA4MDMwNDc5
-NywtNDE3MDk2MzcsLTE4MzYwNTM1MTksNTExODk1NTgwLDYzMD
-I0MTg0NCwtMTQwNjg4NTQyMiwtNDA5MjYzNjIxLC0xNDQ2Mzcx
-ODk3XX0=
+eyJoaXN0b3J5IjpbMTA4MzExNjg0MywtMzUyNzI3ODI3LC03ND
+UyNjExNzksMzc0ODYzMDc5LDc1OTI5Mjc4OCwxNTgxNjkxMDI3
+LC0yMDgwMzA0Nzk3LC00MTcwOTYzNywtMTgzNjA1MzUxOSw1MT
+E4OTU1ODAsNjMwMjQxODQ0LC0xNDA2ODg1NDIyLC00MDkyNjM2
+MjEsLTE0NDYzNzE4OTddfQ==
 -->
