@@ -18,10 +18,10 @@ Nodes code **must end with the result definition**. The **"result"** variable co
 Intermediate local variables can be used and results printed in the console for tracing calculation, but at the end must come the result definition.
 The right window displays the console output. Any `print()` statement will display outputs here.
 When the code is modified, it shows a check and cancel box, and the Play button is turned orange to indicate the node needs to be run. 
-
-You can accept changes and run by pressing <kbd>Ctrl + Enter</></kbd> or clicking on the icons. After running the node the Play button is turned blue.
  ![](http://img.pyplan.org/model-orange.png)
-
+You can accept changes and run by pressing <kbd>Ctrl + Enter</></kbd> or clicking on the icons. 
+After running the node the Play button is turned blue.
+![enter image description here](http://img.pyplan.org/model-blue.png)
 the status of the windows is set to: 
 
 
@@ -61,10 +61,10 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzAxNDYwMDEsMTkxMzgyMzEyLC02OD
-I4MDY0MDEsNDQ1OTM0NzI3LDYxMjQ5MDUxLC0zNTI3Mjc4Mjcs
-LTc0NTI2MTE3OSwzNzQ4NjMwNzksNzU5MjkyNzg4LDE1ODE2OT
-EwMjcsLTIwODAzMDQ3OTcsLTQxNzA5NjM3LC0xODM2MDUzNTE5
-LDUxMTg5NTU4MCw2MzAyNDE4NDQsLTE0MDY4ODU0MjIsLTQwOT
-I2MzYyMSwtMTQ0NjM3MTg5N119
+eyJoaXN0b3J5IjpbMjAwMDAzOTUxMSwxOTEzODIzMTIsLTY4Mj
+gwNjQwMSw0NDU5MzQ3MjcsNjEyNDkwNTEsLTM1MjcyNzgyNywt
+NzQ1MjYxMTc5LDM3NDg2MzA3OSw3NTkyOTI3ODgsMTU4MTY5MT
+AyNywtMjA4MDMwNDc5NywtNDE3MDk2MzcsLTE4MzYwNTM1MTks
+NTExODk1NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQyMiwtNDA5Mj
+YzNjIxLC0xNDQ2MzcxODk3XX0=
 -->
