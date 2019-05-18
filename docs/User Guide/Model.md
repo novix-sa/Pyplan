@@ -14,12 +14,9 @@ The <kbd>Properties</kbd> tab contains:
 The <kbd>Code</></kbd> tab:
 ![enter image description here](http://img.pyplan.org/model-code-tab1.png)
 The code tab presents two windows. The left one is the space to insert the code of the node.
-Nodes code **must end with the result definition**. The **"result"** variable contains the result of the node to be displayed when the node is evaluated or when called from other node.
+Nodes code **must end with the result definition**. The **"result"** variable contains the result of the node. That is the output to be displayed when the node is evaluated or when called from other node.
 Intermediate local variables can be used and results printed in the console for tracing calculation, but at the end must come the result definition.
-
-
-On the right window you will find the console output. It shows 
-
+The right window displays the console output. En the eza
 
 
 The Python code is included asNodes are the su
@@ -58,9 +55,9 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTEzODgyMCw0NDU5MzQ3MjcsNjEyND
-kwNTEsLTM1MjcyNzgyNywtNzQ1MjYxMTc5LDM3NDg2MzA3OSw3
-NTkyOTI3ODgsMTU4MTY5MTAyNywtMjA4MDMwNDc5NywtNDE3MD
-k2MzcsLTE4MzYwNTM1MTksNTExODk1NTgwLDYzMDI0MTg0NCwt
-MTQwNjg4NTQyMiwtNDA5MjYzNjIxLC0xNDQ2MzcxODk3XX0=
+eyJoaXN0b3J5IjpbLTE4MjExMzcwNDQsNDQ1OTM0NzI3LDYxMj
+Q5MDUxLC0zNTI3Mjc4MjcsLTc0NTI2MTE3OSwzNzQ4NjMwNzks
+NzU5MjkyNzg4LDE1ODE2OTEwMjcsLTIwODAzMDQ3OTcsLTQxNz
+A5NjM3LC0xODM2MDUzNTE5LDUxMTg5NTU4MCw2MzAyNDE4NDQs
+LTE0MDY4ODU0MjIsLTQwOTI2MzYyMSwtMTQ0NjM3MTg5N119
 -->
