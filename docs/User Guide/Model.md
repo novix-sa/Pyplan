@@ -17,7 +17,7 @@ The code tab presents two windows. The left one is the space to insert the code 
 Nodes code **must end with the result definition**. The **"result"** variable contains the result of the node. That is the output to be displayed when the node is evaluated or when called from other node.
 Intermediate local variables can be used and results printed in the console for tracing calculation, but at the end must come the result definition.
 The right window displays the console output. Any `print()` statement will display outputs here.
-When the code is modified, 
+When the code is modified, the status of the windows is set to: 
 
 
 The Python code is included asNodes are the su
@@ -56,7 +56,7 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzM3MTY0Niw0NDU5MzQ3MjcsNjEyND
+eyJoaXN0b3J5IjpbLTY4MjgwNjQwMSw0NDU5MzQ3MjcsNjEyND
 kwNTEsLTM1MjcyNzgyNywtNzQ1MjYxMTc5LDM3NDg2MzA3OSw3
 NTkyOTI3ODgsMTU4MTY5MTAyNywtMjA4MDMwNDc5NywtNDE3MD
 k2MzcsLTE4MzYwNTM1MTksNTExODk1NTgwLDYzMDI0MTg0NCwt
