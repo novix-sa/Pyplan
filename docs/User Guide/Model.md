@@ -1,6 +1,6 @@
 # Model
 
-Pyplan structures code trough an influence digram of nodes. Nodes have properties that could be inspected and edited trough tabs.
+Pyplan structures code trough an influence digram of nodes. Nodes have properties that could be inspected and edited trough tabs <kbd>Propertires</kbd><kbd>Code</></kbd><kbd>Docs</kbd>.
 ![enter image description here](http://img.pyplan.org/model-node-prop1.png)
 The **Properties** tab contains:
  - **Title**: is the legend that will be displayed over the node
@@ -47,8 +47,8 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0ODYzMDc5LDc1OTI5Mjc4OCwxNTgxNj
-kxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYzNywtMTgzNjA1MzUx
-OSw1MTE4OTU1ODAsNjMwMjQxODQ0LC0xNDA2ODg1NDIyLC00MD
-kyNjM2MjEsLTE0NDYzNzE4OTddfQ==
+eyJoaXN0b3J5IjpbLTIwMzQ5NDgzNDAsMzc0ODYzMDc5LDc1OT
+I5Mjc4OCwxNTgxNjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYz
+NywtMTgzNjA1MzUxOSw1MTE4OTU1ODAsNjMwMjQxODQ0LC0xND
+A2ODg1NDIyLC00MDkyNjM2MjEsLTE0NDYzNzE4OTddfQ==
 -->
