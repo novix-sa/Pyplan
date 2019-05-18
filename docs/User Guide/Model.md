@@ -3,7 +3,7 @@
 Pyplan structures code trough an influence digram of nodes. Nodes have properties that could be inspected and edited trough tabs <kbd>Properties</kbd><kbd>Code</></kbd><kbd>Docs</kbd>.
 
 ![enter image description here](http://img.pyplan.org/model-node-prop1.png)
-The **Properties** <kbd>Properties</kbd> tab contains:
+The  <kbd>Properties</kbd> tab contains:
  - **Title**: is the legend that will be displayed over the node
  - **ID**: the node identification. The way to call the node values when coding.
  - **Units**: A text value that will be displayed next to the title when evaluating a node.
@@ -48,8 +48,8 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY1NDkwMjAsMzc0ODYzMDc5LDc1OT
-I5Mjc4OCwxNTgxNjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYz
-NywtMTgzNjA1MzUxOSw1MTE4OTU1ODAsNjMwMjQxODQ0LC0xND
-A2ODg1NDIyLC00MDkyNjM2MjEsLTE0NDYzNzE4OTddfQ==
+eyJoaXN0b3J5IjpbMTMxOTc5NzMzNSwzNzQ4NjMwNzksNzU5Mj
+kyNzg4LDE1ODE2OTEwMjcsLTIwODAzMDQ3OTcsLTQxNzA5NjM3
+LC0xODM2MDUzNTE5LDUxMTg5NTU4MCw2MzAyNDE4NDQsLTE0MD
+Y4ODU0MjIsLTQwOTI2MzYyMSwtMTQ0NjM3MTg5N119
 -->
