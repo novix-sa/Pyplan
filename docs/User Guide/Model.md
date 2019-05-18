@@ -1,9 +1,10 @@
 # Model
 
-Pyplan structures code trough an influence digram of nodes. Nodes have properties that could be inspected and edited trough tabs <kbd>Properties</kbd><kbd>Code</></kbd><kbd>Docs</kbd>.
+Pyplan structures code trough an influence digram of nodes. Nodes have properties that could be inspected and edited, after selection, trough tabs <kbd>Properties</kbd><kbd>Code</></kbd><kbd>Docs</kbd>.
 
 ![enter image description here](http://img.pyplan.org/model-node-prop1.png)
 The <kbd>Properties</kbd> tab contains:
+
  - **Title**: is the legend that will be displayed over the node
  - **ID**: the node identification. The way to call the node values when coding.
  - **Units**: A text value that will be displayed next to the title when evaluating a node.
@@ -13,7 +14,7 @@ The <kbd>Properties</kbd> tab contains:
 The <kbd>Code</></kbd> tab:
 ![enter image description here](http://img.pyplan.org/model-code-tab1.png)
 The code tab presents two windows. The left one is the space to insert the code of the node.
-Nodes code **must end defining the variable result** which is the variable that will contain the result of the node to be displayed when the node is evaluated or when called from other node.
+Nodes code **must end with the result** which is the variable that will contain the result of the node to be displayed when the node is evaluated or when called from other node.
 Intermediate local variables can be used and results printed in the console for tracing calculation, but at the end must come the result definition.
 
 
@@ -57,9 +58,9 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1OTM0NzI3LDYxMjQ5MDUxLC0zNTI3Mj
-c4MjcsLTc0NTI2MTE3OSwzNzQ4NjMwNzksNzU5MjkyNzg4LDE1
-ODE2OTEwMjcsLTIwODAzMDQ3OTcsLTQxNzA5NjM3LC0xODM2MD
-UzNTE5LDUxMTg5NTU4MCw2MzAyNDE4NDQsLTE0MDY4ODU0MjIs
-LTQwOTI2MzYyMSwtMTQ0NjM3MTg5N119
+eyJoaXN0b3J5IjpbNTg2Mjg0MjQ1LDQ0NTkzNDcyNyw2MTI0OT
+A1MSwtMzUyNzI3ODI3LC03NDUyNjExNzksMzc0ODYzMDc5LDc1
+OTI5Mjc4OCwxNTgxNjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOT
+YzNywtMTgzNjA1MzUxOSw1MTE4OTU1ODAsNjMwMjQxODQ0LC0x
+NDA2ODg1NDIyLC00MDkyNjM2MjEsLTE0NDYzNzE4OTddfQ==
 -->
