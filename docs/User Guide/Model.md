@@ -11,11 +11,10 @@ The <kbd>Properties</kbd> tab contains:
  - **Inputs/Outputs**: list of nodes titles directly linked to the selected node. You can navigate to anyone through clicking on the node name.
  - **Code**: shortcut to the Code tab
 The <kbd>Code</></kbd> tab:
-![enter image description here](http://img.pyplan.org/model-code-tab.png)
+![enter image description here](http://img.pyplan.org/model-code-tab1.png)
 The code tab presents two windows. The left one is the space to insert the code of the node.
-
-
-Nodes definition must end defining the variable result which is the variable that will contain the result of the node to be displayed when the node is evaluated or when called from other node.
+Nodes code **must end defining the variable result** which is the variable that will contain the result of the node to be displayed when the node is evaluated or when called from other node.
+Intermediate local variables can be used and resu
 
 On the right window you will find the console output. It shows 
 
@@ -57,9 +56,9 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNDkwNTEsLTM1MjcyNzgyNywtNzQ1Mj
-YxMTc5LDM3NDg2MzA3OSw3NTkyOTI3ODgsMTU4MTY5MTAyNywt
-MjA4MDMwNDc5NywtNDE3MDk2MzcsLTE4MzYwNTM1MTksNTExOD
-k1NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQyMiwtNDA5MjYzNjIx
-LC0xNDQ2MzcxODk3XX0=
+eyJoaXN0b3J5IjpbLTYwMjEwMTE0OSw2MTI0OTA1MSwtMzUyNz
+I3ODI3LC03NDUyNjExNzksMzc0ODYzMDc5LDc1OTI5Mjc4OCwx
+NTgxNjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYzNywtMTgzNj
+A1MzUxOSw1MTE4OTU1ODAsNjMwMjQxODQ0LC0xNDA2ODg1NDIy
+LC00MDkyNjM2MjEsLTE0NDYzNzE4OTddfQ==
 -->
