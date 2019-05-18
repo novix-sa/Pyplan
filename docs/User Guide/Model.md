@@ -13,6 +13,8 @@ The <kbd>Properties</kbd> tab contains:
 The <kbd>Code</></kbd> tab:
 ![enter image description here](http://img.pyplan.org/model-code-tab.png)
 The code tab presents two windows. The left one is the space to insert the code of the node.
+
+
 Nodes definition must end defining the variable result which is the variable that will contain the result of the node to be displayed when the node is evaluated or when called from other node.
 
 On the right window you will find the console output. It shows 
@@ -55,9 +57,9 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODY5NDEzNSwtMzUyNzI3ODI3LC03ND
-UyNjExNzksMzc0ODYzMDc5LDc1OTI5Mjc4OCwxNTgxNjkxMDI3
-LC0yMDgwMzA0Nzk3LC00MTcwOTYzNywtMTgzNjA1MzUxOSw1MT
-E4OTU1ODAsNjMwMjQxODQ0LC0xNDA2ODg1NDIyLC00MDkyNjM2
-MjEsLTE0NDYzNzE4OTddfQ==
+eyJoaXN0b3J5IjpbNjEyNDkwNTEsLTM1MjcyNzgyNywtNzQ1Mj
+YxMTc5LDM3NDg2MzA3OSw3NTkyOTI3ODgsMTU4MTY5MTAyNywt
+MjA4MDMwNDc5NywtNDE3MDk2MzcsLTE4MzYwNTM1MTksNTExOD
+k1NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQyMiwtNDA5MjYzNjIx
+LC0xNDQ2MzcxODk3XX0=
 -->
