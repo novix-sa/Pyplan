@@ -19,7 +19,8 @@ Intermediate local variables can be used and results printed in the console for 
 The right window displays the console output. Any `print()` statement will display outputs here.
 When the code is modified, it shows a check and cancel box, and the Play button is turned orange to indicate the node needs to be run. 
  ![](http://img.pyplan.org/model-orange.png)
-You can accept changes and run by pressing <kbd>Ctrl + Enter</></kbd> or clicking on the icons. 
+
+You can accept changes and run the node by pressing <kbd>Ctrl + Enter</></kbd> or clicking on the icons. 
 After running the node the Play button is turned blue.
 ![enter image description here](http://img.pyplan.org/model-blue.png)
 the status of the windows is set to: 
@@ -61,7 +62,7 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDAzOTUxMSwxOTEzODIzMTIsLTY4Mj
+eyJoaXN0b3J5IjpbMjA1NjM0MTc5MiwxOTEzODIzMTIsLTY4Mj
 gwNjQwMSw0NDU5MzQ3MjcsNjEyNDkwNTEsLTM1MjcyNzgyNywt
 NzQ1MjYxMTc5LDM3NDg2MzA3OSw3NTkyOTI3ODgsMTU4MTY5MT
 AyNywtMjA4MDMwNDc5NywtNDE3MDk2MzcsLTE4MzYwNTM1MTks
