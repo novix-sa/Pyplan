@@ -11,6 +11,7 @@ The <kbd>Properties</kbd> tab contains:
  - **#**: the number format of the node.
  - **Inputs/Outputs**: list of nodes titles directly linked to the selected node. You can navigate to anyone through clicking on the node name.
  - **Code**: shortcut to the Code tab
+
 The <kbd>Code</></kbd> tab:
 ![enter image description here](http://img.pyplan.org/model-code-tab1.png)
 The code tab presents two windows. The left one is the space to insert the code of the node.
@@ -62,10 +63,10 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjM0MTc5MiwxOTEzODIzMTIsLTY4Mj
-gwNjQwMSw0NDU5MzQ3MjcsNjEyNDkwNTEsLTM1MjcyNzgyNywt
-NzQ1MjYxMTc5LDM3NDg2MzA3OSw3NTkyOTI3ODgsMTU4MTY5MT
-AyNywtMjA4MDMwNDc5NywtNDE3MDk2MzcsLTE4MzYwNTM1MTks
-NTExODk1NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQyMiwtNDA5Mj
-YzNjIxLC0xNDQ2MzcxODk3XX0=
+eyJoaXN0b3J5IjpbMTgxNDkxNzAsMTkxMzgyMzEyLC02ODI4MD
+Y0MDEsNDQ1OTM0NzI3LDYxMjQ5MDUxLC0zNTI3Mjc4MjcsLTc0
+NTI2MTE3OSwzNzQ4NjMwNzksNzU5MjkyNzg4LDE1ODE2OTEwMj
+csLTIwODAzMDQ3OTcsLTQxNzA5NjM3LC0xODM2MDUzNTE5LDUx
+MTg5NTU4MCw2MzAyNDE4NDQsLTE0MDY4ODU0MjIsLTQwOTI2Mz
+YyMSwtMTQ0NjM3MTg5N119
 -->
