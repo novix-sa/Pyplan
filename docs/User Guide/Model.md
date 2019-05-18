@@ -20,7 +20,7 @@ The right window displays the console output. Any `print()` statement will displ
 When the code is modified, it shows a check and cancel box, and the Play button is turned orange to indicate the node needs to be run. 
 
 You can accept changes and run by pressing <kbd>Ctrl + Enter</></kbd> or clicking on the icons. After running the node the Play button is turned blue.
- 
+ ![](http://img.pyplan.org/model-orange.png)
 
 the status of the windows is set to: 
 
@@ -61,10 +61,10 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzgyMzEyLC02ODI4MDY0MDEsNDQ1OT
-M0NzI3LDYxMjQ5MDUxLC0zNTI3Mjc4MjcsLTc0NTI2MTE3OSwz
-NzQ4NjMwNzksNzU5MjkyNzg4LDE1ODE2OTEwMjcsLTIwODAzMD
-Q3OTcsLTQxNzA5NjM3LC0xODM2MDUzNTE5LDUxMTg5NTU4MCw2
-MzAyNDE4NDQsLTE0MDY4ODU0MjIsLTQwOTI2MzYyMSwtMTQ0Nj
-M3MTg5N119
+eyJoaXN0b3J5IjpbLTE1MzAxNDYwMDEsMTkxMzgyMzEyLC02OD
+I4MDY0MDEsNDQ1OTM0NzI3LDYxMjQ5MDUxLC0zNTI3Mjc4Mjcs
+LTc0NTI2MTE3OSwzNzQ4NjMwNzksNzU5MjkyNzg4LDE1ODE2OT
+EwMjcsLTIwODAzMDQ3OTcsLTQxNzA5NjM3LC0xODM2MDUzNTE5
+LDUxMTg5NTU4MCw2MzAyNDE4NDQsLTE0MDY4ODU0MjIsLTQwOT
+I2MzYyMSwtMTQ0NjM3MTg5N119
 -->
