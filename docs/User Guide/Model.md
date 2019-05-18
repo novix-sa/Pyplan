@@ -16,7 +16,8 @@ The <kbd>Code</></kbd> tab:
 The code tab presents two windows. The left one is the space to insert the code of the node.
 Nodes code **must end with the result definition**. The **"result"** variable contains the result of the node. That is the output to be displayed when the node is evaluated or when called from other node.
 Intermediate local variables can be used and results printed in the console for tracing calculation, but at the end must come the result definition.
-The right window displays the console output. En the eza
+The right window displays the console output. Any `print()` statement will display outputs here.
+When the code is modified, 
 
 
 The Python code is included asNodes are the su
@@ -55,9 +56,9 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjExMzcwNDQsNDQ1OTM0NzI3LDYxMj
-Q5MDUxLC0zNTI3Mjc4MjcsLTc0NTI2MTE3OSwzNzQ4NjMwNzks
-NzU5MjkyNzg4LDE1ODE2OTEwMjcsLTIwODAzMDQ3OTcsLTQxNz
-A5NjM3LC0xODM2MDUzNTE5LDUxMTg5NTU4MCw2MzAyNDE4NDQs
-LTE0MDY4ODU0MjIsLTQwOTI2MzYyMSwtMTQ0NjM3MTg5N119
+eyJoaXN0b3J5IjpbLTg3NzM3MTY0Niw0NDU5MzQ3MjcsNjEyND
+kwNTEsLTM1MjcyNzgyNywtNzQ1MjYxMTc5LDM3NDg2MzA3OSw3
+NTkyOTI3ODgsMTU4MTY5MTAyNywtMjA4MDMwNDc5NywtNDE3MD
+k2MzcsLTE4MzYwNTM1MTksNTExODk1NTgwLDYzMDI0MTg0NCwt
+MTQwNjg4NTQyMiwtNDA5MjYzNjIxLC0xNDQ2MzcxODk3XX0=
 -->
