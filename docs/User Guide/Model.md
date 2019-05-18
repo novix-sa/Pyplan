@@ -12,7 +12,10 @@ The <kbd>Properties</kbd> tab contains:
  - **Code**: shortcut to the Code tab
 The <kbd>Code</></kbd> tab:
 The code tab presents two windows. The left one is the space to insert the code of the node.
-![enter image description here](http://img.pyplan.org/model-code-tab1.png)
+The code is p
+![enter image description here](http://img.pyplan.org/model-code-tab.png)
+
+On the right window you will find the console output. It shows 
 
 
 
@@ -52,9 +55,9 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMwMDUwNjYsLTc0NTI2MTE3OSwzNz
-Q4NjMwNzksNzU5MjkyNzg4LDE1ODE2OTEwMjcsLTIwODAzMDQ3
-OTcsLTQxNzA5NjM3LC0xODM2MDUzNTE5LDUxMTg5NTU4MCw2Mz
-AyNDE4NDQsLTE0MDY4ODU0MjIsLTQwOTI2MzYyMSwtMTQ0NjM3
-MTg5N119
+eyJoaXN0b3J5IjpbLTY5MzI0NDI5MywtNzQ1MjYxMTc5LDM3ND
+g2MzA3OSw3NTkyOTI3ODgsMTU4MTY5MTAyNywtMjA4MDMwNDc5
+NywtNDE3MDk2MzcsLTE4MzYwNTM1MTksNTExODk1NTgwLDYzMD
+I0MTg0NCwtMTQwNjg4NTQyMiwtNDA5MjYzNjIxLC0xNDQ2Mzcx
+ODk3XX0=
 -->
