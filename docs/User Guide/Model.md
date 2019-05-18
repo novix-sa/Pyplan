@@ -24,16 +24,6 @@ When the code is modified, it shows a check and cancel box, and the Play button 
 You can accept changes and run the node by pressing <kbd>Ctrl + Enter</></kbd> or clicking on the icons. 
 After running the node the Play button is turned blue.
 ![enter image description here](http://img.pyplan.org/model-blue.png)
-the status of the windows is set to: 
-
-
-The Python code is included asNodes are the su
-The app code is structured using a hierarchical influence diagram of nodes -a Workflow- that helps understand the calculation logic. Nodes are added by means of a drag and drop user interface, and Python code is written inside their Code attribute tab. 
-![Node Code](http://img.pyplan.org/index_node_code.png)
-
-Nodes have several properties: Title, ID, Units, Inputs, and Outputs, which are displayed when a node is selected. The ID function allows to call the results from other nodes, and works as a global variable for programming.
-
-![Node properties](http://img.pyplan.org/index_node_properties1.png)
 
 
 ## Model Creation
@@ -63,10 +53,10 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDkxNzAsMTkxMzgyMzEyLC02ODI4MD
-Y0MDEsNDQ1OTM0NzI3LDYxMjQ5MDUxLC0zNTI3Mjc4MjcsLTc0
-NTI2MTE3OSwzNzQ4NjMwNzksNzU5MjkyNzg4LDE1ODE2OTEwMj
-csLTIwODAzMDQ3OTcsLTQxNzA5NjM3LC0xODM2MDUzNTE5LDUx
-MTg5NTU4MCw2MzAyNDE4NDQsLTE0MDY4ODU0MjIsLTQwOTI2Mz
-YyMSwtMTQ0NjM3MTg5N119
+eyJoaXN0b3J5IjpbODkwNzI0NzU4LDE4MTQ5MTcwLDE5MTM4Mj
+MxMiwtNjgyODA2NDAxLDQ0NTkzNDcyNyw2MTI0OTA1MSwtMzUy
+NzI3ODI3LC03NDUyNjExNzksMzc0ODYzMDc5LDc1OTI5Mjc4OC
+wxNTgxNjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYzNywtMTgz
+NjA1MzUxOSw1MTE4OTU1ODAsNjMwMjQxODQ0LC0xNDA2ODg1ND
+IyLC00MDkyNjM2MjEsLTE0NDYzNzE4OTddfQ==
 -->
