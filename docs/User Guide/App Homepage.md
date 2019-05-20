@@ -1,4 +1,4 @@
-# App Home
+# **App Home**
 After log-in the user lands at the app homepage that works as a starting point to go to:
  - Create a new app
  - Open recent models
@@ -19,8 +19,8 @@ In the case there are multiple sessions opened, they are listed as follows:
 The user can jump from one session to another just clicking on the session name or close any open session by clicking the cross red button.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk1MDM3NTgsMTkwMTY0NDA1OCwxNj
-ExODI5NzAwLDE5NTA4MjUyNjgsLTg4ODgzMTYyOCw2NzQxMjE3
-MzMsLTEzNzI4MTgzNjMsMTk3MTEzNTQyNCwxMzMzMTk1NCwtNj
-gxMzY1MDUsMTI3ODUwOTU4MF19
+eyJoaXN0b3J5IjpbMTMyMDYzMjQzNCwtMTg2OTUwMzc1OCwxOT
+AxNjQ0MDU4LDE2MTE4Mjk3MDAsMTk1MDgyNTI2OCwtODg4ODMx
+NjI4LDY3NDEyMTczMywtMTM3MjgxODM2MywxOTcxMTM1NDI0LD
+EzMzMxOTU0LC02ODEzNjUwNSwxMjc4NTA5NTgwXX0=
 -->
