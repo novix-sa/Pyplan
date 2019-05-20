@@ -42,6 +42,14 @@ This tab a complete HTML text editor to include rich text, links, images and vid
 ### Default imports
 In order to avoid declaring the 'Import' sentence en each node, there is a node, called Default imports that collects the Library that will not require to declare import all across the model.
 
+    import numpy, pandas, cubepy, xarray
+#fill the following dict keys with the alias you need to import in each node
+result = {
+    "np":numpy,
+    "pd":pandas,
+    "cubepy":cubepy,
+    "xr":xarray
+
 `import numpy, pandas, cubepy, xarray
 #fill the following dict keys with the alias you need to import in each node
 result = {
@@ -72,10 +80,10 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzkyNTE5MCw5NzA5NzIzLC0xMjgwNT
-c4OTA1LDEyMjQzNjkxNDUsODkwNzI0NzU4LDE4MTQ5MTcwLDE5
-MTM4MjMxMiwtNjgyODA2NDAxLDQ0NTkzNDcyNyw2MTI0OTA1MS
-wtMzUyNzI3ODI3LC03NDUyNjExNzksMzc0ODYzMDc5LDc1OTI5
-Mjc4OCwxNTgxNjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYzNy
-wtMTgzNjA1MzUxOSw1MTE4OTU1ODAsNjMwMjQxODQ0XX0=
+eyJoaXN0b3J5IjpbLTc5NDY0MTk3NCwxOTI3OTI1MTkwLDk3MD
+k3MjMsLTEyODA1Nzg5MDUsMTIyNDM2OTE0NSw4OTA3MjQ3NTgs
+MTgxNDkxNzAsMTkxMzgyMzEyLC02ODI4MDY0MDEsNDQ1OTM0Nz
+I3LDYxMjQ5MDUxLC0zNTI3Mjc4MjcsLTc0NTI2MTE3OSwzNzQ4
+NjMwNzksNzU5MjkyNzg4LDE1ODE2OTEwMjcsLTIwODAzMDQ3OT
+csLTQxNzA5NjM3LC0xODM2MDUzNTE5LDUxMTg5NTU4MF19
 -->
