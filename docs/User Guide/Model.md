@@ -15,8 +15,8 @@ The <kbd>Properties</kbd> tab contains:
 The <kbd>Code</></kbd> tab:
 ![enter image description here](http://img.pyplan.org/model-code-tab1.png)
 The code tab presents two windows. The left one is the space to insert the code of the node.
-Nodes code **must end with the result definition**. The **"result"** variable contains the result of the node. That is the output to be displayed when the node is evaluated or when called from other node.
-Intermediate local variables can be used and results printed in the console for tracing calculation, but at the end must come the result definition.
+Nodes code **must end with the result definition**. The **"result"** variable contains the output of the node. That is the values to be displayed when the node is evaluated or when called from other node.
+Intermediate local variables can be used within the node code. Thi and results printed in the console for tracing calculation, but at the end must come the result definition.
 The right window displays the console output. Any `print()` statement will display outputs here.
 When the code is modified, it shows a check and cancel box, and the Play button is turned orange to indicate the node needs to be run. 
  ![](http://img.pyplan.org/model-orange.png)
@@ -53,10 +53,11 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNzI0NzU4LDE4MTQ5MTcwLDE5MTM4Mj
-MxMiwtNjgyODA2NDAxLDQ0NTkzNDcyNyw2MTI0OTA1MSwtMzUy
-NzI3ODI3LC03NDUyNjExNzksMzc0ODYzMDc5LDc1OTI5Mjc4OC
-wxNTgxNjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYzNywtMTgz
-NjA1MzUxOSw1MTE4OTU1ODAsNjMwMjQxODQ0LC0xNDA2ODg1ND
-IyLC00MDkyNjM2MjEsLTE0NDYzNzE4OTddfQ==
+eyJoaXN0b3J5IjpbMTg4MDA3NjMxOSw4OTA3MjQ3NTgsMTgxND
+kxNzAsMTkxMzgyMzEyLC02ODI4MDY0MDEsNDQ1OTM0NzI3LDYx
+MjQ5MDUxLC0zNTI3Mjc4MjcsLTc0NTI2MTE3OSwzNzQ4NjMwNz
+ksNzU5MjkyNzg4LDE1ODE2OTEwMjcsLTIwODAzMDQ3OTcsLTQx
+NzA5NjM3LC0xODM2MDUzNTE5LDUxMTg5NTU4MCw2MzAyNDE4ND
+QsLTE0MDY4ODU0MjIsLTQwOTI2MzYyMSwtMTQ0NjM3MTg5N119
+
 -->
