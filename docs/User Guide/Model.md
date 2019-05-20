@@ -1,6 +1,6 @@
 # Model
 ## Node Properties Tabs
-Pyplan structures code trough an influence digram of nodes. Nodes have properties that could be inspected and edited, after selection, trough tabs <kbd>Properties</kbd><kbd>Code</></kbd><kbd>Docs</kbd>.
+Pyplan structures code trough an influence digram of nodes. When a node is selected (on edit mode) Nodes have properties that could be inspected and edited, after selection, trough tabs <kbd>Properties</kbd><kbd>Code</></kbd><kbd>Docs</kbd>.
 
 ![enter image description here](http://img.pyplan.org/model-node-prop1.png)
 The <kbd>Properties</kbd> tab contains:
@@ -57,11 +57,11 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA1Nzg5MDUsMTIyNDM2OTE0NSw4OT
-A3MjQ3NTgsMTgxNDkxNzAsMTkxMzgyMzEyLC02ODI4MDY0MDEs
-NDQ1OTM0NzI3LDYxMjQ5MDUxLC0zNTI3Mjc4MjcsLTc0NTI2MT
-E3OSwzNzQ4NjMwNzksNzU5MjkyNzg4LDE1ODE2OTEwMjcsLTIw
-ODAzMDQ3OTcsLTQxNzA5NjM3LC0xODM2MDUzNTE5LDUxMTg5NT
-U4MCw2MzAyNDE4NDQsLTE0MDY4ODU0MjIsLTQwOTI2MzYyMV19
-
+eyJoaXN0b3J5IjpbLTE3ODIzMTYxMTgsLTEyODA1Nzg5MDUsMT
+IyNDM2OTE0NSw4OTA3MjQ3NTgsMTgxNDkxNzAsMTkxMzgyMzEy
+LC02ODI4MDY0MDEsNDQ1OTM0NzI3LDYxMjQ5MDUxLC0zNTI3Mj
+c4MjcsLTc0NTI2MTE3OSwzNzQ4NjMwNzksNzU5MjkyNzg4LDE1
+ODE2OTEwMjcsLTIwODAzMDQ3OTcsLTQxNzA5NjM3LC0xODM2MD
+UzNTE5LDUxMTg5NTU4MCw2MzAyNDE4NDQsLTE0MDY4ODU0MjJd
+fQ==
 -->
