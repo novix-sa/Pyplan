@@ -66,13 +66,13 @@ result = {
 ## Using Python libraries
 
 
-<img src="image.jpg" width="50%" height="50%" />
+<img src="model-orange.png" width="50%" height="50%" />
 <i class="icon-file"></i>
 <i class="fa fa-folder-open"></i>
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjAwNDI2Myw5NzA5NzIzLC0xMjgwNT
+eyJoaXN0b3J5IjpbMTkyNzkyNTE5MCw5NzA5NzIzLC0xMjgwNT
 c4OTA1LDEyMjQzNjkxNDUsODkwNzI0NzU4LDE4MTQ5MTcwLDE5
 MTM4MjMxMiwtNjgyODA2NDAxLDQ0NTkzNDcyNyw2MTI0OTA1MS
 wtMzUyNzI3ODI3LC03NDUyNjExNzksMzc0ODYzMDc5LDc1OTI5
