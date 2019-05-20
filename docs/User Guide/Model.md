@@ -37,6 +37,8 @@ This tab a complete HTML text editor to include rich text, links, images and vid
 ### Module
 ### Text
 
+## Model Preferences
+
 ## Model Creation
 ### Creating a new model
 ### Default imports
@@ -64,10 +66,10 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwOTcyMywtMTI4MDU3ODkwNSwxMjI0Mz
-Y5MTQ1LDg5MDcyNDc1OCwxODE0OTE3MCwxOTEzODIzMTIsLTY4
-MjgwNjQwMSw0NDU5MzQ3MjcsNjEyNDkwNTEsLTM1MjcyNzgyNy
-wtNzQ1MjYxMTc5LDM3NDg2MzA3OSw3NTkyOTI3ODgsMTU4MTY5
-MTAyNywtMjA4MDMwNDc5NywtNDE3MDk2MzcsLTE4MzYwNTM1MT
-ksNTExODk1NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQyMl19
+eyJoaXN0b3J5IjpbLTE2ODQwNTE1ODQsOTcwOTcyMywtMTI4MD
+U3ODkwNSwxMjI0MzY5MTQ1LDg5MDcyNDc1OCwxODE0OTE3MCwx
+OTEzODIzMTIsLTY4MjgwNjQwMSw0NDU5MzQ3MjcsNjEyNDkwNT
+EsLTM1MjcyNzgyNywtNzQ1MjYxMTc5LDM3NDg2MzA3OSw3NTky
+OTI3ODgsMTU4MTY5MTAyNywtMjA4MDMwNDc5NywtNDE3MDk2Mz
+csLTE4MzYwNTM1MTksNTExODk1NTgwLDYzMDI0MTg0NF19
 -->
