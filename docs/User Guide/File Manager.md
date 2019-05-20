@@ -1,4 +1,4 @@
-# File Manager
+# **File Manager**
 Clicking on the folder icon found at the left menu you will access the file manager.
 <img alt="Image" title="File Manager" src="http://img.pyplan.org/FileManger-Open_small.png" width="70%"/>
 
@@ -15,11 +15,11 @@ Files can be uploaded through drag-and-drop user interface.
 > **Note:** When the uploaded file match with an existing file, the new uploaded file replace the previous one which is preserved renaming it with a date suffix and an ***".old"*** extension.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDk0Njc2MSwxNzYyMDc2NzM5LC02Nz
-k3OTM0NDMsLTEzOTU5MTI5MTUsMTc0OTg0NzI1MywtMTUyMDY3
-MjkwMSw3NjgxNjM0NjYsLTYwNzUyNDk2NCw1NjY1Nzk2NjYsLT
-IxMTUwODY1MDIsMTQ1MzAxNDI4MiwtNjIwODYyMzM3LC0xNTg1
-NTYwMDA2LDE0MDUxOTMxNDgsMTQ0MjQwOTg2MSw4MjI0MzU1ND
-QsMjA3MjI5NDI5MSwtMjg3OTkyMjI0LDE3NDMxODE3MDcsLTEy
-MjE4NTk4MDNdfQ==
+eyJoaXN0b3J5IjpbLTEzMDI0MDc2ODksLTY0NDk0Njc2MSwxNz
+YyMDc2NzM5LC02Nzk3OTM0NDMsLTEzOTU5MTI5MTUsMTc0OTg0
+NzI1MywtMTUyMDY3MjkwMSw3NjgxNjM0NjYsLTYwNzUyNDk2NC
+w1NjY1Nzk2NjYsLTIxMTUwODY1MDIsMTQ1MzAxNDI4MiwtNjIw
+ODYyMzM3LC0xNTg1NTYwMDA2LDE0MDUxOTMxNDgsMTQ0MjQwOT
+g2MSw4MjI0MzU1NDQsMjA3MjI5NDI5MSwtMjg3OTkyMjI0LDE3
+NDMxODE3MDddfQ==
 -->
