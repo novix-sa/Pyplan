@@ -26,8 +26,9 @@ After running the node the Play button is turned blue to indicate it has already
 ![enter image description here](http://img.pyplan.org/model-blue.png)
 
 The <kbd>Docs</></kbd> tab:
-This tab a complete HTML text editor t
+This tab a complete HTML text editor to include rich text, links, images and videos that describes the fundamentals of every calculation step.
 ![enter image description here](http://img.pyplan.org/model-docs.png)
+In this 
 
 ## Model Creation
 ### Creating a new model
@@ -56,11 +57,11 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2OTY2OTY2LDEyMjQzNjkxNDUsODkwNz
-I0NzU4LDE4MTQ5MTcwLDE5MTM4MjMxMiwtNjgyODA2NDAxLDQ0
-NTkzNDcyNyw2MTI0OTA1MSwtMzUyNzI3ODI3LC03NDUyNjExNz
-ksMzc0ODYzMDc5LDc1OTI5Mjc4OCwxNTgxNjkxMDI3LC0yMDgw
-MzA0Nzk3LC00MTcwOTYzNywtMTgzNjA1MzUxOSw1MTE4OTU1OD
-AsNjMwMjQxODQ0LC0xNDA2ODg1NDIyLC00MDkyNjM2MjFdfQ==
+eyJoaXN0b3J5IjpbMTEyNDg0OTcyMCwxMjI0MzY5MTQ1LDg5MD
+cyNDc1OCwxODE0OTE3MCwxOTEzODIzMTIsLTY4MjgwNjQwMSw0
+NDU5MzQ3MjcsNjEyNDkwNTEsLTM1MjcyNzgyNywtNzQ1MjYxMT
+c5LDM3NDg2MzA3OSw3NTkyOTI3ODgsMTU4MTY5MTAyNywtMjA4
+MDMwNDc5NywtNDE3MDk2MzcsLTE4MzYwNTM1MTksNTExODk1NT
+gwLDYzMDI0MTg0NCwtMTQwNjg4NTQyMiwtNDA5MjYzNjIxXX0=
 
 -->
