@@ -9,17 +9,17 @@ As can be seen there are two workspaces, the Public one were you will find the e
 You can only read and run the models from Public workspace, or copy any model to your own workspace to edit:
 ![enter image description here](http://img.pyplan.org/FileManager-CopyIn.png)
 
-## Uploading
+## **Uploading**
 Files can be uploaded through drag-and-drop user interface.
 ![enter image description here](http://img.pyplan.org/FileManager-upload.gif)
 > **Note:** When the uploaded file match with an existing file, the new uploaded file replace the previous one which is preserved renaming it with a date suffix and an ***".old"*** extension.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI0MDc2ODksLTY0NDk0Njc2MSwxNz
-YyMDc2NzM5LC02Nzk3OTM0NDMsLTEzOTU5MTI5MTUsMTc0OTg0
-NzI1MywtMTUyMDY3MjkwMSw3NjgxNjM0NjYsLTYwNzUyNDk2NC
-w1NjY1Nzk2NjYsLTIxMTUwODY1MDIsMTQ1MzAxNDI4MiwtNjIw
-ODYyMzM3LC0xNTg1NTYwMDA2LDE0MDUxOTMxNDgsMTQ0MjQwOT
-g2MSw4MjI0MzU1NDQsMjA3MjI5NDI5MSwtMjg3OTkyMjI0LDE3
-NDMxODE3MDddfQ==
+eyJoaXN0b3J5IjpbLTQ5MTI3MTYyNSwtNjQ0OTQ2NzYxLDE3Nj
+IwNzY3MzksLTY3OTc5MzQ0MywtMTM5NTkxMjkxNSwxNzQ5ODQ3
+MjUzLC0xNTIwNjcyOTAxLDc2ODE2MzQ2NiwtNjA3NTI0OTY0LD
+U2NjU3OTY2NiwtMjExNTA4NjUwMiwxNDUzMDE0MjgyLC02MjA4
+NjIzMzcsLTE1ODU1NjAwMDYsMTQwNTE5MzE0OCwxNDQyNDA5OD
+YxLDgyMjQzNTU0NCwyMDcyMjk0MjkxLC0yODc5OTIyMjQsMTc0
+MzE4MTcwN119
 -->
