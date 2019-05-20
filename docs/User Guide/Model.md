@@ -26,9 +26,9 @@ After running the node the Play button is turned blue to indicate it has already
 ![enter image description here](http://img.pyplan.org/model-blue.png)
 
 The <kbd>Docs</></kbd> tab:
-This tab a complete HTML text editor to include rich text, links, images and videos that describes the fundamentals of every calculation step.
+This tab a complete HTML text editor to include rich text, links, images and videos that describes and explain the fundamentals of every calculation step. In this way, the app becomes an interactive knowledge repository.
 ![enter image description here](http://img.pyplan.org/model-docs.png)
-In this 
+
 
 ## Model Creation
 ### Creating a new model
@@ -57,7 +57,7 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDg0OTcyMCwxMjI0MzY5MTQ1LDg5MD
+eyJoaXN0b3J5IjpbMTI3NjA0Mzc5NiwxMjI0MzY5MTQ1LDg5MD
 cyNDc1OCwxODE0OTE3MCwxOTEzODIzMTIsLTY4MjgwNjQwMSw0
 NDU5MzQ3MjcsNjEyNDkwNTEsLTM1MjcyNzgyNywtNzQ1MjYxMT
 c5LDM3NDg2MzA3OSw3NTkyOTI3ODgsMTU4MTY5MTAyNywtMjA4
