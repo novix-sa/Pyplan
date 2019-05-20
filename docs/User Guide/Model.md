@@ -1,6 +1,6 @@
 # Model
 ## Node Properties Tabs
-Pyplan structures code trough an influence digram of nodes. When a node is selected (on edit mode) it is open a properties tab. Nodes attributes could be inspected and edited trough tabs <kbd>Properties</kbd><kbd>Code</></kbd><kbd>Docs</kbd>.
+Pyplan structures code trough an influence digram of nodes. When a node is selected (on edit mode) it is open a properties window. Nodes attributes can be inspected and edited trough tabs that are labeled as <kbd>Properties</kbd><kbd>Code</></kbd><kbd>Docs</kbd>.
 
 ![enter image description here](http://img.pyplan.org/model-node-prop1.png)
 The <kbd>Properties</kbd> tab contains:
@@ -28,6 +28,7 @@ After running the node the Play button is turned blue to indicate it has already
 The <kbd>Docs</></kbd> tab:
 This tab a complete HTML text editor to include rich text, links, images and videos that describes and explain the fundamentals of every calculation step. In this way, the app becomes an interactive knowledge repository.
 ![enter image description here](http://img.pyplan.org/model-docs.png)
+## Type of Nodes
 
 
 ## Model Creation
@@ -57,11 +58,11 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDY0MzUyNSwtMTI4MDU3ODkwNSwxMj
-I0MzY5MTQ1LDg5MDcyNDc1OCwxODE0OTE3MCwxOTEzODIzMTIs
-LTY4MjgwNjQwMSw0NDU5MzQ3MjcsNjEyNDkwNTEsLTM1MjcyNz
-gyNywtNzQ1MjYxMTc5LDM3NDg2MzA3OSw3NTkyOTI3ODgsMTU4
-MTY5MTAyNywtMjA4MDMwNDc5NywtNDE3MDk2MzcsLTE4MzYwNT
-M1MTksNTExODk1NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQyMl19
+eyJoaXN0b3J5IjpbNzI5Njc0Nzc3LC0xMjgwNTc4OTA1LDEyMj
+QzNjkxNDUsODkwNzI0NzU4LDE4MTQ5MTcwLDE5MTM4MjMxMiwt
+NjgyODA2NDAxLDQ0NTkzNDcyNyw2MTI0OTA1MSwtMzUyNzI3OD
+I3LC03NDUyNjExNzksMzc0ODYzMDc5LDc1OTI5Mjc4OCwxNTgx
+NjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYzNywtMTgzNjA1Mz
+UxOSw1MTE4OTU1ODAsNjMwMjQxODQ0LC0xNDA2ODg1NDIyXX0=
 
 -->
