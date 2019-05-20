@@ -25,6 +25,7 @@ You can accept changes and run the node by pressing <kbd>Ctrl + Enter</></kbd> o
 After running the node the Play button is turned blue to indicate it has already been calculated.
 ![enter image description here](http://img.pyplan.org/model-blue.png)
 
+The <kbd>Docs</></kbd> tab:
 
 ## Model Creation
 ### Creating a new model
@@ -53,11 +54,11 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjAxNzI5OCw4OTA3MjQ3NTgsMTgxND
-kxNzAsMTkxMzgyMzEyLC02ODI4MDY0MDEsNDQ1OTM0NzI3LDYx
-MjQ5MDUxLC0zNTI3Mjc4MjcsLTc0NTI2MTE3OSwzNzQ4NjMwNz
-ksNzU5MjkyNzg4LDE1ODE2OTEwMjcsLTIwODAzMDQ3OTcsLTQx
-NzA5NjM3LC0xODM2MDUzNTE5LDUxMTg5NTU4MCw2MzAyNDE4ND
-QsLTE0MDY4ODU0MjIsLTQwOTI2MzYyMSwtMTQ0NjM3MTg5N119
+eyJoaXN0b3J5IjpbOTM3NzEzNDksODkwNzI0NzU4LDE4MTQ5MT
+cwLDE5MTM4MjMxMiwtNjgyODA2NDAxLDQ0NTkzNDcyNyw2MTI0
+OTA1MSwtMzUyNzI3ODI3LC03NDUyNjExNzksMzc0ODYzMDc5LD
+c1OTI5Mjc4OCwxNTgxNjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcw
+OTYzNywtMTgzNjA1MzUxOSw1MTE4OTU1ODAsNjMwMjQxODQ0LC
+0xNDA2ODg1NDIyLC00MDkyNjM2MjEsLTE0NDYzNzE4OTddfQ==
 
 -->
