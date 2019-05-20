@@ -55,11 +55,11 @@ result = {
 ## Execution
 
 ### Console Output
-<kbd>CTRL + Enter</></kbd>
-### Result Inspector
-<kbd>CTRL + E</></kbd>
+<kbd>CTRL + Enter</kbd>
+### Result Explorer
+<kbd>CTRL + E</kbd>
 ### Evaluating a Node
-<kbd>CTRL + R</></kbd>
+<kbd>CTRL + R</></kbd> to get its result
 
 ## Pyplan approach to Xarray
 ## Dynamic simulation
@@ -72,10 +72,10 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjc4NzI3Myw5NzA5NzIzLC0xMjgwNT
-c4OTA1LDEyMjQzNjkxNDUsODkwNzI0NzU4LDE4MTQ5MTcwLDE5
-MTM4MjMxMiwtNjgyODA2NDAxLDQ0NTkzNDcyNyw2MTI0OTA1MS
-wtMzUyNzI3ODI3LC03NDUyNjExNzksMzc0ODYzMDc5LDc1OTI5
-Mjc4OCwxNTgxNjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYzNy
-wtMTgzNjA1MzUxOSw1MTE4OTU1ODAsNjMwMjQxODQ0XX0=
+eyJoaXN0b3J5IjpbLTE1NDAzNjY0NzksOTcwOTcyMywtMTI4MD
+U3ODkwNSwxMjI0MzY5MTQ1LDg5MDcyNDc1OCwxODE0OTE3MCwx
+OTEzODIzMTIsLTY4MjgwNjQwMSw0NDU5MzQ3MjcsNjEyNDkwNT
+EsLTM1MjcyNzgyNywtNzQ1MjYxMTc5LDM3NDg2MzA3OSw3NTky
+OTI3ODgsMTU4MTY5MTAyNywtMjA4MDMwNDc5NywtNDE3MDk2Mz
+csLTE4MzYwNTM1MTksNTExODk1NTgwLDYzMDI0MTg0NF19
 -->
