@@ -39,8 +39,6 @@ This tab a complete HTML text editor to include rich text, links, images and vid
 
 ## Model Preferences
 
-## Model Creation
-### Creating a new model
 ### Default imports
 In order to avoid declaring the 'Import' sentence en each node, there is a node, called Default imports that collects the Library that will not require to declare import all across the model.
 
@@ -55,6 +53,10 @@ result = {
 
 
 ## Execution
+
+### Console Output
+### 
+
 ## Pyplan approach to Xarray
 ## Dynamic simulation
 ## Using Python libraries
@@ -66,10 +68,10 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQwNTE1ODQsOTcwOTcyMywtMTI4MD
-U3ODkwNSwxMjI0MzY5MTQ1LDg5MDcyNDc1OCwxODE0OTE3MCwx
-OTEzODIzMTIsLTY4MjgwNjQwMSw0NDU5MzQ3MjcsNjEyNDkwNT
-EsLTM1MjcyNzgyNywtNzQ1MjYxMTc5LDM3NDg2MzA3OSw3NTky
-OTI3ODgsMTU4MTY5MTAyNywtMjA4MDMwNDc5NywtNDE3MDk2Mz
-csLTE4MzYwNTM1MTksNTExODk1NTgwLDYzMDI0MTg0NF19
+eyJoaXN0b3J5IjpbLTczNjg3NjA1Niw5NzA5NzIzLC0xMjgwNT
+c4OTA1LDEyMjQzNjkxNDUsODkwNzI0NzU4LDE4MTQ5MTcwLDE5
+MTM4MjMxMiwtNjgyODA2NDAxLDQ0NTkzNDcyNyw2MTI0OTA1MS
+wtMzUyNzI3ODI3LC03NDUyNjExNzksMzc0ODYzMDc5LDc1OTI5
+Mjc4OCwxNTgxNjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYzNy
+wtMTgzNjA1MzUxOSw1MTE4OTU1ODAsNjMwMjQxODQ0XX0=
 -->
