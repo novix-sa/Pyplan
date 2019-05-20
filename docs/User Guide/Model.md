@@ -29,7 +29,13 @@ The <kbd>Docs</></kbd> tab:
 This tab a complete HTML text editor to include rich text, links, images and videos that describes and explain the fundamentals of every calculation step. In this way, the app becomes an interactive knowledge repository.
 ![enter image description here](http://img.pyplan.org/model-docs.png)
 ## Type of Nodes
-
+### Node
+### Function
+### Decision
+### Index
+### Button
+### Module
+### Text
 
 ## Model Creation
 ### Creating a new model
@@ -58,11 +64,10 @@ result = {
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5Njc0Nzc3LC0xMjgwNTc4OTA1LDEyMj
-QzNjkxNDUsODkwNzI0NzU4LDE4MTQ5MTcwLDE5MTM4MjMxMiwt
-NjgyODA2NDAxLDQ0NTkzNDcyNyw2MTI0OTA1MSwtMzUyNzI3OD
-I3LC03NDUyNjExNzksMzc0ODYzMDc5LDc1OTI5Mjc4OCwxNTgx
-NjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYzNywtMTgzNjA1Mz
-UxOSw1MTE4OTU1ODAsNjMwMjQxODQ0LC0xNDA2ODg1NDIyXX0=
-
+eyJoaXN0b3J5IjpbOTcwOTcyMywtMTI4MDU3ODkwNSwxMjI0Mz
+Y5MTQ1LDg5MDcyNDc1OCwxODE0OTE3MCwxOTEzODIzMTIsLTY4
+MjgwNjQwMSw0NDU5MzQ3MjcsNjEyNDkwNTEsLTM1MjcyNzgyNy
+wtNzQ1MjYxMTc5LDM3NDg2MzA3OSw3NTkyOTI3ODgsMTU4MTY5
+MTAyNywtMjA4MDMwNDc5NywtNDE3MDk2MzcsLTE4MzYwNTM1MT
+ksNTExODk1NTgwLDYzMDI0MTg0NCwtMTQwNjg4NTQyMl19
 -->
