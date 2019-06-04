@@ -6,10 +6,10 @@
 NOTE DESCRIPTION
 </div>
 </div>
-<html> <figure class="video_container">
+<html> <body> <figure class="video_container">
 <iframe IFRAME CONTENT></iframe>
-</figure>
+</figure></body>
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTUxMDMxNyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzE1NzAxMzY4LDczMDk5ODExNl19
 -->
