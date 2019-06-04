@@ -57,8 +57,12 @@ You can run any node, after editing its code, pressing <kbd>CTRL + Enter</kbd>.
 It will show at the right side of the code window the console output resulting from running the node.
 Any `Print()` statement written between code lines will display it result here.
 It is intended for rapid evaluation of the node, to check it is properly defined.
+
 ### Result Explorer
-<kbd>CTRL + E</kbd>
+Other way to run a node is by pressing <kbd>CTRL + E</kbd>.
+This way of running displays not only
+
+
 ### Evaluating a Node
 <kbd>CTRL + R</kbd> to get its result
 
@@ -72,10 +76,10 @@ It is intended for rapid evaluation of the node, to check it is properly defined
 <i class="icon-file"></i>
 <i class="fa fa-folder-open"></i>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Nzc2NDg1NSwtNjczNDQ1MjU5LDEzMj
-g0MjUyODcsMTkyNzkyNTE5MCw5NzA5NzIzLC0xMjgwNTc4OTA1
-LDEyMjQzNjkxNDUsODkwNzI0NzU4LDE4MTQ5MTcwLDE5MTM4Mj
-MxMiwtNjgyODA2NDAxLDQ0NTkzNDcyNyw2MTI0OTA1MSwtMzUy
-NzI3ODI3LC03NDUyNjExNzksMzc0ODYzMDc5LDc1OTI5Mjc4OC
-wxNTgxNjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYzN119
+eyJoaXN0b3J5IjpbNzkyMDg5NjY4LC02NzM0NDUyNTksMTMyOD
+QyNTI4NywxOTI3OTI1MTkwLDk3MDk3MjMsLTEyODA1Nzg5MDUs
+MTIyNDM2OTE0NSw4OTA3MjQ3NTgsMTgxNDkxNzAsMTkxMzgyMz
+EyLC02ODI4MDY0MDEsNDQ1OTM0NzI3LDYxMjQ5MDUxLC0zNTI3
+Mjc4MjcsLTc0NTI2MTE3OSwzNzQ4NjMwNzksNzU5MjkyNzg4LD
+E1ODE2OTEwMjcsLTIwODAzMDQ3OTcsLTQxNzA5NjM3XX0=
 -->
