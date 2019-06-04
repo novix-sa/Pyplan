@@ -21,7 +21,8 @@ One of the most interesting feature accesible through this way of evaluation is 
 You can evaluate a node by double clicking on it or pressing <kbd>CTRL + R</kbd> after selecting it.
 Differently with the previous run alternatives, the node is run and it result displayed with a default table format.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjkxODIyNyw1MDU5NTIyNDEsOTYwMT
+eyJoaXN0b3J5IjpbMTA4MTA3OTc0NSw1MDU5NTIyNDEsOTYwMT
 A4NiwxMTkwMzIyMTA0LC01NDIwNTcwNDJdfQ==
 -->
