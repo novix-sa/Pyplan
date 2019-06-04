@@ -1,6 +1,6 @@
 
 # Executing Nodes
-A node is run and Getting results 
+Double clicking on a node, it is executed andGetting results 
 
 ### Console Output
 <kbd>CTRL + Enter</kbd>
@@ -12,5 +12,5 @@ A node is run and Getting results
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjk4NTk0NzVdfQ==
+eyJoaXN0b3J5IjpbLTU0MjA1NzA0Ml19
 -->
