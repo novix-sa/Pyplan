@@ -22,9 +22,10 @@ You can evaluate a node by double clicking on it or pressing <kbd>CTRL + R</kbd>
 Differently with the previous run alternatives, the node is run and it result displayed in a new tab, called as the "Title" of the node, with a default table format.
 
 ![enter image description here](http://img.pyplan.org/Node-execution-default.png)
-Pyplan natively interprets Numpy matrix, Pandas dataframe indexes and Xarray dimensions
+Pyplan natively interprets Numpy matrix, Pandas dataframe indexes and Xarray dimensions, that will be automatically displayed at the bottom of the table for pivoting and filtering.
+Any default view can be changed using
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4NDQ2MTc4LC0zNzk5MTYwODAsLTE4NT
-UzMjk5NzksMTQzNTUyNzI4MCwxMDgxMDc5NzQ1LDUwNTk1MjI0
-MSw5NjAxMDg2LDExOTAzMjIxMDQsLTU0MjA1NzA0Ml19
+eyJoaXN0b3J5IjpbLTQ3MjIxODI1MCwtMzc5OTE2MDgwLC0xOD
+U1MzI5OTc5LDE0MzU1MjcyODAsMTA4MTA3OTc0NSw1MDU5NTIy
+NDEsOTYwMTA4NiwxMTkwMzIyMTA0LC01NDIwNTcwNDJdfQ==
 -->
