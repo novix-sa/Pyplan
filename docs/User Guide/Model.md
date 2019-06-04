@@ -50,22 +50,8 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
     "cubepy":cubepy,
     "xr":xarray}
 
-## Execution
-
-### Console Output
-You can run any node, after editing its code, pressing <kbd>CTRL + Enter</kbd>.
-It will show at the right side of the code window the console output resulting from running the node.
-Any `Print()` statement written between code lines will display it result here.
-It is intended for rapid evaluation of the node, to check it is properly defined.
-
-### Result Explorer
-Other way to run a node is by pressing <kbd>CTRL + E</kbd>.
-This way of running displays more complete information about the node properties and its result.
-One of the most interesting feature accesible through this way of evaluation is 
 
 
-### Evaluating a Node
-<kbd>CTRL + R</kbd> to get its result
 
 
 ## Pyplan approach to Xarray
@@ -77,11 +63,10 @@ One of the most interesting feature accesible through this way of evaluation is
 <i class="icon-file"></i>
 <i class="fa fa-folder-open"></i>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkxMDc4MjksNzkyMDg5NjY4LC02Nz
-M0NDUyNTksMTMyODQyNTI4NywxOTI3OTI1MTkwLDk3MDk3MjMs
-LTEyODA1Nzg5MDUsMTIyNDM2OTE0NSw4OTA3MjQ3NTgsMTgxND
-kxNzAsMTkxMzgyMzEyLC02ODI4MDY0MDEsNDQ1OTM0NzI3LDYx
-MjQ5MDUxLC0zNTI3Mjc4MjcsLTc0NTI2MTE3OSwzNzQ4NjMwNz
-ksNzU5MjkyNzg4LDE1ODE2OTEwMjcsLTIwODAzMDQ3OTddfQ==
-
+eyJoaXN0b3J5IjpbMTM1Njc5MTQxNiwtMTc3OTEwNzgyOSw3OT
+IwODk2NjgsLTY3MzQ0NTI1OSwxMzI4NDI1Mjg3LDE5Mjc5MjUx
+OTAsOTcwOTcyMywtMTI4MDU3ODkwNSwxMjI0MzY5MTQ1LDg5MD
+cyNDc1OCwxODE0OTE3MCwxOTEzODIzMTIsLTY4MjgwNjQwMSw0
+NDU5MzQ3MjcsNjEyNDkwNTEsLTM1MjcyNzgyNywtNzQ1MjYxMT
+c5LDM3NDg2MzA3OSw3NTkyOTI3ODgsMTU4MTY5MTAyN119
 -->
