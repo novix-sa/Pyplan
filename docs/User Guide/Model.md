@@ -53,7 +53,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Execution
 
 ### Console Output
-<kbd>CTRL + Enter</kbd>
+You can run any node after editing its code<kbd>CTRL + Enter</kbd>
 ### Result Explorer
 <kbd>CTRL + E</kbd>
 ### Evaluating a Node
@@ -68,14 +68,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 <img src="model-orange.png" width="50%" height="50%" />
 <i class="icon-file"></i>
 <i class="fa fa-folder-open"></i>
-
-mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzQ0NTI1OSwxMzI4NDI1Mjg3LDE5Mj
-c5MjUxOTAsOTcwOTcyMywtMTI4MDU3ODkwNSwxMjI0MzY5MTQ1
-LDg5MDcyNDc1OCwxODE0OTE3MCwxOTEzODIzMTIsLTY4MjgwNj
-QwMSw0NDU5MzQ3MjcsNjEyNDkwNTEsLTM1MjcyNzgyNywtNzQ1
-MjYxMTc5LDM3NDg2MzA3OSw3NTkyOTI3ODgsMTU4MTY5MTAyNy
-wtMjA4MDMwNDc5NywtNDE3MDk2MzcsLTE4MzYwNTM1MTldfQ==
-
+eyJoaXN0b3J5IjpbLTI3MDA3MTc4MSwtNjczNDQ1MjU5LDEzMj
+g0MjUyODcsMTkyNzkyNTE5MCw5NzA5NzIzLC0xMjgwNTc4OTA1
+LDEyMjQzNjkxNDUsODkwNzI0NzU4LDE4MTQ5MTcwLDE5MTM4Mj
+MxMiwtNjgyODA2NDAxLDQ0NTkzNDcyNyw2MTI0OTA1MSwtMzUy
+NzI3ODI3LC03NDUyNjExNzksMzc0ODYzMDc5LDc1OTI5Mjc4OC
+wxNTgxNjkxMDI3LC0yMDgwMzA0Nzk3LC00MTcwOTYzN119
 -->
