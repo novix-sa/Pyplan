@@ -46,7 +46,8 @@ nav:
         - App Home: User Guide/App Homepage.md
         - 'File manager': 'User Guide/File Manager.md'
         - 'Model': 'User Guide/Model.md'
-        - 'UI Designer': 'User Guide/UI Designer (Former Report Manager).md'
+        - 'Node Execution': 'User Guide/Node Execution.md'
+        - 'UI Designer': 'User Guide/User Interface Designer.md'
         - 'Task Manager': 'User Guide/Task Manager.md'
         - 'Configuration': 'User Guide/Configuration.md'
     
