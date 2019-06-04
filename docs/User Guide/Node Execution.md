@@ -19,12 +19,12 @@ One of the most interesting feature accesible through this way of evaluation is 
 <kbd>CTRL + R</kbd> to get its result
 
 You can evaluate a node by double clicking on it or pressing <kbd>CTRL + R</kbd> after selecting it.
-Differently with the previous run alternatives, the node is run and it result displayed with a default table format.
+Differently with the previous run alternatives, the node is run and it result displayed in a new tab, called as the title of the node, with a default table format.
 
 ![enter image description here](http://img.pyplan.org/Node-execution-default.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTUzMjk5NzksMTQzNTUyNzI4MCwxMD
-gxMDc5NzQ1LDUwNTk1MjI0MSw5NjAxMDg2LDExOTAzMjIxMDQs
-LTU0MjA1NzA0Ml19
+eyJoaXN0b3J5IjpbLTM3OTkxNjA4MCwtMTg1NTMyOTk3OSwxND
+M1NTI3MjgwLDEwODEwNzk3NDUsNTA1OTUyMjQxLDk2MDEwODYs
+MTE5MDMyMjEwNCwtNTQyMDU3MDQyXX0=
 -->
