@@ -19,12 +19,12 @@ One of the most interesting feature accesible through this way of evaluation is 
 <kbd>CTRL + R</kbd> to get its result
 
 You can evaluate a node by double clicking on it or pressing <kbd>CTRL + R</kbd> after selecting it.
-Differently with the previous run alternatives, the node is run and it result displayed in a new tab, called as the title of the node, with a default table format.
+Differently with the previous run alternatives, the node is run and it result displayed in a new tab, called as the "Title" of the node, with a default table format.
 
 ![enter image description here](http://img.pyplan.org/Node-execution-default.png)
-
+Pyplan natively interprets Numpy matrix, Pandas dataframe indexes and Xarray dimensions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM3MDQ1NzUsLTM3OTkxNjA4MCwtMT
-g1NTMyOTk3OSwxNDM1NTI3MjgwLDEwODEwNzk3NDUsNTA1OTUy
-MjQxLDk2MDEwODYsMTE5MDMyMjEwNCwtNTQyMDU3MDQyXX0=
+eyJoaXN0b3J5IjpbMjE4NDQ2MTc4LC0zNzk5MTYwODAsLTE4NT
+UzMjk5NzksMTQzNTUyNzI4MCwxMDgxMDc5NzQ1LDUwNTk1MjI0
+MSw5NjAxMDg2LDExOTAzMjIxMDQsLTU0MjA1NzA0Ml19
 -->
