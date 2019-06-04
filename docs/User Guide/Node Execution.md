@@ -24,12 +24,13 @@ Differently with the previous run alternatives, the node is run and it result di
 ![enter image description here](http://img.pyplan.org/Node-execution-default.png)
 Pyplan natively interprets Numpy matrix, Pandas dataframe indexes and Xarray dimensions, that will be automatically displayed at the bottom of the table for pivoting and filtering.
 Any default view can be changed using the Edit interface menu that can be launched clicking on the icon 
-(img: fa fa-pencil-square-o
+
+<i class="fa fa-pencil-square-o"></i>
 
 ![enter image description here](http://img.pyplan.org/Node-execution-edit-interface.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTkzODk3NywxMjY5MTE1ODY4LC00Nz
-IyMTgyNTAsLTM3OTkxNjA4MCwtMTg1NTMyOTk3OSwxNDM1NTI3
-MjgwLDEwODEwNzk3NDUsNTA1OTUyMjQxLDk2MDEwODYsMTE5MD
-MyMjEwNCwtNTQyMDU3MDQyXX0=
+eyJoaXN0b3J5IjpbLTExMzk1ODY5MjAsMTI2OTExNTg2OCwtND
+cyMjE4MjUwLC0zNzk5MTYwODAsLTE4NTUzMjk5NzksMTQzNTUy
+NzI4MCwxMDgxMDc5NzQ1LDUwNTk1MjI0MSw5NjAxMDg2LDExOT
+AzMjIxMDQsLTU0MjA1NzA0Ml19
 -->
