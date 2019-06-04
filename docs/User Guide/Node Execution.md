@@ -3,7 +3,6 @@
 ## Console Output
 You can run any node, after editing its code, pressing <kbd>CTRL + Enter</kbd>.
 It will show at the right side of the code window the console output resulting from running the node.
-![](http://img.pyplan.org/Node-execution-codetab.png)
 ![enter image description here](http://img.pyplan.org/Node-execution-codetab.png)
 Any `Print()` statement written between code lines will display it result here.
 It is intended for rapid evaluation of the node, to check it is properly defined.
@@ -25,7 +24,7 @@ Differently with the previous run alternatives, the node is run and it result di
 ![enter image description here](http://img.pyplan.org/Node-execution-default.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTUyNzI4MCwxMDgxMDc5NzQ1LDUwNT
-k1MjI0MSw5NjAxMDg2LDExOTAzMjIxMDQsLTU0MjA1NzA0Ml19
-
+eyJoaXN0b3J5IjpbLTE4NTUzMjk5NzksMTQzNTUyNzI4MCwxMD
+gxMDc5NzQ1LDUwNTk1MjI0MSw5NjAxMDg2LDExOTAzMjIxMDQs
+LTU0MjA1NzA0Ml19
 -->
