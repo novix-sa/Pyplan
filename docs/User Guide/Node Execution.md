@@ -3,7 +3,7 @@
 ## Console Output
 You can run any node, after editing its code, pressing <kbd>CTRL + Enter</kbd>.
 It will show at the right side of the code window the console output resulting from running the node.
-![enter image description here](http://img.pyplan.org/Node-execution-codetab.png)
+![](http://img.pyplan.org/Node-execution-codetab.png)
 Any `Print()` statement written between code lines will display it result here.
 It is intended for rapid evaluation of the node, to check it is properly defined.
 
@@ -19,9 +19,9 @@ One of the most interesting feature accesible through this way of evaluation is 
 <kbd>CTRL + R</kbd> to get its result
 
 You can evaluate a node by double clicking on it or pressing <kbd>CTRL + R</kbd> after selecting it.
-The node is run and it result displayed with a default table format.
+Differently with the previous run alternatives, the node is run and it result displayed with a default table format.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDk0NDUxNyw1MDU5NTIyNDEsOTYwMT
+eyJoaXN0b3J5IjpbMTEwMjkxODIyNyw1MDU5NTIyNDEsOTYwMT
 A4NiwxMTkwMzIyMTA0LC01NDIwNTcwNDJdfQ==
 -->
