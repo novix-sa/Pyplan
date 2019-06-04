@@ -1,5 +1,6 @@
 
-## Execution
+# Executing Nodes
+A node is run and Getting results 
 
 ### Console Output
 <kbd>CTRL + Enter</kbd>
@@ -11,5 +12,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NDgyMTk0XX0=
+eyJoaXN0b3J5IjpbLTEyMjk4NTk0NzVdfQ==
 -->
