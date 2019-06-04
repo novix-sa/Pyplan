@@ -60,7 +60,8 @@ It is intended for rapid evaluation of the node, to check it is properly defined
 
 ### Result Explorer
 Other way to run a node is by pressing <kbd>CTRL + E</kbd>.
-This way of running displays not only
+This way of running displays more complete information about the node properties and its result.
+One of the most
 
 
 ### Evaluating a Node
@@ -76,10 +77,10 @@ This way of running displays not only
 <i class="icon-file"></i>
 <i class="fa fa-folder-open"></i>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMDg5NjY4LC02NzM0NDUyNTksMTMyOD
-QyNTI4NywxOTI3OTI1MTkwLDk3MDk3MjMsLTEyODA1Nzg5MDUs
-MTIyNDM2OTE0NSw4OTA3MjQ3NTgsMTgxNDkxNzAsMTkxMzgyMz
-EyLC02ODI4MDY0MDEsNDQ1OTM0NzI3LDYxMjQ5MDUxLC0zNTI3
-Mjc4MjcsLTc0NTI2MTE3OSwzNzQ4NjMwNzksNzU5MjkyNzg4LD
-E1ODE2OTEwMjcsLTIwODAzMDQ3OTcsLTQxNzA5NjM3XX0=
+eyJoaXN0b3J5IjpbODMzMjcxNDAzLDc5MjA4OTY2OCwtNjczND
+Q1MjU5LDEzMjg0MjUyODcsMTkyNzkyNTE5MCw5NzA5NzIzLC0x
+MjgwNTc4OTA1LDEyMjQzNjkxNDUsODkwNzI0NzU4LDE4MTQ5MT
+cwLDE5MTM4MjMxMiwtNjgyODA2NDAxLDQ0NTkzNDcyNyw2MTI0
+OTA1MSwtMzUyNzI3ODI3LC03NDUyNjExNzksMzc0ODYzMDc5LD
+c1OTI5Mjc4OCwxNTgxNjkxMDI3LC0yMDgwMzA0Nzk3XX0=
 -->
