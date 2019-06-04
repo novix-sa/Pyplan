@@ -12,6 +12,7 @@ This way of running displays more complete information about the node properties
 One of the most interesting feature accesible through this way of evaluation is 
 
 
+![](http://img.pyplan.org/Node-execution-profile.png)
 ## Evaluating a Node
 <kbd>CTRL + R</kbd> to get its result
 
@@ -19,6 +20,6 @@ You can evaluate a node by double clicking on it or pressing <kbd>CTRL + R</kbd>
 The node is run and it result displayed with a default table format.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwMTA4NiwxMTkwMzIyMTA0LC01NDIwNT
-cwNDJdfQ==
+eyJoaXN0b3J5IjpbLTIwNTk4MDgxNCw5NjAxMDg2LDExOTAzMj
+IxMDQsLTU0MjA1NzA0Ml19
 -->
