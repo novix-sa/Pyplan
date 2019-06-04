@@ -31,11 +31,14 @@ Any default view can be changed using the Edit interface menu that can be launch
 
     <i class="far fa-edit"></i>
     
+### <i class="fas fa-puzzle-piece"</i>
+
 
 ![enter image description here](http://img.pyplan.org/Node-execution-edit-interface.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYyMzk3ODgsNDc3MzU2ODUyLDEyNj
-kxMTU4NjgsLTQ3MjIxODI1MCwtMzc5OTE2MDgwLC0xODU1MzI5
-OTc5LDE0MzU1MjcyODAsMTA4MTA3OTc0NSw1MDU5NTIyNDEsOT
-YwMTA4NiwxMTkwMzIyMTA0LC01NDIwNTcwNDJdfQ==
+eyJoaXN0b3J5IjpbLTU0NjU3Mjk5OCwtMTQ4NjIzOTc4OCw0Nz
+czNTY4NTIsMTI2OTExNTg2OCwtNDcyMjE4MjUwLC0zNzk5MTYw
+ODAsLTE4NTUzMjk5NzksMTQzNTUyNzI4MCwxMDgxMDc5NzQ1LD
+UwNTk1MjI0MSw5NjAxMDg2LDExOTAzMjIxMDQsLTU0MjA1NzA0
+Ml19
 -->
