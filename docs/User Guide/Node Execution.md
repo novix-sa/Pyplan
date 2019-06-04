@@ -1,6 +1,8 @@
 
 # Executing Nodes
 You can evaluate a node by double clicking on it or pressing <kbd>CTRL + R</kbd> after selecting it.
+The node is run and it result displayed with a default table format.
+
 
 Double clicking on a node, it is executed andGetting results 
 
@@ -14,5 +16,5 @@ Double clicking on a node, it is executed andGetting results
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Mzc1NDQzNywtNTQyMDU3MDQyXX0=
+eyJoaXN0b3J5IjpbMTE5MDMyMjEwNCwtNTQyMDU3MDQyXX0=
 -->
