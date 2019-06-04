@@ -27,10 +27,11 @@ Any default view can be changed using the Edit interface menu that can be launch
 ####  <i class="icon-file"></i> Create a document
 <i class="fa-pencil-square-o"></i>
 #### <i class="icon-pencil"></i> Rename a document
+
 ![enter image description here](http://img.pyplan.org/Node-execution-edit-interface.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk2MjU4NTAsMTI2OTExNTg2OCwtND
-cyMjE4MjUwLC0zNzk5MTYwODAsLTE4NTUzMjk5NzksMTQzNTUy
-NzI4MCwxMDgxMDc5NzQ1LDUwNTk1MjI0MSw5NjAxMDg2LDExOT
-AzMjIxMDQsLTU0MjA1NzA0Ml19
+eyJoaXN0b3J5IjpbNDc3MzU2ODUyLDEyNjkxMTU4NjgsLTQ3Mj
+IxODI1MCwtMzc5OTE2MDgwLC0xODU1MzI5OTc5LDE0MzU1Mjcy
+ODAsMTA4MTA3OTc0NSw1MDU5NTIyNDEsOTYwMTA4NiwxMTkwMz
+IyMTA0LC01NDIwNTcwNDJdfQ==
 -->
