@@ -50,6 +50,14 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
     "cubepy":cubepy,
     "xr":xarray}
 
+## Execution
+
+### Console Output
+<kbd>CTRL + Enter</kbd>
+### Result Explorer
+<kbd>CTRL + E</kbd>
+### Evaluating a Node
+<kbd>CTRL + R</kbd> to get its result
 
 
 ## Pyplan approach to Xarray
@@ -63,7 +71,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 
 mmm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTI0NjE5OSwxMzI4NDI1Mjg3LDE5Mj
+eyJoaXN0b3J5IjpbLTY3MzQ0NTI1OSwxMzI4NDI1Mjg3LDE5Mj
 c5MjUxOTAsOTcwOTcyMywtMTI4MDU3ODkwNSwxMjI0MzY5MTQ1
 LDg5MDcyNDc1OCwxODE0OTE3MCwxOTEzODIzMTIsLTY4MjgwNj
 QwMSw0NDU5MzQ3MjcsNjEyNDkwNTEsLTM1MjcyNzgyNywtNzQ1
