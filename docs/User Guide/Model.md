@@ -49,7 +49,7 @@ It follows below a basic example of a UDF definition:
     def _fn(param1,param2):
 	    return param1+param2
     result = _fn
-Functions can be used all across the model, 
+Functions can be globally used in the entire model, and custom libraries can be created grouping functions inside a module for later export and import. 
 
 ### Decision
 ### Index
@@ -76,11 +76,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTcwNjk4MSwyMDgzOTQxMDQyLDE3ND
-A5NzEzMDUsLTEyMzg5MTg2MjAsLTQ3MDAxNDY4NiwyNjEwMTE0
-NTksLTE1ODQ3MTcyOSwtMTg2ODg4NTAxOSwxMjQ0OTQ5ODI3LD
-MxOTk4MzQ4OSwtNzIyOTc4Mzk5LC0xNTUzMjk2NDM5LDIxNDE2
-NDMxNDUsLTE3NzkxMDc4MjksNzkyMDg5NjY4LC02NzM0NDUyNT
-ksMTMyODQyNTI4NywxOTI3OTI1MTkwLDk3MDk3MjMsLTEyODA1
-Nzg5MDVdfQ==
+eyJoaXN0b3J5IjpbLTE4NzU0NzA1MjksMjA4Mzk0MTA0MiwxNz
+QwOTcxMzA1LC0xMjM4OTE4NjIwLC00NzAwMTQ2ODYsMjYxMDEx
+NDU5LC0xNTg0NzE3MjksLTE4Njg4ODUwMTksMTI0NDk0OTgyNy
+wzMTk5ODM0ODksLTcyMjk3ODM5OSwtMTU1MzI5NjQzOSwyMTQx
+NjQzMTQ1LC0xNzc5MTA3ODI5LDc5MjA4OTY2OCwtNjczNDQ1Mj
+U5LDEzMjg0MjUyODcsMTkyNzkyNTE5MCw5NzA5NzIzLC0xMjgw
+NTc4OTA1XX0=
 -->
