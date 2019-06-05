@@ -47,7 +47,7 @@ This element is used for creating user defined functions.
 The standard definition is:
 
     def _fn(param1,param2):
-    return param1+param2
+	    return param1+param2
     result = _fn
 
 
@@ -76,11 +76,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Mzk0MTA0MiwxNzQwOTcxMzA1LC0xMj
-M4OTE4NjIwLC00NzAwMTQ2ODYsMjYxMDExNDU5LC0xNTg0NzE3
-MjksLTE4Njg4ODUwMTksMTI0NDk0OTgyNywzMTk5ODM0ODksLT
-cyMjk3ODM5OSwtMTU1MzI5NjQzOSwyMTQxNjQzMTQ1LC0xNzc5
-MTA3ODI5LDc5MjA4OTY2OCwtNjczNDQ1MjU5LDEzMjg0MjUyOD
-csMTkyNzkyNTE5MCw5NzA5NzIzLC0xMjgwNTc4OTA1LDEyMjQz
-NjkxNDVdfQ==
+eyJoaXN0b3J5IjpbMTY2MDMxNzAxOCwyMDgzOTQxMDQyLDE3ND
+A5NzEzMDUsLTEyMzg5MTg2MjAsLTQ3MDAxNDY4NiwyNjEwMTE0
+NTksLTE1ODQ3MTcyOSwtMTg2ODg4NTAxOSwxMjQ0OTQ5ODI3LD
+MxOTk4MzQ4OSwtNzIyOTc4Mzk5LC0xNTUzMjk2NDM5LDIxNDE2
+NDMxNDUsLTE3NzkxMDc4MjksNzkyMDg5NjY4LC02NzM0NDUyNT
+ksMTMyODQyNTI4NywxOTI3OTI1MTkwLDk3MDk3MjMsLTEyODA1
+Nzg5MDVdfQ==
 -->
