@@ -29,13 +29,15 @@ The <kbd>Docs</kbd> tab:
 This tab a complete HTML text editor to include rich text, links, images and videos that describes and explain the fundamentals of every calculation step. In this way, the app becomes an interactive knowledge repository.
 ![enter image description here](http://img.pyplan.org/model-docs.png)
 ## Type of Nodes
-The main elements for creating the app calculation logic are the following
+The main elements for creating the app calculation logic are the following:
+
 <img src="http://img.pyplan.org/model-nodes-type.png"
 	alt="Markdown Monster icon"
 	style="float: right; margin-left: 10px;"
 	ALIGN=”top”
 	height="300" /> 
 ### Node
+Is the main element for creating calculation logic.
 ### Function
 ### Decision
 ### Index
@@ -62,11 +64,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ4NzA1OTAsLTE4Njg4ODUwMTksMT
-I0NDk0OTgyNywzMTk5ODM0ODksLTcyMjk3ODM5OSwtMTU1MzI5
-NjQzOSwyMTQxNjQzMTQ1LC0xNzc5MTA3ODI5LDc5MjA4OTY2OC
-wtNjczNDQ1MjU5LDEzMjg0MjUyODcsMTkyNzkyNTE5MCw5NzA5
-NzIzLC0xMjgwNTc4OTA1LDEyMjQzNjkxNDUsODkwNzI0NzU4LD
-E4MTQ5MTcwLDE5MTM4MjMxMiwtNjgyODA2NDAxLDQ0NTkzNDcy
-N119
+eyJoaXN0b3J5IjpbLTE1ODQ3MTcyOSwtMTg2ODg4NTAxOSwxMj
+Q0OTQ5ODI3LDMxOTk4MzQ4OSwtNzIyOTc4Mzk5LC0xNTUzMjk2
+NDM5LDIxNDE2NDMxNDUsLTE3NzkxMDc4MjksNzkyMDg5NjY4LC
+02NzM0NDUyNTksMTMyODQyNTI4NywxOTI3OTI1MTkwLDk3MDk3
+MjMsLTEyODA1Nzg5MDUsMTIyNDM2OTE0NSw4OTA3MjQ3NTgsMT
+gxNDkxNzAsMTkxMzgyMzEyLC02ODI4MDY0MDEsNDQ1OTM0NzI3
+XX0=
 -->
