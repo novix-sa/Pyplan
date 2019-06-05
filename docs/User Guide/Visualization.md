@@ -1,14 +1,13 @@
 
-### Tables
-#### Regular Tables
-#### Pivot Tables
-### Graphs
+# Tables
+## Regular Tables
+## Pivot Tables
+# Graphs
 describe configuration parameters
-### Pandas
-### Numpy
-### Xarray
+## Pandas
+## Numpy
+## Xarray
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDkwNTA4NV19
+eyJoaXN0b3J5IjpbMTM0NjE5NzMzOCwtNjgwOTA1MDg1XX0=
 -->
