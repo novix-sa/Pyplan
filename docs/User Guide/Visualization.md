@@ -1,6 +1,6 @@
 # Visualization
-When a node is run (double click on it) its result could be rendered as a table, pivot table, different type of graphs, or a map.
-  when run, is rendered according to a pre-defined visualization
+When a node is run (double click on it) its result can be rendered as a table, a pivot table, different type of graphs, or a map.
+The visualization type is selected clicking on the configuration wheel (
 # Tables
 ## Regular Tables
 ## Pivot Tables
@@ -14,6 +14,6 @@ describe configuration parameters
 ## Xarray
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDU2OTQ3MCwxNzQzMDIxNjA0LC02OD
-A5MDUwODVdfQ==
+eyJoaXN0b3J5IjpbMTI1OTgyMTMwMCwxNzc0NTY5NDcwLDE3ND
+MwMjE2MDQsLTY4MDkwNTA4NV19
 -->
