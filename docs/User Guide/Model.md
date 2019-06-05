@@ -37,7 +37,9 @@ The main elements for creating the app calculation logic are the following:
 	height="300" /> 
 
 ### Node
-Is the main element for creating the calculation logic. It is like a global variable for programming.
+Is the main element for creating the calculation logic. It is like a global variable for programming and its definition ends defining the output value of the variable as:
+
+    result = 'this is the ouput'
 
 
 ### Function
@@ -66,11 +68,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDAxNDY4NiwyNjEwMTE0NTksLTE1OD
-Q3MTcyOSwtMTg2ODg4NTAxOSwxMjQ0OTQ5ODI3LDMxOTk4MzQ4
-OSwtNzIyOTc4Mzk5LC0xNTUzMjk2NDM5LDIxNDE2NDMxNDUsLT
-E3NzkxMDc4MjksNzkyMDg5NjY4LC02NzM0NDUyNTksMTMyODQy
-NTI4NywxOTI3OTI1MTkwLDk3MDk3MjMsLTEyODA1Nzg5MDUsMT
-IyNDM2OTE0NSw4OTA3MjQ3NTgsMTgxNDkxNzAsMTkxMzgyMzEy
-XX0=
+eyJoaXN0b3J5IjpbLTU0ODYxNzMyOSwtNDcwMDE0Njg2LDI2MT
+AxMTQ1OSwtMTU4NDcxNzI5LC0xODY4ODg1MDE5LDEyNDQ5NDk4
+MjcsMzE5OTgzNDg5LC03MjI5NzgzOTksLTE1NTMyOTY0MzksMj
+E0MTY0MzE0NSwtMTc3OTEwNzgyOSw3OTIwODk2NjgsLTY3MzQ0
+NTI1OSwxMzI4NDI1Mjg3LDE5Mjc5MjUxOTAsOTcwOTcyMywtMT
+I4MDU3ODkwNSwxMjI0MzY5MTQ1LDg5MDcyNDc1OCwxODE0OTE3
+MF19
 -->
