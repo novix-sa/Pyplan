@@ -19,7 +19,7 @@ One of the most interesting feature accesible through this way of evaluation is 
 <kbd>CTRL + R</kbd> to get its result
 
 You can evaluate a node by double clicking on it or pressing <kbd>CTRL + R</kbd> after selecting it.
-Differently with the previous run alternatives, the node is run and it result displayed in a new tab, called as the "Title" of the node, with a default table format.
+Differently with the previous run alternatives, the node is run and its result displayed in a new tab, called as the "Title" of the node, with a default table format.
 
 ![enter image description here](http://img.pyplan.org/Node-execution-default.png)
 Pyplan natively interprets Numpy matrix, Pandas dataframe indexes and Xarray dimensions, that will be automatically displayed at the bottom of the table for pivoting and filtering.
@@ -27,11 +27,11 @@ Any default view can be changed using the Edit interface menu that can be launch
 
 ![enter image description here](http://img.pyplan.org/Node-execution-edit-interface.png)
 
-After clicking, the configuration menu is launched where it can be decided how we want the node to be rendered. After defining the node visualization configuration you must accept the changes.
+After clicking, the configuration menu is launched where it can be decided how the node will be rendered. After defining the node visualization configuration you must accept the changes to
 ![enter image description here](http://img.pyplan.org/Node-execution-edit-interface2.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjUxMDQ1MywtMTQ4NjIzOTc4OCw0Nz
+eyJoaXN0b3J5IjpbMTUzNDk5MTMyNiwtMTQ4NjIzOTc4OCw0Nz
 czNTY4NTIsMTI2OTExNTg2OCwtNDcyMjE4MjUwLC0zNzk5MTYw
 ODAsLTE4NTUzMjk5NzksMTQzNTUyNzI4MCwxMDgxMDc5NzQ1LD
 UwNTk1MjI0MSw5NjAxMDg2LDExOTAzMjIxMDQsLTU0MjA1NzA0
