@@ -47,6 +47,7 @@ nav:
         - 'File manager': 'User Guide/File Manager.md'
         - 'Model': 'User Guide/Model.md'
         - 'Node Execution': 'User Guide/Node Execution.md'
+        - 'Node Visualization': 'User Guide/Visualization.md'
         - 'UI Designer': 'User Guide/User Interface Designer.md'
         - 'Task Manager': 'User Guide/Task Manager.md'
         - 'Configuration': 'User Guide/Configuration.md'
