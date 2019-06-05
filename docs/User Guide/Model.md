@@ -43,6 +43,10 @@ Is the main element for creating the calculation logic. It is like a global vari
     result = 'this is the ouput:' + str(localvar*2)
 
 ### Function
+This element is used for creating user defined functions.
+Functions in python are defined 
+
+
 ### Decision
 ### Index
 ### Button
@@ -68,11 +72,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg5MTg2MjAsLTQ3MDAxNDY4NiwyNj
-EwMTE0NTksLTE1ODQ3MTcyOSwtMTg2ODg4NTAxOSwxMjQ0OTQ5
-ODI3LDMxOTk4MzQ4OSwtNzIyOTc4Mzk5LC0xNTUzMjk2NDM5LD
-IxNDE2NDMxNDUsLTE3NzkxMDc4MjksNzkyMDg5NjY4LC02NzM0
-NDUyNTksMTMyODQyNTI4NywxOTI3OTI1MTkwLDk3MDk3MjMsLT
-EyODA1Nzg5MDUsMTIyNDM2OTE0NSw4OTA3MjQ3NTgsMTgxNDkx
-NzBdfQ==
+eyJoaXN0b3J5IjpbMTc0MDk3MTMwNSwtMTIzODkxODYyMCwtND
+cwMDE0Njg2LDI2MTAxMTQ1OSwtMTU4NDcxNzI5LC0xODY4ODg1
+MDE5LDEyNDQ5NDk4MjcsMzE5OTgzNDg5LC03MjI5NzgzOTksLT
+E1NTMyOTY0MzksMjE0MTY0MzE0NSwtMTc3OTEwNzgyOSw3OTIw
+ODk2NjgsLTY3MzQ0NTI1OSwxMzI4NDI1Mjg3LDE5Mjc5MjUxOT
+AsOTcwOTcyMywtMTI4MDU3ODkwNSwxMjI0MzY5MTQ1LDg5MDcy
+NDc1OF19
 -->
