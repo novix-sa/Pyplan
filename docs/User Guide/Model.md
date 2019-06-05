@@ -58,15 +58,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Dynamic simulation
 ## Using Python libraries
 
-
-<img src="model-orange.png" width="50%" height="50%" />
-<i class="icon-file"></i>
-<i class="fa fa-folder-open"></i>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Njc5MTQxNiwtMTc3OTEwNzgyOSw3OT
-IwODk2NjgsLTY3MzQ0NTI1OSwxMzI4NDI1Mjg3LDE5Mjc5MjUx
-OTAsOTcwOTcyMywtMTI4MDU3ODkwNSwxMjI0MzY5MTQ1LDg5MD
-cyNDc1OCwxODE0OTE3MCwxOTEzODIzMTIsLTY4MjgwNjQwMSw0
-NDU5MzQ3MjcsNjEyNDkwNTEsLTM1MjcyNzgyNywtNzQ1MjYxMT
-c5LDM3NDg2MzA3OSw3NTkyOTI3ODgsMTU4MTY5MTAyN119
+eyJoaXN0b3J5IjpbODEwMjg2NDgzLC0xNzc5MTA3ODI5LDc5Mj
+A4OTY2OCwtNjczNDQ1MjU5LDEzMjg0MjUyODcsMTkyNzkyNTE5
+MCw5NzA5NzIzLC0xMjgwNTc4OTA1LDEyMjQzNjkxNDUsODkwNz
+I0NzU4LDE4MTQ5MTcwLDE5MTM4MjMxMiwtNjgyODA2NDAxLDQ0
+NTkzNDcyNyw2MTI0OTA1MSwtMzUyNzI3ODI3LC03NDUyNjExNz
+ksMzc0ODYzMDc5LDc1OTI5Mjc4OCwxNTgxNjkxMDI3XX0=
 -->
