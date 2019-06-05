@@ -49,7 +49,7 @@ nav:
         - 'Node Execution': 'User Guide/Node Execution.md'
         - 'Node Visualization': 'User Guide/Visualization.md'
         - 'UI Designer': 'User Guide/User Interface Designer.md'
-        - 'Task Manager': 'User Guide/Task Manager.md'
+#        - 'Task Manager': 'User Guide/Task Manager.md'
         - 'Configuration': 'User Guide/Configuration.md'
     
 #    - Pyplan implementation: 
