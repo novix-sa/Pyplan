@@ -41,8 +41,6 @@ Is the main element for creating the calculation logic. It is like a global vari
 
     localvar = 5
     result = 'this is the ouput:' + str(localvar*2)
-result = 'this is the ouput:' + str(localvar*2)
-
 
 ### Function
 ### Decision
@@ -70,11 +68,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTY5NTEwNywtNDcwMDE0Njg2LDI2MT
-AxMTQ1OSwtMTU4NDcxNzI5LC0xODY4ODg1MDE5LDEyNDQ5NDk4
-MjcsMzE5OTgzNDg5LC03MjI5NzgzOTksLTE1NTMyOTY0MzksMj
-E0MTY0MzE0NSwtMTc3OTEwNzgyOSw3OTIwODk2NjgsLTY3MzQ0
-NTI1OSwxMzI4NDI1Mjg3LDE5Mjc5MjUxOTAsOTcwOTcyMywtMT
-I4MDU3ODkwNSwxMjI0MzY5MTQ1LDg5MDcyNDc1OCwxODE0OTE3
-MF19
+eyJoaXN0b3J5IjpbLTEyMzg5MTg2MjAsLTQ3MDAxNDY4NiwyNj
+EwMTE0NTksLTE1ODQ3MTcyOSwtMTg2ODg4NTAxOSwxMjQ0OTQ5
+ODI3LDMxOTk4MzQ4OSwtNzIyOTc4Mzk5LC0xNTUzMjk2NDM5LD
+IxNDE2NDMxNDUsLTE3NzkxMDc4MjksNzkyMDg5NjY4LC02NzM0
+NDUyNTksMTMyODQyNTI4NywxOTI3OTI1MTkwLDk3MDk3MjMsLT
+EyODA1Nzg5MDUsMTIyNDM2OTE0NSw4OTA3MjQ3NTgsMTgxNDkx
+NzBdfQ==
 -->
