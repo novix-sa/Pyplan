@@ -4,7 +4,7 @@ The visualization type is selected clicking on the configuration wheel that appe
 ![enter image description here](http://img.pyplan.org/viz-edit2.png)
 
 The first choice to be made is about the type of chart (Table, Graph or Map). The menu is accessed clicking on the first option called "Chart and filters".
-![enter image description here](http://img.pyplan.org/viz-edit2.png)
+![enter image description here](http://img.pyplan.org/viz-viz-type.png)
 
 # Tables
 ## Regular Tables
@@ -19,7 +19,7 @@ describe configuration parameters
 ## Xarray
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTcxMTMyNiwtMTY2NjI1Njc5MiwxOT
+eyJoaXN0b3J5IjpbMTE2NDI0MDQ5MCwtMTY2NjI1Njc5MiwxOT
 U0NTYxNTQzLDEyNTk4MjEzMDAsMTc3NDU2OTQ3MCwxNzQzMDIx
 NjA0LC02ODA5MDUwODVdfQ==
 -->
