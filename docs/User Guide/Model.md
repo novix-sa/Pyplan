@@ -36,7 +36,7 @@ The main elements for creating the app calculation logic are the following:
 	style="float: right; margin-left: 10px;"
 	ALIGN=”top”
 	height="300" /> 
-All elements display when selected display some tabs which 
+When an element is  selected it display some tabs that show and allow editin
 ### Node
 Is the main element for creating the calculation logic. 
 ### Function
@@ -65,7 +65,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTYyNjI4NiwtMTU4NDcxNzI5LC0xOD
+eyJoaXN0b3J5IjpbLTE2MjI5NTQxMiwtMTU4NDcxNzI5LC0xOD
 Y4ODg1MDE5LDEyNDQ5NDk4MjcsMzE5OTgzNDg5LC03MjI5Nzgz
 OTksLTE1NTMyOTY0MzksMjE0MTY0MzE0NSwtMTc3OTEwNzgyOS
 w3OTIwODk2NjgsLTY3MzQ0NTI1OSwxMzI4NDI1Mjg3LDE5Mjc5
