@@ -53,7 +53,8 @@ Functions can be globally used in the entire model, and custom libraries can be 
 
 ### Decision
 A decision node is meant to create a choice for the model user to decide.
-Its definition can
+Its definition syntax is:
+
 ### Index
 ### Button
 ### Module
@@ -78,7 +79,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTg4MjU5OCwxMzE3MDc3OTUyLDIwOD
+eyJoaXN0b3J5IjpbLTM5NDMxOTc2NSwxMzE3MDc3OTUyLDIwOD
 M5NDEwNDIsMTc0MDk3MTMwNSwtMTIzODkxODYyMCwtNDcwMDE0
 Njg2LDI2MTAxMTQ1OSwtMTU4NDcxNzI5LC0xODY4ODg1MDE5LD
 EyNDQ5NDk4MjcsMzE5OTgzNDg5LC03MjI5NzgzOTksLTE1NTMy
