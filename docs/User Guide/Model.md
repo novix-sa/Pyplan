@@ -30,18 +30,11 @@ This tab a complete HTML text editor to include rich text, links, images and vid
 ![enter image description here](http://img.pyplan.org/model-docs.png)
 ## Type of Nodes
 The main elements for creating the app calculation logic are the following
-
-hay un texto aqui
-
 <img src="http://img.pyplan.org/model-nodes-type.png"
 	alt="Markdown Monster icon"
 	style="float: right; margin-left: 10px;"
 	ALIGN=”top”
-	height="300" /> y si entra uno aquí tambien. con siguiente palabras para ver donde corta si acaso es muy ancho el texto y no nos deja ver
-	aunque nada por aca
-otro texto aca
-y otro mas acá 
-
+	height="300" /> 
 ### Node
 ### Function
 ### Decision
@@ -69,11 +62,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njg4ODUwMTksMTI0NDk0OTgyNywzMT
-k5ODM0ODksLTcyMjk3ODM5OSwtMTU1MzI5NjQzOSwyMTQxNjQz
-MTQ1LC0xNzc5MTA3ODI5LDc5MjA4OTY2OCwtNjczNDQ1MjU5LD
-EzMjg0MjUyODcsMTkyNzkyNTE5MCw5NzA5NzIzLC0xMjgwNTc4
-OTA1LDEyMjQzNjkxNDUsODkwNzI0NzU4LDE4MTQ5MTcwLDE5MT
-M4MjMxMiwtNjgyODA2NDAxLDQ0NTkzNDcyNyw2MTI0OTA1MV19
-
+eyJoaXN0b3J5IjpbLTE4MTQ4NzA1OTAsLTE4Njg4ODUwMTksMT
+I0NDk0OTgyNywzMTk5ODM0ODksLTcyMjk3ODM5OSwtMTU1MzI5
+NjQzOSwyMTQxNjQzMTQ1LC0xNzc5MTA3ODI5LDc5MjA4OTY2OC
+wtNjczNDQ1MjU5LDEzMjg0MjUyODcsMTkyNzkyNTE5MCw5NzA5
+NzIzLC0xMjgwNTc4OTA1LDEyMjQzNjkxNDUsODkwNzI0NzU4LD
+E4MTQ5MTcwLDE5MTM4MjMxMiwtNjgyODA2NDAxLDQ0NTkzNDcy
+N119
 -->
