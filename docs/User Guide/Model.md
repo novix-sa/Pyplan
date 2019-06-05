@@ -35,7 +35,7 @@ The main elements for creating the app calculation logic are the following
 <img src="http://img.pyplan.org/model-nodes-type.png"
 	alt="Markdown Monster icon"
 	style="float: left; margin-right: 10px;"
-	size="10px" />
+	height="122" />
 
 ### Node
 ### Function
@@ -64,7 +64,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzA1MjI1OSwtNzIyOTc4Mzk5LC0xNT
+eyJoaXN0b3J5IjpbMTk3MDIwMjA0NywtNzIyOTc4Mzk5LC0xNT
 UzMjk2NDM5LDIxNDE2NDMxNDUsLTE3NzkxMDc4MjksNzkyMDg5
 NjY4LC02NzM0NDUyNTksMTMyODQyNTI4NywxOTI3OTI1MTkwLD
 k3MDk3MjMsLTEyODA1Nzg5MDUsMTIyNDM2OTE0NSw4OTA3MjQ3
