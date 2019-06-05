@@ -3,7 +3,7 @@ When a node is run (double clicking it) its result can be rendered as a table, a
 The visualization type is selected clicking on the configuration wheel that appears when you enter in the visualization edit mode:
 ![enter image description here](http://img.pyplan.org/viz-edit-config.png)
 After clicking the wheel
-
+![enter image description here](http://img.pyplan.org/viz-edit.png)
 # Tables
 ## Regular Tables
 ## Pivot Tables
@@ -17,6 +17,7 @@ describe configuration parameters
 ## Xarray
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDU2MTU0MywxMjU5ODIxMzAwLDE3Nz
-Q1Njk0NzAsMTc0MzAyMTYwNCwtNjgwOTA1MDg1XX0=
+eyJoaXN0b3J5IjpbMTE0MzY1NzQ4NywxOTU0NTYxNTQzLDEyNT
+k4MjEzMDAsMTc3NDU2OTQ3MCwxNzQzMDIxNjA0LC02ODA5MDUw
+ODVdfQ==
 -->
