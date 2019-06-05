@@ -39,7 +39,7 @@ The main elements for creating the app calculation logic are the following:
 ### Node
 Is the main element for creating the calculation logic. It is like a global variable for programming and its definition ends defining the output value of the variable as:
 
-    result = 'this is the ouput'
+    result = 'this is the ouput:' + localvar*2
 
 
 ### Function
@@ -68,7 +68,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODYxNzMyOSwtNDcwMDE0Njg2LDI2MT
+eyJoaXN0b3J5IjpbMTQ0NTExMDczMCwtNDcwMDE0Njg2LDI2MT
 AxMTQ1OSwtMTU4NDcxNzI5LC0xODY4ODg1MDE5LDEyNDQ5NDk4
 MjcsMzE5OTgzNDg5LC03MjI5NzgzOTksLTE1NTMyOTY0MzksMj
 E0MTY0MzE0NSwtMTc3OTEwNzgyOSw3OTIwODk2NjgsLTY3MzQ0
