@@ -1,7 +1,7 @@
 # Visualization
 When a node is run (double click on it) its result can be rendered as a table, a pivot table, different type of graphs, or a map.
 The visualization type is selected clicking on the configuration wheel that appears when you enter in the visualization edit mode:
-![enter image description here](http://img.pyplan.org/Node-execution-edit-interface.png)
+![enter image description here](http://img.pyplan.org/viz-edit-config.png)
 # Tables
 ## Regular Tables
 ## Pivot Tables
@@ -15,6 +15,6 @@ describe configuration parameters
 ## Xarray
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzc4MjIyMywxMjU5ODIxMzAwLDE3Nz
-Q1Njk0NzAsMTc0MzAyMTYwNCwtNjgwOTA1MDg1XX0=
+eyJoaXN0b3J5IjpbOTQ5NDI3NzYsMTI1OTgyMTMwMCwxNzc0NT
+Y5NDcwLDE3NDMwMjE2MDQsLTY4MDkwNTA4NV19
 -->
