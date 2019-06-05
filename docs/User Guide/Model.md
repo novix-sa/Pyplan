@@ -52,8 +52,10 @@ It follows below a basic example of a UDF definition:
 Functions can be globally used in the entire model, and custom libraries can be created grouping functions inside a module for later export and import. 
 
 ### Decision
-A decision node is meant to create a choice for the model user to decide.
+A decision node is meant to create a choice for the model user to decide about an option.
 Its definition syntax is:
+
+    result = selector(['A','B','C'],1)
 
 ### Index
 ### Button
@@ -79,11 +81,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDMxOTc2NSwxMzE3MDc3OTUyLDIwOD
-M5NDEwNDIsMTc0MDk3MTMwNSwtMTIzODkxODYyMCwtNDcwMDE0
-Njg2LDI2MTAxMTQ1OSwtMTU4NDcxNzI5LC0xODY4ODg1MDE5LD
-EyNDQ5NDk4MjcsMzE5OTgzNDg5LC03MjI5NzgzOTksLTE1NTMy
-OTY0MzksMjE0MTY0MzE0NSwtMTc3OTEwNzgyOSw3OTIwODk2Nj
-gsLTY3MzQ0NTI1OSwxMzI4NDI1Mjg3LDE5Mjc5MjUxOTAsOTcw
-OTcyM119
+eyJoaXN0b3J5IjpbODYyMjQyMTUsLTM5NDMxOTc2NSwxMzE3MD
+c3OTUyLDIwODM5NDEwNDIsMTc0MDk3MTMwNSwtMTIzODkxODYy
+MCwtNDcwMDE0Njg2LDI2MTAxMTQ1OSwtMTU4NDcxNzI5LC0xOD
+Y4ODg1MDE5LDEyNDQ5NDk4MjcsMzE5OTgzNDg5LC03MjI5Nzgz
+OTksLTE1NTMyOTY0MzksMjE0MTY0MzE0NSwtMTc3OTEwNzgyOS
+w3OTIwODk2NjgsLTY3MzQ0NTI1OSwxMzI4NDI1Mjg3LDE5Mjc5
+MjUxOTBdfQ==
 -->
