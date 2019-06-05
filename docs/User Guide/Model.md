@@ -44,12 +44,12 @@ Is the main element for creating the calculation logic. It is like a global vari
 
 ### Function
 This element is used for creating user defined functions.
-The standard definition is:
+It follows below a basic example of a UDF definition:
 
     def _fn(param1,param2):
 	    return param1+param2
     result = _fn
-
+Functions can be used all across the model, 
 
 ### Decision
 ### Index
@@ -76,7 +76,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDMxNzAxOCwyMDgzOTQxMDQyLDE3ND
+eyJoaXN0b3J5IjpbLTMwOTcwNjk4MSwyMDgzOTQxMDQyLDE3ND
 A5NzEzMDUsLTEyMzg5MTg2MjAsLTQ3MDAxNDY4NiwyNjEwMTE0
 NTksLTE1ODQ3MTcyOSwtMTg2ODg4NTAxOSwxMjQ0OTQ5ODI3LD
 MxOTk4MzQ4OSwtNzIyOTc4Mzk5LC0xNTUzMjk2NDM5LDIxNDE2
