@@ -44,7 +44,11 @@ Is the main element for creating the calculation logic. It is like a global vari
 
 ### Function
 This element is used for creating user defined functions.
-Functions in python are defined 
+The standard definition is:
+
+    def _fn(param1,param2):
+    return param1+param2
+    result = _fn
 
 
 ### Decision
@@ -72,11 +76,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDk3MTMwNSwtMTIzODkxODYyMCwtND
-cwMDE0Njg2LDI2MTAxMTQ1OSwtMTU4NDcxNzI5LC0xODY4ODg1
-MDE5LDEyNDQ5NDk4MjcsMzE5OTgzNDg5LC03MjI5NzgzOTksLT
-E1NTMyOTY0MzksMjE0MTY0MzE0NSwtMTc3OTEwNzgyOSw3OTIw
-ODk2NjgsLTY3MzQ0NTI1OSwxMzI4NDI1Mjg3LDE5Mjc5MjUxOT
-AsOTcwOTcyMywtMTI4MDU3ODkwNSwxMjI0MzY5MTQ1LDg5MDcy
-NDc1OF19
+eyJoaXN0b3J5IjpbMjA4Mzk0MTA0MiwxNzQwOTcxMzA1LC0xMj
+M4OTE4NjIwLC00NzAwMTQ2ODYsMjYxMDExNDU5LC0xNTg0NzE3
+MjksLTE4Njg4ODUwMTksMTI0NDk0OTgyNywzMTk5ODM0ODksLT
+cyMjk3ODM5OSwtMTU1MzI5NjQzOSwyMTQxNjQzMTQ1LC0xNzc5
+MTA3ODI5LDc5MjA4OTY2OCwtNjczNDQ1MjU5LDEzMjg0MjUyOD
+csMTkyNzkyNTE5MCw5NzA5NzIzLC0xMjgwNTc4OTA1LDEyMjQz
+NjkxNDVdfQ==
 -->
