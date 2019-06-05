@@ -37,7 +37,7 @@ The main elements for creating the app calculation logic are the following:
 	ALIGN=”top”
 	height="300" /> 
 ### Node
-Is the main element for creating calculation logic.
+Is the main element for creating the calculation logic. 
 ### Function
 ### Decision
 ### Index
@@ -64,11 +64,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ3MTcyOSwtMTg2ODg4NTAxOSwxMj
-Q0OTQ5ODI3LDMxOTk4MzQ4OSwtNzIyOTc4Mzk5LC0xNTUzMjk2
-NDM5LDIxNDE2NDMxNDUsLTE3NzkxMDc4MjksNzkyMDg5NjY4LC
-02NzM0NDUyNTksMTMyODQyNTI4NywxOTI3OTI1MTkwLDk3MDk3
-MjMsLTEyODA1Nzg5MDUsMTIyNDM2OTE0NSw4OTA3MjQ3NTgsMT
-gxNDkxNzAsMTkxMzgyMzEyLC02ODI4MDY0MDEsNDQ1OTM0NzI3
-XX0=
+eyJoaXN0b3J5IjpbMjEwNTc3Mzc1MCwtMTU4NDcxNzI5LC0xOD
+Y4ODg1MDE5LDEyNDQ5NDk4MjcsMzE5OTgzNDg5LC03MjI5Nzgz
+OTksLTE1NTMyOTY0MzksMjE0MTY0MzE0NSwtMTc3OTEwNzgyOS
+w3OTIwODk2NjgsLTY3MzQ0NTI1OSwxMzI4NDI1Mjg3LDE5Mjc5
+MjUxOTAsOTcwOTcyMywtMTI4MDU3ODkwNSwxMjI0MzY5MTQ1LD
+g5MDcyNDc1OCwxODE0OTE3MCwxOTEzODIzMTIsLTY4MjgwNjQw
+MV19
 -->
