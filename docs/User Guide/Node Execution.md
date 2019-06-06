@@ -35,12 +35,12 @@ There are some embedded tools that appears when evaluating a node according to t
 For example, any node that evaluates as a pandas data frame object will display the following tools:
 ![enter image description here](http://img.pyplan.org/node-exec-pandas-tools.png)
 These tools have a double purpose the first one is to facilitate non-programmers start manipulating the basic Python objects without coding.
-
+As you will realize, when operating with these tools, the subjacent Python code is automatically generated, hence inducing analysts to learning Python to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTkzMzE4NjksLTEzODU1MDc5OTgsMj
-A1NzI5MzcyMSwyODU5NDYwNTAsLTQwNzE1NTY0NywtMTQ4NjIz
-OTc4OCw0NzczNTY4NTIsMTI2OTExNTg2OCwtNDcyMjE4MjUwLC
-0zNzk5MTYwODAsLTE4NTUzMjk5NzksMTQzNTUyNzI4MCwxMDgx
-MDc5NzQ1LDUwNTk1MjI0MSw5NjAxMDg2LDExOTAzMjIxMDQsLT
-U0MjA1NzA0Ml19
+eyJoaXN0b3J5IjpbOTczODI3NjY3LC0xMzg1NTA3OTk4LDIwNT
+cyOTM3MjEsMjg1OTQ2MDUwLC00MDcxNTU2NDcsLTE0ODYyMzk3
+ODgsNDc3MzU2ODUyLDEyNjkxMTU4NjgsLTQ3MjIxODI1MCwtMz
+c5OTE2MDgwLC0xODU1MzI5OTc5LDE0MzU1MjcyODAsMTA4MTA3
+OTc0NSw1MDU5NTIyNDEsOTYwMTA4NiwxMTkwMzIyMTA0LC01ND
+IwNTcwNDJdfQ==
 -->
