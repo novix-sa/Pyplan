@@ -30,13 +30,11 @@ Any default view can be changed using the Edit interface menu that can be launch
 After clicking, the configuration menu is launched where it can be decided how the node will be rendered. After defining the node visualization configuration you must accept the changes to save them.
 ![enter image description here](http://img.pyplan.org/Node-execution-edit-inter3.png)
 
-<img src="smiley.gif"  alt="Smiley face"  height="42"  width="42">
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzI5MzcyMSwyODU5NDYwNTAsLTQwNz
-E1NTY0NywtMTQ4NjIzOTc4OCw0NzczNTY4NTIsMTI2OTExNTg2
-OCwtNDcyMjE4MjUwLC0zNzk5MTYwODAsLTE4NTUzMjk5NzksMT
-QzNTUyNzI4MCwxMDgxMDc5NzQ1LDUwNTk1MjI0MSw5NjAxMDg2
-LDExOTAzMjIxMDQsLTU0MjA1NzA0Ml19
+eyJoaXN0b3J5IjpbNzIzNzEyMzY1LDIwNTcyOTM3MjEsMjg1OT
+Q2MDUwLC00MDcxNTU2NDcsLTE0ODYyMzk3ODgsNDc3MzU2ODUy
+LDEyNjkxMTU4NjgsLTQ3MjIxODI1MCwtMzc5OTE2MDgwLC0xOD
+U1MzI5OTc5LDE0MzU1MjcyODAsMTA4MTA3OTc0NSw1MDU5NTIy
+NDEsOTYwMTA4NiwxMTkwMzIyMTA0LC01NDIwNTcwNDJdfQ==
 -->
