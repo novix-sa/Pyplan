@@ -68,9 +68,8 @@ Its definition syntax is:
 The Pyplan index node is defined as a Pandas index to help operate with Xarray matrix. 
 Defining the index it is set the dims and coords properties simultaneously. Dim is defined as the Id property of index and Coords as the elements of the index.
 Creating and working with index in this way warranties the domain of matrix operations. So for example when you add two matrix that share an index, they are values defined for all elements of the index. Working with Xarray native dims and coords do not guarantee that, because could be the case that you operate with matrix that even sharing a dimension, coords domain do not intersect.
-Index defined in Pyplan have an additional function when creating User Interfaces. When there are more than one Xarray output node that share a dimension, inserting that dimension in the interface will work as a coordinated filter on all.
+Index defined in Pyplan have an additional function when creating User Interfaces. When there are more than one Xarray output node that share a dimension, inserting that dimension in the interface will work as a coordinated filter on all objects that share that dimension.
 
-It makes usage of to different atributes of an index: dims and coords.
 ### Button
 ### Module
 ### Text
@@ -100,7 +99,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA3MTg4NjgsODg2NTkzNzEyLC0zNz
+eyJoaXN0b3J5IjpbLTE3NjI2MjIzNTYsODg2NTkzNzEyLC0zNz
 Y1NDAxMjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MSwtNzgwOTg5
 NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQzMTk3NjUsMT
 MxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5NzEzMDUsLTEyMzg5
