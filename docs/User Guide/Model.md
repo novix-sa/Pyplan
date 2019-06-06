@@ -59,7 +59,7 @@ Its definition syntax is:
  where the first parameter is the list of values to be choosing from, the second is the position of the list chosen and the third es a flag to indicate multiple selection option.
  
 ### Index
-
+The Pyplan index node is defined as a Pandas index to help operate with Xarray o
 ### Button
 ### Module
 ### Text
@@ -89,11 +89,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NTkzNzEyLC0zNzY1NDAxMjMsLTk1Mz
-czNzM4NiwtMTI2MjkzOTM3MSwtNzgwOTg5NzI0LC0xODU4ODQy
-NDYwLDg2MjI0MjE1LC0zOTQzMTk3NjUsMTMxNzA3Nzk1MiwyMD
-gzOTQxMDQyLDE3NDA5NzEzMDUsLTEyMzg5MTg2MjAsLTQ3MDAx
-NDY4NiwyNjEwMTE0NTksLTE1ODQ3MTcyOSwtMTg2ODg4NTAxOS
-wxMjQ0OTQ5ODI3LDMxOTk4MzQ4OSwtNzIyOTc4Mzk5LC0xNTUz
-Mjk2NDM5XX0=
+eyJoaXN0b3J5IjpbLTEzNDYzMTA3Miw4ODY1OTM3MTIsLTM3Nj
+U0MDEyMywtOTUzNzM3Mzg2LC0xMjYyOTM5MzcxLC03ODA5ODk3
+MjQsLTE4NTg4NDI0NjAsODYyMjQyMTUsLTM5NDMxOTc2NSwxMz
+E3MDc3OTUyLDIwODM5NDEwNDIsMTc0MDk3MTMwNSwtMTIzODkx
+ODYyMCwtNDcwMDE0Njg2LDI2MTAxMTQ1OSwtMTU4NDcxNzI5LC
+0xODY4ODg1MDE5LDEyNDQ5NDk4MjcsMzE5OTgzNDg5LC03MjI5
+NzgzOTldfQ==
 -->
