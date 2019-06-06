@@ -31,11 +31,13 @@ After clicking, the configuration menu is launched where it can be decided how t
 ![enter image description here](http://img.pyplan.org/Node-execution-edit-inter3.png)
 
 ## Embedded tools
-There are some embedded tools that displays when evaluating a node according to the type of object
+There are some embedded tools that displays when evaluating a node according to the type of result.
+For example, any node that when evaluating produces a pandas data frame object as a result will display the following tools:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDI5MzM4LDIwNTcyOTM3MjEsMjg1OT
-Q2MDUwLC00MDcxNTU2NDcsLTE0ODYyMzk3ODgsNDc3MzU2ODUy
-LDEyNjkxMTU4NjgsLTQ3MjIxODI1MCwtMzc5OTE2MDgwLC0xOD
-U1MzI5OTc5LDE0MzU1MjcyODAsMTA4MTA3OTc0NSw1MDU5NTIy
-NDEsOTYwMTA4NiwxMTkwMzIyMTA0LC01NDIwNTcwNDJdfQ==
+eyJoaXN0b3J5IjpbMTQ5MDI1MjExNiwyMDU3MjkzNzIxLDI4NT
+k0NjA1MCwtNDA3MTU1NjQ3LC0xNDg2MjM5Nzg4LDQ3NzM1Njg1
+MiwxMjY5MTE1ODY4LC00NzIyMTgyNTAsLTM3OTkxNjA4MCwtMT
+g1NTMyOTk3OSwxNDM1NTI3MjgwLDEwODEwNzk3NDUsNTA1OTUy
+MjQxLDk2MDEwODYsMTE5MDMyMjEwNCwtNTQyMDU3MDQyXX0=
 -->
