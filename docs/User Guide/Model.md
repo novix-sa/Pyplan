@@ -76,10 +76,10 @@ Any custom task, like for example assigning a value or definition to a node, can
 
 ### Module
 Modules are the containers of diagrams (workflows of nodes). You can enter into a module double clicking on it. The module navigation path is shown at the top of the digram. You can navigate directly by clicking to the corresponding level you want to go to.
-You can drag a group of selected nodes in
+You can drag a group of selected nodes into a module to organize your diagram. Or cut and paste a group in the case you want to move upstream.
 
 ### Text
-
+The text
 ## Influence Diagram
 ### Input and output nodes?
 ### Alias / Duplicate
@@ -104,7 +104,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzU5MDIyNSwtMTAzMTc4ODMzNywyND
+eyJoaXN0b3J5IjpbLTM5ODA1ODIxOCwtMTAzMTc4ODMzNywyND
 Y4NDY3MTksLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMTc2MjYy
 MjM1Niw4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3Mzg2LC
 0xMjYyOTM5MzcxLC03ODA5ODk3MjQsLTE4NTg4NDI0NjAsODYy
