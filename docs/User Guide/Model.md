@@ -79,7 +79,10 @@ Modules are the containers of diagrams (workflows of nodes). You can enter into 
 You can drag a group of selected nodes into a module to organize your diagram. Or cut and paste a group in the case you want to move upstream.
 
 ### Text
-The text node is intended for clarification of the calculation logic. You can configure its background and border properties to help you design your desired layout.
+The text node is intended for clarification of the calculation logic. 
+Its properties includes:
+Size that can be adjusted when selecting. Z position 
+You can configure its background and border properties , as well as it positionto help you design your desired layout. It is also useful to 
 
 
 ## Influence Diagram
@@ -106,11 +109,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDc5MjUzMCwtMTAzMTc4ODMzNywyND
-Y4NDY3MTksLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMTc2MjYy
-MjM1Niw4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3Mzg2LC
-0xMjYyOTM5MzcxLC03ODA5ODk3MjQsLTE4NTg4NDI0NjAsODYy
-MjQyMTUsLTM5NDMxOTc2NSwxMzE3MDc3OTUyLDIwODM5NDEwND
-IsMTc0MDk3MTMwNSwtMTIzODkxODYyMCwtNDcwMDE0Njg2LDI2
-MTAxMTQ1OV19
+eyJoaXN0b3J5IjpbODg0MjkzODg1LC0xMDMxNzg4MzM3LDI0Nj
+g0NjcxOSwtNjE3NDQ2MDEwLC0xNjM1NjE4ODAxLC0xNzYyNjIy
+MzU2LDg4NjU5MzcxMiwtMzc2NTQwMTIzLC05NTM3MzczODYsLT
+EyNjI5MzkzNzEsLTc4MDk4OTcyNCwtMTg1ODg0MjQ2MCw4NjIy
+NDIxNSwtMzk0MzE5NzY1LDEzMTcwNzc5NTIsMjA4Mzk0MTA0Mi
+wxNzQwOTcxMzA1LC0xMjM4OTE4NjIwLC00NzAwMTQ2ODYsMjYx
+MDExNDU5XX0=
 -->
