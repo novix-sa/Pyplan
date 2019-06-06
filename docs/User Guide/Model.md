@@ -118,13 +118,15 @@ This is an experimental feature. Further development of toolboxes will be mainly
 	style="float: right; margin-left: 10px;"
 	ALIGN=”top”
 	height="300" /> 
-
+Toolboxes are specific purpose nodes, which custom wizards associated to it, to help parametrize a function for producing certain result.
+Initially there is a toolbox named Data Sources and an example has been developed with the Read CSV function.
+This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users requests.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3OTczMDc5LC02ODUyNTg0ODYsOTU0MD
-E2OTEzLC0yNjYyMDQ3NTUsMjA3MjM5OTc2NSw3MTE5Nzk1MjIs
-LTEwMzE3ODgzMzcsMjQ2ODQ2NzE5LC02MTc0NDYwMTAsLTE2Mz
-U2MTg4MDEsLTE3NjI2MjIzNTYsODg2NTkzNzEyLC0zNzY1NDAx
-MjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MSwtNzgwOTg5NzI0LC
-0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQzMTk3NjUsMTMxNzA3
-Nzk1Ml19
+eyJoaXN0b3J5IjpbLTg2ODE5MDIzMiwtNjg1MjU4NDg2LDk1ND
+AxNjkxMywtMjY2MjA0NzU1LDIwNzIzOTk3NjUsNzExOTc5NTIy
+LC0xMDMxNzg4MzM3LDI0Njg0NjcxOSwtNjE3NDQ2MDEwLC0xNj
+M1NjE4ODAxLC0xNzYyNjIyMzU2LDg4NjU5MzcxMiwtMzc2NTQw
+MTIzLC05NTM3MzczODYsLTEyNjI5MzkzNzEsLTc4MDk4OTcyNC
+wtMTg1ODg0MjQ2MCw4NjIyNDIxNSwtMzk0MzE5NzY1LDEzMTcw
+Nzc5NTJdfQ==
 -->
