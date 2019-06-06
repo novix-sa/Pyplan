@@ -63,8 +63,9 @@ Its definition syntax is:
 ### Module
 ### Text
 ## Influence Diagram
-### Input and output nodes
-### Alias
+### Input and output nodes?
+### Alias / Duplicate
+### Coy
 
 ## Model Preferences
 
@@ -85,11 +86,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI5MzkzNzEsLTc4MDk4OTcyNCwtMT
-g1ODg0MjQ2MCw4NjIyNDIxNSwtMzk0MzE5NzY1LDEzMTcwNzc5
-NTIsMjA4Mzk0MTA0MiwxNzQwOTcxMzA1LC0xMjM4OTE4NjIwLC
-00NzAwMTQ2ODYsMjYxMDExNDU5LC0xNTg0NzE3MjksLTE4Njg4
-ODUwMTksMTI0NDk0OTgyNywzMTk5ODM0ODksLTcyMjk3ODM5OS
-wtMTU1MzI5NjQzOSwyMTQxNjQzMTQ1LC0xNzc5MTA3ODI5LDc5
-MjA4OTY2OF19
+eyJoaXN0b3J5IjpbLTk1MzczNzM4NiwtMTI2MjkzOTM3MSwtNz
+gwOTg5NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQzMTk3
+NjUsMTMxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5NzEzMDUsLT
+EyMzg5MTg2MjAsLTQ3MDAxNDY4NiwyNjEwMTE0NTksLTE1ODQ3
+MTcyOSwtMTg2ODg4NTAxOSwxMjQ0OTQ5ODI3LDMxOTk4MzQ4OS
+wtNzIyOTc4Mzk5LC0xNTUzMjk2NDM5LDIxNDE2NDMxNDUsLTE3
+NzkxMDc4MjldfQ==
 -->
