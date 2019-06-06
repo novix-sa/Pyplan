@@ -98,7 +98,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 
 ## Using Python libraries
 Pyplan includes a function 
-
+install_library( 'bokeh', import_name=None )
 
 ## Toolboxes
 Toolboxes are specific purpose nodes, which custom wizards associated to it, to help parametrize a function for producing certain result.
@@ -109,11 +109,11 @@ Further development of toolboxes will be mainly driven by Pyplan users requests.
 (TODO)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTM5MjUxNCwyMDcyMzk5NzY1LDcxMT
-k3OTUyMiwtMTAzMTc4ODMzNywyNDY4NDY3MTksLTYxNzQ0NjAx
-MCwtMTYzNTYxODgwMSwtMTc2MjYyMjM1Niw4ODY1OTM3MTIsLT
-M3NjU0MDEyMywtOTUzNzM3Mzg2LC0xMjYyOTM5MzcxLC03ODA5
-ODk3MjQsLTE4NTg4NDI0NjAsODYyMjQyMTUsLTM5NDMxOTc2NS
-wxMzE3MDc3OTUyLDIwODM5NDEwNDIsMTc0MDk3MTMwNSwtMTIz
-ODkxODYyMF19
+eyJoaXN0b3J5IjpbMjU5Njk3Mzg1LDIwNzIzOTk3NjUsNzExOT
+c5NTIyLC0xMDMxNzg4MzM3LDI0Njg0NjcxOSwtNjE3NDQ2MDEw
+LC0xNjM1NjE4ODAxLC0xNzYyNjIyMzU2LDg4NjU5MzcxMiwtMz
+c2NTQwMTIzLC05NTM3MzczODYsLTEyNjI5MzkzNzEsLTc4MDk4
+OTcyNCwtMTg1ODg0MjQ2MCw4NjIyNDIxNSwtMzk0MzE5NzY1LD
+EzMTcwNzc5NTIsMjA4Mzk0MTA0MiwxNzQwOTcxMzA1LC0xMjM4
+OTE4NjIwXX0=
 -->
