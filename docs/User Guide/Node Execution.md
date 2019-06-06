@@ -34,12 +34,12 @@ After clicking, the configuration menu is launched where it can be decided how t
 There are some embedded tools that appears when evaluating a node according to the type of result.
 For example, any node that evaluates as a pandas data frame object will display the following tools:
 ![enter image description here](http://img.pyplan.org/node-exec-pandas-tools.png)
-T
+These tools have a double purpose
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2MDY1ODYyLC0xMzg1NTA3OTk4LDIwNT
-cyOTM3MjEsMjg1OTQ2MDUwLC00MDcxNTU2NDcsLTE0ODYyMzk3
-ODgsNDc3MzU2ODUyLDEyNjkxMTU4NjgsLTQ3MjIxODI1MCwtMz
-c5OTE2MDgwLC0xODU1MzI5OTc5LDE0MzU1MjcyODAsMTA4MTA3
-OTc0NSw1MDU5NTIyNDEsOTYwMTA4NiwxMTkwMzIyMTA0LC01ND
-IwNTcwNDJdfQ==
+eyJoaXN0b3J5IjpbLTUyMzM0NzkxNCwtMTM4NTUwNzk5OCwyMD
+U3MjkzNzIxLDI4NTk0NjA1MCwtNDA3MTU1NjQ3LC0xNDg2MjM5
+Nzg4LDQ3NzM1Njg1MiwxMjY5MTE1ODY4LC00NzIyMTgyNTAsLT
+M3OTkxNjA4MCwtMTg1NTMyOTk3OSwxNDM1NTI3MjgwLDEwODEw
+Nzk3NDUsNTA1OTUyMjQxLDk2MDEwODYsMTE5MDMyMjEwNCwtNT
+QyMDU3MDQyXX0=
 -->
