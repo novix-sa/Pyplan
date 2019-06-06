@@ -23,18 +23,14 @@ Different than the standard table It allows multiple dimensions in rows or cols 
 It has fewer customization options compared to regular tables.
 ![enter image description here](http://img.pyplan.org/viz-tables-dif1.png)
 But one main differentiation is that can work as an input table, allowing the user to manually change table values.
-![enter image description here](http://img.pyplan.org/viz-edittable.png)
+![enter image description here](http://img.pyplan.org/viz-edit-table.png)
 # Graphs
+Pyplan includes several type of standard graphs
 # Maps
 # Other visualization libraries
 
-describe configuration parameters
-## Pandas
-## Numpy
-## Xarray
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjkwNjM3MiwtMTA5NTU3NzE1MiwxMT
+eyJoaXN0b3J5IjpbMTA3MTg4MTU2MywtMTA5NTU3NzE1MiwxMT
 k2MDY1NzIxLC0yODI5Mzk0NjIsMzMxNTc1OTQ5LDY3NTM2ODUz
 LDE2MTE2NjM5NDcsLTE2NjYyNTY3OTIsMTk1NDU2MTU0MywxMj
 U5ODIxMzAwLDE3NzQ1Njk0NzAsMTc0MzAyMTYwNCwtNjgwOTA1
