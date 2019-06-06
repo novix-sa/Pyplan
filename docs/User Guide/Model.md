@@ -75,7 +75,8 @@ A button is created as a way to run scripts that make use of the model.
 Any custom task, like for example assigning a value or definition to a node, can be executed running a button. Different than nodes its definition do not require the `result = ` sentence at the end, since there is no result to be stored. 
 
 ### Module
-Modules are the containers of diagrams (workflows of nodes). You can enter into a module double clicking on it. The module navigation path is 
+Modules are the containers of diagrams (workflows of nodes). You can enter into a module double clicking on it. The module navigation path is shown at the top of the digram. You can navigate directly by clicking to the corresponding level you want to go to.
+You can drag a group of selected nodes in
 
 ### Text
 
@@ -103,11 +104,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE3ODgzMzcsMjQ2ODQ2NzE5LC02MT
-c0NDYwMTAsLTE2MzU2MTg4MDEsLTE3NjI2MjIzNTYsODg2NTkz
-NzEyLC0zNzY1NDAxMjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MS
-wtNzgwOTg5NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQz
-MTk3NjUsMTMxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5NzEzMD
-UsLTEyMzg5MTg2MjAsLTQ3MDAxNDY4NiwyNjEwMTE0NTksLTE1
-ODQ3MTcyOV19
+eyJoaXN0b3J5IjpbMTkxNzU5MDIyNSwtMTAzMTc4ODMzNywyND
+Y4NDY3MTksLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMTc2MjYy
+MjM1Niw4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3Mzg2LC
+0xMjYyOTM5MzcxLC03ODA5ODk3MjQsLTE4NTg4NDI0NjAsODYy
+MjQyMTUsLTM5NDMxOTc2NSwxMzE3MDc3OTUyLDIwODM5NDEwND
+IsMTc0MDk3MTMwNSwtMTIzODkxODYyMCwtNDcwMDE0Njg2LDI2
+MTAxMTQ1OV19
 -->
