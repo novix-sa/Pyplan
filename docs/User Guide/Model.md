@@ -71,6 +71,9 @@ Creating and working with index in this way warranties the domain of matrix oper
 Index defined in Pyplan have an additional function when creating User Interfaces. When there are more than one Xarray output node that share a dimension, inserting that dimension in the interface will work as a coordinated filter on all objects that share that dimension.
 
 ### Button
+A button is created as a way to run scripts that make use of the model.
+Any custom task, like for example assigning a valu
+
 ### Module
 ### Text
 
@@ -99,11 +102,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI2MjIzNTYsODg2NTkzNzEyLC0zNz
-Y1NDAxMjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MSwtNzgwOTg5
-NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQzMTk3NjUsMT
-MxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5NzEzMDUsLTEyMzg5
-MTg2MjAsLTQ3MDAxNDY4NiwyNjEwMTE0NTksLTE1ODQ3MTcyOS
-wtMTg2ODg4NTAxOSwxMjQ0OTQ5ODI3LDMxOTk4MzQ4OSwtNzIy
-OTc4Mzk5XX0=
+eyJoaXN0b3J5IjpbLTExODMzMDY0NDgsLTE3NjI2MjIzNTYsOD
+g2NTkzNzEyLC0zNzY1NDAxMjMsLTk1MzczNzM4NiwtMTI2Mjkz
+OTM3MSwtNzgwOTg5NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC
+0zOTQzMTk3NjUsMTMxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5
+NzEzMDUsLTEyMzg5MTg2MjAsLTQ3MDAxNDY4NiwyNjEwMTE0NT
+ksLTE1ODQ3MTcyOSwtMTg2ODg4NTAxOSwxMjQ0OTQ5ODI3LDMx
+OTk4MzQ4OV19
 -->
