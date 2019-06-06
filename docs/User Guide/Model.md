@@ -72,9 +72,11 @@ Index defined in Pyplan have an additional function when creating User Interface
 
 ### Button
 A button is created as a way to run scripts that make use of the model.
-Any custom task, like for example assigning a value or definition to a node, can be executed running a button. Different than nodes its definition do not require the "result = " sentence at the end, since there is no result to be stored. 
+Any custom task, like for example assigning a value or definition to a node, can be executed running a button. Different than nodes its definition do not require the `result = ` sentence at the end, since there is no result to be stored. 
 
 ### Module
+Modules are the containers of diagrams (workflows of nodes). You can enter into a module double clicking on ti
+
 ### Text
 
 ## Influence Diagram
@@ -102,11 +104,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMT
-c2MjYyMjM1Niw4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3
-Mzg2LC0xMjYyOTM5MzcxLC03ODA5ODk3MjQsLTE4NTg4NDI0Nj
-AsODYyMjQyMTUsLTM5NDMxOTc2NSwxMzE3MDc3OTUyLDIwODM5
-NDEwNDIsMTc0MDk3MTMwNSwtMTIzODkxODYyMCwtNDcwMDE0Nj
-g2LDI2MTAxMTQ1OSwtMTU4NDcxNzI5LC0xODY4ODg1MDE5LDEy
-NDQ5NDk4MjddfQ==
+eyJoaXN0b3J5IjpbMjE0NjcyNTk0MywtNjE3NDQ2MDEwLC0xNj
+M1NjE4ODAxLC0xNzYyNjIyMzU2LDg4NjU5MzcxMiwtMzc2NTQw
+MTIzLC05NTM3MzczODYsLTEyNjI5MzkzNzEsLTc4MDk4OTcyNC
+wtMTg1ODg0MjQ2MCw4NjIyNDIxNSwtMzk0MzE5NzY1LDEzMTcw
+Nzc5NTIsMjA4Mzk0MTA0MiwxNzQwOTcxMzA1LC0xMjM4OTE4Nj
+IwLC00NzAwMTQ2ODYsMjYxMDExNDU5LC0xNTg0NzE3MjksLTE4
+Njg4ODUwMTldfQ==
 -->
