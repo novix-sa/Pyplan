@@ -6,7 +6,6 @@ The visualization type is selected clicking on the configuration wheel that appe
 The first choice to be made is about the type of chart (Table, Graph or Map). The menu is accessed clicking on the first option called "Chart and filters".
 ![enter image description here](http://img.pyplan.org/viz-viz-type1.png)
 
-<img src="smiley.gif"  alt="Smiley face"  height="42"  width="42">
 
 # Tables
 There are two type of tables intended for different purposes. Regular tables and pivot tables.
@@ -33,9 +32,9 @@ Pyplan includes several type of standard chart graphs
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTA5MTM3MSwtMTA5NTU3NzE1MiwxMT
-k2MDY1NzIxLC0yODI5Mzk0NjIsMzMxNTc1OTQ5LDY3NTM2ODUz
-LDE2MTE2NjM5NDcsLTE2NjYyNTY3OTIsMTk1NDU2MTU0MywxMj
-U5ODIxMzAwLDE3NzQ1Njk0NzAsMTc0MzAyMTYwNCwtNjgwOTA1
-MDg1XX0=
+eyJoaXN0b3J5IjpbMTk0ODk3NTk4MSwxMTU1MDkxMzcxLC0xMD
+k1NTc3MTUyLDExOTYwNjU3MjEsLTI4MjkzOTQ2MiwzMzE1NzU5
+NDksNjc1MzY4NTMsMTYxMTY2Mzk0NywtMTY2NjI1Njc5MiwxOT
+U0NTYxNTQzLDEyNTk4MjEzMDAsMTc3NDU2OTQ3MCwxNzQzMDIx
+NjA0LC02ODA5MDUwODVdfQ==
 -->
