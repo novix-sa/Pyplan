@@ -75,7 +75,7 @@ A button is created as a way to run scripts that make use of the model.
 Any custom task, like for example assigning a value or definition to a node, can be executed running a button. Different than nodes its definition do not require the `result = ` sentence at the end, since there is no result to be stored. 
 
 ### Module
-Modules are the containers of diagrams (workflows of nodes). You can enter into a module double clicking on it.
+Modules are the containers of diagrams (workflows of nodes). You can enter into a module double clicking on it. The module navigation path is 
 
 ### Text
 
@@ -98,17 +98,16 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
     "cubepy":cubepy,
     "xr":xarray}
 
-## Pyplan approach to Xarray
 
 ## Dynamic simulation
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2ODQ2NzE5LC02MTc0NDYwMTAsLTE2Mz
-U2MTg4MDEsLTE3NjI2MjIzNTYsODg2NTkzNzEyLC0zNzY1NDAx
-MjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MSwtNzgwOTg5NzI0LC
-0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQzMTk3NjUsMTMxNzA3
-Nzk1MiwyMDgzOTQxMDQyLDE3NDA5NzEzMDUsLTEyMzg5MTg2Mj
-AsLTQ3MDAxNDY4NiwyNjEwMTE0NTksLTE1ODQ3MTcyOSwtMTg2
-ODg4NTAxOV19
+eyJoaXN0b3J5IjpbLTEwMzE3ODgzMzcsMjQ2ODQ2NzE5LC02MT
+c0NDYwMTAsLTE2MzU2MTg4MDEsLTE3NjI2MjIzNTYsODg2NTkz
+NzEyLC0zNzY1NDAxMjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MS
+wtNzgwOTg5NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQz
+MTk3NjUsMTMxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5NzEzMD
+UsLTEyMzg5MTg2MjAsLTQ3MDAxNDY4NiwyNjEwMTE0NTksLTE1
+ODQ3MTcyOV19
 -->
