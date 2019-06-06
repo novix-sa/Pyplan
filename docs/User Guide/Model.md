@@ -72,7 +72,7 @@ Index defined in Pyplan have an additional function when creating User Interface
 
 ### Button
 A button is created as a way to run scripts that make use of the model.
-Any custom task, like for example assigning a value or definition to a node, can be executed running a button. Different than nodes its definition do not require the "result = " sentence at the end, since there  no result is stored in 
+Any custom task, like for example assigning a value or definition to a node, can be executed running a button. Different than nodes its definition do not require the "result = " sentence at the end, since there is no result to be stored. 
 
 ### Module
 ### Text
@@ -102,7 +102,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjA5MTgwMywtMTYzNTYxODgwMSwtMT
+eyJoaXN0b3J5IjpbLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMT
 c2MjYyMjM1Niw4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3
 Mzg2LC0xMjYyOTM5MzcxLC03ODA5ODk3MjQsLTE4NTg4NDI0Nj
 AsODYyMjQyMTUsLTM5NDMxOTc2NSwxMzE3MDc3OTUyLDIwODM5
