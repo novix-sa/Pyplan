@@ -56,9 +56,10 @@ A decision node is meant to create a choice for the model user to decide about a
 Its definition syntax is:
 
     result = selector(['A','B','C'],1,False)
- where the first parameter is the list of values to be choosing from, the second is the position of the list chosen and the third es a flag to indicate multiple selection.
+ where the first parameter is the list of values to be choosing from, the second is the position of the list chosen and the third es a flag to indicate multiple selection option.
  
 ### Index
+
 ### Button
 ### Module
 ### Text
@@ -88,11 +89,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjU0MDEyMywtOTUzNzM3Mzg2LC0xMj
-YyOTM5MzcxLC03ODA5ODk3MjQsLTE4NTg4NDI0NjAsODYyMjQy
-MTUsLTM5NDMxOTc2NSwxMzE3MDc3OTUyLDIwODM5NDEwNDIsMT
-c0MDk3MTMwNSwtMTIzODkxODYyMCwtNDcwMDE0Njg2LDI2MTAx
-MTQ1OSwtMTU4NDcxNzI5LC0xODY4ODg1MDE5LDEyNDQ5NDk4Mj
-csMzE5OTgzNDg5LC03MjI5NzgzOTksLTE1NTMyOTY0MzksMjE0
-MTY0MzE0NV19
+eyJoaXN0b3J5IjpbODg2NTkzNzEyLC0zNzY1NDAxMjMsLTk1Mz
+czNzM4NiwtMTI2MjkzOTM3MSwtNzgwOTg5NzI0LC0xODU4ODQy
+NDYwLDg2MjI0MjE1LC0zOTQzMTk3NjUsMTMxNzA3Nzk1MiwyMD
+gzOTQxMDQyLDE3NDA5NzEzMDUsLTEyMzg5MTg2MjAsLTQ3MDAx
+NDY4NiwyNjEwMTE0NTksLTE1ODQ3MTcyOSwtMTg2ODg4NTAxOS
+wxMjQ0OTQ5ODI3LDMxOTk4MzQ4OSwtNzIyOTc4Mzk5LC0xNTUz
+Mjk2NDM5XX0=
 -->
