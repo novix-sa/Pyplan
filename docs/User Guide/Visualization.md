@@ -14,6 +14,8 @@ There are two type of tables intended for different purposes. Regular tables and
 Is the default view of any node. The user can pivot dimensions and filter any dimension by clicking the `(all)` legend next to each dimension.
 This table have many configuration options like range cell 
 ## Pivot Tables
+Basic outputs. It allows multiple dimensions in rows or cols
+
 # Graphs
 # Maps
 # Other visualization libraries
@@ -24,7 +26,8 @@ describe configuration parameters
 ## Xarray
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1MzY4NTMsMTYxMTY2Mzk0NywtMTY2Nj
-I1Njc5MiwxOTU0NTYxNTQzLDEyNTk4MjEzMDAsMTc3NDU2OTQ3
-MCwxNzQzMDIxNjA0LC02ODA5MDUwODVdfQ==
+eyJoaXN0b3J5IjpbLTE3NzMwODU3ODksNjc1MzY4NTMsMTYxMT
+Y2Mzk0NywtMTY2NjI1Njc5MiwxOTU0NTYxNTQzLDEyNTk4MjEz
+MDAsMTc3NDU2OTQ3MCwxNzQzMDIxNjA0LC02ODA5MDUwODVdfQ
+==
 -->
