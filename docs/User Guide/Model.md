@@ -97,8 +97,9 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
     "xr":xarray}
 
 ## Using Python libraries
-Pyplan includes a function 
-install_library( 'bokeh', import_name=None )
+Pyplan includes a function called install_library to help working with libraries than are not natively included with Pyplan a
+
+    install_library( 'bokeh', import_name=None )
 
 ## Toolboxes
 Toolboxes are specific purpose nodes, which custom wizards associated to it, to help parametrize a function for producing certain result.
@@ -109,7 +110,7 @@ Further development of toolboxes will be mainly driven by Pyplan users requests.
 (TODO)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5Njk3Mzg1LDIwNzIzOTk3NjUsNzExOT
+eyJoaXN0b3J5IjpbNTk4MjIyMDA0LDIwNzIzOTk3NjUsNzExOT
 c5NTIyLC0xMDMxNzg4MzM3LDI0Njg0NjcxOSwtNjE3NDQ2MDEw
 LC0xNjM1NjE4ODAxLC0xNzYyNjIyMzU2LDg4NjU5MzcxMiwtMz
 c2NTQwMTIzLC05NTM3MzczODYsLTEyNjI5MzkzNzEsLTc4MDk4
