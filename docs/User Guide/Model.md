@@ -97,17 +97,19 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
     "xr":xarray}
 
 ## Using Python libraries
+Pyplan includes a function 
+
 
 ## Toolboxes
 Toolboxes are specific purpose nodes, which custom wizards associated to it, to help parametrize a function for producing certain result.
-Initially there is a toolbox named Data Sources and an example has been developed with the Read CSV function
+Initially there is a toolbox named Data Sources and an example has been developed with the Read CSV function.
+Further development of toolboxes will be mainly driven by Pyplan users requests.
 
-has a sta(TODO)
 ## Dynamic simulation
 (TODO)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTc3NzY4MywyMDcyMzk5NzY1LDcxMT
+eyJoaXN0b3J5IjpbLTUyNTM5MjUxNCwyMDcyMzk5NzY1LDcxMT
 k3OTUyMiwtMTAzMTc4ODMzNywyNDY4NDY3MTksLTYxNzQ0NjAx
 MCwtMTYzNTYxODgwMSwtMTc2MjYyMjM1Niw4ODY1OTM3MTIsLT
 M3NjU0MDEyMywtOTUzNzM3Mzg2LC0xMjYyOTM5MzcxLC03ODA5
