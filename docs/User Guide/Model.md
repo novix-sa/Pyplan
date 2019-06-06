@@ -60,7 +60,7 @@ Its definition syntax is:
  
 ### Index
 The Pyplan index node is defined as a Pandas index to help operate with Xarray matrix.
-Xarray
+Xarray library makes usage of t
 ### Button
 ### Module
 ### Text
@@ -90,7 +90,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg2ODY1MTEsODg2NTkzNzEyLC0zNz
+eyJoaXN0b3J5IjpbLTEzMzQzMTA2MTMsODg2NTkzNzEyLC0zNz
 Y1NDAxMjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MSwtNzgwOTg5
 NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQzMTk3NjUsMT
 MxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5NzEzMDUsLTEyMzg5
