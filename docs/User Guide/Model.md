@@ -99,16 +99,18 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 ## Toolboxes
-Toolboxes are specific purpose nodes which includes wizardshas a sta(TODO)
+Toolboxes are specific purpose nodes, which custom wizards associated to it, to help parametrize a function for producing certain result.
+Initially the 
+has a sta(TODO)
 ## Dynamic simulation
 (TODO)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODM5OTA1NjIsMjA3MjM5OTc2NSw3MT
-E5Nzk1MjIsLTEwMzE3ODgzMzcsMjQ2ODQ2NzE5LC02MTc0NDYw
-MTAsLTE2MzU2MTg4MDEsLTE3NjI2MjIzNTYsODg2NTkzNzEyLC
-0zNzY1NDAxMjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MSwtNzgw
-OTg5NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQzMTk3Nj
-UsMTMxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5NzEzMDUsLTEy
-Mzg5MTg2MjBdfQ==
+eyJoaXN0b3J5IjpbMTMxNjY1MzkwMCwyMDcyMzk5NzY1LDcxMT
+k3OTUyMiwtMTAzMTc4ODMzNywyNDY4NDY3MTksLTYxNzQ0NjAx
+MCwtMTYzNTYxODgwMSwtMTc2MjYyMjM1Niw4ODY1OTM3MTIsLT
+M3NjU0MDEyMywtOTUzNzM3Mzg2LC0xMjYyOTM5MzcxLC03ODA5
+ODk3MjQsLTE4NTg4NDI0NjAsODYyMjQyMTUsLTM5NDMxOTc2NS
+wxMzE3MDc3OTUyLDIwODM5NDEwNDIsMTc0MDk3MTMwNSwtMTIz
+ODkxODYyMF19
 -->
