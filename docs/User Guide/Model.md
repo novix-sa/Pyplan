@@ -116,15 +116,15 @@ The image below below show the result of installing the [Bokeh](https://bokeh.py
 	style="float: right; margin-left: 10px;"
 	ALIGN=”top”
 	height="300" /> 
-Toolboxes are specific purpose nodes, which custom wizards associated to it, to help parametrize a function for producing certain result.
-Initially there is a toolbox named Data Sources and an example has been developed with the Read CSV function.
+Toolboxes are specific purpose nodes, whith custom wizards associated to them in order to help parametrize a function for producing certain result.
+Pyplan includes a toolbox named Data Sources. and an example has been developed with the Read CSV function.
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users requests.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDkxNTc2OSwtNjg1MjU4NDg2LDk1ND
-AxNjkxMywtMjY2MjA0NzU1LDIwNzIzOTk3NjUsNzExOTc5NTIy
-LC0xMDMxNzg4MzM3LDI0Njg0NjcxOSwtNjE3NDQ2MDEwLC0xNj
-M1NjE4ODAxLC0xNzYyNjIyMzU2LDg4NjU5MzcxMiwtMzc2NTQw
-MTIzLC05NTM3MzczODYsLTEyNjI5MzkzNzEsLTc4MDk4OTcyNC
-wtMTg1ODg0MjQ2MCw4NjIyNDIxNSwtMzk0MzE5NzY1LDEzMTcw
-Nzc5NTJdfQ==
+eyJoaXN0b3J5IjpbLTE3MTgzMjEyNjIsLTY4NTI1ODQ4Niw5NT
+QwMTY5MTMsLTI2NjIwNDc1NSwyMDcyMzk5NzY1LDcxMTk3OTUy
+MiwtMTAzMTc4ODMzNywyNDY4NDY3MTksLTYxNzQ0NjAxMCwtMT
+YzNTYxODgwMSwtMTc2MjYyMjM1Niw4ODY1OTM3MTIsLTM3NjU0
+MDEyMywtOTUzNzM3Mzg2LC0xMjYyOTM5MzcxLC03ODA5ODk3Mj
+QsLTE4NTg4NDI0NjAsODYyMjQyMTUsLTM5NDMxOTc2NSwxMzE3
+MDc3OTUyXX0=
 -->
