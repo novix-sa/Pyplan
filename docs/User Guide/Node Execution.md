@@ -30,9 +30,10 @@ Any default view can be changed using the Edit interface menu that can be launch
 After clicking, the configuration menu is launched where it can be decided how the node will be rendered. After defining the node visualization configuration you must accept the changes to save them.
 ![enter image description here](http://img.pyplan.org/Node-execution-edit-inter3.png)
 
-
+## Embedded tools
+There are some embedded tools that displays when evaluating a node according to the type of object
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzNzEyMzY1LDIwNTcyOTM3MjEsMjg1OT
+eyJoaXN0b3J5IjpbLTM1MDI5MzM4LDIwNTcyOTM3MjEsMjg1OT
 Q2MDUwLC00MDcxNTU2NDcsLTE0ODYyMzk3ODgsNDc3MzU2ODUy
 LDEyNjkxMTU4NjgsLTQ3MjIxODI1MCwtMzc5OTE2MDgwLC0xOD
 U1MzI5OTc5LDE0MzU1MjcyODAsMTA4MTA3OTc0NSw1MDU5NTIy
