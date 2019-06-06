@@ -62,10 +62,12 @@ Its definition syntax is:
 ### Button
 ### Module
 ### Text
+
 ## Influence Diagram
 ### Input and output nodes?
 ### Alias / Duplicate
-### Coy
+### Shortcuts
+### Copying and cutting
 
 ## Model Preferences
 
@@ -86,11 +88,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzczNzM4NiwtMTI2MjkzOTM3MSwtNz
-gwOTg5NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQzMTk3
-NjUsMTMxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5NzEzMDUsLT
-EyMzg5MTg2MjAsLTQ3MDAxNDY4NiwyNjEwMTE0NTksLTE1ODQ3
-MTcyOSwtMTg2ODg4NTAxOSwxMjQ0OTQ5ODI3LDMxOTk4MzQ4OS
-wtNzIyOTc4Mzk5LC0xNTUzMjk2NDM5LDIxNDE2NDMxNDUsLTE3
-NzkxMDc4MjldfQ==
+eyJoaXN0b3J5IjpbLTM3NjU0MDEyMywtOTUzNzM3Mzg2LC0xMj
+YyOTM5MzcxLC03ODA5ODk3MjQsLTE4NTg4NDI0NjAsODYyMjQy
+MTUsLTM5NDMxOTc2NSwxMzE3MDc3OTUyLDIwODM5NDEwNDIsMT
+c0MDk3MTMwNSwtMTIzODkxODYyMCwtNDcwMDE0Njg2LDI2MTAx
+MTQ1OSwtMTU4NDcxNzI5LC0xODY4ODg1MDE5LDEyNDQ5NDk4Mj
+csMzE5OTgzNDg5LC03MjI5NzgzOTksLTE1NTMyOTY0MzksMjE0
+MTY0MzE0NV19
 -->
