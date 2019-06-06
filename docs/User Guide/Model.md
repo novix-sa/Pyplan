@@ -60,16 +60,15 @@ Its definition syntax is:
  
 ### Index
 The Pyplan index node is defined as a Pandas index to help operate with Xarray matrix.
-[Xarray data structure](http://xarray.pydata.org/en/stable/data-structures.html) 
-#### DataArray[](http://xarray.pydata.org/en/stable/data-structures.html#dataarray "Permalink to this headline")
-
-[`xarray.DataArray`](http://xarray.pydata.org/en/stable/generated/xarray.DataArray.html#xarray.DataArray "xarray.DataArray")  is xarray’s implementation of a labeled, multi-dimensional array. It has several key properties:
+[Xarray data structure](http://xarray.pydata.org/en/stable/data-structures.html) is xarray’s implementation of a labeled, multi-dimensional array. It has several key properties:
 
 -   `values`: a  [`numpy.ndarray`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.html#numpy.ndarray "(in NumPy v1.16)")  holding the array’s values
     
 -   `dims`: dimension names for each axis (e.g.,  `('x',  'y',  'z')`)
     
 -   `coords`: a dict-like container of arrays (_coordinates_) that label each point (e.g., 1-dimensional arrays of numbers, datetime objects or strings)
+
+It makes usage of to different atributes of an index: dims and coords.
 ### Button
 ### Module
 ### Text
@@ -99,7 +98,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMzk5ODk4LDg4NjU5MzcxMiwtMzc2NT
+eyJoaXN0b3J5IjpbNDcyNDEwMzM4LDg4NjU5MzcxMiwtMzc2NT
 QwMTIzLC05NTM3MzczODYsLTEyNjI5MzkzNzEsLTc4MDk4OTcy
 NCwtMTg1ODg0MjQ2MCw4NjIyNDIxNSwtMzk0MzE5NzY1LDEzMT
 cwNzc5NTIsMjA4Mzk0MTA0MiwxNzQwOTcxMzA1LC0xMjM4OTE4
