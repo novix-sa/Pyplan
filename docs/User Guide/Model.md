@@ -68,7 +68,8 @@ Its definition syntax is:
 -   `coords`: a dict-like container of arrays (_coordinates_) that label each point (e.g., 1-dimensional arrays of numbers, datetime objects or strings)
 
 The Pyplan index node is defined as a Pandas index to help operate with Xarray matrix. 
-Defining the index it is set the dims and coords properties simultaneously. Dim is defined as the Id property of index and Coords as the elements listed
+Defining the index it is set the dims and coords properties simultaneously. Dim is defined as the Id property of index and Coords as the elements of the index.
+Creating and working with index in this way warranties the domain of matrix operations. So for example when you add two matri
 It makes usage of to different atributes of an index: dims and coords.
 ### Button
 ### Module
@@ -99,11 +100,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODc3NDU4MSw4ODY1OTM3MTIsLTM3Nj
-U0MDEyMywtOTUzNzM3Mzg2LC0xMjYyOTM5MzcxLC03ODA5ODk3
-MjQsLTE4NTg4NDI0NjAsODYyMjQyMTUsLTM5NDMxOTc2NSwxMz
-E3MDc3OTUyLDIwODM5NDEwNDIsMTc0MDk3MTMwNSwtMTIzODkx
-ODYyMCwtNDcwMDE0Njg2LDI2MTAxMTQ1OSwtMTU4NDcxNzI5LC
-0xODY4ODg1MDE5LDEyNDQ5NDk4MjcsMzE5OTgzNDg5LC03MjI5
-NzgzOTldfQ==
+eyJoaXN0b3J5IjpbLTE4NDE4MzQ2MjAsODg2NTkzNzEyLC0zNz
+Y1NDAxMjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MSwtNzgwOTg5
+NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQzMTk3NjUsMT
+MxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5NzEzMDUsLTEyMzg5
+MTg2MjAsLTQ3MDAxNDY4NiwyNjEwMTE0NTksLTE1ODQ3MTcyOS
+wtMTg2ODg4NTAxOSwxMjQ0OTQ5ODI3LDMxOTk4MzQ4OSwtNzIy
+OTc4Mzk5XX0=
 -->
