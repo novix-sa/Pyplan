@@ -104,8 +104,10 @@ The function is called install_library and its syntax is as shown below
     # for example
     install_library( 'bokeh', import_name=None )
 When a node with that instruction is run for the first time, the mentioned library will be installed in a folder included in the folder where the model is saved. A new folder named `libs` will be created and all library components will be installed on that folder.
-The image below below show the result of installing the Bokeh visualization library
+The image below below show the result of installing the [Bokeh](https://bokeh.pydata.org/en/latest/) visualization library
+
     install_library( 'bokeh', import_name=None )
+
 ![enter image description here](http://img.pyplan.org/model-install-lib.png)
 ## Toolboxes
 Toolboxes are specific purpose nodes, which custom wizards associated to it, to help parametrize a function for producing certain result.
@@ -115,8 +117,9 @@ This is an experimental feature. Further development of toolboxes will be mainly
 ## Dynamic simulation
 (TODO)
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTQ3MzczMyw5NTQwMTY5MTMsLTI2Nj
+eyJoaXN0b3J5IjpbLTY4NTI1ODQ4Niw5NTQwMTY5MTMsLTI2Nj
 IwNDc1NSwyMDcyMzk5NzY1LDcxMTk3OTUyMiwtMTAzMTc4ODMz
 NywyNDY4NDY3MTksLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMT
 c2MjYyMjM1Niw4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3
