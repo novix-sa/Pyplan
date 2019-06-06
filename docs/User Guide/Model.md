@@ -103,23 +103,23 @@ The function is called install_library and its syntax is as shown below
     install_library( pypi_name, import_name=None )
     # for example
     install_library( 'bokeh', import_name=None )
-When a node with that instruction is run for the first time, the mentioned library will be installed in a folder included in the folder where the model is saved. A new folder named Lib will be created
+When a node with that instruction is run for the first time, the mentioned library will be installed in a folder included in the folder where the model is saved. A new folder named `libs` will be created
 
-![enter image description here](http://img.pyplan.org/model-intall-lib.png)
+![enter image description here](http://img.pyplan.org/model-install-lib.png)
 ## Toolboxes
 Toolboxes are specific purpose nodes, which custom wizards associated to it, to help parametrize a function for producing certain result.
 Initially there is a toolbox named Data Sources and an example has been developed with the Read CSV function.
-Further development of toolboxes will be mainly driven by Pyplan users requests.
+This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users requests.
 
 ## Dynamic simulation
 (TODO)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0MDE2OTEzLC0yNjYyMDQ3NTUsMjA3Mj
-M5OTc2NSw3MTE5Nzk1MjIsLTEwMzE3ODgzMzcsMjQ2ODQ2NzE5
-LC02MTc0NDYwMTAsLTE2MzU2MTg4MDEsLTE3NjI2MjIzNTYsOD
-g2NTkzNzEyLC0zNzY1NDAxMjMsLTk1MzczNzM4NiwtMTI2Mjkz
-OTM3MSwtNzgwOTg5NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC
-0zOTQzMTk3NjUsMTMxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5
-NzEzMDVdfQ==
+eyJoaXN0b3J5IjpbMTE3Mzg4MzIzOCw5NTQwMTY5MTMsLTI2Nj
+IwNDc1NSwyMDcyMzk5NzY1LDcxMTk3OTUyMiwtMTAzMTc4ODMz
+NywyNDY4NDY3MTksLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMT
+c2MjYyMjM1Niw4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3
+Mzg2LC0xMjYyOTM5MzcxLC03ODA5ODk3MjQsLTE4NTg4NDI0Nj
+AsODYyMjQyMTUsLTM5NDMxOTc2NSwxMzE3MDc3OTUyLDIwODM5
+NDEwNDJdfQ==
 -->
