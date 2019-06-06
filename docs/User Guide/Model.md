@@ -103,7 +103,7 @@ The function is called install_library and its syntax is as shown below
     install_library( pypi_name, import_name=None )
     # for example
     install_library( 'bokeh', import_name=None )
-When a node with that 
+When a node with that instruction is run for the first time, the mentioned library will be installed in a folder included in the folder where the model is saved. A new folder named Lib will be created
 
 ## Toolboxes
 Toolboxes are specific purpose nodes, which custom wizards associated to it, to help parametrize a function for producing certain result.
@@ -114,7 +114,7 @@ Further development of toolboxes will be mainly driven by Pyplan users requests.
 (TODO)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzQ0MjAxOSwyMDcyMzk5NzY1LDcxMT
+eyJoaXN0b3J5IjpbLTI2NjIwNDc1NSwyMDcyMzk5NzY1LDcxMT
 k3OTUyMiwtMTAzMTc4ODMzNywyNDY4NDY3MTksLTYxNzQ0NjAx
 MCwtMTYzNTYxODgwMSwtMTc2MjYyMjM1Niw4ODY1OTM3MTIsLT
 M3NjU0MDEyMywtOTUzNzM3Mzg2LC0xMjYyOTM5MzcxLC03ODA5
