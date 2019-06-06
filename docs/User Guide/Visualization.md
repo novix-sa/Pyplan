@@ -21,9 +21,9 @@ It is possible to generate custom configurations by rows or cols. Heatmaps and B
 ## Pivot Tables
 Different than the standard table It allows multiple dimensions in rows or cols as well as filtering.
 It has fewer customization options compared to regular tables.
-But one main differentiation is that can work as an input table, allowing the user to manually change table values.
 ![enter image description here](http://img.pyplan.org/viz-tables-dif1.png)
-
+But one main differentiation is that can work as an input table, allowing the user to manually change table values.
+![enter image description here](http://img.pyplan.org/viz-table-standard.png)
 # Graphs
 # Maps
 # Other visualization libraries
@@ -34,8 +34,9 @@ describe configuration parameters
 ## Xarray
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU1NzcxNTIsMTE5NjA2NTcyMSwtMj
-gyOTM5NDYyLDMzMTU3NTk0OSw2NzUzNjg1MywxNjExNjYzOTQ3
-LC0xNjY2MjU2NzkyLDE5NTQ1NjE1NDMsMTI1OTgyMTMwMCwxNz
-c0NTY5NDcwLDE3NDMwMjE2MDQsLTY4MDkwNTA4NV19
+eyJoaXN0b3J5IjpbODY0MjQ5Mzg0LC0xMDk1NTc3MTUyLDExOT
+YwNjU3MjEsLTI4MjkzOTQ2MiwzMzE1NzU5NDksNjc1MzY4NTMs
+MTYxMTY2Mzk0NywtMTY2NjI1Njc5MiwxOTU0NTYxNTQzLDEyNT
+k4MjEzMDAsMTc3NDU2OTQ3MCwxNzQzMDIxNjA0LC02ODA5MDUw
+ODVdfQ==
 -->
