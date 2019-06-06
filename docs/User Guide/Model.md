@@ -55,7 +55,8 @@ Functions can be globally used in the entire model, and custom libraries can be 
 A decision node is meant to create a choice for the model user to decide about an option.
 Its definition syntax is:
 
-    result = selector(['A','B','C'],1)
+    result = selector(['A','B','C'],1,False)
+   
 
 ### Index
 ### Button
@@ -81,11 +82,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYyMjQyMTUsLTM5NDMxOTc2NSwxMzE3MD
-c3OTUyLDIwODM5NDEwNDIsMTc0MDk3MTMwNSwtMTIzODkxODYy
-MCwtNDcwMDE0Njg2LDI2MTAxMTQ1OSwtMTU4NDcxNzI5LC0xOD
-Y4ODg1MDE5LDEyNDQ5NDk4MjcsMzE5OTgzNDg5LC03MjI5Nzgz
-OTksLTE1NTMyOTY0MzksMjE0MTY0MzE0NSwtMTc3OTEwNzgyOS
-w3OTIwODk2NjgsLTY3MzQ0NTI1OSwxMzI4NDI1Mjg3LDE5Mjc5
-MjUxOTBdfQ==
+eyJoaXN0b3J5IjpbLTIxMzM0MzM5MjYsODYyMjQyMTUsLTM5ND
+MxOTc2NSwxMzE3MDc3OTUyLDIwODM5NDEwNDIsMTc0MDk3MTMw
+NSwtMTIzODkxODYyMCwtNDcwMDE0Njg2LDI2MTAxMTQ1OSwtMT
+U4NDcxNzI5LC0xODY4ODg1MDE5LDEyNDQ5NDk4MjcsMzE5OTgz
+NDg5LC03MjI5NzgzOTksLTE1NTMyOTY0MzksMjE0MTY0MzE0NS
+wtMTc3OTEwNzgyOSw3OTIwODk2NjgsLTY3MzQ0NTI1OSwxMzI4
+NDI1Mjg3XX0=
 -->
