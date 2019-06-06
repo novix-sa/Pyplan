@@ -11,7 +11,7 @@ The first choice to be made is about the type of chart (Table, Graph or Map). Th
 # Tables
 There are two type of tables intended for different purposes. Regular tables and pivot tables.
 ## Regular Table
-Is the default view of any node. you
+Is the default view of any node. The user can pivot dimensions and filter any dimension by clicking the `(all)` legend next to each dimension
 ## Pivot Tables
 # Graphs
 # Maps
@@ -23,7 +23,7 @@ describe configuration parameters
 ## Xarray
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODQwNDIzNSwxNjExNjYzOTQ3LC0xNj
-Y2MjU2NzkyLDE5NTQ1NjE1NDMsMTI1OTgyMTMwMCwxNzc0NTY5
-NDcwLDE3NDMwMjE2MDQsLTY4MDkwNTA4NV19
+eyJoaXN0b3J5IjpbLTEzMjkwNTY1MTgsMTYxMTY2Mzk0NywtMT
+Y2NjI1Njc5MiwxOTU0NTYxNTQzLDEyNTk4MjEzMDAsMTc3NDU2
+OTQ3MCwxNzQzMDIxNjA0LC02ODA5MDUwODVdfQ==
 -->
