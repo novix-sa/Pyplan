@@ -59,7 +59,6 @@ Its definition syntax is:
  where the first parameter is the list of values to be choosing from, the second is the position of the list chosen and the third es a flag to indicate multiple selection option.
  
 ### Index
-The Pyplan index node is defined as a Pandas index to help operate with Xarray matrix.
 [Xarray data structure](http://xarray.pydata.org/en/stable/data-structures.html) is xarray’s implementation of a labeled, multi-dimensional array. It has several key properties:
 
 -   `values`: a  [`numpy.ndarray`](https://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.html#numpy.ndarray "(in NumPy v1.16)")  holding the array’s values
@@ -68,6 +67,7 @@ The Pyplan index node is defined as a Pandas index to help operate with Xarray m
     
 -   `coords`: a dict-like container of arrays (_coordinates_) that label each point (e.g., 1-dimensional arrays of numbers, datetime objects or strings)
 
+The Pyplan index node is defined as a Pandas index to help operate with Xarray matrix. Its sets the dims and coords
 It makes usage of to different atributes of an index: dims and coords.
 ### Button
 ### Module
@@ -98,11 +98,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyNDEwMzM4LDg4NjU5MzcxMiwtMzc2NT
-QwMTIzLC05NTM3MzczODYsLTEyNjI5MzkzNzEsLTc4MDk4OTcy
-NCwtMTg1ODg0MjQ2MCw4NjIyNDIxNSwtMzk0MzE5NzY1LDEzMT
-cwNzc5NTIsMjA4Mzk0MTA0MiwxNzQwOTcxMzA1LC0xMjM4OTE4
-NjIwLC00NzAwMTQ2ODYsMjYxMDExNDU5LC0xNTg0NzE3MjksLT
-E4Njg4ODUwMTksMTI0NDk0OTgyNywzMTk5ODM0ODksLTcyMjk3
-ODM5OV19
+eyJoaXN0b3J5IjpbLTEzODEyNjM3MjgsODg2NTkzNzEyLC0zNz
+Y1NDAxMjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MSwtNzgwOTg5
+NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQzMTk3NjUsMT
+MxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5NzEzMDUsLTEyMzg5
+MTg2MjAsLTQ3MDAxNDY4NiwyNjEwMTE0NTksLTE1ODQ3MTcyOS
+wtMTg2ODg4NTAxOSwxMjQ0OTQ5ODI3LDMxOTk4MzQ4OSwtNzIy
+OTc4Mzk5XX0=
 -->
