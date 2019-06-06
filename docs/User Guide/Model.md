@@ -81,7 +81,7 @@ You can drag a group of selected nodes into a module to organize your diagram. O
 ### Text
 The text node is intended for clarification of the calculation logic. 
 Its properties includes text Size that can be adjusted when selecting. Z position, bringing selection to front or sending it back. Text font type and size, and border and background color.
-
+![enter image description here](http://img.pyplan.org/model-text-usage.png)
 
 ## Influence Diagram
 ### Input and output nodes?
@@ -107,11 +107,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExOTc5NTIyLC0xMDMxNzg4MzM3LDI0Nj
-g0NjcxOSwtNjE3NDQ2MDEwLC0xNjM1NjE4ODAxLC0xNzYyNjIy
-MzU2LDg4NjU5MzcxMiwtMzc2NTQwMTIzLC05NTM3MzczODYsLT
-EyNjI5MzkzNzEsLTc4MDk4OTcyNCwtMTg1ODg0MjQ2MCw4NjIy
-NDIxNSwtMzk0MzE5NzY1LDEzMTcwNzc5NTIsMjA4Mzk0MTA0Mi
-wxNzQwOTcxMzA1LC0xMjM4OTE4NjIwLC00NzAwMTQ2ODYsMjYx
-MDExNDU5XX0=
+eyJoaXN0b3J5IjpbMjA3MjM5OTc2NSw3MTE5Nzk1MjIsLTEwMz
+E3ODgzMzcsMjQ2ODQ2NzE5LC02MTc0NDYwMTAsLTE2MzU2MTg4
+MDEsLTE3NjI2MjIzNTYsODg2NTkzNzEyLC0zNzY1NDAxMjMsLT
+k1MzczNzM4NiwtMTI2MjkzOTM3MSwtNzgwOTg5NzI0LC0xODU4
+ODQyNDYwLDg2MjI0MjE1LC0zOTQzMTk3NjUsMTMxNzA3Nzk1Mi
+wyMDgzOTQxMDQyLDE3NDA5NzEzMDUsLTEyMzg5MTg2MjAsLTQ3
+MDAxNDY4Nl19
 -->
