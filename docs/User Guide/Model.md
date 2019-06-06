@@ -79,7 +79,8 @@ Modules are the containers of diagrams (workflows of nodes). You can enter into 
 You can drag a group of selected nodes into a module to organize your diagram. Or cut and paste a group in the case you want to move upstream.
 
 ### Text
-The text
+The text node is intended for clarification of the calculation logic.
+
 ## Influence Diagram
 ### Input and output nodes?
 ### Alias / Duplicate
@@ -104,11 +105,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODA1ODIxOCwtMTAzMTc4ODMzNywyND
-Y4NDY3MTksLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMTc2MjYy
-MjM1Niw4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3Mzg2LC
-0xMjYyOTM5MzcxLC03ODA5ODk3MjQsLTE4NTg4NDI0NjAsODYy
-MjQyMTUsLTM5NDMxOTc2NSwxMzE3MDc3OTUyLDIwODM5NDEwND
-IsMTc0MDk3MTMwNSwtMTIzODkxODYyMCwtNDcwMDE0Njg2LDI2
-MTAxMTQ1OV19
+eyJoaXN0b3J5IjpbLTE5MDE0MzgyNjcsLTEwMzE3ODgzMzcsMj
+Q2ODQ2NzE5LC02MTc0NDYwMTAsLTE2MzU2MTg4MDEsLTE3NjI2
+MjIzNTYsODg2NTkzNzEyLC0zNzY1NDAxMjMsLTk1MzczNzM4Ni
+wtMTI2MjkzOTM3MSwtNzgwOTg5NzI0LC0xODU4ODQyNDYwLDg2
+MjI0MjE1LC0zOTQzMTk3NjUsMTMxNzA3Nzk1MiwyMDgzOTQxMD
+QyLDE3NDA5NzEzMDUsLTEyMzg5MTg2MjAsLTQ3MDAxNDY4Niwy
+NjEwMTE0NTldfQ==
 -->
