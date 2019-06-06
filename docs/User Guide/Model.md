@@ -98,9 +98,12 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 
 ## Using Python libraries
 Pyplan includes a function called install_library to help working with libraries than are not natively included with Pyplan app.
-The function is called install_library
+The function is called install_library and its syntax is as shown below
 
+    install_library( pypi_name, import_name=None )
+    # for example
     install_library( 'bokeh', import_name=None )
+When a node with that 
 
 ## Toolboxes
 Toolboxes are specific purpose nodes, which custom wizards associated to it, to help parametrize a function for producing certain result.
@@ -111,7 +114,7 @@ Further development of toolboxes will be mainly driven by Pyplan users requests.
 (TODO)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTE2MjI3MSwyMDcyMzk5NzY1LDcxMT
+eyJoaXN0b3J5IjpbMTU0NzQ0MjAxOSwyMDcyMzk5NzY1LDcxMT
 k3OTUyMiwtMTAzMTc4ODMzNywyNDY4NDY3MTksLTYxNzQ0NjAx
 MCwtMTYzNTYxODgwMSwtMTc2MjYyMjM1Niw4ODY1OTM3MTIsLT
 M3NjU0MDEyMywtOTUzNzM3Mzg2LC0xMjYyOTM5MzcxLC03ODA5
