@@ -19,7 +19,9 @@ It is possible to generate custom configurations by rows or cols. Heatmaps and B
  
 ## Pivot Tables
 Different than the standard table It allows multiple dimensions in rows or cols as well as filtering.
-It 
+It has fewer customization options compared to regular tables.
+But one main differentiation is that can work as an input table, allowing the user to manually change table values.
+
 
 # Graphs
 # Maps
@@ -31,7 +33,7 @@ describe configuration parameters
 ## Xarray
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODI4MzI3NywtMjgyOTM5NDYyLDMzMT
+eyJoaXN0b3J5IjpbMTE5NjA2NTcyMSwtMjgyOTM5NDYyLDMzMT
 U3NTk0OSw2NzUzNjg1MywxNjExNjYzOTQ3LC0xNjY2MjU2Nzky
 LDE5NTQ1NjE1NDMsMTI1OTgyMTMwMCwxNzc0NTY5NDcwLDE3ND
 MwMjE2MDQsLTY4MDkwNTA4NV19
