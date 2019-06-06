@@ -109,21 +109,19 @@ The image below below show the result of installing the [Bokeh](https://bokeh.py
     install_library( 'bokeh', import_name=None )
 
 ![enter image description here](http://img.pyplan.org/model-install-lib.png)
+
 ## Toolboxes
 Toolboxes are specific purpose nodes, which custom wizards associated to it, to help parametrize a function for producing certain result.
 Initially there is a toolbox named Data Sources and an example has been developed with the Read CSV function.
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users requests.
 
-## Dynamic simulation
-(TODO)
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTI1ODQ4Niw5NTQwMTY5MTMsLTI2Nj
-IwNDc1NSwyMDcyMzk5NzY1LDcxMTk3OTUyMiwtMTAzMTc4ODMz
-NywyNDY4NDY3MTksLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMT
-c2MjYyMjM1Niw4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3
-Mzg2LC0xMjYyOTM5MzcxLC03ODA5ODk3MjQsLTE4NTg4NDI0Nj
-AsODYyMjQyMTUsLTM5NDMxOTc2NSwxMzE3MDc3OTUyLDIwODM5
-NDEwNDJdfQ==
+eyJoaXN0b3J5IjpbMTg4MDY1OTg3LC02ODUyNTg0ODYsOTU0MD
+E2OTEzLC0yNjYyMDQ3NTUsMjA3MjM5OTc2NSw3MTE5Nzk1MjIs
+LTEwMzE3ODgzMzcsMjQ2ODQ2NzE5LC02MTc0NDYwMTAsLTE2Mz
+U2MTg4MDEsLTE3NjI2MjIzNTYsODg2NTkzNzEyLC0zNzY1NDAx
+MjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MSwtNzgwOTg5NzI0LC
+0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQzMTk3NjUsMTMxNzA3
+Nzk1Ml19
 -->
