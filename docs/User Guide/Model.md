@@ -72,7 +72,7 @@ Index defined in Pyplan have an additional function when creating User Interface
 
 ### Button
 A button is created as a way to run scripts that make use of the model.
-Any custom task, like for example assigning a valu
+Any custom task, like for example assigning a value or definition to a node, can be executed running a button.
 
 ### Module
 ### Text
@@ -102,11 +102,11 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODMzMDY0NDgsLTE3NjI2MjIzNTYsOD
-g2NTkzNzEyLC0zNzY1NDAxMjMsLTk1MzczNzM4NiwtMTI2Mjkz
-OTM3MSwtNzgwOTg5NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC
-0zOTQzMTk3NjUsMTMxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5
-NzEzMDUsLTEyMzg5MTg2MjAsLTQ3MDAxNDY4NiwyNjEwMTE0NT
-ksLTE1ODQ3MTcyOSwtMTg2ODg4NTAxOSwxMjQ0OTQ5ODI3LDMx
-OTk4MzQ4OV19
+eyJoaXN0b3J5IjpbLTQzNDQxMDg1NSwtMTc2MjYyMjM1Niw4OD
+Y1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3Mzg2LC0xMjYyOTM5
+MzcxLC03ODA5ODk3MjQsLTE4NTg4NDI0NjAsODYyMjQyMTUsLT
+M5NDMxOTc2NSwxMzE3MDc3OTUyLDIwODM5NDEwNDIsMTc0MDk3
+MTMwNSwtMTIzODkxODYyMCwtNDcwMDE0Njg2LDI2MTAxMTQ1OS
+wtMTU4NDcxNzI5LC0xODY4ODg1MDE5LDEyNDQ5NDk4MjcsMzE5
+OTgzNDg5XX0=
 -->
