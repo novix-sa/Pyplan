@@ -114,10 +114,15 @@ The image below below show the result of installing the [Bokeh](https://bokeh.py
 Toolboxes are specific purpose nodes, which custom wizards associated to it, to help parametrize a function for producing certain result.
 Initially there is a toolbox named Data Sources and an example has been developed with the Read CSV function.
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users requests.
+<img src="http://img.pyplan.org/model-toolboxes.png"
+	style="float: right; margin-left: 10px;"
+	ALIGN=”top”
+	height="300" /> 
+
 
 ![enter image description here](http://img.pyplan.org/model-toolboxes.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTkwMDM4MiwtNjg1MjU4NDg2LDk1ND
+eyJoaXN0b3J5IjpbMTc1ODc4MTcxNCwtNjg1MjU4NDg2LDk1ND
 AxNjkxMywtMjY2MjA0NzU1LDIwNzIzOTk3NjUsNzExOTc5NTIy
 LC0xMDMxNzg4MzM3LDI0Njg0NjcxOSwtNjE3NDQ2MDEwLC0xNj
 M1NjE4ODAxLC0xNzYyNjIyMzU2LDg4NjU5MzcxMiwtMzc2NTQw
