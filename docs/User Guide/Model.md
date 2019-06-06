@@ -80,9 +80,7 @@ You can drag a group of selected nodes into a module to organize your diagram. O
 
 ### Text
 The text node is intended for clarification of the calculation logic. 
-Its properties includes:
-Size that can be adjusted when selecting. Z position 
-You can configure its background and border properties , as well as it positionto help you design your desired layout. It is also useful to 
+Its properties includes text Size that can be adjusted when selecting. Z position, bringing selection to front or sending it back. Text font type and size, and border and background color.
 
 
 ## Influence Diagram
@@ -109,7 +107,7 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
 ## Using Python libraries
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MjkzODg1LC0xMDMxNzg4MzM3LDI0Nj
+eyJoaXN0b3J5IjpbNzExOTc5NTIyLC0xMDMxNzg4MzM3LDI0Nj
 g0NjcxOSwtNjE3NDQ2MDEwLC0xNjM1NjE4ODAxLC0xNzYyNjIy
 MzU2LDg4NjU5MzcxMiwtMzc2NTQwMTIzLC05NTM3MzczODYsLT
 EyNjI5MzkzNzEsLTc4MDk4OTcyNCwtMTg1ODg0MjQ2MCw4NjIy
