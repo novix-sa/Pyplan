@@ -15,6 +15,7 @@ The image below show some different configuration features from these tables:
 
 ## Regular Table
 Is the default view of any node. The user can pivot dimensions and filter any dimension by clicking the `(all)` legend next to each dimension.
+It is possible to generate custom configurations by rows or cols. Heatmaps and Background colors based  
 This table have many configuration options like range cell 
 ## Pivot Tables
 Basic outputs. It allows multiple dimensions in rows or cols
@@ -29,8 +30,8 @@ describe configuration parameters
 ## Xarray
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjkzOTQ2MiwzMzE1NzU5NDksNjc1Mz
-Y4NTMsMTYxMTY2Mzk0NywtMTY2NjI1Njc5MiwxOTU0NTYxNTQz
-LDEyNTk4MjEzMDAsMTc3NDU2OTQ3MCwxNzQzMDIxNjA0LC02OD
-A5MDUwODVdfQ==
+eyJoaXN0b3J5IjpbNDk3Mjc3NjU3LC0yODI5Mzk0NjIsMzMxNT
+c1OTQ5LDY3NTM2ODUzLDE2MTE2NjM5NDcsLTE2NjYyNTY3OTIs
+MTk1NDU2MTU0MywxMjU5ODIxMzAwLDE3NzQ1Njk0NzAsMTc0Mz
+AyMTYwNCwtNjgwOTA1MDg1XX0=
 -->
