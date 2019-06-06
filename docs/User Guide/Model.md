@@ -83,16 +83,10 @@ The text node is intended for clarification of the calculation logic.
 Its properties includes text Size that can be adjusted when selecting. Z position, bringing selection to front or sending it back. Text font type and size, and border and background color.
 ![enter image description here](http://img.pyplan.org/model-text-usage.png)
 
-## Influence Diagram
-### Input and output nodes?
-### Alias / Duplicate
-### Shortcuts
-### Copying and cutting
-
 ## Model Preferences
 
 ### Default imports
-In order to avoid declaring the 'Import' sentence en each node, there is a node, called Default imports that collects the Library that will not require to declare import all across the model.
+In order to avoid declaring the 'Import' sentence en each node, there is a node, called Default imports that collects the L that will not require to declare import all across the model.
 
     import numpy, pandas, cubepy, xarray
     #fill the following dict keys with the alias you need to import in each node
@@ -102,16 +96,19 @@ In order to avoid declaring the 'Import' sentence en each node, there is a node,
     "cubepy":cubepy,
     "xr":xarray}
 
-## Toolboxes
-## Dynamic simulation
 ## Using Python libraries
 
+## Toolboxes
+(TODO)
+## Dynamic simulation
+(TODO)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MTkxNDc2LDIwNzIzOTk3NjUsNzExOT
-c5NTIyLC0xMDMxNzg4MzM3LDI0Njg0NjcxOSwtNjE3NDQ2MDEw
-LC0xNjM1NjE4ODAxLC0xNzYyNjIyMzU2LDg4NjU5MzcxMiwtMz
-c2NTQwMTIzLC05NTM3MzczODYsLTEyNjI5MzkzNzEsLTc4MDk4
-OTcyNCwtMTg1ODg0MjQ2MCw4NjIyNDIxNSwtMzk0MzE5NzY1LD
-EzMTcwNzc5NTIsMjA4Mzk0MTA0MiwxNzQwOTcxMzA1LC0xMjM4
-OTE4NjIwXX0=
+eyJoaXN0b3J5IjpbLTE4OTgzNTQwMTYsMjA3MjM5OTc2NSw3MT
+E5Nzk1MjIsLTEwMzE3ODgzMzcsMjQ2ODQ2NzE5LC02MTc0NDYw
+MTAsLTE2MzU2MTg4MDEsLTE3NjI2MjIzNTYsODg2NTkzNzEyLC
+0zNzY1NDAxMjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MSwtNzgw
+OTg5NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQzMTk3Nj
+UsMTMxNzA3Nzk1MiwyMDgzOTQxMDQyLDE3NDA5NzEzMDUsLTEy
+Mzg5MTg2MjBdfQ==
 -->
