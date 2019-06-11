@@ -1,4 +1,4 @@
-# Model123
+# Model
 ## Node Properties Tabs
 Pyplan structures code trough an influence digram of nodes. When a node is selected (on edit mode) it is open a properties window. Nodes attributes can be inspected and edited trough tabs that are labeled as <kbd>Properties</kbd><kbd>Code</></kbd><kbd>Docs</kbd>.
 
