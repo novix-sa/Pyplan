@@ -40,7 +40,7 @@ The main elements for creating the app calculation logic are the following:
 Is the main element for creating the calculation logic. It is like a global variable for programming and its definition ends defining the output value of the variable as:
 
     localvar = 5
-    result = 'this is the ouput:' + str(localvar*2)
+    result = 'this is the output:' + str(localvar*2)
 
 ### Function
 This element is used for creating user defined functions.
