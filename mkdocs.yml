@@ -38,9 +38,9 @@ nav:
     
     - Home: index.md
     - Quick Start: Quick Start.md
-    - Tutorials: Tutorials.md
-    - Examples: Examples.md
-    - Pyplan Library: Pyplan Library.md
+#    - Tutorials: Tutorials.md
+#    - Examples: Examples.md
+#    - Pyplan Library: Pyplan Library.md
     - User Guide: 
         - Introduction: User Guide/Introduction.md
         - App Home: User Guide/App Homepage.md
