@@ -9,7 +9,7 @@ Its purpose is to make a quick evaluation of the node, to check if it is properl
 
 ## Result Explorer
 Another way to run a node is by pressing <kbd>CTRL + E</kbd>.
-TIn this way, more complete information about the node properties and its result is displayed.
+In this way, more complete information about the node properties and its result is displayed.
 
 ![](http://img.pyplan.org/Node-execution-profile.png)
 One of the most interesting features accesible through this means of evaluation is the "Show Profile" feature, which displays the calculation path, the calculation time, and the memory usage by step (nodes.)
@@ -37,10 +37,10 @@ For example, any node evaluates as a pandas dataframe object will display the fo
 These tools make it easy for non-programmers to start manipulating the basic Python objects without coding.
 As you will realize, when operating with these tools, the subjacent Python code is automatically generated, hence inducing analysts to learn how to use Python. Thisn i they ws like saving a macro in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzIyMzYwMiwtMTE0NDAyMTAzMywtMT
-M4NTUwNzk5OCwyMDU3MjkzNzIxLDI4NTk0NjA1MCwtNDA3MTU1
-NjQ3LC0xNDg2MjM5Nzg4LDQ3NzM1Njg1MiwxMjY5MTE1ODY4LC
-00NzIyMTgyNTAsLTM3OTkxNjA4MCwtMTg1NTMyOTk3OSwxNDM1
-NTI3MjgwLDEwODEwNzk3NDUsNTA1OTUyMjQxLDk2MDEwODYsMT
-E5MDMyMjEwNCwtNTQyMDU3MDQyXX0=
+eyJoaXN0b3J5IjpbMTgzMDE4MzIsLTExNDQwMjEwMzMsLTEzOD
+U1MDc5OTgsMjA1NzI5MzcyMSwyODU5NDYwNTAsLTQwNzE1NTY0
+NywtMTQ4NjIzOTc4OCw0NzczNTY4NTIsMTI2OTExNTg2OCwtND
+cyMjE4MjUwLC0zNzk5MTYwODAsLTE4NTUzMjk5NzksMTQzNTUy
+NzI4MCwxMDgxMDc5NzQ1LDUwNTk1MjI0MSw5NjAxMDg2LDExOT
+AzMjIxMDQsLTU0MjA1NzA0Ml19
 -->
