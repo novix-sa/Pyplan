@@ -32,15 +32,15 @@ When you click on the Edit interface icon, the configuration menu is launched. H
 
 ## Embedded Tools
 There are some embedded tools that appear when evaluating a node according to the type of result.
-For example, any node evaluated as a Pandas dataframe object will display the following tools:
+For example, any node evaluates as a pandas dataframe object will display the following tools:
 ![enter image description here](http://img.pyplan.org/node-exec-pandas-tools.png)
 These tools make it easy for non-programmers to start manipulating the basic Python objects without coding.
-As you will realize, when operating with these tools, the subjacent Python code is automatically generated, hence inducing analysts to learn how to use Python. This is like saving a macro in Excel.
+As you will realize, when operating with these tools, the subjacent Python code is automatically generated, hence inducing analysts to learn how to use Python. Thisn i they ws like saving a macro in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQwMjEwMzMsLTEzODU1MDc5OTgsMj
-A1NzI5MzcyMSwyODU5NDYwNTAsLTQwNzE1NTY0NywtMTQ4NjIz
-OTc4OCw0NzczNTY4NTIsMTI2OTExNTg2OCwtNDcyMjE4MjUwLC
-0zNzk5MTYwODAsLTE4NTUzMjk5NzksMTQzNTUyNzI4MCwxMDgx
-MDc5NzQ1LDUwNTk1MjI0MSw5NjAxMDg2LDExOTAzMjIxMDQsLT
-U0MjA1NzA0Ml19
+eyJoaXN0b3J5IjpbLTcyNzIyMzYwMiwtMTE0NDAyMTAzMywtMT
+M4NTUwNzk5OCwyMDU3MjkzNzIxLDI4NTk0NjA1MCwtNDA3MTU1
+NjQ3LC0xNDg2MjM5Nzg4LDQ3NzM1Njg1MiwxMjY5MTE1ODY4LC
+00NzIyMTgyNTAsLTM3OTkxNjA4MCwtMTg1NTMyOTk3OSwxNDM1
+NTI3MjgwLDEwODEwNzk3NDUsNTA1OTUyMjQxLDk2MDEwODYsMT
+E5MDMyMjEwNCwtNTQyMDU3MDQyXX0=
 -->
