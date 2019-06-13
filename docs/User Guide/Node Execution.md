@@ -1,41 +1,41 @@
 
 # Executing Nodes
 ## Console Output
-You can run any node, after editing its code, pressing <kbd>CTRL + Enter</kbd>.
-It will show at the right side of the code window the console output resulting from running the node.
+You can run any node after editing its code by pressing <kbd>CTRL + Enter</kbd>.
+At the right side of the Code window, the console output resulting from running the node will appear.
 ![enter image description here](http://img.pyplan.org/Node-execution-code-tab.png)
 Any `Print()` statement written between code lines will display it result here.
-It is intended for rapid evaluation of the node, to check it is properly defined.
+Its purpose is to make a quick evaluation of the node, to check if it is properly defined.
 
 ## Result Explorer
-Other way to run a node is by pressing <kbd>CTRL + E</kbd>.
-This way of running displays more complete information about the node properties and its result.
+Another way to run a node is by pressing <kbd>CTRL + E</kbd>.
+TIn this way, more complete information about the node properties and its result is displayed.
 
 ![](http://img.pyplan.org/Node-execution-profile.png)
-One of the most interesting feature accesible through this way of evaluation is the "Show Profile" feature that display the calculation path calculation time and memory usage by step (nodes)
+One of the most interesting features accesible through this means of evaluation is the "Show Profile" feature, which displays the calculation path, the calculation time, and the memory usage by step (nodes.)
 ![enter image description here](http://img.pyplan.org/Node-execution-console+.png)
 
 ## Evaluating a Node
-<kbd>CTRL + R</kbd> to get its result
+Press <kbd>CTRL + R</kbd> to get its result.
 
 You can evaluate a node by double clicking on it or pressing <kbd>CTRL + R</kbd> after selecting it.
-Differently with the previous run alternatives, the node is run and its result displayed in a new tab, called as the "Title" of the node, with a default table format.
+Unlike the previous running alternatives, the node is run and its result displayed in a new tab, called the "Title" of the node, which has a default table format.
 
 ![enter image description here](http://img.pyplan.org/Node-execution-default.png)
-Pyplan natively interprets Numpy matrix, Pandas dataframe indexes and Xarray dimensions, that will be automatically displayed at the bottom of the table for pivoting and filtering.
-Any default view can be changed using the Edit interface menu that can be launched clicking on the icon shown in the image below
+Pyplan natively interprets Numpy matrix, Pandas dataframe indexes, and Xarray dimensions, which will be automatically displayed at the bottom of the table for pivoting and filtering.
+Default views can be changed using the Edit interface menu that can be launched by clicking on the icon shown in the image below.
 
 ![enter image description here](http://img.pyplan.org/Node-execution-edit-interface.png)
 
-After clicking, the configuration menu is launched where it can be decided how the node will be rendered. After defining the node visualization configuration you must accept the changes to save them.
+When you click on the Edit interface icon, the configuration menu is launched. Here, you can decide how the node will be rendered. After defining the node visualization configuration, you must accept the changes in order to save them.
 ![enter image description here](http://img.pyplan.org/Node-execution-edit-inter3.png)
 
-## Embedded tools
-There are some embedded tools that appears when evaluating a node according to the type of result.
-For example, any node that evaluates as a pandas data frame object will display the following tools:
+## Embedded Tools
+There are some embedded tools that appear when evaluating a node according to the type of result.
+For example, any node evaluated as a Pandas dataframe object will display the following tools:
 ![enter image description here](http://img.pyplan.org/node-exec-pandas-tools.png)
-These tools have a double purpose the first one is to facilitate non-programmers start manipulating the basic Python objects without coding.
-As you will realize, when operating with these tools, the subjacent Python code is automatically generated, hence inducing analysts to lear Python. In this sense works like saving a macro in Excel.
+These tools make it easy for non-programmers to start manipulating the basic Python objects without coding.
+As you will realize, when operating with these tools, the subjacent Python code is automatically generated, hence inducing analysts to learn how to use Python. This is like saving a macro in Excel.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTExNDQwMjEwMzMsLTEzODU1MDc5OTgsMj
 A1NzI5MzcyMSwyODU5NDYwNTAsLTQwNzE1NTY0NywtMTQ4NjIz
