@@ -101,8 +101,8 @@ Pyplan includes a function called "install_library" to help you work with librar
 The syntax of such function is shown below:
 
     install_library( pypi_name, import_name=None )
-    # for example
-    install_library( 'bokeh', import_name=None )
+A    
+
 When a node with that instruction is run for the first time, the mentioned library will be installed in a folder inside in the folder where the model is saved. A new folder named `libs` will be created and all library components will be installed in that folder.
 The image below shows the result of installing the [Bokeh](https://bokeh.pydata.org/en/latest/) visualization library:
 
@@ -120,11 +120,11 @@ Toolboxes are nodes for specific purposes, with custom wizards associated to the
 Pyplan includes a toolbox named Data Sources. An example of this wizard has been developed with the read CSV node.
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users' requests.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MzMyODMxLC0xNDkxODA1ODk1LC02OD
-UyNTg0ODYsOTU0MDE2OTEzLC0yNjYyMDQ3NTUsMjA3MjM5OTc2
-NSw3MTE5Nzk1MjIsLTEwMzE3ODgzMzcsMjQ2ODQ2NzE5LC02MT
-c0NDYwMTAsLTE2MzU2MTg4MDEsLTE3NjI2MjIzNTYsODg2NTkz
-NzEyLC0zNzY1NDAxMjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MS
-wtNzgwOTg5NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQz
-MTk3NjVdfQ==
+eyJoaXN0b3J5IjpbLTE3OTI3ODc4NzMsODg3MzMyODMxLC0xND
+kxODA1ODk1LC02ODUyNTg0ODYsOTU0MDE2OTEzLC0yNjYyMDQ3
+NTUsMjA3MjM5OTc2NSw3MTE5Nzk1MjIsLTEwMzE3ODgzMzcsMj
+Q2ODQ2NzE5LC02MTc0NDYwMTAsLTE2MzU2MTg4MDEsLTE3NjI2
+MjIzNTYsODg2NTkzNzEyLC0zNzY1NDAxMjMsLTk1MzczNzM4Ni
+wtMTI2MjkzOTM3MSwtNzgwOTg5NzI0LC0xODU4ODQyNDYwLDg2
+MjI0MjE1XX0=
 -->
