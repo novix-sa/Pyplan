@@ -22,6 +22,7 @@ You can evaluate a node by double clicking on it or pressing <kbd>CTRL + R</kbd>
 Unlike the previous running alternatives, the node is run and its result displayed in a new tab, called the "Title" of the node, which has a default table format.
 
 ![enter image description here](http://img.pyplan.org/Node-execution-default.png)
+
 Pyplan natively interprets Numpy matrix, Pandas dataframe indexes, and Xarray dimensions, which will be automatically displayed at the bottom of the table for pivoting and filtering.
 Default views can be changed using the Edit interface menu that can be launched by clicking on the icon shown in the image below.
 
@@ -37,10 +38,10 @@ For example, any node evaluates as a pandas dataframe object will display the fo
 These tools make it easy for non-programmers to start manipulating the basic Python objects without coding.
 As you will realize, when operating with these tools, the subjacent Python code is automatically generated, hence inducing analysts to learn how to use Python. Thisn i they ws like saving a macro in Excel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDE4MzIsLTExNDQwMjEwMzMsLTEzOD
-U1MDc5OTgsMjA1NzI5MzcyMSwyODU5NDYwNTAsLTQwNzE1NTY0
-NywtMTQ4NjIzOTc4OCw0NzczNTY4NTIsMTI2OTExNTg2OCwtND
-cyMjE4MjUwLC0zNzk5MTYwODAsLTE4NTUzMjk5NzksMTQzNTUy
-NzI4MCwxMDgxMDc5NzQ1LDUwNTk1MjI0MSw5NjAxMDg2LDExOT
-AzMjIxMDQsLTU0MjA1NzA0Ml19
+eyJoaXN0b3J5IjpbNDc1MzkwMjM0LC0xMTQ0MDIxMDMzLC0xMz
+g1NTA3OTk4LDIwNTcyOTM3MjEsMjg1OTQ2MDUwLC00MDcxNTU2
+NDcsLTE0ODYyMzk3ODgsNDc3MzU2ODUyLDEyNjkxMTU4NjgsLT
+Q3MjIxODI1MCwtMzc5OTE2MDgwLC0xODU1MzI5OTc5LDE0MzU1
+MjcyODAsMTA4MTA3OTc0NSw1MDU5NTIyNDEsOTYwMTA4NiwxMT
+kwMzIyMTA0LC01NDIwNTcwNDJdfQ==
 -->
