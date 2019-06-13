@@ -75,7 +75,7 @@ A button is created to run the scripts that use the model.
 Any custom task, for example assigning a value or definition to a node, can be executed by running a button. Unlike nodes, its definition does not require the `result = ` sentence at the end, since there is no result to be stored. 
 
 ### Module
-Modules are the containers of diagrams (workflows of nodes.) You can access a module double by clicking on it. The module navigation path is shown at the top of the digram. You can navigate directly to the level you want to access by clicking on it.
+Modules are the containers of diagrams (workflows of nodes.) You can access a module by double clicking on it. The module navigation path is shown at the top of the digram. You can navigate directly to the level you want to access by clicking on it.
 You can drag a group of selected nodes into a module to organize your diagram or cut and paste a group in case you want to move upstream.
 
 ### Text
@@ -120,11 +120,11 @@ Toolboxes are nodes for specific purposes, with custom wizards associated to the
 Pyplan includes a toolbox named Data Sources. An example of this wizard has been developed with the read CSV node.
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users' requests.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE4MDU4OTUsLTY4NTI1ODQ4Niw5NT
-QwMTY5MTMsLTI2NjIwNDc1NSwyMDcyMzk5NzY1LDcxMTk3OTUy
-MiwtMTAzMTc4ODMzNywyNDY4NDY3MTksLTYxNzQ0NjAxMCwtMT
-YzNTYxODgwMSwtMTc2MjYyMjM1Niw4ODY1OTM3MTIsLTM3NjU0
-MDEyMywtOTUzNzM3Mzg2LC0xMjYyOTM5MzcxLC03ODA5ODk3Mj
-QsLTE4NTg4NDI0NjAsODYyMjQyMTUsLTM5NDMxOTc2NSwxMzE3
-MDc3OTUyXX0=
+eyJoaXN0b3J5IjpbODg3MzMyODMxLC0xNDkxODA1ODk1LC02OD
+UyNTg0ODYsOTU0MDE2OTEzLC0yNjYyMDQ3NTUsMjA3MjM5OTc2
+NSw3MTE5Nzk1MjIsLTEwMzE3ODgzMzcsMjQ2ODQ2NzE5LC02MT
+c0NDYwMTAsLTE2MzU2MTg4MDEsLTE3NjI2MjIzNTYsODg2NTkz
+NzEyLC0zNzY1NDAxMjMsLTk1MzczNzM4NiwtMTI2MjkzOTM3MS
+wtNzgwOTg5NzI0LC0xODU4ODQyNDYwLDg2MjI0MjE1LC0zOTQz
+MTk3NjVdfQ==
 -->
