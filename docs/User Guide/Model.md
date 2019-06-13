@@ -116,7 +116,7 @@ The image below shows the result of installing the [Bokeh](https://bokeh.pydata.
 ![enter image description here](http://img.pyplan.org/model-install-lib.png)
 After the installment you do not need to worry about running the `install_library` command again. When this command is executed for the first time, it checks whether the library is already installed.
 Once installed you could delete the `install_library`  sentence and the model will keep running, but it is good practice to keep this line because when you share the model or copy it to a different place, when running for the first time in that environment it will proceed again with the required installment.
-You must consider to 
+You must consider to include the library in the "Default Import" node.
 
 ## Toolboxes
 
@@ -128,11 +128,11 @@ Toolboxes are nodes for specific purposes, with custom wizards associated to the
 Pyplan includes a toolbox named Data Sources. An example of this wizard has been developed with the read CSV node.
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users' requests.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQyMDI4ODksMTM3NjM0Nzc3NSwxNj
-I2MjY5MDY0LDg4NzMzMjgzMSwtMTQ5MTgwNTg5NSwtNjg1MjU4
-NDg2LDk1NDAxNjkxMywtMjY2MjA0NzU1LDIwNzIzOTk3NjUsNz
-ExOTc5NTIyLC0xMDMxNzg4MzM3LDI0Njg0NjcxOSwtNjE3NDQ2
-MDEwLC0xNjM1NjE4ODAxLC0xNzYyNjIyMzU2LDg4NjU5MzcxMi
-wtMzc2NTQwMTIzLC05NTM3MzczODYsLTEyNjI5MzkzNzEsLTc4
-MDk4OTcyNF19
+eyJoaXN0b3J5IjpbNTY5MzcyOTYzLDEzNzYzNDc3NzUsMTYyNj
+I2OTA2NCw4ODczMzI4MzEsLTE0OTE4MDU4OTUsLTY4NTI1ODQ4
+Niw5NTQwMTY5MTMsLTI2NjIwNDc1NSwyMDcyMzk5NzY1LDcxMT
+k3OTUyMiwtMTAzMTc4ODMzNywyNDY4NDY3MTksLTYxNzQ0NjAx
+MCwtMTYzNTYxODgwMSwtMTc2MjYyMjM1Niw4ODY1OTM3MTIsLT
+M3NjU0MDEyMywtOTUzNzM3Mzg2LC0xMjYyOTM5MzcxLC03ODA5
+ODk3MjRdfQ==
 -->
