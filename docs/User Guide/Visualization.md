@@ -30,11 +30,11 @@ Pyplan includes several type of standard chart graphs
 # Other visualization libraries
 (todo)
 
-
+![enter image description here](http://img.pyplan.org/Login_nuevo.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODk3NTk4MSwxMTU1MDkxMzcxLC0xMD
-k1NTc3MTUyLDExOTYwNjU3MjEsLTI4MjkzOTQ2MiwzMzE1NzU5
-NDksNjc1MzY4NTMsMTYxMTY2Mzk0NywtMTY2NjI1Njc5MiwxOT
-U0NTYxNTQzLDEyNTk4MjEzMDAsMTc3NDU2OTQ3MCwxNzQzMDIx
-NjA0LC02ODA5MDUwODVdfQ==
+eyJoaXN0b3J5IjpbLTIxMTg5NzYxMTIsMTk0ODk3NTk4MSwxMT
+U1MDkxMzcxLC0xMDk1NTc3MTUyLDExOTYwNjU3MjEsLTI4Mjkz
+OTQ2MiwzMzE1NzU5NDksNjc1MzY4NTMsMTYxMTY2Mzk0NywtMT
+Y2NjI1Njc5MiwxOTU0NTYxNTQzLDEyNTk4MjEzMDAsMTc3NDU2
+OTQ3MCwxNzQzMDIxNjA0LC02ODA5MDUwODVdfQ==
 -->
