@@ -100,10 +100,10 @@ In order to avoid declaring the "Import" sentence in each node, there is a node,
 Pyplan includes a function called "install_library" to help you work with libraries that are not natively included in the Pyplan app.
 The syntax of such function is shown below:
 
-    install_library( pypi_name, import_name=None )
+    install_library( pypi_name, import_name=None)
 You can define a node as:
 
-        install_library( 'bokeh', import_name=None )
+        install_library( 'bokeh', import_name=None)
         import 'bokeh'
         result = bokeh.__version
 
@@ -114,7 +114,7 @@ The image below shows the result of installing the [Bokeh](https://bokeh.pydata.
     install_library( 'bokeh', import_name=None )
 
 ![enter image description here](http://img.pyplan.org/model-install-lib.png)
-After the installment you do not need to worry about running the `install_library` command again. When this command is executed for the first time, it checks whether the library is already installed.
+After the installment you do not need to worry about running the `install_library` command again. When this command is executed for the first time, it checks whether the library is already installed and proceeds according to what needs.
 Once installed you could delete the `install_library`  sentence and the model will keep running, but it is good practice to keep this line because when you share the model or copy it to a different place, when running for the first time in that environment it will proceed again with the required installment.
 You must consider to include the library in the "Default Import" node to avoid the `import`  sentence in every node you use the library.
 
@@ -128,7 +128,7 @@ Toolboxes are nodes for specific purposes, with custom wizards associated to the
 Pyplan includes a toolbox named Data Sources. An example of this wizard has been developed with the read CSV node.
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users' requests.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg2ODcyNDYsNTY5MzcyOTYzLDEzNz
+eyJoaXN0b3J5IjpbLTEyMTQ4MTkyOTAsNTY5MzcyOTYzLDEzNz
 YzNDc3NzUsMTYyNjI2OTA2NCw4ODczMzI4MzEsLTE0OTE4MDU4
 OTUsLTY4NTI1ODQ4Niw5NTQwMTY5MTMsLTI2NjIwNDc1NSwyMD
 cyMzk5NzY1LDcxMTk3OTUyMiwtMTAzMTc4ODMzNywyNDY4NDY3
