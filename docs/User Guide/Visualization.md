@@ -35,9 +35,9 @@ Pyplan includes several type of standard chart graphs
 Pyplan New Login
 agregado JD
 nuevo y prueba
-
+![enter image description here](http://img.pyplan.org/model-code-tab1.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3Nzk2Mjk4OCwtMTEyMjg5MDY5NSwtNz
+eyJoaXN0b3J5IjpbLTcxNjExMDczOCwtMTEyMjg5MDY5NSwtNz
 Q0OTIwODIxLC0xMTIyODkwNjk1LC03NDQ5MjA4MjEsLTc3OTAx
 ODYzOSwtMjExODk3NjExMiwxOTQ4OTc1OTgxLDExNTUwOTEzNz
 EsLTEwOTU1NzcxNTIsMTE5NjA2NTcyMSwtMjgyOTM5NDYyLDMz
