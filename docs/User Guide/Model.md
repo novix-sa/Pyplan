@@ -114,7 +114,8 @@ The image below shows the result of installing the [Bokeh](https://bokeh.pydata.
     install_library( 'bokeh', import_name=None )
 
 ![enter image description here](http://img.pyplan.org/model-install-lib.png)
-After the installment you do not need to worry about running the `install_library` command again. When this command is executed, it first checks whether the library is already installed. If that is not the case, it proceeds with the installation, if the library is a and proceeds according to what needs.
+After the installment you do not need to worry about running the `install_library` command again. When this command is executed, it first checks whether the library is already installed. If that is not the case, it proceeds with the installation, if the library is already installed it does nothing.
+ skip the  and proceeds according to what needs.
 Once installed you could delete the `install_library`  sentence and the model will keep running, but it is good practice to keep this line because when you share the model or copy it to a different place, when running for the first time in that environment it will proceed again with the required installment.
 You must consider to include the library in the "Default Import" node to avoid the `import`  sentence in every node you use the library.
 
@@ -128,11 +129,11 @@ Toolboxes are nodes for specific purposes, with custom wizards associated to the
 Pyplan includes a toolbox named Data Sources. An example of this wizard has been developed with the read CSV node.
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users' requests.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDY3OTQ4MCw1NjkzNzI5NjMsMTM3Nj
-M0Nzc3NSwxNjI2MjY5MDY0LDg4NzMzMjgzMSwtMTQ5MTgwNTg5
-NSwtNjg1MjU4NDg2LDk1NDAxNjkxMywtMjY2MjA0NzU1LDIwNz
-IzOTk3NjUsNzExOTc5NTIyLC0xMDMxNzg4MzM3LDI0Njg0Njcx
-OSwtNjE3NDQ2MDEwLC0xNjM1NjE4ODAxLC0xNzYyNjIyMzU2LD
-g4NjU5MzcxMiwtMzc2NTQwMTIzLC05NTM3MzczODYsLTEyNjI5
-MzkzNzFdfQ==
+eyJoaXN0b3J5IjpbOTA2MjQ1MTIyLDU2OTM3Mjk2MywxMzc2Mz
+Q3Nzc1LDE2MjYyNjkwNjQsODg3MzMyODMxLC0xNDkxODA1ODk1
+LC02ODUyNTg0ODYsOTU0MDE2OTEzLC0yNjYyMDQ3NTUsMjA3Mj
+M5OTc2NSw3MTE5Nzk1MjIsLTEwMzE3ODgzMzcsMjQ2ODQ2NzE5
+LC02MTc0NDYwMTAsLTE2MzU2MTg4MDEsLTE3NjI2MjIzNTYsOD
+g2NTkzNzEyLC0zNzY1NDAxMjMsLTk1MzczNzM4NiwtMTI2Mjkz
+OTM3MV19
 -->
