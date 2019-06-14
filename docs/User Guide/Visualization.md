@@ -31,10 +31,13 @@ Pyplan includes several type of standard chart graphs
 (todo)
 
 ![enter image description here](http://img.pyplan.org/Login_nuevo.png)
+
+Pyplan New Login
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg5NzYxMTIsMTk0ODk3NTk4MSwxMT
-U1MDkxMzcxLC0xMDk1NTc3MTUyLDExOTYwNjU3MjEsLTI4Mjkz
-OTQ2MiwzMzE1NzU5NDksNjc1MzY4NTMsMTYxMTY2Mzk0NywtMT
-Y2NjI1Njc5MiwxOTU0NTYxNTQzLDEyNTk4MjEzMDAsMTc3NDU2
-OTQ3MCwxNzQzMDIxNjA0LC02ODA5MDUwODVdfQ==
+eyJoaXN0b3J5IjpbLTc3OTAxODYzOSwtMjExODk3NjExMiwxOT
+Q4OTc1OTgxLDExNTUwOTEzNzEsLTEwOTU1NzcxNTIsMTE5NjA2
+NTcyMSwtMjgyOTM5NDYyLDMzMTU3NTk0OSw2NzUzNjg1MywxNj
+ExNjYzOTQ3LC0xNjY2MjU2NzkyLDE5NTQ1NjE1NDMsMTI1OTgy
+MTMwMCwxNzc0NTY5NDcwLDE3NDMwMjE2MDQsLTY4MDkwNTA4NV
+19
 -->
