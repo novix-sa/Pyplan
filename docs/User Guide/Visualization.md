@@ -37,16 +37,16 @@ agregado JD
 nuevo y prueba
 ![enter image description here](http://img.pyplan.org/model-code-tab1.png)
 
-New test lines    estos son mis cambios como codigo
+New test lines   y estos son mis cambios como codigo
 y nadie los ve....
 
-
+ no tiene nada de JD como hacemos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTY5NjM3MiwyNDE1NzAzOTMsLTcxNj
-ExMDczOCwtMTEyMjg5MDY5NSwtNzQ0OTIwODIxLC0xMTIyODkw
-Njk1LC03NDQ5MjA4MjEsLTc3OTAxODYzOSwtMjExODk3NjExMi
-wxOTQ4OTc1OTgxLDExNTUwOTEzNzEsLTEwOTU1NzcxNTIsMTE5
-NjA2NTcyMSwtMjgyOTM5NDYyLDMzMTU3NTk0OSw2NzUzNjg1My
-wxNjExNjYzOTQ3LC0xNjY2MjU2NzkyLDE5NTQ1NjE1NDMsMTI1
-OTgyMTMwMF19
+eyJoaXN0b3J5IjpbLTY0NTc2MTEyMywxMDExNjk2MzcyLC03MT
+YxMTA3MzgsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwtMTEyMjg5
+MDY5NSwtNzQ0OTIwODIxLC03NzkwMTg2MzksLTIxMTg5NzYxMT
+IsMTk0ODk3NTk4MSwxMTU1MDkxMzcxLC0xMDk1NTc3MTUyLDEx
+OTYwNjU3MjEsLTI4MjkzOTQ2MiwzMzE1NzU5NDksNjc1MzY4NT
+MsMTYxMTY2Mzk0NywtMTY2NjI1Njc5MiwxOTU0NTYxNTQzLDEy
+NTk4MjEzMDBdfQ==
 -->
