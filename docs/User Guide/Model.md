@@ -108,9 +108,8 @@ You can define a node as:
         install_library( 'bokeh', import_name=None)
         import 'bokeh'
         result = bokeh.__version
-
     
-When a node with that instruction is run for the first time, the mentioned library will be installed in a folder inside in the folder where the model is saved. A new folder named `libs` will be created and all library components will be installed in that folder.
+When a node with such definition is run for the first time, the mentioned library will be installed in a folder inside in the folder where the model is saved. A new folder named `libs` will be created and all library components will be installed in that folder.
 The image below shows the result of installing the [Bokeh](https://bokeh.pydata.org/en/latest/) visualization library:
 
     install_library( 'bokeh', import_name=None )
@@ -131,11 +130,11 @@ Toolboxes are nodes for specific purposes, with custom wizards associated to the
 Pyplan includes a toolbox named Data Sources. An example of this wizard has been developed with the read CSV node.
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users' requests.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDM2NzAxMCw1NjkzNzI5NjMsMTM3Nj
-M0Nzc3NSwxNjI2MjY5MDY0LDg4NzMzMjgzMSwtMTQ5MTgwNTg5
-NSwtNjg1MjU4NDg2LDk1NDAxNjkxMywtMjY2MjA0NzU1LDIwNz
-IzOTk3NjUsNzExOTc5NTIyLC0xMDMxNzg4MzM3LDI0Njg0Njcx
-OSwtNjE3NDQ2MDEwLC0xNjM1NjE4ODAxLC0xNzYyNjIyMzU2LD
-g4NjU5MzcxMiwtMzc2NTQwMTIzLC05NTM3MzczODYsLTEyNjI5
-MzkzNzFdfQ==
+eyJoaXN0b3J5IjpbLTE4NDA1OTM4NTksNTY5MzcyOTYzLDEzNz
+YzNDc3NzUsMTYyNjI2OTA2NCw4ODczMzI4MzEsLTE0OTE4MDU4
+OTUsLTY4NTI1ODQ4Niw5NTQwMTY5MTMsLTI2NjIwNDc1NSwyMD
+cyMzk5NzY1LDcxMTk3OTUyMiwtMTAzMTc4ODMzNywyNDY4NDY3
+MTksLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMTc2MjYyMjM1Ni
+w4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3Mzg2LC0xMjYy
+OTM5MzcxXX0=
 -->
