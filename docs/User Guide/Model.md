@@ -101,7 +101,8 @@ Pyplan includes a function called "install_library" to help you work with librar
 The syntax of such function is shown below:
 
     install_library( pypi_name, import_name=None)
-The second parame
+The second parameter is for cases where the pip install name is different than the name used for importing.
+
 You can define a node as:
 
         install_library( 'bokeh', import_name=None)
@@ -130,11 +131,11 @@ Toolboxes are nodes for specific purposes, with custom wizards associated to the
 Pyplan includes a toolbox named Data Sources. An example of this wizard has been developed with the read CSV node.
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users' requests.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzM2Njg5LDU2OTM3Mjk2MywxMzc2Mz
-Q3Nzc1LDE2MjYyNjkwNjQsODg3MzMyODMxLC0xNDkxODA1ODk1
-LC02ODUyNTg0ODYsOTU0MDE2OTEzLC0yNjYyMDQ3NTUsMjA3Mj
-M5OTc2NSw3MTE5Nzk1MjIsLTEwMzE3ODgzMzcsMjQ2ODQ2NzE5
-LC02MTc0NDYwMTAsLTE2MzU2MTg4MDEsLTE3NjI2MjIzNTYsOD
-g2NTkzNzEyLC0zNzY1NDAxMjMsLTk1MzczNzM4NiwtMTI2Mjkz
-OTM3MV19
+eyJoaXN0b3J5IjpbLTI1MDM2NzAxMCw1NjkzNzI5NjMsMTM3Nj
+M0Nzc3NSwxNjI2MjY5MDY0LDg4NzMzMjgzMSwtMTQ5MTgwNTg5
+NSwtNjg1MjU4NDg2LDk1NDAxNjkxMywtMjY2MjA0NzU1LDIwNz
+IzOTk3NjUsNzExOTc5NTIyLC0xMDMxNzg4MzM3LDI0Njg0Njcx
+OSwtNjE3NDQ2MDEwLC0xNjM1NjE4ODAxLC0xNzYyNjIyMzU2LD
+g4NjU5MzcxMiwtMzc2NTQwMTIzLC05NTM3MzczODYsLTEyNjI5
+MzkzNzFdfQ==
 -->
