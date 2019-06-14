@@ -33,11 +33,12 @@ Pyplan includes several type of standard chart graphs
 ![enter image description here](http://img.pyplan.org/Login_nuevo.png)
 
 Pyplan New Login
+agregado JD
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTAxODYzOSwtMjExODk3NjExMiwxOT
-Q4OTc1OTgxLDExNTUwOTEzNzEsLTEwOTU1NzcxNTIsMTE5NjA2
-NTcyMSwtMjgyOTM5NDYyLDMzMTU3NTk0OSw2NzUzNjg1MywxNj
-ExNjYzOTQ3LC0xNjY2MjU2NzkyLDE5NTQ1NjE1NDMsMTI1OTgy
-MTMwMCwxNzc0NTY5NDcwLDE3NDMwMjE2MDQsLTY4MDkwNTA4NV
-19
+eyJoaXN0b3J5IjpbLTExMjI4OTA2OTUsLTc3OTAxODYzOSwtMj
+ExODk3NjExMiwxOTQ4OTc1OTgxLDExNTUwOTEzNzEsLTEwOTU1
+NzcxNTIsMTE5NjA2NTcyMSwtMjgyOTM5NDYyLDMzMTU3NTk0OS
+w2NzUzNjg1MywxNjExNjYzOTQ3LC0xNjY2MjU2NzkyLDE5NTQ1
+NjE1NDMsMTI1OTgyMTMwMCwxNzc0NTY5NDcwLDE3NDMwMjE2MD
+QsLTY4MDkwNTA4NV19
 -->
