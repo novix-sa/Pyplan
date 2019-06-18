@@ -1,6 +1,5 @@
 
 # UI Designer
-In this section... Gino
 ## Layout
 ## Results
 ## Controls
@@ -8,6 +7,6 @@ In this section... Gino
 ## Menus and Navigation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4Nz
-czMTI4MzEsLTE3Mjg2ODE0Ml19
+eyJoaXN0b3J5IjpbLTE4NzczMTI4MzEsNTU1OTIzMjQ2LDE1Nj
+k5OTgzNzEsLTE4NzczMTI4MzEsLTE3Mjg2ODE0Ml19
 -->
