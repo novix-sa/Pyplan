@@ -23,8 +23,11 @@ Number format menu and advanced options may help you generating the view you nee
 ![enter image description here](http://img.pyplan.org/Vizua_tables_format.png)
 
 ### Conditional Format
-Regular table has the 
+Regular table has the option of defining conditional format rules to coloured, highlight with different font or even add a shape on displayed information.
 
+Pyplan also has and advance option for linking different interfaces trough these formats.
+
+These configurations enhances visualization analysis options
 ## Pivot Tables
 Different than the standard table It allows multiple dimensions in rows or cols as well as filtering.
 It has fewer customization options compared to regular tables.
@@ -50,11 +53,11 @@ Types of graphs, labels, legends, axis configurations and other can be defined o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQyMzA4NzMsODExNTI2Njc0LDExNT
-QzMjM5ODYsMzA3NzExOTI1LDQ1MzkxOTMwNiwxMzkyMzY4NTM4
-LC02NDU3NjExMjMsMTAxMTY5NjM3MiwtNzE2MTEwNzM4LC0xMT
-IyODkwNjk1LC03NDQ5MjA4MjEsLTExMjI4OTA2OTUsLTc0NDky
-MDgyMSwtNzc5MDE4NjM5LC0yMTE4OTc2MTEyLDE5NDg5NzU5OD
-EsMTE1NTA5MTM3MSwtMTA5NTU3NzE1MiwxMTk2MDY1NzIxLC0y
-ODI5Mzk0NjJdfQ==
+eyJoaXN0b3J5IjpbLTQ1NjYxODg3NSwtMTg4NDIzMDg3Myw4MT
+E1MjY2NzQsMTE1NDMyMzk4NiwzMDc3MTE5MjUsNDUzOTE5MzA2
+LDEzOTIzNjg1MzgsLTY0NTc2MTEyMywxMDExNjk2MzcyLC03MT
+YxMTA3MzgsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwtMTEyMjg5
+MDY5NSwtNzQ0OTIwODIxLC03NzkwMTg2MzksLTIxMTg5NzYxMT
+IsMTk0ODk3NTk4MSwxMTU1MDkxMzcxLC0xMDk1NTc3MTUyLDEx
+OTYwNjU3MjFdfQ==
 -->
