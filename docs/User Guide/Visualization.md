@@ -45,7 +45,7 @@ Graphs customization options are availbale on rigth menu.
 Types of graphs, labels, legends, axis configurations and other can be defined on this menu.
  ![enter image description here](http://img.pyplan.org/Visua_graph_cust.png)
 # Advanced Options and Index Sync
-Regular tables and graphs share a couple of adavanced options that can eb very helpful
+Regular tables and graphs share a couple of adavanced options that can be very helpful
 # Maps
 (todo)
 # Other visualization libraries
@@ -55,7 +55,7 @@ Regular tables and graphs share a couple of adavanced options that can eb very h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTc2OTI2OSwxMDUxMzIyODYzLC0xOD
+eyJoaXN0b3J5IjpbLTI3Nzc3NzgxOSwxMDUxMzIyODYzLC0xOD
 g0MjMwODczLDgxMTUyNjY3NCwxMTU0MzIzOTg2LDMwNzcxMTky
 NSw0NTM5MTkzMDYsMTM5MjM2ODUzOCwtNjQ1NzYxMTIzLDEwMT
 E2OTYzNzIsLTcxNjExMDczOCwtMTEyMjg5MDY5NSwtNzQ0OTIw
