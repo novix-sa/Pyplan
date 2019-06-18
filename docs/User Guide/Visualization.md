@@ -45,7 +45,8 @@ Graphs customization options are availbale on rigth menu.
 Types of graphs, labels, legends, axis configurations and other can be defined on this menu.
  ![enter image description here](http://img.pyplan.org/Visua_graph_cust.png)
 # Advanced Options and Index Sync
-Regular tables and graphs share a couple of adavanced options that can be very helpful
+
+Regular tables as well as graphs shared a couple of advanced options that can be very helpful. Click on  `Hide empty data`,  `View index detail` and  `(all)`,  and Enable drilldown to see how these options impact on tables and graphs
 # Maps
 (todo)
 # Other visualization libraries
@@ -55,11 +56,11 @@ Regular tables and graphs share a couple of adavanced options that can be very h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Nzc3NzgxOSwxMDUxMzIyODYzLC0xOD
-g0MjMwODczLDgxMTUyNjY3NCwxMTU0MzIzOTg2LDMwNzcxMTky
-NSw0NTM5MTkzMDYsMTM5MjM2ODUzOCwtNjQ1NzYxMTIzLDEwMT
-E2OTYzNzIsLTcxNjExMDczOCwtMTEyMjg5MDY5NSwtNzQ0OTIw
-ODIxLC0xMTIyODkwNjk1LC03NDQ5MjA4MjEsLTc3OTAxODYzOS
-wtMjExODk3NjExMiwxOTQ4OTc1OTgxLDExNTUwOTEzNzEsLTEw
-OTU1NzcxNTJdfQ==
+eyJoaXN0b3J5IjpbMTI4NDY4MTY3MCwtMjc3Nzc3ODE5LDEwNT
+EzMjI4NjMsLTE4ODQyMzA4NzMsODExNTI2Njc0LDExNTQzMjM5
+ODYsMzA3NzExOTI1LDQ1MzkxOTMwNiwxMzkyMzY4NTM4LC02ND
+U3NjExMjMsMTAxMTY5NjM3MiwtNzE2MTEwNzM4LC0xMTIyODkw
+Njk1LC03NDQ5MjA4MjEsLTExMjI4OTA2OTUsLTc0NDkyMDgyMS
+wtNzc5MDE4NjM5LC0yMTE4OTc2MTEyLDE5NDg5NzU5ODEsMTE1
+NTA5MTM3MV19
 -->
