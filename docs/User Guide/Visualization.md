@@ -58,7 +58,12 @@ This means that **any dimension filtered on table will apply of graph and vice v
 
 On the other hand, it may be useful to **des-synchronised** dimensions between objects.
 For instance, you may need to filter some item type on table while all item type is shown on graph.
-De synchronizing index “ítem Type” on the menu shown above will allow you to do this kind of selective filtering.
+De synchronizing index `Item type` on the menu shown above will allow you to do this kind of selective filtering.
+
+![enter image description here](http://img.pyplan.org/Visua_index_des_sync.png)
+
+This characteristic will also be very **useful when designing a user interface** colleting  information from different parts of your app which shares dimensions.
+
 # Maps
 (todo)
 # Other visualization libraries
@@ -68,11 +73,11 @@ De synchronizing index “ítem Type” on the menu shown above will allow you t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NTc1MzY0LC0xNDI4NTAzNzA0LC0yNz
-c3Nzc4MTksMTA1MTMyMjg2MywtMTg4NDIzMDg3Myw4MTE1MjY2
-NzQsMTE1NDMyMzk4NiwzMDc3MTE5MjUsNDUzOTE5MzA2LDEzOT
-IzNjg1MzgsLTY0NTc2MTEyMywxMDExNjk2MzcyLC03MTYxMTA3
-MzgsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwtMTEyMjg5MDY5NS
-wtNzQ0OTIwODIxLC03NzkwMTg2MzksLTIxMTg5NzYxMTIsMTk0
-ODk3NTk4MV19
+eyJoaXN0b3J5IjpbLTMyNDU4NjQwNCwtMTQyODUwMzcwNCwtMj
+c3Nzc3ODE5LDEwNTEzMjI4NjMsLTE4ODQyMzA4NzMsODExNTI2
+Njc0LDExNTQzMjM5ODYsMzA3NzExOTI1LDQ1MzkxOTMwNiwxMz
+kyMzY4NTM4LC02NDU3NjExMjMsMTAxMTY5NjM3MiwtNzE2MTEw
+NzM4LC0xMTIyODkwNjk1LC03NDQ5MjA4MjEsLTExMjI4OTA2OT
+UsLTc0NDkyMDgyMSwtNzc5MDE4NjM5LC0yMTE4OTc2MTEyLDE5
+NDg5NzU5ODFdfQ==
 -->
