@@ -21,6 +21,8 @@ It is possible to generate custom configurations by rows or cols. Heatmaps and B
 Number format menu and advanced options may help you generating the view you need for each variable
 
 ![enter image description here](http://img.pyplan.org/Vizua_tables_format.png)
+
+
 ## Pivot Tables
 Different than the standard table It allows multiple dimensions in rows or cols as well as filtering.
 It has fewer customization options compared to regular tables.
@@ -36,7 +38,7 @@ Take advantage of graph generation shortcut to create a graph in one click
 Graphs customization options are availbale on rigth menu. 
 Types of graphs, labels, legends, axis configurations and other can be defined on this menu.
  ![enter image description here](http://img.pyplan.org/Visua_graph_cust.png)
-# Graphs
+# Advanced Options and Index Sync
 # Maps
 (todo)
 # Other visualization libraries
@@ -46,11 +48,11 @@ Types of graphs, labels, legends, axis configurations and other can be defined o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODE5ODQ2NywxMTU0MzIzOTg2LDMwNz
-cxMTkyNSw0NTM5MTkzMDYsMTM5MjM2ODUzOCwtNjQ1NzYxMTIz
-LDEwMTE2OTYzNzIsLTcxNjExMDczOCwtMTEyMjg5MDY5NSwtNz
-Q0OTIwODIxLC0xMTIyODkwNjk1LC03NDQ5MjA4MjEsLTc3OTAx
-ODYzOSwtMjExODk3NjExMiwxOTQ4OTc1OTgxLDExNTUwOTEzNz
-EsLTEwOTU1NzcxNTIsMTE5NjA2NTcyMSwtMjgyOTM5NDYyLDMz
-MTU3NTk0OV19
+eyJoaXN0b3J5IjpbNzYxMDEzNzY0LDExNTQzMjM5ODYsMzA3Nz
+ExOTI1LDQ1MzkxOTMwNiwxMzkyMzY4NTM4LC02NDU3NjExMjMs
+MTAxMTY5NjM3MiwtNzE2MTEwNzM4LC0xMTIyODkwNjk1LC03ND
+Q5MjA4MjEsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwtNzc5MDE4
+NjM5LC0yMTE4OTc2MTEyLDE5NDg5NzU5ODEsMTE1NTA5MTM3MS
+wtMTA5NTU3NzE1MiwxMTk2MDY1NzIxLC0yODI5Mzk0NjIsMzMx
+NTc1OTQ5XX0=
 -->
