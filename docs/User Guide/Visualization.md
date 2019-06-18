@@ -52,7 +52,13 @@ Regular tables as well as graphs shared a couple of advanced options that can be
 Pyplan **synchronizes** **shared dimensions** among objects presented in an interface.
 For instance, on the following example ***total cost Information*** is presented as a table and as a graph and as all of it dimensions are synchronised.
 
+![enter image description here](http://img.pyplan.org/Visua_index_sync.png)
 
+This means that **any dimension filtered on table will apply of graph and vice versa.**
+
+On the other hand, it may be useful to **des-synchronised** dimensions between objects.
+For instance, you may need to filter some item type on table while all item type is shown on graph.
+De synchronizing index “ítem Type” on the menu shown above will allow you to do this kind of selective filtering.
 # Maps
 (todo)
 # Other visualization libraries
@@ -62,11 +68,11 @@ For instance, on the following example ***total cost Information*** is presented
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg1MDM3MDQsLTI3Nzc3NzgxOSwxMD
-UxMzIyODYzLC0xODg0MjMwODczLDgxMTUyNjY3NCwxMTU0MzIz
-OTg2LDMwNzcxMTkyNSw0NTM5MTkzMDYsMTM5MjM2ODUzOCwtNj
-Q1NzYxMTIzLDEwMTE2OTYzNzIsLTcxNjExMDczOCwtMTEyMjg5
-MDY5NSwtNzQ0OTIwODIxLC0xMTIyODkwNjk1LC03NDQ5MjA4Mj
-EsLTc3OTAxODYzOSwtMjExODk3NjExMiwxOTQ4OTc1OTgxLDEx
-NTUwOTEzNzFdfQ==
+eyJoaXN0b3J5IjpbOTU5NTc1MzY0LC0xNDI4NTAzNzA0LC0yNz
+c3Nzc4MTksMTA1MTMyMjg2MywtMTg4NDIzMDg3Myw4MTE1MjY2
+NzQsMTE1NDMyMzk4NiwzMDc3MTE5MjUsNDUzOTE5MzA2LDEzOT
+IzNjg1MzgsLTY0NTc2MTEyMywxMDExNjk2MzcyLC03MTYxMTA3
+MzgsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwtMTEyMjg5MDY5NS
+wtNzQ0OTIwODIxLC03NzkwMTg2MzksLTIxMTg5NzYxMTIsMTk0
+ODk3NTk4MV19
 -->
