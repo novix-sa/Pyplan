@@ -8,7 +8,8 @@ The first choice to be made is about the type of chart (Table, Graph or Map). Th
 
 
 # Tables
-There are two type of tables intended for different purposes. Regular tables and pivot tables.
+There are two types of tables intended for different purposes. 
+Regular tables and pivot tables.
 The image below show some different configuration features from these tables:
 
 
@@ -42,11 +43,11 @@ y nadie los ve....
 
  no tiene nada de JD como hacemos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTc2MTEyMywxMDExNjk2MzcyLC03MT
-YxMTA3MzgsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwtMTEyMjg5
-MDY5NSwtNzQ0OTIwODIxLC03NzkwMTg2MzksLTIxMTg5NzYxMT
-IsMTk0ODk3NTk4MSwxMTU1MDkxMzcxLC0xMDk1NTc3MTUyLDEx
-OTYwNjU3MjEsLTI4MjkzOTQ2MiwzMzE1NzU5NDksNjc1MzY4NT
-MsMTYxMTY2Mzk0NywtMTY2NjI1Njc5MiwxOTU0NTYxNTQzLDEy
-NTk4MjEzMDBdfQ==
+eyJoaXN0b3J5IjpbMTM5MjM2ODUzOCwtNjQ1NzYxMTIzLDEwMT
+E2OTYzNzIsLTcxNjExMDczOCwtMTEyMjg5MDY5NSwtNzQ0OTIw
+ODIxLC0xMTIyODkwNjk1LC03NDQ5MjA4MjEsLTc3OTAxODYzOS
+wtMjExODk3NjExMiwxOTQ4OTc1OTgxLDExNTUwOTEzNzEsLTEw
+OTU1NzcxNTIsMTE5NjA2NTcyMSwtMjgyOTM5NDYyLDMzMTU3NT
+k0OSw2NzUzNjg1MywxNjExNjYzOTQ3LC0xNjY2MjU2NzkyLDE5
+NTQ1NjE1NDNdfQ==
 -->
