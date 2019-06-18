@@ -63,7 +63,7 @@ De synchronizing index `Item type` on the menu shown above will allow you to do 
 ![enter image description here](http://img.pyplan.org/Visua_index_des_sync.png)
 
 This characteristic will also be very **useful when designing a user interface** colleting  information from different parts of your app which shares dimensions.
-
+Check specific section for further infomation
 # Maps
 (todo)
 # Other visualization libraries
@@ -73,11 +73,11 @@ This characteristic will also be very **useful when designing a user interface**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDU4NjQwNCwtMTQyODUwMzcwNCwtMj
-c3Nzc3ODE5LDEwNTEzMjI4NjMsLTE4ODQyMzA4NzMsODExNTI2
-Njc0LDExNTQzMjM5ODYsMzA3NzExOTI1LDQ1MzkxOTMwNiwxMz
-kyMzY4NTM4LC02NDU3NjExMjMsMTAxMTY5NjM3MiwtNzE2MTEw
-NzM4LC0xMTIyODkwNjk1LC03NDQ5MjA4MjEsLTExMjI4OTA2OT
-UsLTc0NDkyMDgyMSwtNzc5MDE4NjM5LC0yMTE4OTc2MTEyLDE5
-NDg5NzU5ODFdfQ==
+eyJoaXN0b3J5IjpbLTEzMTQ1ODcwNTQsLTE0Mjg1MDM3MDQsLT
+I3Nzc3NzgxOSwxMDUxMzIyODYzLC0xODg0MjMwODczLDgxMTUy
+NjY3NCwxMTU0MzIzOTg2LDMwNzcxMTkyNSw0NTM5MTkzMDYsMT
+M5MjM2ODUzOCwtNjQ1NzYxMTIzLDEwMTE2OTYzNzIsLTcxNjEx
+MDczOCwtMTEyMjg5MDY5NSwtNzQ0OTIwODIxLC0xMTIyODkwNj
+k1LC03NDQ5MjA4MjEsLTc3OTAxODYzOSwtMjExODk3NjExMiwx
+OTQ4OTc1OTgxXX0=
 -->
