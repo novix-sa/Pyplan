@@ -75,18 +75,18 @@ For instance, you can check the following example
 `Public/Examples/01-Visualization/02-California Power Plants/California Power Plants.ppl`
 
 Where **HTML code is rendered getting California power plants geographical representation**
+![enter image description here](http://img.pyplan.org/Visua_folium.png)
 
-(todo)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDQ1NjYzNCwtMTIxNzk5MjExNSwtMT
-MwNjk4MDQyOCwtODc2NTg1OTA1LC0xMzE0NTg3MDU0LC0xNDI4
-NTAzNzA0LC0yNzc3Nzc4MTksMTA1MTMyMjg2MywtMTg4NDIzMD
-g3Myw4MTE1MjY2NzQsMTE1NDMyMzk4NiwzMDc3MTE5MjUsNDUz
-OTE5MzA2LDEzOTIzNjg1MzgsLTY0NTc2MTEyMywxMDExNjk2Mz
-cyLC03MTYxMTA3MzgsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwt
-MTEyMjg5MDY5NV19
+eyJoaXN0b3J5IjpbMTgzMTM2Njg3OCwxNDQ0NDU2NjM0LC0xMj
+E3OTkyMTE1LC0xMzA2OTgwNDI4LC04NzY1ODU5MDUsLTEzMTQ1
+ODcwNTQsLTE0Mjg1MDM3MDQsLTI3Nzc3NzgxOSwxMDUxMzIyOD
+YzLC0xODg0MjMwODczLDgxMTUyNjY3NCwxMTU0MzIzOTg2LDMw
+NzcxMTkyNSw0NTM5MTkzMDYsMTM5MjM2ODUzOCwtNjQ1NzYxMT
+IzLDEwMTE2OTYzNzIsLTcxNjExMDczOCwtMTEyMjg5MDY5NSwt
+NzQ0OTIwODIxXX0=
 -->
