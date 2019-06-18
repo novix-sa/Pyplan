@@ -28,6 +28,7 @@ Regular table has the option of defining conditional format rules to coloured, h
 Pyplan also has and advance option for linking different interfaces trough these formats.
 
 These configurations enhances visualization analysis options
+![enter image description here](http://img.pyplan.org/Vizua_cond_format.png)
 ## Pivot Tables
 Different than the standard table It allows multiple dimensions in rows or cols as well as filtering.
 It has fewer customization options compared to regular tables.
@@ -44,6 +45,7 @@ Graphs customization options are availbale on rigth menu.
 Types of graphs, labels, legends, axis configurations and other can be defined on this menu.
  ![enter image description here](http://img.pyplan.org/Visua_graph_cust.png)
 # Advanced Options and Index Sync
+
 # Maps
 (todo)
 # Other visualization libraries
@@ -53,7 +55,7 @@ Types of graphs, labels, legends, axis configurations and other can be defined o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjYxODg3NSwtMTg4NDIzMDg3Myw4MT
+eyJoaXN0b3J5IjpbMTA1MTMyMjg2MywtMTg4NDIzMDg3Myw4MT
 E1MjY2NzQsMTE1NDMyMzk4NiwzMDc3MTE5MjUsNDUzOTE5MzA2
 LDEzOTIzNjg1MzgsLTY0NTc2MTEyMywxMDExNjk2MzcyLC03MT
 YxMTA3MzgsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwtMTEyMjg5
