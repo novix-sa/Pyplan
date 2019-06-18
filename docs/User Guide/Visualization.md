@@ -19,7 +19,8 @@ It is possible to generate custom configurations by rows or cols. Heatmaps and B
  ![enter image description here](http://img.pyplan.org/viz-table-standard.png)
  
 Number format menu and advanced options may help you generating the view you need for each variable
-![enter image description here](http://img.pyplan.org/.png)
+
+![enter image description here](http://img.pyplan.org/Vizua_tables_format.png)
 ## Pivot Tables
 Different than the standard table It allows multiple dimensions in rows or cols as well as filtering.
 It has fewer customization options compared to regular tables.
@@ -45,11 +46,11 @@ y nadie los ve....
 
  no tiene nada de JD como hacemos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDY4NjQ2Miw0NTM5MTkzMDYsMTM5Mj
-M2ODUzOCwtNjQ1NzYxMTIzLDEwMTE2OTYzNzIsLTcxNjExMDcz
-OCwtMTEyMjg5MDY5NSwtNzQ0OTIwODIxLC0xMTIyODkwNjk1LC
-03NDQ5MjA4MjEsLTc3OTAxODYzOSwtMjExODk3NjExMiwxOTQ4
-OTc1OTgxLDExNTUwOTEzNzEsLTEwOTU1NzcxNTIsMTE5NjA2NT
-cyMSwtMjgyOTM5NDYyLDMzMTU3NTk0OSw2NzUzNjg1MywxNjEx
-NjYzOTQ3XX0=
+eyJoaXN0b3J5IjpbMzA3NzExOTI1LDQ1MzkxOTMwNiwxMzkyMz
+Y4NTM4LC02NDU3NjExMjMsMTAxMTY5NjM3MiwtNzE2MTEwNzM4
+LC0xMTIyODkwNjk1LC03NDQ5MjA4MjEsLTExMjI4OTA2OTUsLT
+c0NDkyMDgyMSwtNzc5MDE4NjM5LC0yMTE4OTc2MTEyLDE5NDg5
+NzU5ODEsMTE1NTA5MTM3MSwtMTA5NTU3NzE1MiwxMTk2MDY1Nz
+IxLC0yODI5Mzk0NjIsMzMxNTc1OTQ5LDY3NTM2ODUzLDE2MTE2
+NjM5NDddfQ==
 -->
