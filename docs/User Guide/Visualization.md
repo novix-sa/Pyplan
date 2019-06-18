@@ -82,13 +82,12 @@ Where **HTML code is rendered getting California power plants geographical repre
 Check the folowing box plot example
 
 ![enter image description here](http://img.pyplan.org/Visua_box_plot.png)
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI5ODUyNTEsMTgzMTM2Njg3OCwxND
-Q0NDU2NjM0LC0xMjE3OTkyMTE1LC0xMzA2OTgwNDI4LC04NzY1
-ODU5MDUsLTEzMTQ1ODcwNTQsLTE0Mjg1MDM3MDQsLTI3Nzc3Nz
-gxOSwxMDUxMzIyODYzLC0xODg0MjMwODczLDgxMTUyNjY3NCwx
-MTU0MzIzOTg2LDMwNzcxMTkyNSw0NTM5MTkzMDYsMTM5MjM2OD
-UzOCwtNjQ1NzYxMTIzLDEwMTE2OTYzNzIsLTcxNjExMDczOCwt
-MTEyMjg5MDY5NV19
+eyJoaXN0b3J5IjpbLTcxMjgxMDQxLDE4MzEzNjY4NzgsMTQ0ND
+Q1NjYzNCwtMTIxNzk5MjExNSwtMTMwNjk4MDQyOCwtODc2NTg1
+OTA1LC0xMzE0NTg3MDU0LC0xNDI4NTAzNzA0LC0yNzc3Nzc4MT
+ksMTA1MTMyMjg2MywtMTg4NDIzMDg3Myw4MTE1MjY2NzQsMTE1
+NDMyMzk4NiwzMDc3MTE5MjUsNDUzOTE5MzA2LDEzOTIzNjg1Mz
+gsLTY0NTc2MTEyMywxMDExNjk2MzcyLC03MTYxMTA3MzgsLTEx
+MjI4OTA2OTVdfQ==
 -->
