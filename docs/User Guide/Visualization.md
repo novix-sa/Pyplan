@@ -28,29 +28,23 @@ It has fewer customization options compared to regular tables.
 But one main differentiation is that can work as an input table, allowing the user to manually change table values.
 ![enter image description here](http://img.pyplan.org/viz-edit-table.png)
 # Graphs
-Pyplan includes several type of standard chart graphs
+Pyplan includes several type of standard chart graphs.
+Take advantage of graph generation shortcut to create a graph in one click
+
 # Maps
 (todo)
 # Other visualization libraries
 (todo)
 
-![enter image description here](http://img.pyplan.org/Login_nuevo.png)
 
-Pyplan New Login
-agregado JD
-nuevo y prueba
-![enter image description here](http://img.pyplan.org/model-code-tab1.png)
 
-New test lines   y estos son mis cambios como codigo
-y nadie los ve....
 
- no tiene nada de JD como hacemos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NzExOTI1LDQ1MzkxOTMwNiwxMzkyMz
-Y4NTM4LC02NDU3NjExMjMsMTAxMTY5NjM3MiwtNzE2MTEwNzM4
-LC0xMTIyODkwNjk1LC03NDQ5MjA4MjEsLTExMjI4OTA2OTUsLT
-c0NDkyMDgyMSwtNzc5MDE4NjM5LC0yMTE4OTc2MTEyLDE5NDg5
-NzU5ODEsMTE1NTA5MTM3MSwtMTA5NTU3NzE1MiwxMTk2MDY1Nz
-IxLC0yODI5Mzk0NjIsMzMxNTc1OTQ5LDY3NTM2ODUzLDE2MTE2
-NjM5NDddfQ==
+eyJoaXN0b3J5IjpbLTM4ODg4MzcyMSwzMDc3MTE5MjUsNDUzOT
+E5MzA2LDEzOTIzNjg1MzgsLTY0NTc2MTEyMywxMDExNjk2Mzcy
+LC03MTYxMTA3MzgsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwtMT
+EyMjg5MDY5NSwtNzQ0OTIwODIxLC03NzkwMTg2MzksLTIxMTg5
+NzYxMTIsMTk0ODk3NTk4MSwxMTU1MDkxMzcxLC0xMDk1NTc3MT
+UyLDExOTYwNjU3MjEsLTI4MjkzOTQ2MiwzMzE1NzU5NDksNjc1
+MzY4NTNdfQ==
 -->
