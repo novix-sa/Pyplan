@@ -18,6 +18,7 @@ Is the default view of any node. The user can pivot dimensions and filter any di
 It is possible to generate custom configurations by rows or cols. Heatmaps and Background colors based on customized ranges are also possible.
  ![enter image description here](http://img.pyplan.org/viz-table-standard.png)
  
+ Y
 ## Pivot Tables
 Different than the standard table It allows multiple dimensions in rows or cols as well as filtering.
 It has fewer customization options compared to regular tables.
@@ -43,11 +44,11 @@ y nadie los ve....
 
  no tiene nada de JD como hacemos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjM2ODUzOCwtNjQ1NzYxMTIzLDEwMT
-E2OTYzNzIsLTcxNjExMDczOCwtMTEyMjg5MDY5NSwtNzQ0OTIw
-ODIxLC0xMTIyODkwNjk1LC03NDQ5MjA4MjEsLTc3OTAxODYzOS
-wtMjExODk3NjExMiwxOTQ4OTc1OTgxLDExNTUwOTEzNzEsLTEw
-OTU1NzcxNTIsMTE5NjA2NTcyMSwtMjgyOTM5NDYyLDMzMTU3NT
-k0OSw2NzUzNjg1MywxNjExNjYzOTQ3LC0xNjY2MjU2NzkyLDE5
-NTQ1NjE1NDNdfQ==
+eyJoaXN0b3J5IjpbLTE2NTkyMzMwNTEsMTM5MjM2ODUzOCwtNj
+Q1NzYxMTIzLDEwMTE2OTYzNzIsLTcxNjExMDczOCwtMTEyMjg5
+MDY5NSwtNzQ0OTIwODIxLC0xMTIyODkwNjk1LC03NDQ5MjA4Mj
+EsLTc3OTAxODYzOSwtMjExODk3NjExMiwxOTQ4OTc1OTgxLDEx
+NTUwOTEzNzEsLTEwOTU1NzcxNTIsMTE5NjA2NTcyMSwtMjgyOT
+M5NDYyLDMzMTU3NTk0OSw2NzUzNjg1MywxNjExNjYzOTQ3LC0x
+NjY2MjU2NzkyXX0=
 -->
