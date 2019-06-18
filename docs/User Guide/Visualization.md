@@ -77,18 +77,18 @@ For instance, you can check the following example
 Where **HTML code is rendered getting California power plants geographical representation**
 ![enter image description here](http://img.pyplan.org/Visua_folium.png)
 
-[Plotly](https://plot.ly/python/) graphs are interpreted by Pyplan by simplying adding result = plot at the en of the code.
+[Plotly](https://plot.ly/python/) graphs are interpreted by Pyplan by simplying adding  `result = plot`  at the en of the code.
 
 Check the folowing box plot example
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE0MjQ2MTEsMTgzMTM2Njg3OCwxND
-Q0NDU2NjM0LC0xMjE3OTkyMTE1LC0xMzA2OTgwNDI4LC04NzY1
-ODU5MDUsLTEzMTQ1ODcwNTQsLTE0Mjg1MDM3MDQsLTI3Nzc3Nz
-gxOSwxMDUxMzIyODYzLC0xODg0MjMwODczLDgxMTUyNjY3NCwx
-MTU0MzIzOTg2LDMwNzcxMTkyNSw0NTM5MTkzMDYsMTM5MjM2OD
-UzOCwtNjQ1NzYxMTIzLDEwMTE2OTYzNzIsLTcxNjExMDczOCwt
-MTEyMjg5MDY5NV19
+eyJoaXN0b3J5IjpbLTI2NzU5MDY5MSwxODMxMzY2ODc4LDE0ND
+Q0NTY2MzQsLTEyMTc5OTIxMTUsLTEzMDY5ODA0MjgsLTg3NjU4
+NTkwNSwtMTMxNDU4NzA1NCwtMTQyODUwMzcwNCwtMjc3Nzc3OD
+E5LDEwNTEzMjI4NjMsLTE4ODQyMzA4NzMsODExNTI2Njc0LDEx
+NTQzMjM5ODYsMzA3NzExOTI1LDQ1MzkxOTMwNiwxMzkyMzY4NT
+M4LC02NDU3NjExMjMsMTAxMTY5NjM3MiwtNzE2MTEwNzM4LC0x
+MTIyODkwNjk1XX0=
 -->
