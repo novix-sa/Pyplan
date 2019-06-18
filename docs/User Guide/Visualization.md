@@ -49,8 +49,10 @@ Types of graphs, labels, legends, axis configurations and other can be defined o
 Regular tables as well as graphs shared a couple of advanced options that can be very helpful. Click on  `Hide empty data`,  `View index detail` and  `Enable drilldown` to see how these options impact on tables and graphs.
 
 `Index Sync` is a powerful toll when working with tables and graphs of the same interface.
-Pyplan **synchronizes** **shared indexes** among objects presented in an interface.
-For instance, on the following example total cost Information is presented as a table and as a graph and as all indexes are synchronised.
+Pyplan **synchronizes** **shared dimensions** among objects presented in an interface.
+For instance, on the following example ***total cost Information*** is presented as a table and as a graph and as all of it dimensions are synchronised.
+
+
 # Maps
 (todo)
 # Other visualization libraries
@@ -60,11 +62,11 @@ For instance, on the following example total cost Information is presented as a 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTgwMzk5MCwtMjc3Nzc3ODE5LDEwNT
-EzMjI4NjMsLTE4ODQyMzA4NzMsODExNTI2Njc0LDExNTQzMjM5
-ODYsMzA3NzExOTI1LDQ1MzkxOTMwNiwxMzkyMzY4NTM4LC02ND
-U3NjExMjMsMTAxMTY5NjM3MiwtNzE2MTEwNzM4LC0xMTIyODkw
-Njk1LC03NDQ5MjA4MjEsLTExMjI4OTA2OTUsLTc0NDkyMDgyMS
-wtNzc5MDE4NjM5LC0yMTE4OTc2MTEyLDE5NDg5NzU5ODEsMTE1
-NTA5MTM3MV19
+eyJoaXN0b3J5IjpbLTE0Mjg1MDM3MDQsLTI3Nzc3NzgxOSwxMD
+UxMzIyODYzLC0xODg0MjMwODczLDgxMTUyNjY3NCwxMTU0MzIz
+OTg2LDMwNzcxMTkyNSw0NTM5MTkzMDYsMTM5MjM2ODUzOCwtNj
+Q1NzYxMTIzLDEwMTE2OTYzNzIsLTcxNjExMDczOCwtMTEyMjg5
+MDY5NSwtNzQ0OTIwODIxLC0xMTIyODkwNjk1LC03NDQ5MjA4Mj
+EsLTc3OTAxODYzOSwtMjExODk3NjExMiwxOTQ4OTc1OTgxLDEx
+NTUwOTEzNzFdfQ==
 -->
