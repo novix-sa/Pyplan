@@ -31,7 +31,9 @@ But one main differentiation is that can work as an input table, allowing the us
 Pyplan includes several type of standard chart graphs.
 Take advantage of graph generation shortcut to create a graph in one click
 
-![enter image description here](http://img.pyplan.org/Visua_table_an_graph.png)
+![enter image description here](http://img.pyplan.org/Visua_table_n_graph.png)
+
+
 # Maps
 (todo)
 # Other visualization libraries
@@ -41,7 +43,7 @@ Take advantage of graph generation shortcut to create a graph in one click
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzgwMDkwNSwzMDc3MTE5MjUsNDUzOT
+eyJoaXN0b3J5IjpbMTE1NDMyMzk4NiwzMDc3MTE5MjUsNDUzOT
 E5MzA2LDEzOTIzNjg1MzgsLTY0NTc2MTEyMywxMDExNjk2Mzcy
 LC03MTYxMTA3MzgsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwtMT
 EyMjg5MDY5NSwtNzQ0OTIwODIxLC03NzkwMTg2MzksLTIxMTg5
