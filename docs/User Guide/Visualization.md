@@ -33,6 +33,8 @@ Take advantage of graph generation shortcut to create a graph in one click
 
 ![enter image description here](http://img.pyplan.org/Visua_table_n_graph.png)
 
+Graphs customization options are availbale on rigth menu. 
+Types of graphs, labels, legends, axis configurations and other
 
 # Maps
 (todo)
@@ -43,11 +45,11 @@ Take advantage of graph generation shortcut to create a graph in one click
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDMyMzk4NiwzMDc3MTE5MjUsNDUzOT
-E5MzA2LDEzOTIzNjg1MzgsLTY0NTc2MTEyMywxMDExNjk2Mzcy
-LC03MTYxMTA3MzgsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwtMT
-EyMjg5MDY5NSwtNzQ0OTIwODIxLC03NzkwMTg2MzksLTIxMTg5
-NzYxMTIsMTk0ODk3NTk4MSwxMTU1MDkxMzcxLC0xMDk1NTc3MT
-UyLDExOTYwNjU3MjEsLTI4MjkzOTQ2MiwzMzE1NzU5NDksNjc1
-MzY4NTNdfQ==
+eyJoaXN0b3J5IjpbMTA2OTE2NDI4MiwxMTU0MzIzOTg2LDMwNz
+cxMTkyNSw0NTM5MTkzMDYsMTM5MjM2ODUzOCwtNjQ1NzYxMTIz
+LDEwMTE2OTYzNzIsLTcxNjExMDczOCwtMTEyMjg5MDY5NSwtNz
+Q0OTIwODIxLC0xMTIyODkwNjk1LC03NDQ5MjA4MjEsLTc3OTAx
+ODYzOSwtMjExODk3NjExMiwxOTQ4OTc1OTgxLDExNTUwOTEzNz
+EsLTEwOTU1NzcxNTIsMTE5NjA2NTcyMSwtMjgyOTM5NDYyLDMz
+MTU3NTk0OV19
 -->
