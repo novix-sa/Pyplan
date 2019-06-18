@@ -65,7 +65,7 @@ De synchronizing index `Item type` on the menu shown above will allow you to do 
 This characteristic will also be very **useful when designing a user interface** colleting  information from different parts of your app which shares dimensions.
 Check specific section for further infomation
 # Maps
-Pyplan has en em
+Pyplan has en s
 (todo)
 # Other visualization libraries
 (todo)
@@ -74,11 +74,11 @@ Pyplan has en em
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjU4NTkwNSwtMTMxNDU4NzA1NCwtMT
-QyODUwMzcwNCwtMjc3Nzc3ODE5LDEwNTEzMjI4NjMsLTE4ODQy
-MzA4NzMsODExNTI2Njc0LDExNTQzMjM5ODYsMzA3NzExOTI1LD
-Q1MzkxOTMwNiwxMzkyMzY4NTM4LC02NDU3NjExMjMsMTAxMTY5
-NjM3MiwtNzE2MTEwNzM4LC0xMTIyODkwNjk1LC03NDQ5MjA4Mj
-EsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwtNzc5MDE4NjM5LC0y
-MTE4OTc2MTEyXX0=
+eyJoaXN0b3J5IjpbLTEzMDY5ODA0MjgsLTg3NjU4NTkwNSwtMT
+MxNDU4NzA1NCwtMTQyODUwMzcwNCwtMjc3Nzc3ODE5LDEwNTEz
+MjI4NjMsLTE4ODQyMzA4NzMsODExNTI2Njc0LDExNTQzMjM5OD
+YsMzA3NzExOTI1LDQ1MzkxOTMwNiwxMzkyMzY4NTM4LC02NDU3
+NjExMjMsMTAxMTY5NjM3MiwtNzE2MTEwNzM4LC0xMTIyODkwNj
+k1LC03NDQ5MjA4MjEsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwt
+Nzc5MDE4NjM5XX0=
 -->
