@@ -23,7 +23,7 @@ Number format menu and advanced options may help you generating the view you nee
 ![enter image description here](http://img.pyplan.org/Vizua_tables_format.png)
 
 ### Conditional Format
-
+Regular table has the 
 
 ## Pivot Tables
 Different than the standard table It allows multiple dimensions in rows or cols as well as filtering.
@@ -50,11 +50,11 @@ Types of graphs, labels, legends, axis configurations and other can be defined o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExNTI2Njc0LDExNTQzMjM5ODYsMzA3Nz
-ExOTI1LDQ1MzkxOTMwNiwxMzkyMzY4NTM4LC02NDU3NjExMjMs
-MTAxMTY5NjM3MiwtNzE2MTEwNzM4LC0xMTIyODkwNjk1LC03ND
-Q5MjA4MjEsLTExMjI4OTA2OTUsLTc0NDkyMDgyMSwtNzc5MDE4
-NjM5LC0yMTE4OTc2MTEyLDE5NDg5NzU5ODEsMTE1NTA5MTM3MS
-wtMTA5NTU3NzE1MiwxMTk2MDY1NzIxLC0yODI5Mzk0NjIsMzMx
-NTc1OTQ5XX0=
+eyJoaXN0b3J5IjpbLTE4ODQyMzA4NzMsODExNTI2Njc0LDExNT
+QzMjM5ODYsMzA3NzExOTI1LDQ1MzkxOTMwNiwxMzkyMzY4NTM4
+LC02NDU3NjExMjMsMTAxMTY5NjM3MiwtNzE2MTEwNzM4LC0xMT
+IyODkwNjk1LC03NDQ5MjA4MjEsLTExMjI4OTA2OTUsLTc0NDky
+MDgyMSwtNzc5MDE4NjM5LC0yMTE4OTc2MTEyLDE5NDg5NzU5OD
+EsMTE1NTA5MTM3MSwtMTA5NTU3NzE1MiwxMTk2MDY1NzIxLC0y
+ODI5Mzk0NjJdfQ==
 -->
