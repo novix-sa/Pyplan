@@ -11,14 +11,15 @@ Favs App can also be set.
 
 ![enter image description here](http://img.pyplan.org/Ui_layout.png)
 
-## Creating and Interface
+## Creating an Interface
+Click on New and select interface. Define a name for it and double click on your new interface.
 
 ## I/O 
 ## Synchronization
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTg1NjEzMywtMTEwNTE4MzQ5MiwtMT
-k1MDQyNTI1OSwxNDYyNjg0NTU2LC0xODc3MzEyODMxLDU1NTky
-MzI0NiwxNTY5OTk4MzcxLC0xODc3MzEyODMxLC0xNzI4NjgxND
-JdfQ==
+eyJoaXN0b3J5IjpbMTExMTIxNTgxNiwxOTUxODU2MTMzLC0xMT
+A1MTgzNDkyLC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4Nzcz
+MTI4MzEsNTU1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4NzczMTI4Mz
+EsLTE3Mjg2ODE0Ml19
 -->
