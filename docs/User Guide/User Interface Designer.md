@@ -59,13 +59,18 @@ Indexes widget hast their specific options menu.
 ## Synchronization
 Once an Interface has been created shared dimensions are automatically synchronized.
 That means that every selection in any part of the interface will apply to on every presented object unless explicitly define not to be synchronized.
+
+Let’s suppose you have crated an interface like the following where `region`, `item type` and `time`explicitly exposed (*check how text widget and background colours can help interfaces be more self explaining*)
+
+If you select a single region, a couple of items and a range of time these selections will apply to all interface making analysis very powerful.
 ## Deploying an App and Sharing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MTIyNjU2LDU5NDMwNjgxMyw3MzY2Nj
-QxOTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0LDExMjY1OTg3NTUs
-OTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MDE2OTksLTY0NjIzMD
-UyMiwxOTUxODU2MTMzLC0xMTA1MTgzNDkyLC0xOTUwNDI1MjU5
-LDE0NjI2ODQ1NTYsLTE4NzczMTI4MzEsNTU1OTIzMjQ2LDE1Nj
-k5OTgzNzEsLTE4NzczMTI4MzEsLTE3Mjg2ODE0Ml19
+eyJoaXN0b3J5IjpbLTIwNzYzNzgxODQsNTc1MTIyNjU2LDU5ND
+MwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0
+LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MD
+E2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMTA1MTgzNDky
+LC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4NzczMTI4MzEsNT
+U1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4NzczMTI4MzEsLTE3Mjg2
+ODE0Ml19
 -->
