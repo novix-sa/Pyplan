@@ -63,14 +63,17 @@ That means that every selection in any part of the interface will apply to on ev
 Let’s suppose you have crated an interface like the following where `region`, `item type` and `time`explicitly exposed (*check how text widget and background colours can help interfaces be more self explaining*)
 
 If you select a single region, a couple of items and a range of time these selections will apply to all interface making analysis very powerful.
+
+![enter image description here](http://img.pyplan.org/UI_synchro.png)
+* Remember 
 ## Deploying an App and Sharing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYzNzgxODQsNTc1MTIyNjU2LDU5ND
-MwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0
-LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MD
-E2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMTA1MTgzNDky
-LC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4NzczMTI4MzEsNT
-U1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4NzczMTI4MzEsLTE3Mjg2
-ODE0Ml19
+eyJoaXN0b3J5IjpbLTQzNzU3MzI3Miw1NzUxMjI2NTYsNTk0Mz
+A2ODEzLDczNjY2NDE5NSwtNzA3NTA0Mjc3LDE2Mzk3ODg0NTQs
+MTEyNjU5ODc1NSw5MDM5NTY0MTUsMjMxNjY0NTc4LC03OTYwMT
+Y5OSwtNjQ2MjMwNTIyLDE5NTE4NTYxMzMsLTExMDUxODM0OTIs
+LTE5NTA0MjUyNTksMTQ2MjY4NDU1NiwtMTg3NzMxMjgzMSw1NT
+U5MjMyNDYsMTU2OTk5ODM3MSwtMTg3NzMxMjgzMSwtMTcyODY4
+MTQyXX0=
 -->
