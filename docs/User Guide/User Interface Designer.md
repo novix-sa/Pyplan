@@ -6,9 +6,9 @@ This layer can be accessed by clicking on the following icon.
 
 ![enter image description here](http://img.pyplan.org/UI_interfaces.png)
 ## Layout
-Interfaces manager shows those IO Interfaces created by the user and those that were  shared by some other. Shared In this case user can only browse interfaces unless he copied them to his own space.
+Interfaces manager shows those IO Interfaces created by the user and those that were  shared by some other. Shared interfaces can only be browsed unless they are copied to user own space.
 Once it has been copied user has total control over that interface.
-Favs App can also be set.
+**Favs app** can also be set.
 
 ![enter image description here](http://img.pyplan.org/Ui_layout.png)
 
@@ -93,11 +93,11 @@ You [python](https://www.python.org/) coded application has been deployed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE2NTEwMDUsLTE4NjAyNjI2MDUsMT
-I2NjExNjg5OSwtMTY2MjM0NzE4MSwtMTM0Mjg1ODkzMyw1NzUx
-MjI2NTYsNTk0MzA2ODEzLDczNjY2NDE5NSwtNzA3NTA0Mjc3LD
-E2Mzk3ODg0NTQsMTEyNjU5ODc1NSw5MDM5NTY0MTUsMjMxNjY0
-NTc4LC03OTYwMTY5OSwtNjQ2MjMwNTIyLDE5NTE4NTYxMzMsLT
-ExMDUxODM0OTIsLTE5NTA0MjUyNTksMTQ2MjY4NDU1NiwtMTg3
-NzMxMjgzMV19
+eyJoaXN0b3J5IjpbMTcwNTc1NzE4LC0xODYwMjYyNjA1LDEyNj
+YxMTY4OTksLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMsNTc1MTIy
+NjU2LDU5NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3NywxNj
+M5Nzg4NDU0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3
+OCwtNzk2MDE2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMT
+A1MTgzNDkyLC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4Nzcz
+MTI4MzFdfQ==
 -->
