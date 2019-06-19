@@ -70,19 +70,23 @@ If you select a single region, a couple of items and a range of time these selec
 ## Deploying an App and Sharing
 Once you have created various interfaces you may need to generate an application for sharing it with other users or even publicly.
 
-**Creating and application.**
+**Creating an application.**
 
 Creating an application is as simple as selecting `Application` from menu and defining a name for it
 
 ![enter image description here](http://img.pyplan.org/UI_create_app.png)
 
-By dragging and dropping previously created interfaces in the application deployment is done
+By **dragging and dropping** previously created interfaces in the application deployment is done
+
+![enter image description here](http://img.pyplan.org/UI_drag_dro_inter.png)
+
+**Sharing an application**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzYzMzkwNDQsLTE2NjIzNDcxODEsLT
-EzNDI4NTg5MzMsNTc1MTIyNjU2LDU5NDMwNjgxMyw3MzY2NjQx
-OTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0LDExMjY1OTg3NTUsOT
-AzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MDE2OTksLTY0NjIzMDUy
-MiwxOTUxODU2MTMzLC0xMTA1MTgzNDkyLC0xOTUwNDI1MjU5LD
-E0NjI2ODQ1NTYsLTE4NzczMTI4MzEsNTU1OTIzMjQ2LDE1Njk5
-OTgzNzFdfQ==
+eyJoaXN0b3J5IjpbMTI2NjExNjg5OSwtMTY2MjM0NzE4MSwtMT
+M0Mjg1ODkzMyw1NzUxMjI2NTYsNTk0MzA2ODEzLDczNjY2NDE5
+NSwtNzA3NTA0Mjc3LDE2Mzk3ODg0NTQsMTEyNjU5ODc1NSw5MD
+M5NTY0MTUsMjMxNjY0NTc4LC03OTYwMTY5OSwtNjQ2MjMwNTIy
+LDE5NTE4NTYxMzMsLTExMDUxODM0OTIsLTE5NTA0MjUyNTksMT
+Q2MjY4NDU1NiwtMTg3NzMxMjgzMSw1NTU5MjMyNDYsMTU2OTk5
+ODM3MV19
 -->
