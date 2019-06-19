@@ -33,13 +33,17 @@ There are **two ways of selecting objects from diagram to represent them on an i
 
 If you were the one that created the model this second option will appear useful for you
 ## I/O 
+Interfaces can have inputs as well as outputs widgets.
 
+If you need to create an inputs widget you should chose a pivot grid.
+
+For instance, in this example market growth information can be modified to simulate different scenarios, you may want to do this on your interface.
 ## Synchronization
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MD
-E2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMTA1MTgzNDky
-LC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4NzczMTI4MzEsNT
-U1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4NzczMTI4MzEsLTE3Mjg2
-ODE0Ml19
+eyJoaXN0b3J5IjpbNDkwNzc3MjUxLDkwMzk1NjQxNSwyMzE2Nj
+Q1NzgsLTc5NjAxNjk5LC02NDYyMzA1MjIsMTk1MTg1NjEzMywt
+MTEwNTE4MzQ5MiwtMTk1MDQyNTI1OSwxNDYyNjg0NTU2LC0xOD
+c3MzEyODMxLDU1NTkyMzI0NiwxNTY5OTk4MzcxLC0xODc3MzEy
+ODMxLC0xNzI4NjgxNDJdfQ==
 -->
