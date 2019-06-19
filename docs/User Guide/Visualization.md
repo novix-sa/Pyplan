@@ -57,13 +57,13 @@ For instance, on the following example ***total cost Information*** is presented
 
 This means that **any dimension filtered on the table will apply on the graph and vice versa.**
 
-On the other hand, it may be useful to **des-synchronised** dimensions between objects. Let's suppose
-For instance, you may need to filter some item type on table while all item type is shown on graph.
-De synchronizing index `Item type` on the menu shown above will allow you to do this kind of selective filtering.
+On the other hand, it may be useful to **des-synchronised** dimensions between objects. 
+Let's suppose you need to filter some item type on table while all item type is shown on graph for doing some analysis
+Des-synchronizing index `Item type` on the menu shown above will allow you to do this kind of selective filtering.
 
 ![enter image description here](http://img.pyplan.org/Visua_index_des_sync.png)
 
-This characteristic will also be very **useful when designing a user interface** colleting  information from different parts of your app which shares dimensions.
+This characteristic will also be very **useful when designing interfaces** which collet  information from different parts of your app which shares dimensions.
 Check specific section for further infomation
 
 # Other visualization libraries
@@ -84,11 +84,11 @@ Check the folowing box plot example
 
 ![enter image description here](http://img.pyplan.org/Visua_box_plot.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODM1MDMyMCwyMDM1NDQ0NjE3LDE4Mz
-EzNjY4NzgsMTQ0NDQ1NjYzNCwtMTIxNzk5MjExNSwtMTMwNjk4
-MDQyOCwtODc2NTg1OTA1LC0xMzE0NTg3MDU0LC0xNDI4NTAzNz
-A0LC0yNzc3Nzc4MTksMTA1MTMyMjg2MywtMTg4NDIzMDg3Myw4
-MTE1MjY2NzQsMTE1NDMyMzk4NiwzMDc3MTE5MjUsNDUzOTE5Mz
-A2LDEzOTIzNjg1MzgsLTY0NTc2MTEyMywxMDExNjk2MzcyLC03
-MTYxMTA3MzhdfQ==
+eyJoaXN0b3J5IjpbLTEyNzM5NDY4NDMsMjAzNTQ0NDYxNywxOD
+MxMzY2ODc4LDE0NDQ0NTY2MzQsLTEyMTc5OTIxMTUsLTEzMDY5
+ODA0MjgsLTg3NjU4NTkwNSwtMTMxNDU4NzA1NCwtMTQyODUwMz
+cwNCwtMjc3Nzc3ODE5LDEwNTEzMjI4NjMsLTE4ODQyMzA4NzMs
+ODExNTI2Njc0LDExNTQzMjM5ODYsMzA3NzExOTI1LDQ1MzkxOT
+MwNiwxMzkyMzY4NTM4LC02NDU3NjExMjMsMTAxMTY5NjM3Miwt
+NzE2MTEwNzM4XX0=
 -->
