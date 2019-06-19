@@ -15,12 +15,17 @@ Favs App can also be set.
 Click on `New` and select interface. 
 Define a name for it and double click on your new interface.
 
+
+White Interface will open with one single widget.
+
+New widgets can be added by pressing + and each of  them has the following characteristics.
+
 ## I/O 
 ## Synchronization
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTkzNDI2OTQsMTk1MTg1NjEzMywtMT
-EwNTE4MzQ5MiwtMTk1MDQyNTI1OSwxNDYyNjg0NTU2LC0xODc3
-MzEyODMxLDU1NTkyMzI0NiwxNTY5OTk4MzcxLC0xODc3MzEyOD
-MxLC0xNzI4NjgxNDJdfQ==
+eyJoaXN0b3J5IjpbLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMT
+A1MTgzNDkyLC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4Nzcz
+MTI4MzEsNTU1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4NzczMTI4Mz
+EsLTE3Mjg2ODE0Ml19
 -->
