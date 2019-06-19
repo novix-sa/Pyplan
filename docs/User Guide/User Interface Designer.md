@@ -68,16 +68,17 @@ If you select a single region, a couple of items and a range of time these selec
 **Remember you can always choose to desynchronized indexes as explained in `visualization` section
 
 ## Deploying an App and Sharing
-<![endif]-->
-
 Once you have created various interfaces you may need to generate an application for sharing it with other users or even publicly.
 
 **Creating and application.**
 
-Creating an application is as simple as selecting Application from menu and defining a name for it
+Creating an application is as simple as selecting `Application` from menu and defining a name for it
+
+![enter image description here](http://img.pyplan.org/UI_create_app.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTk2NDAzMTUsLTEzNDI4NTg5MzMsNT
+eyJoaXN0b3J5IjpbLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMsNT
 c1MTIyNjU2LDU5NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3
 NywxNjM5Nzg4NDU0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMT
 Y2NDU3OCwtNzk2MDE2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMz
