@@ -81,12 +81,15 @@ By **dragging and dropping** previously created interfaces in the application de
 ![enter image description here](http://img.pyplan.org/UI_drag_dro_inter.png)
 
 **Sharing an application**
+
+
+Select the application and press right bottom to access the following menu:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjExNjg5OSwtMTY2MjM0NzE4MSwtMT
-M0Mjg1ODkzMyw1NzUxMjI2NTYsNTk0MzA2ODEzLDczNjY2NDE5
-NSwtNzA3NTA0Mjc3LDE2Mzk3ODg0NTQsMTEyNjU5ODc1NSw5MD
-M5NTY0MTUsMjMxNjY0NTc4LC03OTYwMTY5OSwtNjQ2MjMwNTIy
-LDE5NTE4NTYxMzMsLTExMDUxODM0OTIsLTE5NTA0MjUyNTksMT
-Q2MjY4NDU1NiwtMTg3NzMxMjgzMSw1NTU5MjMyNDYsMTU2OTk5
-ODM3MV19
+eyJoaXN0b3J5IjpbNDUzODMyMDksMTI2NjExNjg5OSwtMTY2Mj
+M0NzE4MSwtMTM0Mjg1ODkzMyw1NzUxMjI2NTYsNTk0MzA2ODEz
+LDczNjY2NDE5NSwtNzA3NTA0Mjc3LDE2Mzk3ODg0NTQsMTEyNj
+U5ODc1NSw5MDM5NTY0MTUsMjMxNjY0NTc4LC03OTYwMTY5OSwt
+NjQ2MjMwNTIyLDE5NTE4NTYxMzMsLTExMDUxODM0OTIsLTE5NT
+A0MjUyNTksMTQ2MjY4NDU1NiwtMTg3NzMxMjgzMSw1NTU5MjMy
+NDZdfQ==
 -->
