@@ -37,18 +37,19 @@ But one main differentiation is that can work as an input table, allowing the us
 ![enter image description here](http://img.pyplan.org/viz-edit-table.png)
 # Graphs
 Pyplan includes several type of standard chart graphs.
-Take advantage of  `(all)` graph generation shortcut to create a graph in one click.
+Take advantage of  `graph generation`  shortcut to create a graph in one click.
 
 ![enter image description here](http://img.pyplan.org/Visua_table_n_graph.png)
 
 Graphs customization options are availbale on rigth menu. 
-Types of graphs, labels, legends, axis configurations and other can be defined on this menu.
+Types of graphs, labels, legends, axis configurations and other characteristics can be defined on this menu.
  ![enter image description here](http://img.pyplan.org/Visua_graph_cust.png)
 # Advanced Options and Index Sync
 
-Regular tables as well as graphs share a couple of advanced options that can be very helpful. Click on  `Hide empty data`,  `View index detail` and  `Enable drilldown` to see how these options impact on tables and graphs.
+Regular tables as well as graphs share a couple of advanced options that can be very helpful. 
+Click on  `Hide empty data`,  `View index detail` and  `Enable drilldown` to see how these options impact on tables and graphs.
 
-`Index Sync` is a powerful toll when working with tables and graphs of the same interface.
+`Index Sync` is a powerful toll when working with tables and graphs sharing dimensions.
 Pyplan **synchronizes** **shared dimensions** among objects presented in an interface.
 For instance, on the following example ***total cost Information*** is presented as a table and as a graph and as all of it dimensions are synchronised.
 
@@ -83,7 +84,7 @@ Check the folowing box plot example
 
 ![enter image description here](http://img.pyplan.org/Visua_box_plot.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDc1NjM0MiwyMDM1NDQ0NjE3LDE4Mz
+eyJoaXN0b3J5IjpbMjEyOTcwMzczOCwyMDM1NDQ0NjE3LDE4Mz
 EzNjY4NzgsMTQ0NDQ1NjYzNCwtMTIxNzk5MjExNSwtMTMwNjk4
 MDQyOCwtODc2NTg1OTA1LC0xMzE0NTg3MDU0LC0xNDI4NTAzNz
 A0LC0yNzc3Nzc4MTksMTA1MTMyMjg2MywtMTg4NDIzMDg3Myw4
