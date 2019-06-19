@@ -18,7 +18,7 @@ Is the default view of any node. The user can pivot dimensions and filter any di
 It is possible to generate custom configurations by rows or cols. Heatmaps and Background colors based on customized ranges are also possible.
  ![enter image description here](http://img.pyplan.org/viz-table-standard.png)
  
-Number format menu and advanced options may help you generating the view you need for each variable.
+`Hide empty data`Number format menu and advanced options may help you generating the view you need for each variable.
 
 ![enter image description here](http://img.pyplan.org/Vizua_tables_format.png)
 
@@ -83,11 +83,11 @@ Check the folowing box plot example
 
 ![enter image description here](http://img.pyplan.org/Visua_box_plot.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTQ0NDYxNywxODMxMzY2ODc4LDE0ND
-Q0NTY2MzQsLTEyMTc5OTIxMTUsLTEzMDY5ODA0MjgsLTg3NjU4
-NTkwNSwtMTMxNDU4NzA1NCwtMTQyODUwMzcwNCwtMjc3Nzc3OD
-E5LDEwNTEzMjI4NjMsLTE4ODQyMzA4NzMsODExNTI2Njc0LDEx
-NTQzMjM5ODYsMzA3NzExOTI1LDQ1MzkxOTMwNiwxMzkyMzY4NT
-M4LC02NDU3NjExMjMsMTAxMTY5NjM3MiwtNzE2MTEwNzM4LC0x
-MTIyODkwNjk1XX0=
+eyJoaXN0b3J5IjpbLTE2ODA3Mjc5MzIsMjAzNTQ0NDYxNywxOD
+MxMzY2ODc4LDE0NDQ0NTY2MzQsLTEyMTc5OTIxMTUsLTEzMDY5
+ODA0MjgsLTg3NjU4NTkwNSwtMTMxNDU4NzA1NCwtMTQyODUwMz
+cwNCwtMjc3Nzc3ODE5LDEwNTEzMjI4NjMsLTE4ODQyMzA4NzMs
+ODExNTI2Njc0LDExNTQzMjM5ODYsMzA3NzExOTI1LDQ1MzkxOT
+MwNiwxMzkyMzY4NTM4LC02NDU3NjExMjMsMTAxMTY5NjM3Miwt
+NzE2MTEwNzM4XX0=
 -->
