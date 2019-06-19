@@ -26,15 +26,15 @@ Each widget can be used for presenting information from the diagram choosing amo
 There are two ways of selecting objects from diagram to represent them on an interface.
 
 1- Selecting type of data and searching object title or id:
-2- Use one widget to expose diagram and using click+Shift drag and drop the objet into a new widget
+2- Use one widget to expose diagram and using <kbd>click+Shift</kbd> drag and drop the objet into a new widget
 
 ## I/O 
 ## Synchronization
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTk5NjA5OCwyMzE2NjQ1NzgsLTc5Nj
-AxNjk5LC02NDYyMzA1MjIsMTk1MTg1NjEzMywtMTEwNTE4MzQ5
-MiwtMTk1MDQyNTI1OSwxNDYyNjg0NTU2LC0xODc3MzEyODMxLD
-U1NTkyMzI0NiwxNTY5OTk4MzcxLC0xODc3MzEyODMxLC0xNzI4
-NjgxNDJdfQ==
+eyJoaXN0b3J5IjpbNDI2NTMyNTMzLDIzMTY2NDU3OCwtNzk2MD
+E2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMTA1MTgzNDky
+LC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4NzczMTI4MzEsNT
+U1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4NzczMTI4MzEsLTE3Mjg2
+ODE0Ml19
 -->
