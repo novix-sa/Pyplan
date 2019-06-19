@@ -71,27 +71,24 @@ Once you have created various interfaces you may need to generate an application
 
 **Creating an application.**
 
-Creating an application is as simple as selecting `Application` from menu and defining a name for it
-
+Creating an application is as simple as selecting `Application` from menu and defining a name for it.
 ![enter image description here](http://img.pyplan.org/UI_create_app.png)
 
-By **dragging and dropping** previously created interfaces in the application deployment is done
-
+By **dragging and dropping** previously created interfaces in the application deployment is done.
 ![enter image description here](http://img.pyplan.org/UI_drag_dro_inter.png)
 
 **Sharing an application**
 
 Select the application and press right bottom to access the following menu:
-
 ![enter image description here](http://img.pyplan.org/UI_share_app.png)
 
-Share the application externally and make it accessible for every person with the link.
+**Share the application externally and make it accessible for every person with the link.**
 
-You [python](https://www.python.org/) coded application has been deployed.
+Congratulations your [python](https://www.python.org/) coded application has been deployed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjc1NDU2OSwtMTg2MDI2MjYwNSwxMj
+eyJoaXN0b3J5IjpbMTUyODUxMzA5OCwtMTg2MDI2MjYwNSwxMj
 Y2MTE2ODk5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEy
 MjY1Niw1OTQzMDY4MTMsNzM2NjY0MTk1LC03MDc1MDQyNzcsMT
 YzOTc4ODQ1NCwxMTI2NTk4NzU1LDkwMzk1NjQxNSwyMzE2NjQ1
