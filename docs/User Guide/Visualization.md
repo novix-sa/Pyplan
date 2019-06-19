@@ -55,9 +55,9 @@ For instance, on the following example ***total cost Information*** is presented
 
 ![enter image description here](http://img.pyplan.org/Visua_index_sync.png)
 
-This means that **any dimension filtered on table will apply o graph and vice versa.**
+This means that **any dimension filtered on the table will apply on the graph and vice versa.**
 
-On the other hand, it may be useful to **des-synchronised** dimensions between objects.
+On the other hand, it may be useful to **des-synchronised** dimensions between objects. Let's suppose
 For instance, you may need to filter some item type on table while all item type is shown on graph.
 De synchronizing index `Item type` on the menu shown above will allow you to do this kind of selective filtering.
 
@@ -84,11 +84,11 @@ Check the folowing box plot example
 
 ![enter image description here](http://img.pyplan.org/Visua_box_plot.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2NTIzOTU4LDIwMzU0NDQ2MTcsMTgzMT
-M2Njg3OCwxNDQ0NDU2NjM0LC0xMjE3OTkyMTE1LC0xMzA2OTgw
-NDI4LC04NzY1ODU5MDUsLTEzMTQ1ODcwNTQsLTE0Mjg1MDM3MD
-QsLTI3Nzc3NzgxOSwxMDUxMzIyODYzLC0xODg0MjMwODczLDgx
-MTUyNjY3NCwxMTU0MzIzOTg2LDMwNzcxMTkyNSw0NTM5MTkzMD
-YsMTM5MjM2ODUzOCwtNjQ1NzYxMTIzLDEwMTE2OTYzNzIsLTcx
-NjExMDczOF19
+eyJoaXN0b3J5IjpbLTM1ODM1MDMyMCwyMDM1NDQ0NjE3LDE4Mz
+EzNjY4NzgsMTQ0NDQ1NjYzNCwtMTIxNzk5MjExNSwtMTMwNjk4
+MDQyOCwtODc2NTg1OTA1LC0xMzE0NTg3MDU0LC0xNDI4NTAzNz
+A0LC0yNzc3Nzc4MTksMTA1MTMyMjg2MywtMTg4NDIzMDg3Myw4
+MTE1MjY2NzQsMTE1NDMyMzk4NiwzMDc3MTE5MjUsNDUzOTE5Mz
+A2LDEzOTIzNjg1MzgsLTY0NTc2MTEyMywxMDExNjk2MzcyLC03
+MTYxMTA3MzhdfQ==
 -->
