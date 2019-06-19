@@ -18,14 +18,21 @@ Define a name for it and double click on your new interface.
 
 White Interface will open with one single widget.
 
-New widgets can be added by pressing + and each of  them has the following characteristics.
+New widgets can be added by pressing `+` and each of  them has the following characteristics.
 ![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
+
+Each widget can be used for presenting information from the diagram choosing among the different layouts explained on section  `Visualization` 
+
+There are two ways of selecting objects from diagram to represent them on an interface.
+
+1- Selecting type of data and searching object title or id:
+
 ## I/O 
 ## Synchronization
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjAxNjk5LC02NDYyMzA1MjIsMTk1MT
-g1NjEzMywtMTEwNTE4MzQ5MiwtMTk1MDQyNTI1OSwxNDYyNjg0
-NTU2LC0xODc3MzEyODMxLDU1NTkyMzI0NiwxNTY5OTk4MzcxLC
-0xODc3MzEyODMxLC0xNzI4NjgxNDJdfQ==
+eyJoaXN0b3J5IjpbMjMxNjY0NTc4LC03OTYwMTY5OSwtNjQ2Mj
+MwNTIyLDE5NTE4NTYxMzMsLTExMDUxODM0OTIsLTE5NTA0MjUy
+NTksMTQ2MjY4NDU1NiwtMTg3NzMxMjgzMSw1NTU5MjMyNDYsMT
+U2OTk5ODM3MSwtMTg3NzMxMjgzMSwtMTcyODY4MTQyXX0=
 -->
