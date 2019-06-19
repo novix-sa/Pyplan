@@ -38,12 +38,14 @@ Interfaces can have inputs as well as outputs widgets.
 If you need to create an **inputs widget you should choose a pivot grid.**
 
 For instance, in this example `market growth` information can be modified to simulate different scenarios, you may want to do this on your interface.
+
+By dragging dimension in the correct order and pressing ok you build you input interface.
 ## Synchronization
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzE4NzY0OCwxMTI2NTk4NzU1LDkwMz
-k1NjQxNSwyMzE2NjQ1NzgsLTc5NjAxNjk5LC02NDYyMzA1MjIs
-MTk1MTg1NjEzMywtMTEwNTE4MzQ5MiwtMTk1MDQyNTI1OSwxND
-YyNjg0NTU2LC0xODc3MzEyODMxLDU1NTkyMzI0NiwxNTY5OTk4
-MzcxLC0xODc3MzEyODMxLC0xNzI4NjgxNDJdfQ==
+eyJoaXN0b3J5IjpbMzMyODkzODEzLDExMjY1OTg3NTUsOTAzOT
+U2NDE1LDIzMTY2NDU3OCwtNzk2MDE2OTksLTY0NjIzMDUyMiwx
+OTUxODU2MTMzLC0xMTA1MTgzNDkyLC0xOTUwNDI1MjU5LDE0Nj
+I2ODQ1NTYsLTE4NzczMTI4MzEsNTU1OTIzMjQ2LDE1Njk5OTgz
+NzEsLTE4NzczMTI4MzEsLTE3Mjg2ODE0Ml19
 -->
