@@ -44,7 +44,7 @@ By dragging dimension in the correct order and pressing <kbd>ok</kbd> you build 
 
 There other interesting inputs objects.
 
-More popular are `market growth` or dimensions and choices.
+More popular are `indexes` or dimensions and `choices`.
 
 Indexes can be explicitly expose in interfaces so that filtered along these dimensions is simple to access by final user.
 
@@ -52,9 +52,9 @@ If you need to set an index widget just drag it from de diagram or search for it
 ## Synchronization
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU3MzUyNCwxMTI2NTk4NzU1LDkwMz
-k1NjQxNSwyMzE2NjQ1NzgsLTc5NjAxNjk5LC02NDYyMzA1MjIs
-MTk1MTg1NjEzMywtMTEwNTE4MzQ5MiwtMTk1MDQyNTI1OSwxND
-YyNjg0NTU2LC0xODc3MzEyODMxLDU1NTkyMzI0NiwxNTY5OTk4
-MzcxLC0xODc3MzEyODMxLC0xNzI4NjgxNDJdfQ==
+eyJoaXN0b3J5IjpbLTE0MjA3NDcwMzUsMTEyNjU5ODc1NSw5MD
+M5NTY0MTUsMjMxNjY0NTc4LC03OTYwMTY5OSwtNjQ2MjMwNTIy
+LDE5NTE4NTYxMzMsLTExMDUxODM0OTIsLTE5NTA0MjUyNTksMT
+Q2MjY4NDU1NiwtMTg3NzMxMjgzMSw1NTU5MjMyNDYsMTU2OTk5
+ODM3MSwtMTg3NzMxMjgzMSwtMTcyODY4MTQyXX0=
 -->
