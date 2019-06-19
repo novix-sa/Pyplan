@@ -5,13 +5,15 @@ This layer can be accessed by clicking on the following icon and final user is a
 
 ![enter image description here](http://img.pyplan.org/UI_interfaces.png)
 ## Layout
+Interfaces manager shows those IO Interfaces created by user and those that were  shared by some other user. In this case user can only browse interfaces unless he copied them to his own space.
+
 ## Results
 ## Controls
 ## Synchronization
 ## Menus and Navigation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA0MjUyNTksMTQ2MjY4NDU1NiwtMT
-g3NzMxMjgzMSw1NTU5MjMyNDYsMTU2OTk5ODM3MSwtMTg3NzMx
-MjgzMSwtMTcyODY4MTQyXX0=
+eyJoaXN0b3J5IjpbLTE3OTg1ODU4NTAsLTE5NTA0MjUyNTksMT
+Q2MjY4NDU1NiwtMTg3NzMxMjgzMSw1NTU5MjMyNDYsMTU2OTk5
+ODM3MSwtMTg3NzMxMjgzMSwtMTcyODY4MTQyXX0=
 -->
