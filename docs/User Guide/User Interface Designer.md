@@ -52,13 +52,17 @@ If you need to set an index widget just drag it from de diagram or search for it
 Indexes widget hast their specific options menu.
 ![enter image description here](http://img.pyplan.org/UI_indexes.png)
 
+
+**Choice object** can be also drag ad drop from diagram to create input widget
+
+![enter image description here](http://img.pyplan.org/UI_indexes.png)
 ## Synchronization
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzUwNDI3NywxNjM5Nzg4NDU0LDExMj
-Y1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MDE2OTks
-LTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMTA1MTgzNDkyLC0xOT
-UwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4NzczMTI4MzEsNTU1OTIz
-MjQ2LDE1Njk5OTgzNzEsLTE4NzczMTI4MzEsLTE3Mjg2ODE0Ml
-19
+eyJoaXN0b3J5IjpbLTEzOTE2OTU1MTAsLTcwNzUwNDI3NywxNj
+M5Nzg4NDU0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3
+OCwtNzk2MDE2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMT
+A1MTgzNDkyLC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4Nzcz
+MTI4MzEsNTU1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4NzczMTI4Mz
+EsLTE3Mjg2ODE0Ml19
 -->
