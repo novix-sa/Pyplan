@@ -76,13 +76,13 @@ Creating an application is as simple as selecting `Application` from menu and de
 
 ![enter image description here](http://img.pyplan.org/UI_create_app.png)
 
-
+By dragging and dropping previously created interfaces in the application deployment is done
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMsNT
-c1MTIyNjU2LDU5NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3
-NywxNjM5Nzg4NDU0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMT
-Y2NDU3OCwtNzk2MDE2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMz
-LC0xMTA1MTgzNDkyLC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLT
-E4NzczMTI4MzEsNTU1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4Nzcz
-MTI4MzFdfQ==
+eyJoaXN0b3J5IjpbLTEwMzYzMzkwNDQsLTE2NjIzNDcxODEsLT
+EzNDI4NTg5MzMsNTc1MTIyNjU2LDU5NDMwNjgxMyw3MzY2NjQx
+OTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0LDExMjY1OTg3NTUsOT
+AzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MDE2OTksLTY0NjIzMDUy
+MiwxOTUxODU2MTMzLC0xMTA1MTgzNDkyLC0xOTUwNDI1MjU5LD
+E0NjI2ODQ1NTYsLTE4NzczMTI4MzEsNTU1OTIzMjQ2LDE1Njk5
+OTgzNzFdfQ==
 -->
