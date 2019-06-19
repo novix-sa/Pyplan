@@ -57,13 +57,12 @@ Indexes widget hast their specific options menu.
 
 ![enter image description here](http://img.pyplan.org/UI_choices.png)
 ## Synchronization
-<![endif]-->
-
+Once an Interface has been created shared dimensions are automatically synchronized.
 That means that every selection in any part of the interface will apply to on every presented object unless explicitly define not to be synchronized.
 ## Deploying an App and Sharing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTUwMzYxLDU5NDMwNjgxMyw3MzY2Nj
+eyJoaXN0b3J5IjpbNTc1MTIyNjU2LDU5NDMwNjgxMyw3MzY2Nj
 QxOTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0LDExMjY1OTg3NTUs
 OTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MDE2OTksLTY0NjIzMD
 UyMiwxOTUxODU2MTMzLC0xMTA1MTgzNDkyLC0xOTUwNDI1MjU5
