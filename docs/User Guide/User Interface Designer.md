@@ -57,14 +57,16 @@ Indexes widget hast their specific options menu.
 
 ![enter image description here](http://img.pyplan.org/UI_choices.png)
 ## Synchronization
+<![endif]-->
 
+That means that every selection in any part of the interface will apply to on every presented object unless explicitly define not to be synchronized.
 ## Deploying an App and Sharing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0MzA2ODEzLDczNjY2NDE5NSwtNzA3NT
-A0Mjc3LDE2Mzk3ODg0NTQsMTEyNjU5ODc1NSw5MDM5NTY0MTUs
-MjMxNjY0NTc4LC03OTYwMTY5OSwtNjQ2MjMwNTIyLDE5NTE4NT
-YxMzMsLTExMDUxODM0OTIsLTE5NTA0MjUyNTksMTQ2MjY4NDU1
-NiwtMTg3NzMxMjgzMSw1NTU5MjMyNDYsMTU2OTk5ODM3MSwtMT
-g3NzMxMjgzMSwtMTcyODY4MTQyXX0=
+eyJoaXN0b3J5IjpbMTI2NTUwMzYxLDU5NDMwNjgxMyw3MzY2Nj
+QxOTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0LDExMjY1OTg3NTUs
+OTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MDE2OTksLTY0NjIzMD
+UyMiwxOTUxODU2MTMzLC0xMTA1MTgzNDkyLC0xOTUwNDI1MjU5
+LDE0NjI2ODQ1NTYsLTE4NzczMTI4MzEsNTU1OTIzMjQ2LDE1Nj
+k5OTgzNzEsLTE4NzczMTI4MzEsLTE3Mjg2ODE0Ml19
 -->
