@@ -57,13 +57,14 @@ Indexes widget hast their specific options menu.
 
 ![enter image description here](http://img.pyplan.org/UI_choices.png)
 ## Synchronization
-## Sharing
+
+## Deploying an App and Sharing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2NjY0MTk1LC03MDc1MDQyNzcsMTYzOT
-c4ODQ1NCwxMTI2NTk4NzU1LDkwMzk1NjQxNSwyMzE2NjQ1Nzgs
-LTc5NjAxNjk5LC02NDYyMzA1MjIsMTk1MTg1NjEzMywtMTEwNT
-E4MzQ5MiwtMTk1MDQyNTI1OSwxNDYyNjg0NTU2LC0xODc3MzEy
-ODMxLDU1NTkyMzI0NiwxNTY5OTk4MzcxLC0xODc3MzEyODMxLC
-0xNzI4NjgxNDJdfQ==
+eyJoaXN0b3J5IjpbNTk0MzA2ODEzLDczNjY2NDE5NSwtNzA3NT
+A0Mjc3LDE2Mzk3ODg0NTQsMTEyNjU5ODc1NSw5MDM5NTY0MTUs
+MjMxNjY0NTc4LC03OTYwMTY5OSwtNjQ2MjMwNTIyLDE5NTE4NT
+YxMzMsLTExMDUxODM0OTIsLTE5NTA0MjUyNTksMTQ2MjY4NDU1
+NiwtMTg3NzMxMjgzMSw1NTU5MjMyNDYsMTU2OTk5ODM3MSwtMT
+g3NzMxMjgzMSwtMTcyODY4MTQyXX0=
 -->
