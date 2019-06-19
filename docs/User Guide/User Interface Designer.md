@@ -11,14 +11,14 @@ Favs App can also be set.
 
 ![enter image description here](http://img.pyplan.org/Ui_layout.png)
 
-## Results
-## Controls
+## Creating and Interface
+
+## I/O 
 ## Synchronization
-## Menus and Navigation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMzI4MzMwLC0xMTA1MTgzNDkyLC0xOT
-UwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4NzczMTI4MzEsNTU1OTIz
-MjQ2LDE1Njk5OTgzNzEsLTE4NzczMTI4MzEsLTE3Mjg2ODE0Ml
-19
+eyJoaXN0b3J5IjpbMTk1MTg1NjEzMywtMTEwNTE4MzQ5MiwtMT
+k1MDQyNTI1OSwxNDYyNjg0NTU2LC0xODc3MzEyODMxLDU1NTky
+MzI0NiwxNTY5OTk4MzcxLC0xODc3MzEyODMxLC0xNzI4NjgxND
+JdfQ==
 -->
