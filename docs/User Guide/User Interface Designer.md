@@ -14,18 +14,18 @@ Favs App can also be set.
 ## Creating an Interface
 Click on `New` and select interface. 
 Define a name for it and double click on your new interface.
-
+![enter image description here](http://img.pyplan.org/Ui_new_interface.png)
 
 White Interface will open with one single widget.
 
 New widgets can be added by pressing + and each of  them has the following characteristics.
-
+![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
 ## I/O 
 ## Synchronization
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMT
-A1MTgzNDkyLC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4Nzcz
-MTI4MzEsNTU1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4NzczMTI4Mz
-EsLTE3Mjg2ODE0Ml19
+eyJoaXN0b3J5IjpbLTc5NjAxNjk5LC02NDYyMzA1MjIsMTk1MT
+g1NjEzMywtMTEwNTE4MzQ5MiwtMTk1MDQyNTI1OSwxNDYyNjg0
+NTU2LC0xODc3MzEyODMxLDU1NTkyMzI0NiwxNTY5OTk4MzcxLC
+0xODc3MzEyODMxLC0xNzI4NjgxNDJdfQ==
 -->
