@@ -23,20 +23,23 @@ New widgets can be added by pressing `+` and each of  them has the following cha
 
 Each widget can be used for presenting information from the diagram choosing among the different layouts explained on section  `Visualization` 
 
-There are two ways of selecting objects from diagram to represent them on an interface.
+There are **two ways of selecting objects from diagram to represent them on an interface**.
 
 1- Selecting type of data and searching object title or id:
-![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
+![enter image description here](http://img.pyplan.org/UI_sele_obje_op1.png)
+
 2- Use one widget to expose diagram and using <kbd>click+Shift</kbd> drag and drop the objet into a new widget:
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op2.png)
 
+If you were the one that created the model this second option will appear useful for you
 ## I/O 
+
 ## Synchronization
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjA1NTg1MCwyMzE2NjQ1NzgsLTc5Nj
-AxNjk5LC02NDYyMzA1MjIsMTk1MTg1NjEzMywtMTEwNTE4MzQ5
-MiwtMTk1MDQyNTI1OSwxNDYyNjg0NTU2LC0xODc3MzEyODMxLD
-U1NTkyMzI0NiwxNTY5OTk4MzcxLC0xODc3MzEyODMxLC0xNzI4
-NjgxNDJdfQ==
+eyJoaXN0b3J5IjpbOTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MD
+E2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMTA1MTgzNDky
+LC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4NzczMTI4MzEsNT
+U1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4NzczMTI4MzEsLTE3Mjg2
+ODE0Ml19
 -->
