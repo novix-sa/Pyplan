@@ -46,7 +46,7 @@ Types of graphs, labels, legends, axis configurations and other can be defined o
  ![enter image description here](http://img.pyplan.org/Visua_graph_cust.png)
 # Advanced Options and Index Sync
 
-Regular tables as well as graphs shared a couple of advanced options that can be very helpful. Click on  `Hide empty data`,  `View index detail` and  `Enable drilldown` to see how these options impact on tables and graphs.
+Regular tables as well as graphs share a couple of advanced options that can be very helpful. Click on  `Hide empty data`,  `View index detail` and  `Enable drilldown` to see how these options impact on tables and graphs.
 
 `Index Sync` is a powerful toll when working with tables and graphs of the same interface.
 Pyplan **synchronizes** **shared dimensions** among objects presented in an interface.
@@ -83,11 +83,11 @@ Check the folowing box plot example
 
 ![enter image description here](http://img.pyplan.org/Visua_box_plot.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjgxMDQxLDE4MzEzNjY4NzgsMTQ0ND
-Q1NjYzNCwtMTIxNzk5MjExNSwtMTMwNjk4MDQyOCwtODc2NTg1
-OTA1LC0xMzE0NTg3MDU0LC0xNDI4NTAzNzA0LC0yNzc3Nzc4MT
-ksMTA1MTMyMjg2MywtMTg4NDIzMDg3Myw4MTE1MjY2NzQsMTE1
-NDMyMzk4NiwzMDc3MTE5MjUsNDUzOTE5MzA2LDEzOTIzNjg1Mz
-gsLTY0NTc2MTEyMywxMDExNjk2MzcyLC03MTYxMTA3MzgsLTEx
-MjI4OTA2OTVdfQ==
+eyJoaXN0b3J5IjpbMjAzNTQ0NDYxNywxODMxMzY2ODc4LDE0ND
+Q0NTY2MzQsLTEyMTc5OTIxMTUsLTEzMDY5ODA0MjgsLTg3NjU4
+NTkwNSwtMTMxNDU4NzA1NCwtMTQyODUwMzcwNCwtMjc3Nzc3OD
+E5LDEwNTEzMjI4NjMsLTE4ODQyMzA4NzMsODExNTI2Njc0LDEx
+NTQzMjM5ODYsMzA3NzExOTI1LDQ1MzkxOTMwNiwxMzkyMzY4NT
+M4LC02NDU3NjExMjMsMTAxMTY5NjM3MiwtNzE2MTEwNzM4LC0x
+MTIyODkwNjk1XX0=
 -->
