@@ -48,11 +48,11 @@ Most common are `indexes` (dimensions) and `selector`.
 Indexes can be explicitly exposed on interfaces. This helps filtering  along these dimensions for final user.
 
 If you need to set an index widget just drag it from de diagram or search for it using wizard object.
-Indexes widget hast their specific options menu.
+**Indexes widget has their specific options menu.**
 ![enter image description here](http://img.pyplan.org/UI_indexes.png)
 
 
-**Selector object** can be also drag ad drop from diagram to create input widget
+**Selector object** can be also being dragged and dropped from diagram to create input widget.
 
 ![enter image description here](http://img.pyplan.org/UI_choices.png)
 ## Synchronization
@@ -91,7 +91,7 @@ You [python](https://www.python.org/) coded application has been deployed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDE3ODU3NSwtMTg2MDI2MjYwNSwxMj
+eyJoaXN0b3J5IjpbMTczMTc4MDI3MywtMTg2MDI2MjYwNSwxMj
 Y2MTE2ODk5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEy
 MjY1Niw1OTQzMDY4MTMsNzM2NjY0MTk1LC03MDc1MDQyNzcsMT
 YzOTc4ODQ1NCwxMTI2NTk4NzU1LDkwMzk1NjQxNSwyMzE2NjQ1
