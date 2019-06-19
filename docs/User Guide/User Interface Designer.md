@@ -44,7 +44,7 @@ By dragging dimension in the correct order and pressing <kbd>ok</kbd> you build 
 
 There other interesting inputs objects.
 
-More popular are `indexes` or dimensions and `choices`.
+More popular are `indexes` or dimensions and `selector`.
 
 Indexes can be explicitly expose in interfaces so that filtered along these dimensions is simple to access by final user.
 
@@ -53,16 +53,16 @@ Indexes widget hast their specific options menu.
 ![enter image description here](http://img.pyplan.org/UI_indexes.png)
 
 
-**Choice object** can be also drag ad drop from diagram to create input widget
+**Selector object** can be also drag ad drop from diagram to create input widget
 
-![enter image description here](http://img.pyplan.org/UI_indexes.png)
+![enter image description here](http://img.pyplan.org/UI_choices.png)
 ## Synchronization
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE2OTU1MTAsLTcwNzUwNDI3NywxNj
-M5Nzg4NDU0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3
-OCwtNzk2MDE2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMT
-A1MTgzNDkyLC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4Nzcz
-MTI4MzEsNTU1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4NzczMTI4Mz
-EsLTE3Mjg2ODE0Ml19
+eyJoaXN0b3J5IjpbLTI1MDMyNzU5OSwtNzA3NTA0Mjc3LDE2Mz
+k3ODg0NTQsMTEyNjU5ODc1NSw5MDM5NTY0MTUsMjMxNjY0NTc4
+LC03OTYwMTY5OSwtNjQ2MjMwNTIyLDE5NTE4NTYxMzMsLTExMD
+UxODM0OTIsLTE5NTA0MjUyNTksMTQ2MjY4NDU1NiwtMTg3NzMx
+MjgzMSw1NTU5MjMyNDYsMTU2OTk5ODM3MSwtMTg3NzMxMjgzMS
+wtMTcyODY4MTQyXX0=
 -->
