@@ -38,12 +38,10 @@ But one main differentiation is that can work as an input table, allowing the us
 # Graphs
 Pyplan includes several type of standard chart graphs.
 Take advantage of  `graph generation`  shortcut to create a graph in one click.
-
 ![enter image description here](http://img.pyplan.org/Visua_table_n_graph.png)
 
 Graphs customization options are availbale on rigth menu. 
-Types of graphs, labels, legends, axis configurations and other characteristics can be defined on this menu.
- ![enter image description here](http://img.pyplan.org/Visua_graph_cust.png)
+Types of graphs, labels, legends, axis configurations and other characteristics can be defined on this menu. ![enter image description here](http://img.pyplan.org/Visua_graph_cust.png)
 # Advanced Options and Index Sync
 
 Regular tables as well as graphs share a couple of advanced options that can be very helpful. 
@@ -52,7 +50,6 @@ Click on  `Hide empty data`,  `View index detail` and  `Enable drilldown` to see
 `Index Sync` is a powerful toll when working with tables and graphs sharing dimensions.
 Pyplan **synchronizes** **shared dimensions** among objects presented in an interface.
 For instance, on the following example ***total cost Information*** is presented as a table and as a graph and all dimensions are **synchronised.**
-
 ![enter image description here](http://img.pyplan.org/Visua_index_sync.png)
 
 This means that **any dimension filtered on the table will apply on the graph and vice versa.**
@@ -60,7 +57,6 @@ This means that **any dimension filtered on the table will apply on the graph an
 On the other hand, it may be useful to **des-synchronised** dimensions between objects. 
 Let's suppose you need to filter some item type on table while all item type is shown on graph for doing some analysis
 Des-synchronizing index `Item type` on the menu shown above will allow you to do this kind of selective filtering.
-
 ![enter image description here](http://img.pyplan.org/Visua_index_des_sync.png)
 
 This characteristic will also be very **useful when designing interfaces** which collect  information from different parts of your app when they share dimensions.
@@ -76,16 +72,14 @@ For instance, you can check the following example
 `Public/Examples/01-Visualization/02-California Power Plants/California Power Plants.ppl`
 
 Where **HTML code is rendered getting California power plants geographical represented**
-
 ![enter image description here](http://img.pyplan.org/Visua_folium.png)
 
 [Plotly](https://plot.ly/python/) graphs are interpreted by Pyplan by simplying adding  `result = plot`  at the end of the code.
 
 Check the folowing box plot example
-
 ![enter image description here](http://img.pyplan.org/Visua_box_plot.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTUzNDI0NywtMTI3Mzk0Njg0MywyMD
+eyJoaXN0b3J5IjpbMTAzMTI0NzY2MSwtMTI3Mzk0Njg0MywyMD
 M1NDQ0NjE3LDE4MzEzNjY4NzgsMTQ0NDQ1NjYzNCwtMTIxNzk5
 MjExNSwtMTMwNjk4MDQyOCwtODc2NTg1OTA1LC0xMzE0NTg3MD
 U0LC0xNDI4NTAzNzA0LC0yNzc3Nzc4MTksMTA1MTMyMjg2Mywt
