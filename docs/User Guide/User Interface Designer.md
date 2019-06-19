@@ -68,13 +68,20 @@ If you select a single region, a couple of items and a range of time these selec
 **Remember you can always choose to desynchronized indexes as explained in `visualization` section
 
 ## Deploying an App and Sharing
+<![endif]-->
+
+Once you have created various interfaces you may need to generate an application for sharing it with other users or even publicly.
+
+**Creating and application.**
+
+Creating an application is as simple as selecting Application from menu and defining a name for it
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI4NTg5MzMsNTc1MTIyNjU2LDU5ND
-MwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0
-LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MD
-E2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMTA1MTgzNDky
-LC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4NzczMTI4MzEsNT
-U1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4NzczMTI4MzEsLTE3Mjg2
-ODE0Ml19
+eyJoaXN0b3J5IjpbLTEwNTk2NDAzMTUsLTEzNDI4NTg5MzMsNT
+c1MTIyNjU2LDU5NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3
+NywxNjM5Nzg4NDU0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMT
+Y2NDU3OCwtNzk2MDE2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMz
+LC0xMTA1MTgzNDkyLC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLT
+E4NzczMTI4MzEsNTU1OTIzMjQ2LDE1Njk5OTgzNzEsLTE4Nzcz
+MTI4MzFdfQ==
 -->
