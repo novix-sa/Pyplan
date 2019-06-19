@@ -61,10 +61,10 @@ That means that **every selection in any part of the interface will apply to eve
 
 Let’s suppose you have created an interface like the following where `region`, `item type` and `time`are explicitly exposed (*check how text widget and background colours can help interfaces be more self explaining*)
 
-If you select a single region, a couple of items and a range of time these selections will apply to all interface making analysis very powerful.
+If you select a **single region, a couple of items and a range of time** these selections will apply to all interface.
 
 ![enter image description here](http://img.pyplan.org/UI_synchro.png)
-**Remember you can always choose to desynchronized indexes as explained in `visualization` section
+**Remember you can always choose to des-synchronized indexes as explained in `visualization` section
 
 ## Deploying an App and Sharing
 Once you have created various interfaces you may need to generate an application for sharing it with other users or even publicly.
@@ -91,7 +91,7 @@ You [python](https://www.python.org/) coded application has been deployed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTUzNjgzMCwtMTg2MDI2MjYwNSwxMj
+eyJoaXN0b3J5IjpbLTYxNjc1NDU2OSwtMTg2MDI2MjYwNSwxMj
 Y2MTE2ODk5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEy
 MjY1Niw1OTQzMDY4MTMsNzM2NjY0MTk1LC03MDc1MDQyNzcsMT
 YzOTc4ODQ1NCwxMTI2NTk4NzU1LDkwMzk1NjQxNSwyMzE2NjQ1
