@@ -18,7 +18,7 @@ Is the default view of any node. The user can pivot dimensions and filter any di
 It is possible to generate custom configurations by rows or cols. Heatmaps and Background colors based on customized ranges are also possible.
  ![enter image description here](http://img.pyplan.org/viz-table-standard.png)
  
-`Hide empty data`Number format menu and advanced options may help you generating the view you need for each variable.
+`Number format` menu and `advanced options` may help generating the view you need for each variable.
 
 ![enter image description here](http://img.pyplan.org/Vizua_tables_format.png)
 
@@ -27,7 +27,7 @@ Regular table has the option of defining conditional format rules to coloured, h
 
 Pyplan also has and advance option for linking different interfaces trough these formats.
 
-These configurations enhance visualization analysis options.
+These configurations enhance visualization analysis.
 ![enter image description here](http://img.pyplan.org/Vizua_cond_format.png)
 ## Pivot Tables
 Different than the standard table It allows multiple dimensions in rows or cols as well as filtering.
@@ -37,7 +37,7 @@ But one main differentiation is that can work as an input table, allowing the us
 ![enter image description here](http://img.pyplan.org/viz-edit-table.png)
 # Graphs
 Pyplan includes several type of standard chart graphs.
-Take advantage of graph generation shortcut to create a graph in one click.
+Take advantage of  `(all)` graph generation shortcut to create a graph in one click.
 
 ![enter image description here](http://img.pyplan.org/Visua_table_n_graph.png)
 
@@ -83,11 +83,11 @@ Check the folowing box plot example
 
 ![enter image description here](http://img.pyplan.org/Visua_box_plot.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA3Mjc5MzIsMjAzNTQ0NDYxNywxOD
-MxMzY2ODc4LDE0NDQ0NTY2MzQsLTEyMTc5OTIxMTUsLTEzMDY5
-ODA0MjgsLTg3NjU4NTkwNSwtMTMxNDU4NzA1NCwtMTQyODUwMz
-cwNCwtMjc3Nzc3ODE5LDEwNTEzMjI4NjMsLTE4ODQyMzA4NzMs
-ODExNTI2Njc0LDExNTQzMjM5ODYsMzA3NzExOTI1LDQ1MzkxOT
-MwNiwxMzkyMzY4NTM4LC02NDU3NjExMjMsMTAxMTY5NjM3Miwt
-NzE2MTEwNzM4XX0=
+eyJoaXN0b3J5IjpbLTc4MDc1NjM0MiwyMDM1NDQ0NjE3LDE4Mz
+EzNjY4NzgsMTQ0NDQ1NjYzNCwtMTIxNzk5MjExNSwtMTMwNjk4
+MDQyOCwtODc2NTg1OTA1LC0xMzE0NTg3MDU0LC0xNDI4NTAzNz
+A0LC0yNzc3Nzc4MTksMTA1MTMyMjg2MywtMTg4NDIzMDg3Myw4
+MTE1MjY2NzQsMTE1NDMyMzk4NiwzMDc3MTE5MjUsNDUzOTE5Mz
+A2LDEzOTIzNjg1MzgsLTY0NTc2MTEyMywxMDExNjk2MzcyLC03
+MTYxMTA3MzhdfQ==
 -->
