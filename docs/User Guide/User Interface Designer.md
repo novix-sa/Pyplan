@@ -15,11 +15,13 @@ Once it has been copied user has total control over that interface.
 ## Creating an Interface
 Click on `New` and select interface. 
 Define a name for it and double click on your new interface.
+
 ![enter image description here](http://img.pyplan.org/Ui_new_interface.png)
 
 White Interface will open with one single widget.
 
 New widgets can be added by pressing `+` and each of  them has the following characteristics.
+
 ![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
 
 Each widget can be used for presenting information from the diagram choosing among the different layouts explained on section  `Visualization` 
@@ -27,12 +29,14 @@ Each widget can be used for presenting information from the diagram choosing amo
 There are **two ways of selecting objects from diagram to represent them on an interface**.
 
 1- Selecting type of data and searching object title or id:
+
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op1.png)
 
-2- Use one widget to expose diagram and using <kbd>click+Shift</kbd> drag and drop the objet into a new widget:
+2- Use one widget to expose diagram and pressing <kbd>click+Shift</kbd> drag and drop the objet into a new widget:
+
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op2.png)
 
-If you were the one that created the model this second option will appear useful for you
+If you were the one that created the model this second option will appear useful for you.
 ## I/O 
 Interfaces can have inputs as well as outputs widgets.
 
@@ -93,7 +97,7 @@ You [python](https://www.python.org/) coded application has been deployed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTc1NzE4LC0xODYwMjYyNjA1LDEyNj
+eyJoaXN0b3J5IjpbNzEzMTA0Mzg3LC0xODYwMjYyNjA1LDEyNj
 YxMTY4OTksLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMsNTc1MTIy
 NjU2LDU5NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3NywxNj
 M5Nzg4NDU0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3
