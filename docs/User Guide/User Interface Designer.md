@@ -1,11 +1,12 @@
 
 # UI Designer
-Pyplan has a specific layer for **App deployment** once calculation on influence diagram layer has been concluded.
-This layer can be accessed by clicking on the following icon and final user is able to generate Apps and Interfaces that can be easily shared.
+Pyplan has a specific layer for **app deployment** once calculation on influence diagram layer has been concluded.
+This layer can be accessed by clicking on the following icon. 
+**User is able to generate apps and interfaces that can be easily shared.**
 
 ![enter image description here](http://img.pyplan.org/UI_interfaces.png)
 ## Layout
-Interfaces manager shows those IO Interfaces created by user and those that were  shared by some other user. In this case user can only browse interfaces unless he copied them to his own space.
+Interfaces manager shows those IO Interfaces created by the user and those that were  shared by some other. Shared In this case user can only browse interfaces unless he copied them to his own space.
 Once it has been copied user has total control over that interface.
 Favs App can also be set.
 
@@ -92,11 +93,11 @@ You [python](https://www.python.org/) coded application has been deployed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjAyNjI2MDUsMTI2NjExNjg5OSwtMT
-Y2MjM0NzE4MSwtMTM0Mjg1ODkzMyw1NzUxMjI2NTYsNTk0MzA2
-ODEzLDczNjY2NDE5NSwtNzA3NTA0Mjc3LDE2Mzk3ODg0NTQsMT
-EyNjU5ODc1NSw5MDM5NTY0MTUsMjMxNjY0NTc4LC03OTYwMTY5
-OSwtNjQ2MjMwNTIyLDE5NTE4NTYxMzMsLTExMDUxODM0OTIsLT
-E5NTA0MjUyNTksMTQ2MjY4NDU1NiwtMTg3NzMxMjgzMSw1NTU5
-MjMyNDZdfQ==
+eyJoaXN0b3J5IjpbLTE3NzE2NTEwMDUsLTE4NjAyNjI2MDUsMT
+I2NjExNjg5OSwtMTY2MjM0NzE4MSwtMTM0Mjg1ODkzMyw1NzUx
+MjI2NTYsNTk0MzA2ODEzLDczNjY2NDE5NSwtNzA3NTA0Mjc3LD
+E2Mzk3ODg0NTQsMTEyNjU5ODc1NSw5MDM5NTY0MTUsMjMxNjY0
+NTc4LC03OTYwMTY5OSwtNjQ2MjMwNTIyLDE5NTE4NTYxMzMsLT
+ExMDUxODM0OTIsLTE5NTA0MjUyNTksMTQ2MjY4NDU1NiwtMTg3
+NzMxMjgzMV19
 -->
