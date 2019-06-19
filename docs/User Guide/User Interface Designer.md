@@ -43,9 +43,9 @@ By dragging dimension in the correct order and pressing <kbd>ok</kbd> you build 
 
 There are other interesting inputs objects.
 
-More popular are `indexes` or dimensions and `selector`.
+Most common are `indexes` (dimensions) and `selector`.
 
-Indexes can be explicitly expose in interfaces so that filtered along these dimensions is simple to access by final user.
+Indexes can be explicitly exposed on interfaces. This helps filtering  along these dimensions for final user.
 
 If you need to set an index widget just drag it from de diagram or search for it using wizard object.
 Indexes widget hast their specific options menu.
@@ -91,11 +91,11 @@ You [python](https://www.python.org/) coded application has been deployed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4NDM3NDkyLC0xODYwMjYyNjA1LDEyNj
-YxMTY4OTksLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMsNTc1MTIy
-NjU2LDU5NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3NywxNj
-M5Nzg4NDU0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3
-OCwtNzk2MDE2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMT
-A1MTgzNDkyLC0xOTUwNDI1MjU5LDE0NjI2ODQ1NTYsLTE4Nzcz
-MTI4MzFdfQ==
+eyJoaXN0b3J5IjpbMjA3MDE3ODU3NSwtMTg2MDI2MjYwNSwxMj
+Y2MTE2ODk5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEy
+MjY1Niw1OTQzMDY4MTMsNzM2NjY0MTk1LC03MDc1MDQyNzcsMT
+YzOTc4ODQ1NCwxMTI2NTk4NzU1LDkwMzk1NjQxNSwyMzE2NjQ1
+NzgsLTc5NjAxNjk5LC02NDYyMzA1MjIsMTk1MTg1NjEzMywtMT
+EwNTE4MzQ5MiwtMTk1MDQyNTI1OSwxNDYyNjg0NTU2LC0xODc3
+MzEyODMxXX0=
 -->
