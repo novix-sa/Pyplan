@@ -55,7 +55,7 @@ If you need to set an index widget just drag it from de diagram or search for it
 ![enter image description here](http://img.pyplan.org/UI_indexes.png)
 
 
-**Selector object** can be also being dragged and dropped from diagram to create input widget.
+**Selector object** can also being dragged and dropped from diagram to create input widget.
 
 ![enter image description here](http://img.pyplan.org/UI_choices.png)
 ## Synchronization
@@ -91,11 +91,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzcxNzY2NzksLTE5MzIwNTYxODIsMT
-UyODUxMzA5OCwtMTg2MDI2MjYwNSwxMjY2MTE2ODk5LC0xNjYy
-MzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEyMjY1Niw1OTQzMDY4MT
-MsNzM2NjY0MTk1LC03MDc1MDQyNzcsMTYzOTc4ODQ1NCwxMTI2
-NTk4NzU1LDkwMzk1NjQxNSwyMzE2NjQ1NzgsLTc5NjAxNjk5LC
-02NDYyMzA1MjIsMTk1MTg1NjEzMywtMTEwNTE4MzQ5MiwtMTk1
-MDQyNTI1OV19
+eyJoaXN0b3J5IjpbLTY3NjQ3MzgzOCwtMTU3NzE3NjY3OSwtMT
+kzMjA1NjE4MiwxNTI4NTEzMDk4LC0xODYwMjYyNjA1LDEyNjYx
+MTY4OTksLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMsNTc1MTIyNj
+U2LDU5NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3NywxNjM5
+Nzg4NDU0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3OC
+wtNzk2MDE2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMTA1
+MTgzNDkyXX0=
 -->
