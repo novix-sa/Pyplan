@@ -29,6 +29,7 @@ Pyplan also has and advance option for linking different interfaces trough these
 
 These configurations enhance visualization analysis.
 ![enter image description here](http://img.pyplan.org/Vizua_cond_format.png)
+![enter image description here](http://img.pyplan.org/Vizua_cond_format.png)
 ## Pivot Tables
 Different than the standard table It allows multiple dimensions in rows or cols as well as filtering.
 It has fewer customization options compared to regular tables.
@@ -79,7 +80,7 @@ Where **HTML code is rendered getting California power plants geographical repre
 Check the folowing box plot example
 ![enter image description here](http://img.pyplan.org/Visua_box_plot.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTI0NzY2MSwtMTI3Mzk0Njg0MywyMD
+eyJoaXN0b3J5IjpbLTQ2OTg5OTU3OSwtMTI3Mzk0Njg0MywyMD
 M1NDQ0NjE3LDE4MzEzNjY4NzgsMTQ0NDQ1NjYzNCwtMTIxNzk5
 MjExNSwtMTMwNjk4MDQyOCwtODc2NTg1OTA1LC0xMzE0NTg3MD
 U0LC0xNDI4NTAzNzA0LC0yNzc3Nzc4MTksMTA1MTMyMjg2Mywt
