@@ -77,6 +77,7 @@ Once you have created various interfaces you may need to generate an application
 **Creating an application.**
 
 Creating an application is as simple as selecting `Application` from menu and defining a name for it.
+
 ![enter image description here](http://img.pyplan.org/UI_create_app.png)
 
 By **dragging and dropping** previously created interfaces in the application deployment is done.
@@ -93,11 +94,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDI1NjIxNCwtMTU3NzE3NjY3OSwtMT
-kzMjA1NjE4MiwxNTI4NTEzMDk4LC0xODYwMjYyNjA1LDEyNjYx
-MTY4OTksLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMsNTc1MTIyNj
-U2LDU5NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3NywxNjM5
-Nzg4NDU0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3OC
-wtNzk2MDE2OTksLTY0NjIzMDUyMiwxOTUxODU2MTMzLC0xMTA1
-MTgzNDkyXX0=
+eyJoaXN0b3J5IjpbLTE5NzI4NjkwNjAsLTE1NzcxNzY2NzksLT
+E5MzIwNTYxODIsMTUyODUxMzA5OCwtMTg2MDI2MjYwNSwxMjY2
+MTE2ODk5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEyMj
+Y1Niw1OTQzMDY4MTMsNzM2NjY0MTk1LC03MDc1MDQyNzcsMTYz
+OTc4ODQ1NCwxMTI2NTk4NzU1LDkwMzk1NjQxNSwyMzE2NjQ1Nz
+gsLTc5NjAxNjk5LC02NDYyMzA1MjIsMTk1MTg1NjEzMywtMTEw
+NTE4MzQ5Ml19
 -->
