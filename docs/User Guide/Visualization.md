@@ -29,7 +29,6 @@ Pyplan also has and advance option for linking different interfaces trough these
 
 These configurations enhance visualization analysis.
 ![enter image description here](http://img.pyplan.org/Vizua_cond_format.png)
-![enter image description here](http://img.pyplan.org/Vizua_cond_format.png)
 ## Pivot Tables
 Different than the standard table It allows multiple dimensions in rows or cols as well as filtering.
 It has fewer customization options compared to regular tables.
@@ -80,11 +79,11 @@ Where **HTML code is rendered getting California power plants geographical repre
 Check the folowing box plot example
 ![enter image description here](http://img.pyplan.org/Visua_box_plot.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTg5OTU3OSwtMTI3Mzk0Njg0MywyMD
-M1NDQ0NjE3LDE4MzEzNjY4NzgsMTQ0NDQ1NjYzNCwtMTIxNzk5
-MjExNSwtMTMwNjk4MDQyOCwtODc2NTg1OTA1LC0xMzE0NTg3MD
-U0LC0xNDI4NTAzNzA0LC0yNzc3Nzc4MTksMTA1MTMyMjg2Mywt
-MTg4NDIzMDg3Myw4MTE1MjY2NzQsMTE1NDMyMzk4NiwzMDc3MT
-E5MjUsNDUzOTE5MzA2LDEzOTIzNjg1MzgsLTY0NTc2MTEyMywx
-MDExNjk2MzcyXX0=
+eyJoaXN0b3J5IjpbMTAzMTI0NzY2MSwtNDY5ODk5NTc5LC0xMj
+czOTQ2ODQzLDIwMzU0NDQ2MTcsMTgzMTM2Njg3OCwxNDQ0NDU2
+NjM0LC0xMjE3OTkyMTE1LC0xMzA2OTgwNDI4LC04NzY1ODU5MD
+UsLTEzMTQ1ODcwNTQsLTE0Mjg1MDM3MDQsLTI3Nzc3NzgxOSwx
+MDUxMzIyODYzLC0xODg0MjMwODczLDgxMTUyNjY3NCwxMTU0Mz
+IzOTg2LDMwNzcxMTkyNSw0NTM5MTkzMDYsMTM5MjM2ODUzOCwt
+NjQ1NzYxMTIzXX0=
 -->
