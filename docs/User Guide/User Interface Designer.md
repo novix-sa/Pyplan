@@ -10,7 +10,7 @@ This layer can be accessed by clicking on the following icon.
 Interfaces manager shows those IO Interfaces created by the user and those that were  shared by some other. Shared interfaces can only be browsed unless they are copied to user own space.
 Once it has been copied user has total control over that interface.
 **Favs app** can also be set.
-![enter image description here](http://img.pyplan.org/Ui_layout.png)
+![enter image description here](http://img.pyplan.org/Ui_layout_new.png)
 
 ## Creating an Interface
 Click on `New` and select interface. 
@@ -90,11 +90,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzIwNTYxODIsMTUyODUxMzA5OCwtMT
-g2MDI2MjYwNSwxMjY2MTE2ODk5LC0xNjYyMzQ3MTgxLC0xMzQy
-ODU4OTMzLDU3NTEyMjY1Niw1OTQzMDY4MTMsNzM2NjY0MTk1LC
-03MDc1MDQyNzcsMTYzOTc4ODQ1NCwxMTI2NTk4NzU1LDkwMzk1
-NjQxNSwyMzE2NjQ1NzgsLTc5NjAxNjk5LC02NDYyMzA1MjIsMT
-k1MTg1NjEzMywtMTEwNTE4MzQ5MiwtMTk1MDQyNTI1OSwxNDYy
-Njg0NTU2XX0=
+eyJoaXN0b3J5IjpbMTc1ODQ0NzAxOSwtMTkzMjA1NjE4MiwxNT
+I4NTEzMDk4LC0xODYwMjYyNjA1LDEyNjYxMTY4OTksLTE2NjIz
+NDcxODEsLTEzNDI4NTg5MzMsNTc1MTIyNjU2LDU5NDMwNjgxMy
+w3MzY2NjQxOTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0LDExMjY1
+OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MDE2OTksLT
+Y0NjIzMDUyMiwxOTUxODU2MTMzLC0xMTA1MTgzNDkyLC0xOTUw
+NDI1MjU5XX0=
 -->
