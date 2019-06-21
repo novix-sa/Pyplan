@@ -62,7 +62,8 @@ If you need to set an index widget just drag it from de diagram or search for it
 Once an Interface has been created shared dimensions are automatically synchronized.
 That means that **every selection in any part of the interface will apply to every presented object** unless explicitly defined the opposite.
 
-Let’s suppose you have created an interface like the following where `region`, `item type` and `time`are explicitly exposed (*check how text widget and background colours can help interfaces be more self explaining*)
+Let’s suppose you have created an interface like the following where `region`, `item type` and `time`are explicitly exposed 
+*Hint: check how text widget and background colours can help interfaces be more self explaining*
 
 If you select a **single region, a couple of items and a range of time** these selections will apply to all interface.
 
@@ -91,7 +92,7 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjQ3MzgzOCwtMTU3NzE3NjY3OSwtMT
+eyJoaXN0b3J5IjpbMTAwNjc0NDYwOCwtMTU3NzE3NjY3OSwtMT
 kzMjA1NjE4MiwxNTI4NTEzMDk4LC0xODYwMjYyNjA1LDEyNjYx
 MTY4OTksLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMsNTc1MTIyNj
 U2LDU5NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3NywxNjM5
