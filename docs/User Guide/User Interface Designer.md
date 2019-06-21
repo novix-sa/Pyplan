@@ -30,6 +30,7 @@ There are **two ways of selecting objects from diagram to represent them on an i
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op1.png)
 
 2- Use one widget to expose diagram and pressing <kbd>click+Shift</kbd> drag and drop the objet into a new widget:
+
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op2.png)
 
 If you were the one that created the model this second option will appear useful for you.
@@ -90,11 +91,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODQ0NzAxOSwtMTkzMjA1NjE4MiwxNT
-I4NTEzMDk4LC0xODYwMjYyNjA1LDEyNjYxMTY4OTksLTE2NjIz
-NDcxODEsLTEzNDI4NTg5MzMsNTc1MTIyNjU2LDU5NDMwNjgxMy
-w3MzY2NjQxOTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0LDExMjY1
-OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MDE2OTksLT
-Y0NjIzMDUyMiwxOTUxODU2MTMzLC0xMTA1MTgzNDkyLC0xOTUw
-NDI1MjU5XX0=
+eyJoaXN0b3J5IjpbLTE1NzcxNzY2NzksLTE5MzIwNTYxODIsMT
+UyODUxMzA5OCwtMTg2MDI2MjYwNSwxMjY2MTE2ODk5LC0xNjYy
+MzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEyMjY1Niw1OTQzMDY4MT
+MsNzM2NjY0MTk1LC03MDc1MDQyNzcsMTYzOTc4ODQ1NCwxMTI2
+NTk4NzU1LDkwMzk1NjQxNSwyMzE2NjQ1NzgsLTc5NjAxNjk5LC
+02NDYyMzA1MjIsMTk1MTg1NjEzMywtMTEwNTE4MzQ5MiwtMTk1
+MDQyNTI1OV19
 -->
