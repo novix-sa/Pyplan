@@ -2,7 +2,9 @@
 # UI Designer
 Pyplan has a specific layer for **app deployment** once calculation on influence diagram layer has been concluded.
 This layer can be accessed by clicking on the following icon. 
+
 **User is able to generate apps and interfaces that can be easily shared.**
+
 ![enter image description here](http://img.pyplan.org/UI_interfaces.png)
 ## Layout
 Interfaces manager shows those IO Interfaces created by the user and those that were  shared by some other. Shared interfaces can only be browsed unless they are copied to user own space.
@@ -88,11 +90,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODUxMzA5OCwtMTg2MDI2MjYwNSwxMj
-Y2MTE2ODk5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEy
-MjY1Niw1OTQzMDY4MTMsNzM2NjY0MTk1LC03MDc1MDQyNzcsMT
-YzOTc4ODQ1NCwxMTI2NTk4NzU1LDkwMzk1NjQxNSwyMzE2NjQ1
-NzgsLTc5NjAxNjk5LC02NDYyMzA1MjIsMTk1MTg1NjEzMywtMT
-EwNTE4MzQ5MiwtMTk1MDQyNTI1OSwxNDYyNjg0NTU2LC0xODc3
-MzEyODMxXX0=
+eyJoaXN0b3J5IjpbLTE5MzIwNTYxODIsMTUyODUxMzA5OCwtMT
+g2MDI2MjYwNSwxMjY2MTE2ODk5LC0xNjYyMzQ3MTgxLC0xMzQy
+ODU4OTMzLDU3NTEyMjY1Niw1OTQzMDY4MTMsNzM2NjY0MTk1LC
+03MDc1MDQyNzcsMTYzOTc4ODQ1NCwxMTI2NTk4NzU1LDkwMzk1
+NjQxNSwyMzE2NjQ1NzgsLTc5NjAxNjk5LC02NDYyMzA1MjIsMT
+k1MTg1NjEzMywtMTEwNTE4MzQ5MiwtMTk1MDQyNTI1OSwxNDYy
+Njg0NTU2XX0=
 -->
