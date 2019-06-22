@@ -31,22 +31,13 @@
 |Ctrl + Alt + O	|New output|
 |Ctrl + Alt + I	|New input|
 |Ctrl + Alt + D	|Go to influence diagram|
-|Ctrl + 0	|New button-type node|
-|Ctrl + 1	|New decision-type node|
-|Ctrl + 2	|New variable-type node|
-|Ctrl + 3	|New option-type node|
-|Ctrl + 4	|New objective-type node|
-|Ctrl + 5	|New module-type node|
-|Ctrl + 6	|New index-type node|
-|Ctrl + 7	|New constant-type node|
-|Ctrl + 8	|New function-type node|
-|Ctrl + 9	|New text-type node|
 |Mouse Wheel	|Move the diagram up/down|
 |Alt + Mouse Wheel	|Move the diagram left/right|
 |Ctrl + Mouse Wheel	|Increase/reduce node size|
 |Ctrl + Shift + H	|Go back to the last level when navigating the modules in the diagram|
 |Ctrl + Q	| Go one level up|
 |Ctrl + Shift + C	|Copy PivotGrid with format|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjQ4Njc3OV19
+eyJoaXN0b3J5IjpbLTE1NTYzNzY3MTEsMTA1NjQ4Njc3OV19
 -->
