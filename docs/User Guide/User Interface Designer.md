@@ -11,7 +11,8 @@ This layer can be accessed by clicking on the icon `Interfaces` located on the l
 Interfaces manager shows those I/O Interfaces created by the user and those that were  shared by someone else. 
 Shared interfaces can only be browsed unless they are copied to user own space.
 Once it has been copied user has total control over that interface.
-If you need to copy and interfae
+**Right click** on the interface will give the options of copying it to user own interfaces space
+
 **Favs app** can also be set.
 ![enter image description here](http://img.pyplan.org/Ui_layout_new.png)
 
@@ -97,11 +98,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NDc4ODE3LC0yNzc2MzY5NTgsLTE5Nz
-I4NjkwNjAsLTE1NzcxNzY2NzksLTE5MzIwNTYxODIsMTUyODUx
-MzA5OCwtMTg2MDI2MjYwNSwxMjY2MTE2ODk5LC0xNjYyMzQ3MT
-gxLC0xMzQyODU4OTMzLDU3NTEyMjY1Niw1OTQzMDY4MTMsNzM2
-NjY0MTk1LC03MDc1MDQyNzcsMTYzOTc4ODQ1NCwxMTI2NTk4Nz
-U1LDkwMzk1NjQxNSwyMzE2NjQ1NzgsLTc5NjAxNjk5LC02NDYy
-MzA1MjJdfQ==
+eyJoaXN0b3J5IjpbLTE3MzQ4OTA4MDIsLTI3NzYzNjk1OCwtMT
+k3Mjg2OTA2MCwtMTU3NzE3NjY3OSwtMTkzMjA1NjE4MiwxNTI4
+NTEzMDk4LC0xODYwMjYyNjA1LDEyNjYxMTY4OTksLTE2NjIzND
+cxODEsLTEzNDI4NTg5MzMsNTc1MTIyNjU2LDU5NDMwNjgxMyw3
+MzY2NjQxOTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0LDExMjY1OT
+g3NTUsOTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MDE2OTksLTY0
+NjIzMDUyMl19
 -->
