@@ -8,8 +8,10 @@ This layer can be accessed by clicking on the icon `Interfaces` located on the l
 
 ![enter image description here](http://img.pyplan.org/UI_interfaces.png)
 ## Layout
-Interfaces manager shows those IO Interfaces created by the user and those that were  shared by some other. Shared interfaces can only be browsed unless they are copied to user own space.
+Interfaces manager shows those I/O Interfaces created by the user and those that were  shared by someone else. 
+Shared interfaces can only be browsed unless they are copied to user own space.
 Once it has been copied user has total control over that interface.
+If you need to copy and interfae
 **Favs app** can also be set.
 ![enter image description here](http://img.pyplan.org/Ui_layout_new.png)
 
@@ -95,7 +97,7 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2MjAyMjM0LC0yNzc2MzY5NTgsLTE5Nz
+eyJoaXN0b3J5IjpbNjc3NDc4ODE3LC0yNzc2MzY5NTgsLTE5Nz
 I4NjkwNjAsLTE1NzcxNzY2NzksLTE5MzIwNTYxODIsMTUyODUx
 MzA5OCwtMTg2MDI2MjYwNSwxMjY2MTE2ODk5LC0xNjYyMzQ3MT
 gxLC0xMzQyODU4OTMzLDU3NTEyMjY1Niw1OTQzMDY4MTMsNzM2
