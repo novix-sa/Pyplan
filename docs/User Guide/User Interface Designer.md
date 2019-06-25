@@ -11,11 +11,11 @@ This layer can be accessed by clicking on the icon `Interfaces` located on the l
 Interfaces manager shows those I/O Interfaces created by the user and those that were  shared by someone else. 
 Shared interfaces can only be browsed unless they are copied to user own space.
 Once it has been copied user has total control over that interface.
-**Right click** on the interface will give the options of copying it to user own interfaces space
+**Right click** on the interface will give the options of **copying it** to user own interfaces space
 
-**Favs app** can also be set.
+
 ![enter image description here](http://img.pyplan.org/Ui_layout_new.png)
-
+**Favs app** can also be set.
 ## Creating an Interface
 Click on `New` and select interface. 
 Define a name for it and double click on your new interface.
@@ -26,7 +26,7 @@ White Interface will open with one single widget.
 New widgets can be added by pressing `+` and each of  them has the following characteristics.
 ![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
 
-Each widget can be used for presenting information from the diagram choosing among the different layouts explained on section  `Visualization` 
+Each widget can be used for presenting information from the influence diagram choosing among the different layouts explained on section  `Visualization` 
 
 There are **two ways of selecting objects from diagram to represent them on an interface**.
 
@@ -37,7 +37,7 @@ There are **two ways of selecting objects from diagram to represent them on an i
 
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op2.png)
 
-If you were the one that created the model this second option will appear useful for you.
+**Hint:** If you were the one that created the model this second option will appear useful for you.
 ## I/O 
 Interfaces can have inputs as well as outputs widgets.
 
@@ -98,11 +98,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQ4OTA4MDIsLTI3NzYzNjk1OCwtMT
-k3Mjg2OTA2MCwtMTU3NzE3NjY3OSwtMTkzMjA1NjE4MiwxNTI4
-NTEzMDk4LC0xODYwMjYyNjA1LDEyNjYxMTY4OTksLTE2NjIzND
-cxODEsLTEzNDI4NTg5MzMsNTc1MTIyNjU2LDU5NDMwNjgxMyw3
-MzY2NjQxOTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0LDExMjY1OT
-g3NTUsOTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2MDE2OTksLTY0
-NjIzMDUyMl19
+eyJoaXN0b3J5IjpbLTU0OTUyNjEyNCwtMjc3NjM2OTU4LC0xOT
+cyODY5MDYwLC0xNTc3MTc2Njc5LC0xOTMyMDU2MTgyLDE1Mjg1
+MTMwOTgsLTE4NjAyNjI2MDUsMTI2NjExNjg5OSwtMTY2MjM0Nz
+E4MSwtMTM0Mjg1ODkzMyw1NzUxMjI2NTYsNTk0MzA2ODEzLDcz
+NjY2NDE5NSwtNzA3NTA0Mjc3LDE2Mzk3ODg0NTQsMTEyNjU5OD
+c1NSw5MDM5NTY0MTUsMjMxNjY0NTc4LC03OTYwMTY5OSwtNjQ2
+MjMwNTIyXX0=
 -->
