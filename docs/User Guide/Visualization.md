@@ -73,12 +73,12 @@ For instance, you can check the following example
 Where **HTML code is rendered getting California power plants geographical represented**
 ![enter image description here](http://img.pyplan.org/Visua_folium.png)
 
-[Plotly](https://plot.ly/python/) graphs are interpreted by Pyplan by simplying adding  `result = plot(local_var_name`  at the end of the code.
+[Plotly](https://plot.ly/python/) graphs are interpreted by Pyplan by simplying adding  `result = plot(var_to_plot)`  at the end of the code.
 
 Check the folowing box plot example
 ![enter image description here](http://img.pyplan.org/Visua_box_plot.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDQwNDIzOCwtMjA4ODExOTQzMywtND
+eyJoaXN0b3J5IjpbLTE0MzYxMjI3NSwtMjA4ODExOTQzMywtND
 Y5ODk5NTc5LC0xMjczOTQ2ODQzLDIwMzU0NDQ2MTcsMTgzMTM2
 Njg3OCwxNDQ0NDU2NjM0LC0xMjE3OTkyMTE1LC0xMzA2OTgwND
 I4LC04NzY1ODU5MDUsLTEzMTQ1ODcwNTQsLTE0Mjg1MDM3MDQs
