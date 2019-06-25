@@ -1,6 +1,6 @@
 
 # UI Designer
-Pyplan has a specific layer for **app deployment** once calculation on influence diagram layer has been concluded.
+Pyplan has a specific layer for **app deployment** using all previous calculation done on influence diagram layer.
 This layer can be accessed by clicking on the following icon. 
 
 **User is able to generate apps and interfaces that can be easily shared.**
@@ -94,11 +94,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzI4NjkwNjAsLTE1NzcxNzY2NzksLT
-E5MzIwNTYxODIsMTUyODUxMzA5OCwtMTg2MDI2MjYwNSwxMjY2
-MTE2ODk5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEyMj
-Y1Niw1OTQzMDY4MTMsNzM2NjY0MTk1LC03MDc1MDQyNzcsMTYz
-OTc4ODQ1NCwxMTI2NTk4NzU1LDkwMzk1NjQxNSwyMzE2NjQ1Nz
-gsLTc5NjAxNjk5LC02NDYyMzA1MjIsMTk1MTg1NjEzMywtMTEw
-NTE4MzQ5Ml19
+eyJoaXN0b3J5IjpbLTE3NTg3ODM0NDAsLTE5NzI4NjkwNjAsLT
+E1NzcxNzY2NzksLTE5MzIwNTYxODIsMTUyODUxMzA5OCwtMTg2
+MDI2MjYwNSwxMjY2MTE2ODk5LC0xNjYyMzQ3MTgxLC0xMzQyOD
+U4OTMzLDU3NTEyMjY1Niw1OTQzMDY4MTMsNzM2NjY0MTk1LC03
+MDc1MDQyNzcsMTYzOTc4ODQ1NCwxMTI2NTk4NzU1LDkwMzk1Nj
+QxNSwyMzE2NjQ1NzgsLTc5NjAxNjk5LC02NDYyMzA1MjIsMTk1
+MTg1NjEzM119
 -->
