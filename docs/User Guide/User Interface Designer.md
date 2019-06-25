@@ -1,9 +1,10 @@
 
 # UI Designer
 Pyplan has a specific layer for **app deployment** .
+
 This layer can be accessed by clicking on the icon `Interfaces` located on the left side of the screen. 
 
-**User is able to generate apps and interfaces that can be easily shared.**
+
 
 ![enter image description here](http://img.pyplan.org/UI_interfaces.png)
 ## Layout
@@ -94,11 +95,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzYzNjk1OCwtMTk3Mjg2OTA2MCwtMT
-U3NzE3NjY3OSwtMTkzMjA1NjE4MiwxNTI4NTEzMDk4LC0xODYw
-MjYyNjA1LDEyNjYxMTY4OTksLTE2NjIzNDcxODEsLTEzNDI4NT
-g5MzMsNTc1MTIyNjU2LDU5NDMwNjgxMyw3MzY2NjQxOTUsLTcw
-NzUwNDI3NywxNjM5Nzg4NDU0LDExMjY1OTg3NTUsOTAzOTU2ND
-E1LDIzMTY2NDU3OCwtNzk2MDE2OTksLTY0NjIzMDUyMiwxOTUx
-ODU2MTMzXX0=
+eyJoaXN0b3J5IjpbMjk2MjAyMjM0LC0yNzc2MzY5NTgsLTE5Nz
+I4NjkwNjAsLTE1NzcxNzY2NzksLTE5MzIwNTYxODIsMTUyODUx
+MzA5OCwtMTg2MDI2MjYwNSwxMjY2MTE2ODk5LC0xNjYyMzQ3MT
+gxLC0xMzQyODU4OTMzLDU3NTEyMjY1Niw1OTQzMDY4MTMsNzM2
+NjY0MTk1LC03MDc1MDQyNzcsMTYzOTc4ODQ1NCwxMTI2NTk4Nz
+U1LDkwMzk1NjQxNSwyMzE2NjQ1NzgsLTc5NjAxNjk5LC02NDYy
+MzA1MjJdfQ==
 -->
