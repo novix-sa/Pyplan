@@ -25,7 +25,6 @@ It is possible to generate custom configurations by rows or cols. Heatmaps and B
 ### Conditional Format
 Regular table has the option of defining conditional format rules to coloured, highlight with different font or even add a shape on displayed information.
 
-Pyplan also has and advance option for linking different interfaces trough these formats.
 
 These configurations enhance visualization analysis.
 ![enter image description here](http://img.pyplan.org/Vizua_cond_formatnew.png)
@@ -47,7 +46,7 @@ Types of graphs, labels, legends, axis configurations and other characteristics 
 Regular tables as well as graphs share a couple of advanced options that can be very helpful. 
 Click on  `Hide empty data`,  `View index detail` and  `Enable drilldown` to see how these options impact on tables and graphs.
 
-`Index Sync` is a powerful toll when working with tables and graphs sharing dimensions.
+`Index Sync` is a powerful tool when working with tables and graphs sharing dimensions.
 Pyplan **synchronizes** **shared dimensions** among objects presented in an interface.
 For instance, on the following example ***total cost Information*** is presented as a table and as a graph and all dimensions are **synchronised.**
 ![enter image description here](http://img.pyplan.org/Visua_index_sync.png)
@@ -74,16 +73,16 @@ For instance, you can check the following example
 Where **HTML code is rendered getting California power plants geographical represented**
 ![enter image description here](http://img.pyplan.org/Visua_folium.png)
 
-[Plotly](https://plot.ly/python/) graphs are interpreted by Pyplan by simplying adding  `result = plot`  at the end of the code.
+[Plotly](https://plot.ly/python/) graphs are interpreted by Pyplan by simplying adding  `result = plot(local_var_name`  at the end of the code.
 
 Check the folowing box plot example
 ![enter image description here](http://img.pyplan.org/Visua_box_plot.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODgxMTk0MzMsLTQ2OTg5OTU3OSwtMT
-I3Mzk0Njg0MywyMDM1NDQ0NjE3LDE4MzEzNjY4NzgsMTQ0NDQ1
-NjYzNCwtMTIxNzk5MjExNSwtMTMwNjk4MDQyOCwtODc2NTg1OT
-A1LC0xMzE0NTg3MDU0LC0xNDI4NTAzNzA0LC0yNzc3Nzc4MTks
-MTA1MTMyMjg2MywtMTg4NDIzMDg3Myw4MTE1MjY2NzQsMTE1ND
-MyMzk4NiwzMDc3MTE5MjUsNDUzOTE5MzA2LDEzOTIzNjg1Mzgs
-LTY0NTc2MTEyM119
+eyJoaXN0b3J5IjpbLTg0NDQwNDIzOCwtMjA4ODExOTQzMywtND
+Y5ODk5NTc5LC0xMjczOTQ2ODQzLDIwMzU0NDQ2MTcsMTgzMTM2
+Njg3OCwxNDQ0NDU2NjM0LC0xMjE3OTkyMTE1LC0xMzA2OTgwND
+I4LC04NzY1ODU5MDUsLTEzMTQ1ODcwNTQsLTE0Mjg1MDM3MDQs
+LTI3Nzc3NzgxOSwxMDUxMzIyODYzLC0xODg0MjMwODczLDgxMT
+UyNjY3NCwxMTU0MzIzOTg2LDMwNzcxMTkyNSw0NTM5MTkzMDYs
+MTM5MjM2ODUzOF19
 -->
