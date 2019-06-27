@@ -5,11 +5,10 @@ Pyplan has a specific layer for **app creation** .
 This layer can be accessed by clicking on the icon `Interfaces` located on the left side of the screen. 
 
 
+
 ![enter image description here](http://img.pyplan.org/UI_interfaces.png)
 ## Layout
-Interfaces manager shows those I/O Interfaces created by the user and those that were  shared by someone else. 
-
-Shared interfaces can be used but not modified unless they are copied to user own workspace.
+Interfaces manager shows those I/O Interfaces created by the user and those that were  shared by someoneoe eenoused but not modified unless they are copied to user own workspace.
 
 For doing this **Right click** on the interface and select the option **Copy to My Interfaces**.
 
@@ -22,27 +21,27 @@ Once it has been copied user has total control over that interface.
 **Favs app** for quick access can also be set once the user owns the interface.
 
 ## Creating an Interface
-If you want to create an interface from scratch click on `New` and select `interface`. 
+If you want to create and interface from scratch click on `New` and selectinterface`. 
 
-Define a name for it and double click on your new interface.
+Define a name for it and double click on your new interface
 ![enter image description here](http://img.pyplan.org/Ui_new_interface.png)
 
-A white interface will open with a widget selector inside.
-The interface layout is created by adding and resizing new widgets. Widgets can be added by pressing `+` or by dividing existing widgets block space clicking on the arrows (Right or Down) found at the top left corner of every widget block.
-
+hite inerface will open with a widget selectinside.
+The interface layout is created by addingresizing new widgets. Widgets can be added by pressing `+` or by dividing existing widgets block space clicking on the arrows (Right or Down) found at the top left corner of every widget block.
+one singe widget. idgets can be added by pressing `+` nd ec o the as e isttc.
 ![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
 
-Each widget can be used for displaying information from the influence diagram choosing among the different visualization alternatives described on section `Node Visualization`. 
+Each widget can be used for displaying informatioam choosing among the different visualization alternatives described on section  Visualization`. 
 
-There are **two ways of selecting objects from diagram to represent them in an interface**.
+There are **two ways of selecting objects from diagram to represent them n an interface**.
 
-1- Click on the visualization icon you want to include and then search and select the node you want (serching by node Title or ID).
+1- Click on the visualization icon you want to include and then search and select the node you want (serching by node Title or ID).from the wizards menu ae or id on the window that pops up:
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op1.png)
 
-2- Or use one widget to show the influence diagram, then by pressing <kbd>Shift + click</kbd> on a node in the diagram, drag and drop it into the widget block you want to include it.
+2- Or use one widget to show thexpose influence diagram, then by  and ,pressing <kbd>Shift + click</kbd>
+  Interaces on a node in e diagram, drag and drop it into the widget block you want to include 
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op2.png)
-
-## I/O Interfaces
+Interfaces
 Interfaces can have inputs as well as outputs widgets.
 
 If you need to create an **input widget you should choose a pivot grid.**
@@ -66,9 +65,9 @@ If you need to set an **index widget** just drag it from de diagram or search fo
 
 ![enter image description here](http://img.pyplan.org/UI_choices.png)
 ## Synchronization
-Once an interface has been created dimensions shared by objects in that interface are automatically synchronized.
+Once an nterface has been created dimensionsinin shared by objects in that interface are automatically synchronized.
 
-That means that **any selection in any part of the interface will apply to every presented object** unless explicitly defined the opposite.
+That means that **y selection in any part of the interface will apply to every presented object** unless explicitly defined the opposite.
 
 Let’s suppose you have created an interface like the following where `region`, `item type` and `time`are explicitly exposed.
  
@@ -102,11 +101,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTI1OTM5MywtODExMzE0MDY0LDE2OD
-I3OTM4MywtMTMwNjg4ODc5Nyw5MjIwNjA1NDYsLTEzODI5NjU0
-ODQsLTU0OTUyNjEyNCwtMjc3NjM2OTU4LC0xOTcyODY5MDYwLC
-0xNTc3MTc2Njc5LC0xOTMyMDU2MTgyLDE1Mjg1MTMwOTgsLTE4
-NjAyNjI2MDUsMTI2NjExNjg5OSwtMTY2MjM0NzE4MSwtMTM0Mj
-g1ODkzMyw1NzUxMjI2NTYsNTk0MzA2ODEzLDczNjY2NDE5NSwt
-NzA3NTA0Mjc3XX0=
+eyJoaXN0b3J5IjpbLTc5ODU5MTg0MywxNjA1MjU5MzkzLC04MT
+EzMTQwNjQsMTY4Mjc5MzgzLC0xMzA2ODg4Nzk3LDkyMjA2MDU0
+NiwtMTM4Mjk2NTQ4NCwtNTQ5NTI2MTI0LC0yNzc2MzY5NTgsLT
+E5NzI4NjkwNjAsLTE1NzcxNzY2NzksLTE5MzIwNTYxODIsMTUy
+ODUxMzA5OCwtMTg2MDI2MjYwNSwxMjY2MTE2ODk5LC0xNjYyMz
+Q3MTgxLC0xMzQyODU4OTMzLDU3NTEyMjY1Niw1OTQzMDY4MTMs
+NzM2NjY0MTk1XX0=
 -->
