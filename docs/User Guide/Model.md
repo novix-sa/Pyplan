@@ -177,12 +177,15 @@ Take a look at shortcuts available on Pyplan on the following chart.
 |Ctrl + 1 (in dock)	|Move to properties window|
 |Ctrl + 2 (in dock)	|Move to code window|
 |Ctrl + 3 (in dock)	|Move to docs window|
+
+Take a look at shortcuts available on Pyplan on the following chart.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk3NTEyNzcsLTE0ODUwNzUwMSwtNT
-c1ODcxNDY5LDgxNTE5MDg0NCw1NjkzNzI5NjMsMTM3NjM0Nzc3
-NSwxNjI2MjY5MDY0LDg4NzMzMjgzMSwtMTQ5MTgwNTg5NSwtNj
-g1MjU4NDg2LDk1NDAxNjkxMywtMjY2MjA0NzU1LDIwNzIzOTk3
-NjUsNzExOTc5NTIyLC0xMDMxNzg4MzM3LDI0Njg0NjcxOSwtNj
-E3NDQ2MDEwLC0xNjM1NjE4ODAxLC0xNzYyNjIyMzU2LDg4NjU5
-MzcxMl19
+eyJoaXN0b3J5IjpbLTMyODQ0NzM4MywtMTQ4NTA3NTAxLC01Nz
+U4NzE0NjksODE1MTkwODQ0LDU2OTM3Mjk2MywxMzc2MzQ3Nzc1
+LDE2MjYyNjkwNjQsODg3MzMyODMxLC0xNDkxODA1ODk1LC02OD
+UyNTg0ODYsOTU0MDE2OTEzLC0yNjYyMDQ3NTUsMjA3MjM5OTc2
+NSw3MTE5Nzk1MjIsLTEwMzE3ODgzMzcsMjQ2ODQ2NzE5LC02MT
+c0NDYwMTAsLTE2MzU2MTg4MDEsLTE3NjI2MjIzNTYsODg2NTkz
+NzEyXX0=
 -->
