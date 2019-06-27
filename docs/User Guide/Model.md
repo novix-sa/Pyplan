@@ -150,7 +150,7 @@ Take a look at shortcuts available on Pyplan on the following chart.
 |Ctrl + R	|Evaluate node|
 |Ctrl + Y	|See node ID|
 |Ctrl + Click	|Insert node in other node’s definition|
-|Ctrl + espacio	|Autofill|
+|Ctrl + espacio	|Autofill formulas|
 |Ctrl + B	|Edit node number format|
 |Ctrl + C	|Copy node|
 |Ctrl + X	|Cut node|
@@ -172,11 +172,11 @@ Take a look at shortcuts available on Pyplan on the following chart.
 |Ctrl + Q	| Go one level up|
 |Ctrl + Shift + C	|Copy PivotGrid with format|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3MDY5MjIwLDgxNTE5MDg0NCw1NjkzNz
-I5NjMsMTM3NjM0Nzc3NSwxNjI2MjY5MDY0LDg4NzMzMjgzMSwt
-MTQ5MTgwNTg5NSwtNjg1MjU4NDg2LDk1NDAxNjkxMywtMjY2Mj
-A0NzU1LDIwNzIzOTk3NjUsNzExOTc5NTIyLC0xMDMxNzg4MzM3
-LDI0Njg0NjcxOSwtNjE3NDQ2MDEwLC0xNjM1NjE4ODAxLC0xNz
-YyNjIyMzU2LDg4NjU5MzcxMiwtMzc2NTQwMTIzLC05NTM3Mzcz
-ODZdfQ==
+eyJoaXN0b3J5IjpbLTEwMTgxMzUwMzUsODE1MTkwODQ0LDU2OT
+M3Mjk2MywxMzc2MzQ3Nzc1LDE2MjYyNjkwNjQsODg3MzMyODMx
+LC0xNDkxODA1ODk1LC02ODUyNTg0ODYsOTU0MDE2OTEzLC0yNj
+YyMDQ3NTUsMjA3MjM5OTc2NSw3MTE5Nzk1MjIsLTEwMzE3ODgz
+MzcsMjQ2ODQ2NzE5LC02MTc0NDYwMTAsLTE2MzU2MTg4MDEsLT
+E3NjI2MjIzNTYsODg2NTkzNzEyLC0zNzY1NDAxMjMsLTk1Mzcz
+NzM4Nl19
 -->
