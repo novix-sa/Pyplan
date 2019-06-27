@@ -136,9 +136,49 @@ Shortcuts are very useful when modelling.
 
 Take a look at shortcuts available on Pyplan on the following chart.
 
-
+|Keys|Action|
+|------|------|
+|Shift + Click	|Select node|
+|Shift + area	|Select node area|
+|Delete	|Delete node|
+|Ctrl + <--	|Align left|
+|Ctrl + ->|Align right|
+|Ctrl + down	|Align bottom edge|
+|Ctrl + up	|Align top edge|
+|Ctrl + F	|Search node|
+|Ctrl + S	|Save current model|
+|Ctrl + H	|Focus on original node|
+|Ctrl + R	|Evaluate node|
+|Ctrl + Y	|See node ID|
+|Ctrl + Click	|Insert node in other node’s definition|
+|Ctrl + espacio	|Autofill formulas|
+|Ctrl + B	|Edit node number format|
+|Ctrl + C	|Copy node|
+|Ctrl + X	|Cut node|
+|Ctrl + V	|Paste node|
+|Ctrl + M	|Create alias|
+|Ctrl + D	|Duplicate node|
+|Ctrl + G	|Same height|
+|Ctrl + I	|Same width|
+|Ctrl + Alt + 0	|Same size|
+|Ctrl + E	|Quick evaluate of nodes|
+|Ctrl + Enter	|Evaluate console of nodes|
+|Ctrl + A	|Select all items from PivotGrid and influence diagram|
+|Ctrl + Alt + O	|New output|
+|Ctrl + Alt + I	|New input|
+|Ctrl + Alt + D	|Go to influence diagram|
+|Mouse Wheel	|Move the diagram up/down|
+|Alt + Mouse Wheel	|Move the diagram left/right|
+|Ctrl + Mouse Wheel	|Increase/reduce node size|
+|Ctrl + Shift + H	|Go back to the last level when navigating the modules in the diagram|
+|Ctrl + Q	| Go one level up|
+|Ctrl + Shift + C	|Copy PivotGrid with format|
+|Ctrl + F (in dock)	|Search/ change key|
+|Ctrl + 1 (in dock)	|Move to properties window|
+|Ctrl + 2 (in dock)	|Move to code window|
+|Ctrl + 3 (in dock)	|Move to docs window|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzAxMjIyMzcsLTE0ODUwNzUwMSwtNT
+eyJoaXN0b3J5IjpbLTE0Mzk3NTEyNzcsLTE0ODUwNzUwMSwtNT
 c1ODcxNDY5LDgxNTE5MDg0NCw1NjkzNzI5NjMsMTM3NjM0Nzc3
 NSwxNjI2MjY5MDY0LDg4NzMzMjgzMSwtMTQ5MTgwNTg5NSwtNj
 g1MjU4NDg2LDk1NDAxNjkxMywtMjY2MjA0NzU1LDIwNzIzOTk3
