@@ -10,15 +10,17 @@ This layer can be accessed by clicking on the icon `Interfaces` located on the l
 ## Layout
 Interfaces manager shows those I/O Interfaces created by the user and those that were  shared by someone else. 
 Shared interfaces can only be browsed unless they are copied to user own space.
-For doing this **Right click** on the interface and select the option **copy to My Interfaces**.
+For doing this **Right click** on the interface and select the option **Copy to My Interfaces**.
 Once it has been copied user has total control over that interface.
  
 
 
 ![enter image description here](http://img.pyplan.org/Ui_layout_new.png)
-**Favs app** can also be set.
+
+**Favs app** for quick access can also be set once the user owns the interface.
+
 ## Creating an Interface
-Click on `New` and select interface. 
+If you want to create and interface from schartch click on `New` and select interface. 
 Define a name for it and double click on your new interface.
 ![enter image description here](http://img.pyplan.org/Ui_new_interface.png)
 
@@ -99,11 +101,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTUyNTAyNDIsLTU0OTUyNjEyNCwtMj
-c3NjM2OTU4LC0xOTcyODY5MDYwLC0xNTc3MTc2Njc5LC0xOTMy
-MDU2MTgyLDE1Mjg1MTMwOTgsLTE4NjAyNjI2MDUsMTI2NjExNj
-g5OSwtMTY2MjM0NzE4MSwtMTM0Mjg1ODkzMyw1NzUxMjI2NTYs
-NTk0MzA2ODEzLDczNjY2NDE5NSwtNzA3NTA0Mjc3LDE2Mzk3OD
-g0NTQsMTEyNjU5ODc1NSw5MDM5NTY0MTUsMjMxNjY0NTc4LC03
-OTYwMTY5OV19
+eyJoaXN0b3J5IjpbMTg4NjQ2MzAzLC01NDk1MjYxMjQsLTI3Nz
+YzNjk1OCwtMTk3Mjg2OTA2MCwtMTU3NzE3NjY3OSwtMTkzMjA1
+NjE4MiwxNTI4NTEzMDk4LC0xODYwMjYyNjA1LDEyNjYxMTY4OT
+ksLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMsNTc1MTIyNjU2LDU5
+NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3NywxNjM5Nzg4ND
+U0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2
+MDE2OTldfQ==
 -->
