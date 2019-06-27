@@ -28,7 +28,7 @@ If you want to create and interface from scratch click on `New` and select `inte
 Define a name for it and double click on your new interface.
 ![enter image description here](http://img.pyplan.org/Ui_new_interface.png)
 
-White Interface will open with one single widget.
+White interface will open with one single widget.
 
 New widgets can be added by pressing `+` and each of  them has the following characteristics.
 ![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
@@ -107,11 +107,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyMDYwNTQ2LC0xMzgyOTY1NDg0LC01ND
-k1MjYxMjQsLTI3NzYzNjk1OCwtMTk3Mjg2OTA2MCwtMTU3NzE3
-NjY3OSwtMTkzMjA1NjE4MiwxNTI4NTEzMDk4LC0xODYwMjYyNj
-A1LDEyNjYxMTY4OTksLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMs
-NTc1MTIyNjU2LDU5NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwND
-I3NywxNjM5Nzg4NDU0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIz
-MTY2NDU3OF19
+eyJoaXN0b3J5IjpbLTMyMzgwNTQwNiw5MjIwNjA1NDYsLTEzOD
+I5NjU0ODQsLTU0OTUyNjEyNCwtMjc3NjM2OTU4LC0xOTcyODY5
+MDYwLC0xNTc3MTc2Njc5LC0xOTMyMDU2MTgyLDE1Mjg1MTMwOT
+gsLTE4NjAyNjI2MDUsMTI2NjExNjg5OSwtMTY2MjM0NzE4MSwt
+MTM0Mjg1ODkzMyw1NzUxMjI2NTYsNTk0MzA2ODEzLDczNjY2ND
+E5NSwtNzA3NTA0Mjc3LDE2Mzk3ODg0NTQsMTEyNjU5ODc1NSw5
+MDM5NTY0MTVdfQ==
 -->
