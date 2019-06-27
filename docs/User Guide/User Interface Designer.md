@@ -26,7 +26,7 @@ Once it has been copied user has total control over that interface.
 If you want to create and interface from scratch click on `New` and select `interface`. 
 
 Define a name for it and double click on your new interface.
-![enter image description here](http://img.pyplan.org/UI_new_interface1.png)
+![enter image description here](http://img.pyplan.org/Ui_new_interface.png)
 
 White interface will open with one single widget.
 
