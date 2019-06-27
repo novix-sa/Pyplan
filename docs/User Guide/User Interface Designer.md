@@ -23,14 +23,15 @@ Once it has been copied user has total control over that interface.
 **Favs app** for quick access can also be set once the user owns the interface.
 
 ## Creating an Interface
-If you want to create and interface from scratch click on `New` and select `interface`. 
+If you want to create an interface from scratch click on `New` and select `interface`. 
 
 Define a name for it and double click on your new interface.
 ![enter image description here](http://img.pyplan.org/Ui_new_interface.png)
 
-White interface will open with one single widget.
+A white interface will open with a widget selector inside.
 
-New widgets can be added by pressing `+` and each of  them has the following characteristics.
+The interface layout is created by adding and resizing new widgets. Widgets can be added by pressing `+` or by dividing existing widgets block space clicking on the arrows (Right or Down) found at the top left corner of every widget block.
+
 ![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
 
 Each widget can be used for presenting information from the influence diagram choosing among the different layouts explained on section  `Node Visualization`. 
