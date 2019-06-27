@@ -50,12 +50,12 @@ Interfaces can have inputs as well as outputs widgets.
 
 If you need to create an **input widget you should choose a pivot grid.**
 
-For instance, in this example `market growth` information can be modified to simulate different scenarios, you may want to do this on your interface.
+For instance, in this example `market growth` information can be modified to simulate different scenarios, you may want to do this on your interface that is why it is presented as a pivot grid:
 ![enter image description here](http://img.pyplan.org/UI_pivot_input.png)
 
 By dragging dimension in the correct order and pressing <kbd>ok</kbd> you build your input interface.
 
-
+### Other 
 There are other interesting inputs objects.
 
 Most common are `indexes` (dimensions) and `selector`.
@@ -107,7 +107,7 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjcxNDkzNSw5MjIwNjA1NDYsLTEzOD
+eyJoaXN0b3J5IjpbLTIzNzgzNzA4Myw5MjIwNjA1NDYsLTEzOD
 I5NjU0ODQsLTU0OTUyNjEyNCwtMjc3NjM2OTU4LC0xOTcyODY5
 MDYwLC0xNTc3MTc2Njc5LC0xOTMyMDU2MTgyLDE1Mjg1MTMwOT
 gsLTE4NjAyNjI2MDUsMTI2NjExNjg5OSwtMTY2MjM0NzE4MSwt
