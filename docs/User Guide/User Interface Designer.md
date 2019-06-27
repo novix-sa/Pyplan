@@ -55,10 +55,8 @@ For instance, in this example `market growth` information can be modified to sim
 
 By dragging dimension in the correct order and pressing <kbd>ok</kbd> you build your input interface.
 
-### Other 
-There are other interesting inputs objects.
-
-Most common are `indexes` (dimensions) and `selector`.
+### Other input objects
+There are other interesting input objects:`indexes` (dimensions) and `selector`.
 
 Indexes can be explicitly exposed on interfaces so that filtering  along dimensions is easier for app user.
 
@@ -107,7 +105,7 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzgzNzA4Myw5MjIwNjA1NDYsLTEzOD
+eyJoaXN0b3J5IjpbMTU3MDA1MTIxMCw5MjIwNjA1NDYsLTEzOD
 I5NjU0ODQsLTU0OTUyNjEyNCwtMjc3NjM2OTU4LC0xOTcyODY5
 MDYwLC0xNTc3MTc2Njc5LC0xOTMyMDU2MTgyLDE1Mjg1MTMwOT
 gsLTE4NjAyNjI2MDUsMTI2NjExNjg5OSwtMTY2MjM0NzE4MSwt
