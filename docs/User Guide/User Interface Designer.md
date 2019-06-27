@@ -20,7 +20,8 @@ Once it has been copied user has total control over that interface.
 **Favs app** for quick access can also be set once the user owns the interface.
 
 ## Creating an Interface
-If you want to create and interface from schartch click on `New` and select interface. 
+If you want to create and interface from scratch click on `New` and select `interface`. 
+
 Define a name for it and double click on your new interface.
 ![enter image description here](http://img.pyplan.org/Ui_new_interface.png)
 
@@ -29,7 +30,7 @@ White Interface will open with one single widget.
 New widgets can be added by pressing `+` and each of  them has the following characteristics.
 ![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
 
-Each widget can be used for presenting information from the influence diagram choosing among the different layouts explained on section  `Visualization` 
+Each widget can be used for presenting information from the influence diagram choosing among the different layouts explained on section  `Visualization`. 
 
 There are **two ways of selecting objects from diagram to represent them on an interface**.
 
@@ -101,11 +102,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjQ2MzAzLC01NDk1MjYxMjQsLTI3Nz
-YzNjk1OCwtMTk3Mjg2OTA2MCwtMTU3NzE3NjY3OSwtMTkzMjA1
-NjE4MiwxNTI4NTEzMDk4LC0xODYwMjYyNjA1LDEyNjYxMTY4OT
-ksLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMsNTc1MTIyNjU2LDU5
-NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3NywxNjM5Nzg4ND
-U0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2
-MDE2OTldfQ==
+eyJoaXN0b3J5IjpbMTE5NjY4MTE1MywtNTQ5NTI2MTI0LC0yNz
+c2MzY5NTgsLTE5NzI4NjkwNjAsLTE1NzcxNzY2NzksLTE5MzIw
+NTYxODIsMTUyODUxMzA5OCwtMTg2MDI2MjYwNSwxMjY2MTE2OD
+k5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEyMjY1Niw1
+OTQzMDY4MTMsNzM2NjY0MTk1LC03MDc1MDQyNzcsMTYzOTc4OD
+Q1NCwxMTI2NTk4NzU1LDkwMzk1NjQxNSwyMzE2NjQ1NzgsLTc5
+NjAxNjk5XX0=
 -->
