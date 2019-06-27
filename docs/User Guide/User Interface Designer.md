@@ -18,7 +18,7 @@ Once it has been copied user has total control over that interface.
  
 
 
-![enter image description here](http://img.pyplan.org/Ui_layout_new.png)
+![enter image description here](http://img.pyplan.org/Ui_layout_new1.png)
 
 **Favs app** for quick access can also be set once the user owns the interface.
 
