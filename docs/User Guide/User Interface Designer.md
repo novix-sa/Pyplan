@@ -71,7 +71,7 @@ If you need to set an **index widget** just drag it from de diagram or search fo
 ## Synchronization
 Once an interface has been created dimensions shared by objects in that interface are automatically synchronized.
 
-That means that **every selection in any part of the interface will apply to every presented object** unless explicitly defined the opposite.
+That means that **any selection in any part of the interface will apply to every presented object** unless explicitly defined the opposite.
 
 Let’s suppose you have created an interface like the following where `region`, `item type` and `time`are explicitly exposed.
  
@@ -105,11 +105,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTMxNDA2NCwxNjgyNzkzODMsLTEzMD
-Y4ODg3OTcsOTIyMDYwNTQ2LC0xMzgyOTY1NDg0LC01NDk1MjYx
-MjQsLTI3NzYzNjk1OCwtMTk3Mjg2OTA2MCwtMTU3NzE3NjY3OS
-wtMTkzMjA1NjE4MiwxNTI4NTEzMDk4LC0xODYwMjYyNjA1LDEy
-NjYxMTY4OTksLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMsNTc1MT
-IyNjU2LDU5NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3Nywx
-NjM5Nzg4NDU0XX0=
+eyJoaXN0b3J5IjpbMTYwNTI1OTM5MywtODExMzE0MDY0LDE2OD
+I3OTM4MywtMTMwNjg4ODc5Nyw5MjIwNjA1NDYsLTEzODI5NjU0
+ODQsLTU0OTUyNjEyNCwtMjc3NjM2OTU4LC0xOTcyODY5MDYwLC
+0xNTc3MTc2Njc5LC0xOTMyMDU2MTgyLDE1Mjg1MTMwOTgsLTE4
+NjAyNjI2MDUsMTI2NjExNjg5OSwtMTY2MjM0NzE4MSwtMTM0Mj
+g1ODkzMyw1NzUxMjI2NTYsNTk0MzA2ODEzLDczNjY2NDE5NSwt
+NzA3NTA0Mjc3XX0=
 -->
