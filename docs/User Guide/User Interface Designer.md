@@ -8,34 +8,32 @@ This layer can be accessed by clicking on the icon `Interfaces` located on the l
 
 ![enter image description here](http://img.pyplan.org/UI_interfaces.png)
 ## Layout
-Interfaces manager shows those I/O Interfaces created by the user and those that were  shared by someone else. 
-
-Shared interfaces can be used but not modified unless they are copied to user own workspace.
+Interfaces manager shows those I/O Interfaces created by the user and those that were  shared by someoe elsen be used but not modified unless they are copied to user own workspace.
 
 For doing this **Right click** on the interface and select the option **Copy to My Interfaces**.
 
 Once it has been copied user has total control over that interface.
  
-
-
 ![enter image description here](http://img.pyplan.org/Ui_layout_new1.png)
 
-**Favs app** for quick access can also be set once the user owns the interface.
+**Favs app** for quick acce set once the user owns the interface.
 
 ## Creating an Interface
-If you want to create an interface from scratch click on `New` and select `interface`. 
+If you want to create and interface from scratch click on `New` and select`interface`. 
 
-Define a name for it and double click on your new interface.
+Define a name for it and double click on your new interface
 ![enter image description here](http://img.pyplan.org/Ui_new_interface.png)
 
-A white interface will open with a widget selector inside.
+A white nterface will open with a widget selector inside.
 The interface layout is created by adding and resizing new widgets. Widgets can be added by pressing `+` or by dividing existing widgets block space clicking on the arrows (Right or Down) found at the top left corner of every widget block.
+one single widget.
 
+New widgets can be added by pressing `+` and each of  them has the istics.
 ![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
 
-Each widget can be used for presenting information from the influence diagram choosing among the different layouts explained on section  `Node Visualization`. 
+Each widget can be used for presenting informatioam choosing among the different layouts explained on section  `Node Visualization`. 
 
-There are **two ways of selecting objects from diagram to represent them in an interface**.
+There are **two ways of selecting objects from diagram to represent them n an interface**.
 
 1- Selecting type of data from the wizards menu and searching object by title or id on the window that pops up:
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op1.png)
@@ -69,9 +67,9 @@ If you need to set an **index widget** just drag it from de diagram or search fo
 
 ![enter image description here](http://img.pyplan.org/UI_choices.png)
 ## Synchronization
-Once an interface has been created dimensions shared by objects in that interface are automatically synchronized.
+Once an nterface has been created inin shared by objects in that interface are automatically synchronized.
 
-That means that **any selection in any part of the interface will apply to every presented object** unless explicitly defined the opposite.
+That means that **y selection in any part of the interface will apply to every presented object** unless explicitly defined the opposite.
 
 Let’s suppose you have created an interface like the following where `region`, `item type` and `time`are explicitly exposed.
  
@@ -105,11 +103,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTI1OTM5MywtODExMzE0MDY0LDE2OD
-I3OTM4MywtMTMwNjg4ODc5Nyw5MjIwNjA1NDYsLTEzODI5NjU0
-ODQsLTU0OTUyNjEyNCwtMjc3NjM2OTU4LC0xOTcyODY5MDYwLC
-0xNTc3MTc2Njc5LC0xOTMyMDU2MTgyLDE1Mjg1MTMwOTgsLTE4
-NjAyNjI2MDUsMTI2NjExNjg5OSwtMTY2MjM0NzE4MSwtMTM0Mj
-g1ODkzMyw1NzUxMjI2NTYsNTk0MzA2ODEzLDczNjY2NDE5NSwt
-NzA3NTA0Mjc3XX0=
+eyJoaXN0b3J5IjpbNzQ0NTAxMjI0LDE2MDUyNTkzOTMsLTgxMT
+MxNDA2NCwxNjgyNzkzODMsLTEzMDY4ODg3OTcsOTIyMDYwNTQ2
+LC0xMzgyOTY1NDg0LC01NDk1MjYxMjQsLTI3NzYzNjk1OCwtMT
+k3Mjg2OTA2MCwtMTU3NzE3NjY3OSwtMTkzMjA1NjE4MiwxNTI4
+NTEzMDk4LC0xODYwMjYyNjA1LDEyNjYxMTY4OTksLTE2NjIzND
+cxODEsLTEzNDI4NTg5MzMsNTc1MTIyNjU2LDU5NDMwNjgxMyw3
+MzY2NjQxOTVdfQ==
 -->
