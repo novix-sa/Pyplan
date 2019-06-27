@@ -79,7 +79,7 @@ Let’s suppose you have created an interface like the following where `region`,
 If you select a **single region, a couple of items and a range of time** these selections will apply to all interface.
 
 ![enter image description here](http://img.pyplan.org/UI_synchro.png)
-**Remember you can always choose to des-synchronized indexes as explained in `visualization` section
+**Remember you can always choose to des-synchronized indexes as explained in `Node visualization` section.
 
 ## Deploying an App and Sharing
 Once you have created various interfaces you may need to generate an application for sharing it with other users or even publicly.
@@ -104,11 +104,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjE4MDUzOCwtNTQ5NTI2MTI0LC0yNz
-c2MzY5NTgsLTE5NzI4NjkwNjAsLTE1NzcxNzY2NzksLTE5MzIw
-NTYxODIsMTUyODUxMzA5OCwtMTg2MDI2MjYwNSwxMjY2MTE2OD
-k5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEyMjY1Niw1
-OTQzMDY4MTMsNzM2NjY0MTk1LC03MDc1MDQyNzcsMTYzOTc4OD
-Q1NCwxMTI2NTk4NzU1LDkwMzk1NjQxNSwyMzE2NjQ1NzgsLTc5
-NjAxNjk5XX0=
+eyJoaXN0b3J5IjpbLTEzODI5NjU0ODQsLTU0OTUyNjEyNCwtMj
+c3NjM2OTU4LC0xOTcyODY5MDYwLC0xNTc3MTc2Njc5LC0xOTMy
+MDU2MTgyLDE1Mjg1MTMwOTgsLTE4NjAyNjI2MDUsMTI2NjExNj
+g5OSwtMTY2MjM0NzE4MSwtMTM0Mjg1ODkzMyw1NzUxMjI2NTYs
+NTk0MzA2ODEzLDczNjY2NDE5NSwtNzA3NTA0Mjc3LDE2Mzk3OD
+g0NTQsMTEyNjU5ODc1NSw5MDM5NTY0MTUsMjMxNjY0NTc4LC03
+OTYwMTY5OV19
 -->
