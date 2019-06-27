@@ -59,16 +59,17 @@ Most common are `indexes` (dimensions) and `selector`.
 
 Indexes can be explicitly exposed on interfaces so that filtering  along dimensions is easier for app user.
 
-If you need to set an index widget just drag it from de diagram or search for it using wizard object.
+If you need to set an **index widget** just drag it from de diagram or search for it using wizard object.
 **Indexes widget has their specific options menu.**
 ![enter image description here](http://img.pyplan.org/UI_indexes.png)
 
 
-**Selector object** can also being dragged and dropped from diagram to create input widget.
+**Selector object** can also being dragged and dropped from diagram to create an input widget.
 
 ![enter image description here](http://img.pyplan.org/UI_choices.png)
 ## Synchronization
-Once an Interface has been created shared dimensions are automatically synchronized.
+Once an Interface has been created dimensions shared by objects in that interface are automatically synchronized.
+
 That means that **every selection in any part of the interface will apply to every presented object** unless explicitly defined the opposite.
 
 Let’s suppose you have created an interface like the following where `region`, `item type` and `time`are explicitly exposed.
@@ -103,7 +104,7 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTUyNTE5OSwtNTQ5NTI2MTI0LC0yNz
+eyJoaXN0b3J5IjpbLTY4MjE4MDUzOCwtNTQ5NTI2MTI0LC0yNz
 c2MzY5NTgsLTE5NzI4NjkwNjAsLTE1NzcxNzY2NzksLTE5MzIw
 NTYxODIsMTUyODUxMzA5OCwtMTg2MDI2MjYwNSwxMjY2MTE2OD
 k5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEyMjY1Niw1
