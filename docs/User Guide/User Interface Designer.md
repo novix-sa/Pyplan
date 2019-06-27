@@ -34,10 +34,10 @@ Each widget can be used for presenting information from the influence diagram ch
 
 There are **two ways of selecting objects from diagram to represent them on an interface**.
 
-1- Selecting type of data and searching object title or id:
+1- Selecting type of data from the wizards menu and searching object by title or id on the window that pops up:
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op1.png)
 
-2- Use one widget to expose diagram and pressing <kbd>click+Shift</kbd> drag and drop the objet into a new widget:
+2- Use one widget to expose influence diagram and ,pressing <kbd>click+Shift</kbd>, drag and drop the objet you want to be repsentred into a new widget:
 
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op2.png)
 
@@ -102,11 +102,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjY4MTE1MywtNTQ5NTI2MTI0LC0yNz
-c2MzY5NTgsLTE5NzI4NjkwNjAsLTE1NzcxNzY2NzksLTE5MzIw
-NTYxODIsMTUyODUxMzA5OCwtMTg2MDI2MjYwNSwxMjY2MTE2OD
-k5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEyMjY1Niw1
-OTQzMDY4MTMsNzM2NjY0MTk1LC03MDc1MDQyNzcsMTYzOTc4OD
-Q1NCwxMTI2NTk4NzU1LDkwMzk1NjQxNSwyMzE2NjQ1NzgsLTc5
-NjAxNjk5XX0=
+eyJoaXN0b3J5IjpbMTY1NzMyMjM2LC01NDk1MjYxMjQsLTI3Nz
+YzNjk1OCwtMTk3Mjg2OTA2MCwtMTU3NzE3NjY3OSwtMTkzMjA1
+NjE4MiwxNTI4NTEzMDk4LC0xODYwMjYyNjA1LDEyNjYxMTY4OT
+ksLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMsNTc1MTIyNjU2LDU5
+NDMwNjgxMyw3MzY2NjQxOTUsLTcwNzUwNDI3NywxNjM5Nzg4ND
+U0LDExMjY1OTg3NTUsOTAzOTU2NDE1LDIzMTY2NDU3OCwtNzk2
+MDE2OTldfQ==
 -->
