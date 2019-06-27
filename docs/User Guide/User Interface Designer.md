@@ -52,11 +52,12 @@ For instance, in this example `market growth` information can be modified to sim
 
 By dragging dimension in the correct order and pressing <kbd>ok</kbd> you build your input interface.
 
+
 There are other interesting inputs objects.
 
 Most common are `indexes` (dimensions) and `selector`.
 
-Indexes can be explicitly exposed on interfaces. This helps filtering  along these dimensions for final user.
+Indexes can be explicitly exposed on interfaces so that filtering  along dimensions is easier for app user.
 
 If you need to set an index widget just drag it from de diagram or search for it using wizard object.
 **Indexes widget has their specific options menu.**
@@ -102,7 +103,7 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzgxNTI0NywtNTQ5NTI2MTI0LC0yNz
+eyJoaXN0b3J5IjpbLTkxMTUyNTE5OSwtNTQ5NTI2MTI0LC0yNz
 c2MzY5NTgsLTE5NzI4NjkwNjAsLTE1NzcxNzY2NzksLTE5MzIw
 NTYxODIsMTUyODUxMzA5OCwtMTg2MDI2MjYwNSwxMjY2MTE2OD
 k5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEyMjY1Niw1
