@@ -132,7 +132,7 @@ This is an experimental feature. Further development of toolboxes will be mainly
 ## Shortcuts
 Shortcuts are very useful when modelling.
 
-Take a look at shortcuts available on Pyplan on the following chart
+Take a look at shortcuts available on Pyplan on the following chart.
 
 |Keys|Action|
 |--|--|
@@ -140,11 +140,9 @@ Take a look at shortcuts available on Pyplan on the following chart
 |Shift + area	|Select node area|
 |Delete	|Delete node|
 |Ctrl + <--	|Align left|
-|Ctrl + ->
-
-ß|Align right|
-|Ctrl + dia23	|Align bottom edge|
-|Ctrl + dia22	|Align top edge|
+|Ctrl + ->|Align right|
+|Ctrl + down	|Align bottom edge|
+|Ctrl + up	|Align top edge|
 |Ctrl + F	|Search node|
 |Ctrl + F (in dock)	|Search/ change key|
 |Ctrl + S	|Save current model|
@@ -174,11 +172,11 @@ Take a look at shortcuts available on Pyplan on the following chart
 |Ctrl + Q	| Go one level up|
 |Ctrl + Shift + C	|Copy PivotGrid with format|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjQzMTA3NSw4MTUxOTA4NDQsNTY5Mz
-cyOTYzLDEzNzYzNDc3NzUsMTYyNjI2OTA2NCw4ODczMzI4MzEs
-LTE0OTE4MDU4OTUsLTY4NTI1ODQ4Niw5NTQwMTY5MTMsLTI2Nj
-IwNDc1NSwyMDcyMzk5NzY1LDcxMTk3OTUyMiwtMTAzMTc4ODMz
-NywyNDY4NDY3MTksLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMT
-c2MjYyMjM1Niw4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3
-Mzg2XX0=
+eyJoaXN0b3J5IjpbOTY3MDY5MjIwLDgxNTE5MDg0NCw1NjkzNz
+I5NjMsMTM3NjM0Nzc3NSwxNjI2MjY5MDY0LDg4NzMzMjgzMSwt
+MTQ5MTgwNTg5NSwtNjg1MjU4NDg2LDk1NDAxNjkxMywtMjY2Mj
+A0NzU1LDIwNzIzOTk3NjUsNzExOTc5NTIyLC0xMDMxNzg4MzM3
+LDI0Njg0NjcxOSwtNjE3NDQ2MDEwLC0xNjM1NjE4ODAxLC0xNz
+YyNjIyMzU2LDg4NjU5MzcxMiwtMzc2NTQwMTIzLC05NTM3Mzcz
+ODZdfQ==
 -->
