@@ -126,11 +126,8 @@ Toolboxes are nodes for specific purposes, with custom wizards associated to the
 Pyplan includes a toolbox named Data Sources. An example of this wizard has been developed with the read CSV node.
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users' requests.
 
-<img src="http://img.pyplan.org/model-toolboxes.png"
-	style="float: right; margin-left: 10px;"
-	ALIGN=”top”
-	height="300" /> 
-	
+![enter image description here](http://img.pyplan.org/Mod_data_sources.jpg)
+ 	
 	
 ## Shortcuts
 Shortcuts are very useful when modelling.
@@ -183,11 +180,11 @@ Take advantaged of these to increase coding speed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMwMTM1ODksLTE0ODUwNzUwMSwtNT
-c1ODcxNDY5LDgxNTE5MDg0NCw1NjkzNzI5NjMsMTM3NjM0Nzc3
-NSwxNjI2MjY5MDY0LDg4NzMzMjgzMSwtMTQ5MTgwNTg5NSwtNj
-g1MjU4NDg2LDk1NDAxNjkxMywtMjY2MjA0NzU1LDIwNzIzOTk3
-NjUsNzExOTc5NTIyLC0xMDMxNzg4MzM3LDI0Njg0NjcxOSwtNj
-E3NDQ2MDEwLC0xNjM1NjE4ODAxLC0xNzYyNjIyMzU2LDg4NjU5
-MzcxMl19
+eyJoaXN0b3J5IjpbLTY1MDUyMjg5LC0xNDg1MDc1MDEsLTU3NT
+g3MTQ2OSw4MTUxOTA4NDQsNTY5MzcyOTYzLDEzNzYzNDc3NzUs
+MTYyNjI2OTA2NCw4ODczMzI4MzEsLTE0OTE4MDU4OTUsLTY4NT
+I1ODQ4Niw5NTQwMTY5MTMsLTI2NjIwNDc1NSwyMDcyMzk5NzY1
+LDcxMTk3OTUyMiwtMTAzMTc4ODMzNywyNDY4NDY3MTksLTYxNz
+Q0NjAxMCwtMTYzNTYxODgwMSwtMTc2MjYyMjM1Niw4ODY1OTM3
+MTJdfQ==
 -->
