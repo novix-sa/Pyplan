@@ -79,7 +79,7 @@ Let’s suppose you have created an interface like the following where `region`,
 
 If you select a **single region, a couple of items and a range of time** these selections will apply to all interface.
 
-![enter image description here](http://img.pyplan.org/UI_synchro_new.png)
+![enter image description here](http://img.pyplan.org/UI_synchro_new.jpg)
 **Remember you can always choose to des-synchronized indexes as explained in `Node visualization` section.
 
 ## Deploying an App and Sharing
@@ -105,7 +105,7 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTUyODAwOCwxNjgyNzkzODMsLTEzMD
+eyJoaXN0b3J5IjpbLTgxMTMxNDA2NCwxNjgyNzkzODMsLTEzMD
 Y4ODg3OTcsOTIyMDYwNTQ2LC0xMzgyOTY1NDg0LC01NDk1MjYx
 MjQsLTI3NzYzNjk1OCwtMTk3Mjg2OTA2MCwtMTU3NzE3NjY3OS
 wtMTkzMjA1NjE4MiwxNTI4NTEzMDk4LC0xODYwMjYyNjA1LDEy
