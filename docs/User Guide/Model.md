@@ -128,12 +128,53 @@ Additionally, you must consider to include the library in the "Default Import" n
 Toolboxes are nodes for specific purposes, with custom wizards associated to them, which help parametrize a function for producing certain result.
 Pyplan includes a toolbox named Data Sources. An example of this wizard has been developed with the read CSV node.
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users' requests.
+
+## Shortcuts
+
+
+|Keys|Action|
+|--|--|
+|Shift + Click	|Select node|
+|Shift + area	|Select node area|
+|Delete	|Delete node|
+|Ctrl + dia21	|Align left|
+|Ctrl + dia24	|Align right|
+|Ctrl + dia23	|Align bottom edge|
+|Ctrl + dia22	|Align top edge|
+|Ctrl + F	|Search node|
+|Ctrl + F (in dock)	|Search/ change key|
+|Ctrl + S	|Save current model|
+|Ctrl + H	|Focus on original node|
+|Ctrl + R	|Evaluate node|
+|Ctrl + Y	|See node ID|
+|Ctrl + Click	|Insert node in other node’s definition|
+|Ctrl + espacio	|Autofill|
+|Ctrl + B	|Edit node number format|
+|Ctrl + C	|Copy node|
+|Ctrl + X	|Cut node|
+|Ctrl + V	|Paste node|
+|Ctrl + M	|Create alias|
+|Ctrl + D	|Duplicate node|
+|Ctrl + G	|Same height|
+|Ctrl + I	|Same width|
+|Ctrl + Alt + 0	|Same size|
+|Ctrl + E	|Quick evaluate of nodes|
+|Ctrl + A	|Select all items from PivotGrid and influence diagram|
+|Ctrl + Alt + O	|New output|
+|Ctrl + Alt + I	|New input|
+|Ctrl + Alt + D	|Go to influence diagram|
+|Mouse Wheel	|Move the diagram up/down|
+|Alt + Mouse Wheel	|Move the diagram left/right|
+|Ctrl + Mouse Wheel	|Increase/reduce node size|
+|Ctrl + Shift + H	|Go back to the last level when navigating the modules in the diagram|
+|Ctrl + Q	| Go one level up|
+|Ctrl + Shift + C	|Copy PivotGrid with format|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1MTkwODQ0LDU2OTM3Mjk2MywxMzc2Mz
-Q3Nzc1LDE2MjYyNjkwNjQsODg3MzMyODMxLC0xNDkxODA1ODk1
-LC02ODUyNTg0ODYsOTU0MDE2OTEzLC0yNjYyMDQ3NTUsMjA3Mj
-M5OTc2NSw3MTE5Nzk1MjIsLTEwMzE3ODgzMzcsMjQ2ODQ2NzE5
-LC02MTc0NDYwMTAsLTE2MzU2MTg4MDEsLTE3NjI2MjIzNTYsOD
-g2NTkzNzEyLC0zNzY1NDAxMjMsLTk1MzczNzM4NiwtMTI2Mjkz
-OTM3MV19
+eyJoaXN0b3J5IjpbMTMyMzU5NDI1MCw4MTUxOTA4NDQsNTY5Mz
+cyOTYzLDEzNzYzNDc3NzUsMTYyNjI2OTA2NCw4ODczMzI4MzEs
+LTE0OTE4MDU4OTUsLTY4NTI1ODQ4Niw5NTQwMTY5MTMsLTI2Nj
+IwNDc1NSwyMDcyMzk5NzY1LDcxMTk3OTUyMiwtMTAzMTc4ODMz
+NywyNDY4NDY3MTksLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMT
+c2MjYyMjM1Niw4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3
+Mzg2XX0=
 -->
