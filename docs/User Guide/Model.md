@@ -149,7 +149,7 @@ Take a look at shortcuts available on Pyplan on the following chart.
 |Ctrl + S	|Save current model|
 |Ctrl + H	|Focus on original node|
 |Ctrl + R	|Evaluate node|
-|Ctrl + Y	|See node ID|
+|Ctrl + Y	|See nodes ID|
 |Ctrl + Click	|Insert node in other node’s definition|
 |Ctrl + space	|Autofill formulas|
 |Ctrl + B	|Edit node number format|
@@ -178,14 +178,15 @@ Take a look at shortcuts available on Pyplan on the following chart.
 |Ctrl + 2 (in dock)	|Move to code window|
 |Ctrl + 3 (in dock)	|Move to docs window|
 
-.
+Take advantaged of these t.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg0MTMyODgsLTE0ODUwNzUwMSwtNT
-c1ODcxNDY5LDgxNTE5MDg0NCw1NjkzNzI5NjMsMTM3NjM0Nzc3
-NSwxNjI2MjY5MDY0LDg4NzMzMjgzMSwtMTQ5MTgwNTg5NSwtNj
-g1MjU4NDg2LDk1NDAxNjkxMywtMjY2MjA0NzU1LDIwNzIzOTk3
-NjUsNzExOTc5NTIyLC0xMDMxNzg4MzM3LDI0Njg0NjcxOSwtNj
-E3NDQ2MDEwLC0xNjM1NjE4ODAxLC0xNzYyNjIyMzU2LDg4NjU5
-MzcxMl19
+eyJoaXN0b3J5IjpbOTI2MDM0OTM3LC0xNDg1MDc1MDEsLTU3NT
+g3MTQ2OSw4MTUxOTA4NDQsNTY5MzcyOTYzLDEzNzYzNDc3NzUs
+MTYyNjI2OTA2NCw4ODczMzI4MzEsLTE0OTE4MDU4OTUsLTY4NT
+I1ODQ4Niw5NTQwMTY5MTMsLTI2NjIwNDc1NSwyMDcyMzk5NzY1
+LDcxMTk3OTUyMiwtMTAzMTc4ODMzNywyNDY4NDY3MTksLTYxNz
+Q0NjAxMCwtMTYzNTYxODgwMSwtMTc2MjYyMjM1Niw4ODY1OTM3
+MTJdfQ==
 -->
