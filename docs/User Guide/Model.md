@@ -130,7 +130,9 @@ Pyplan includes a toolbox named Data Sources. An example of this wizard has been
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users' requests.
 
 ## Shortcuts
+Shortcuts are very useful when modelling.
 
+Take a look at shortcuts available on Pyplan on the following chart
 
 |Keys|Action|
 |--|--|
@@ -170,11 +172,11 @@ This is an experimental feature. Further development of toolboxes will be mainly
 |Ctrl + Q	| Go one level up|
 |Ctrl + Shift + C	|Copy PivotGrid with format|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzU5NDI1MCw4MTUxOTA4NDQsNTY5Mz
-cyOTYzLDEzNzYzNDc3NzUsMTYyNjI2OTA2NCw4ODczMzI4MzEs
-LTE0OTE4MDU4OTUsLTY4NTI1ODQ4Niw5NTQwMTY5MTMsLTI2Nj
-IwNDc1NSwyMDcyMzk5NzY1LDcxMTk3OTUyMiwtMTAzMTc4ODMz
-NywyNDY4NDY3MTksLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMT
-c2MjYyMjM1Niw4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3
-Mzg2XX0=
+eyJoaXN0b3J5IjpbLTEyMTgxNzgwMzgsODE1MTkwODQ0LDU2OT
+M3Mjk2MywxMzc2MzQ3Nzc1LDE2MjYyNjkwNjQsODg3MzMyODMx
+LC0xNDkxODA1ODk1LC02ODUyNTg0ODYsOTU0MDE2OTEzLC0yNj
+YyMDQ3NTUsMjA3MjM5OTc2NSw3MTE5Nzk1MjIsLTEwMzE3ODgz
+MzcsMjQ2ODQ2NzE5LC02MTc0NDYwMTAsLTE2MzU2MTg4MDEsLT
+E3NjI2MjIzNTYsODg2NTkzNzEyLC0zNzY1NDAxMjMsLTk1Mzcz
+NzM4Nl19
 -->
