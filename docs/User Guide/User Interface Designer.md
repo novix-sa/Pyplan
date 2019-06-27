@@ -44,7 +44,7 @@ There are **two ways of selecting objects from diagram to represent them in an i
 
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op2.png)
 
-**Hint:** If you were the one that created the model this second option will appear useful for you.
+*Hint: If you were the one that created the model this second option will appear useful for you.*
 ## I/O Interfaces
 Interfaces can have inputs as well as outputs widgets.
 
@@ -69,7 +69,7 @@ If you need to set an **index widget** just drag it from de diagram or search fo
 
 ![enter image description here](http://img.pyplan.org/UI_choices.png)
 ## Synchronization
-Once an Interface has been created dimensions shared by objects in that interface are automatically synchronized.
+Once an interface has been created dimensions shared by objects in that interface are automatically synchronized.
 
 That means that **every selection in any part of the interface will apply to every presented object** unless explicitly defined the opposite.
 
@@ -105,11 +105,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3OTM3ODMxLDkyMjA2MDU0NiwtMTM4Mj
-k2NTQ4NCwtNTQ5NTI2MTI0LC0yNzc2MzY5NTgsLTE5NzI4Njkw
-NjAsLTE1NzcxNzY2NzksLTE5MzIwNTYxODIsMTUyODUxMzA5OC
-wtMTg2MDI2MjYwNSwxMjY2MTE2ODk5LC0xNjYyMzQ3MTgxLC0x
-MzQyODU4OTMzLDU3NTEyMjY1Niw1OTQzMDY4MTMsNzM2NjY0MT
-k1LC03MDc1MDQyNzcsMTYzOTc4ODQ1NCwxMTI2NTk4NzU1LDkw
-Mzk1NjQxNV19
+eyJoaXN0b3J5IjpbLTEzMDY4ODg3OTcsOTIyMDYwNTQ2LC0xMz
+gyOTY1NDg0LC01NDk1MjYxMjQsLTI3NzYzNjk1OCwtMTk3Mjg2
+OTA2MCwtMTU3NzE3NjY3OSwtMTkzMjA1NjE4MiwxNTI4NTEzMD
+k4LC0xODYwMjYyNjA1LDEyNjYxMTY4OTksLTE2NjIzNDcxODEs
+LTEzNDI4NTg5MzMsNTc1MTIyNjU2LDU5NDMwNjgxMyw3MzY2Nj
+QxOTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0LDExMjY1OTg3NTUs
+OTAzOTU2NDE1XX0=
 -->
