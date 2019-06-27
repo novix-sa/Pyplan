@@ -172,13 +172,15 @@ Take a look at shortcuts available on Pyplan on the following chart.
 |Ctrl + Shift + H	|Go back to the last level when navigating the modules in the diagram|
 |Ctrl + Q	| Go one level up|
 |Ctrl + Shift + C	|Copy PivotGrid with format|
-|Ctrl + 1	|Move to code window|
+|Ctrl + 1	|Move to properties window|
+|Ctrl + 2	|Move to code window|
+|Ctrl + 3	|Move to code window|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTg3MTQ2OSw4MTUxOTA4NDQsNTY5Mz
-cyOTYzLDEzNzYzNDc3NzUsMTYyNjI2OTA2NCw4ODczMzI4MzEs
-LTE0OTE4MDU4OTUsLTY4NTI1ODQ4Niw5NTQwMTY5MTMsLTI2Nj
-IwNDc1NSwyMDcyMzk5NzY1LDcxMTk3OTUyMiwtMTAzMTc4ODMz
-NywyNDY4NDY3MTksLTYxNzQ0NjAxMCwtMTYzNTYxODgwMSwtMT
-c2MjYyMjM1Niw4ODY1OTM3MTIsLTM3NjU0MDEyMywtOTUzNzM3
-Mzg2XX0=
+eyJoaXN0b3J5IjpbMTkyMzgxMzM4OCwtNTc1ODcxNDY5LDgxNT
+E5MDg0NCw1NjkzNzI5NjMsMTM3NjM0Nzc3NSwxNjI2MjY5MDY0
+LDg4NzMzMjgzMSwtMTQ5MTgwNTg5NSwtNjg1MjU4NDg2LDk1ND
+AxNjkxMywtMjY2MjA0NzU1LDIwNzIzOTk3NjUsNzExOTc5NTIy
+LC0xMDMxNzg4MzM3LDI0Njg0NjcxOSwtNjE3NDQ2MDEwLC0xNj
+M1NjE4ODAxLC0xNzYyNjIyMzU2LDg4NjU5MzcxMiwtMzc2NTQw
+MTIzXX0=
 -->
