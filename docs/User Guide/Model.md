@@ -142,7 +142,7 @@ Take a look at shortcuts available on Pyplan on the following chart.
 |Shift + area	|Select node area|
 |Delete	|Delete node|
 |Ctrl + <--	|Align left|
-|Ctrl + ->|Align right|
+|Ctrl + -->|Align right|
 |Ctrl + down	|Align bottom edge|
 |Ctrl + up	|Align top edge|
 |Ctrl + F	|Search node|
@@ -151,7 +151,7 @@ Take a look at shortcuts available on Pyplan on the following chart.
 |Ctrl + R	|Evaluate node|
 |Ctrl + Y	|See node ID|
 |Ctrl + Click	|Insert node in other node’s definition|
-|Ctrl + espacio	|Autofill formulas|
+|Ctrl + space	|Autofill formulas|
 |Ctrl + B	|Edit node number format|
 |Ctrl + C	|Copy node|
 |Ctrl + X	|Cut node|
@@ -181,7 +181,7 @@ Take a look at shortcuts available on Pyplan on the following chart.
 Take a look at shortcuts available on Pyplan on the following chart.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODQ0NzM4MywtMTQ4NTA3NTAxLC01Nz
+eyJoaXN0b3J5IjpbMTE4MDIyOTk0MiwtMTQ4NTA3NTAxLC01Nz
 U4NzE0NjksODE1MTkwODQ0LDU2OTM3Mjk2MywxMzc2MzQ3Nzc1
 LDE2MjYyNjkwNjQsODg3MzMyODMxLC0xNDkxODA1ODk1LC02OD
 UyNTg0ODYsOTU0MDE2OTEzLC0yNjYyMDQ3NTUsMjA3MjM5OTc2
