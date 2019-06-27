@@ -85,7 +85,7 @@ If you select a **single region, a couple of items and a range of time** these s
 ## Deploying an App and Sharing
 Once you have created various interfaces you may need to generate an application for sharing it with other users or even publicly.
 
-**Creating an application.**
+**Creating an application**
 
 Creating an application is as simple as selecting `Application` from menu and defining a name for it.
 
@@ -105,11 +105,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY4ODg3OTcsOTIyMDYwNTQ2LC0xMz
-gyOTY1NDg0LC01NDk1MjYxMjQsLTI3NzYzNjk1OCwtMTk3Mjg2
-OTA2MCwtMTU3NzE3NjY3OSwtMTkzMjA1NjE4MiwxNTI4NTEzMD
-k4LC0xODYwMjYyNjA1LDEyNjYxMTY4OTksLTE2NjIzNDcxODEs
-LTEzNDI4NTg5MzMsNTc1MTIyNjU2LDU5NDMwNjgxMyw3MzY2Nj
-QxOTUsLTcwNzUwNDI3NywxNjM5Nzg4NDU0LDExMjY1OTg3NTUs
-OTAzOTU2NDE1XX0=
+eyJoaXN0b3J5IjpbMTY4Mjc5MzgzLC0xMzA2ODg4Nzk3LDkyMj
+A2MDU0NiwtMTM4Mjk2NTQ4NCwtNTQ5NTI2MTI0LC0yNzc2MzY5
+NTgsLTE5NzI4NjkwNjAsLTE1NzcxNzY2NzksLTE5MzIwNTYxOD
+IsMTUyODUxMzA5OCwtMTg2MDI2MjYwNSwxMjY2MTE2ODk5LC0x
+NjYyMzQ3MTgxLC0xMzQyODU4OTMzLDU3NTEyMjY1Niw1OTQzMD
+Y4MTMsNzM2NjY0MTk1LC03MDc1MDQyNzcsMTYzOTc4ODQ1NCwx
+MTI2NTk4NzU1XX0=
 -->
