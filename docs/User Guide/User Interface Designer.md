@@ -1,6 +1,6 @@
 
-# UI Designer
-Pyplan has a specific layer for **app deployment** .
+# User Interface Designer
+Pyplan has a specific layer for **app creation** .
 
 This layer can be accessed by clicking on the icon `Interfaces` located on the left side of the screen. 
 
@@ -10,7 +10,7 @@ This layer can be accessed by clicking on the icon `Interfaces` located on the l
 ## Layout
 Interfaces manager shows those I/O Interfaces created by the user and those that were  shared by someone else. 
 
-Shared interfaces can only be browsed unless they are copied to user own space.
+Shared interfaces can be used but not modified unless they are copied to user own workspace.
 
 For doing this **Right click** on the interface and select the option **Copy to My Interfaces**.
 
@@ -26,7 +26,7 @@ Once it has been copied user has total control over that interface.
 If you want to create and interface from scratch click on `New` and select `interface`. 
 
 Define a name for it and double click on your new interface.
-![enter image description here](http://img.pyplan.org/Ui_new_interface.png)
+![enter image description here](http://img.pyplan.org/UI_new_interface1.png)
 
 White interface will open with one single widget.
 
