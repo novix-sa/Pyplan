@@ -33,14 +33,14 @@ White interface will open with one single widget.
 New widgets can be added by pressing `+` and each of  them has the following characteristics.
 ![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
 
-Each widget can be used for presenting information from the influence diagram choosing among the different layouts explained on section  `Visualization`. 
+Each widget can be used for presenting information from the influence diagram choosing among the different layouts explained on section  `Node Visualization`. 
 
-There are **two ways of selecting objects from diagram to represent them on an interface**.
+There are **two ways of selecting objects from diagram to represent them in an interface**.
 
 1- Selecting type of data from the wizards menu and searching object by title or id on the window that pops up:
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op1.png)
 
-2- Use one widget to expose influence diagram and ,pressing <kbd>click+Shift</kbd>, drag and drop the object you want to be repsentred from the diagram into a new widget:
+2- Use one widget to expose influence diagram and ,pressing <kbd>click+Shift</kbd>, drag and drop the object you want to be represented from the diagram into a new widget:
 
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op2.png)
 
@@ -107,7 +107,7 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzgwNTQwNiw5MjIwNjA1NDYsLTEzOD
+eyJoaXN0b3J5IjpbLTI2MjcxNDkzNSw5MjIwNjA1NDYsLTEzOD
 I5NjU0ODQsLTU0OTUyNjEyNCwtMjc3NjM2OTU4LC0xOTcyODY5
 MDYwLC0xNTc3MTc2Njc5LC0xOTMyMDU2MTgyLDE1Mjg1MTMwOT
 gsLTE4NjAyNjI2MDUsMTI2NjExNjg5OSwtMTY2MjM0NzE4MSwt
