@@ -144,7 +144,6 @@ Take a look at shortcuts available on Pyplan on the following chart.
 |Ctrl + down	|Align bottom edge|
 |Ctrl + up	|Align top edge|
 |Ctrl + F	|Search node|
-|Ctrl + F (in dock)	|Search/ change key|
 |Ctrl + S	|Save current model|
 |Ctrl + H	|Focus on original node|
 |Ctrl + R	|Evaluate node|
@@ -172,11 +171,12 @@ Take a look at shortcuts available on Pyplan on the following chart.
 |Ctrl + Shift + H	|Go back to the last level when navigating the modules in the diagram|
 |Ctrl + Q	| Go one level up|
 |Ctrl + Shift + C	|Copy PivotGrid with format|
-|Ctrl + 1	|Move to properties window|
-|Ctrl + 2	|Move to code window|
-|Ctrl + 3	|Move to code window|
+|Ctrl + F (in dock)	|Search/ change key|
+|Ctrl + 1 (in dock)	|Move to properties window|
+|Ctrl + 2 (in dock)	|Move to code window|
+|Ctrl + 3 (in dock)	|Move to docs window|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzgxMzM4OCwtNTc1ODcxNDY5LDgxNT
+eyJoaXN0b3J5IjpbMTU2MzQ1OTU5NywtNTc1ODcxNDY5LDgxNT
 E5MDg0NCw1NjkzNzI5NjMsMTM3NjM0Nzc3NSwxNjI2MjY5MDY0
 LDg4NzMzMjgzMSwtMTQ5MTgwNTg5NSwtNjg1MjU4NDg2LDk1ND
 AxNjkxMywtMjY2MjA0NzU1LDIwNzIzOTk3NjUsNzExOTc5NTIy
