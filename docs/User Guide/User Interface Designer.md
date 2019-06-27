@@ -29,7 +29,6 @@ Define a name for it and double click on your new interface.
 ![enter image description here](http://img.pyplan.org/Ui_new_interface.png)
 
 A white interface will open with a widget selector inside.
-
 The interface layout is created by adding and resizing new widgets. Widgets can be added by pressing `+` or by dividing existing widgets block space clicking on the arrows (Right or Down) found at the top left corner of every widget block.
 
 ![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
