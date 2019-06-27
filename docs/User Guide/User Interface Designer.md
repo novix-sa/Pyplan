@@ -39,7 +39,7 @@ There are **two ways of selecting objects from diagram to represent them in an i
 1- Click on the visualization icon you want to include and then search and select the node you want (serching by node Title or ID).
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op1.png)
 
-2- Or use one widget to show the influence diagram, then by pressing <kbd>Shift + click+</kbd> on a node in the diagram, drag and drop it into the widget block you want to include it.
+2- Or use one widget to show the influence diagram, then by pressing <kbd>Shift + click</kbd> on a node in the diagram, drag and drop it into the widget block you want to include it.
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op2.png)
 
 ## I/O Interfaces
