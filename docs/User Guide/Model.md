@@ -121,14 +121,16 @@ Additionally, you must consider to include the library in the "Default Import" n
 
 ## Toolboxes
 
-<img src="http://img.pyplan.org/model-toolboxes.png"
-	style="float: right; margin-left: 10px;"
-	ALIGN=”top”
-	height="300" /> 
+
 Toolboxes are nodes for specific purposes, with custom wizards associated to them, which help parametrize a function for producing certain result.
 Pyplan includes a toolbox named Data Sources. An example of this wizard has been developed with the read CSV node.
 This is an experimental feature. Further development of toolboxes will be mainly driven by Pyplan users' requests.
 
+<img src="http://img.pyplan.org/model-toolboxes.png"
+	style="float: right; margin-left: 10px;"
+	ALIGN=”top”
+	height="300" /> 
+	
 ## Shortcuts
 Shortcuts are very useful when modelling.
 
@@ -176,7 +178,7 @@ Take a look at shortcuts available on Pyplan on the following chart.
 |Ctrl + 2 (in dock)	|Move to code window|
 |Ctrl + 3 (in dock)	|Move to docs window|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzQ1OTU5NywtNTc1ODcxNDY5LDgxNT
+eyJoaXN0b3J5IjpbLTE0ODUwNzUwMSwtNTc1ODcxNDY5LDgxNT
 E5MDg0NCw1NjkzNzI5NjMsMTM3NjM0Nzc3NSwxNjI2MjY5MDY0
 LDg4NzMzMjgzMSwtMTQ5MTgwNTg5NSwtNjg1MjU4NDg2LDk1ND
 AxNjkxMywtMjY2MjA0NzU1LDIwNzIzOTk3NjUsNzExOTc5NTIy
