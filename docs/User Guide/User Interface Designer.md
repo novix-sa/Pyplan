@@ -45,7 +45,8 @@ There are **two ways of selecting objects from diagram to represent them in an i
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op2.png)
 ## Inputs on interfaces
 
-Interfaces can have inputs as well as outputs widgets.
+Interfaces can have inputs as well as outputs widgets. 
+In case of inputs widgets, depending on the type of input you need to make you can chosse among using Pivot grids
 
 If you need to create an **input widget you should choose a pivot grid.**
 
@@ -106,11 +107,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0OTEyMDE0LDE1Mjg1MjA3MjksMTI4MT
-cyNzc4NywtMzI0MDA1Mjg1LC03OTg1OTE4NDMsMTYwNTI1OTM5
-MywtODExMzE0MDY0LDE2ODI3OTM4MywtMTMwNjg4ODc5Nyw5Mj
-IwNjA1NDYsLTEzODI5NjU0ODQsLTU0OTUyNjEyNCwtMjc3NjM2
-OTU4LC0xOTcyODY5MDYwLC0xNTc3MTc2Njc5LC0xOTMyMDU2MT
-gyLDE1Mjg1MTMwOTgsLTE4NjAyNjI2MDUsMTI2NjExNjg5OSwt
-MTY2MjM0NzE4MV19
+eyJoaXN0b3J5IjpbMTgyNjc1MzI2Miw0NDQ5MTIwMTQsMTUyOD
+UyMDcyOSwxMjgxNzI3Nzg3LC0zMjQwMDUyODUsLTc5ODU5MTg0
+MywxNjA1MjU5MzkzLC04MTEzMTQwNjQsMTY4Mjc5MzgzLC0xMz
+A2ODg4Nzk3LDkyMjA2MDU0NiwtMTM4Mjk2NTQ4NCwtNTQ5NTI2
+MTI0LC0yNzc2MzY5NTgsLTE5NzI4NjkwNjAsLTE1NzcxNzY2Nz
+ksLTE5MzIwNTYxODIsMTUyODUxMzA5OCwtMTg2MDI2MjYwNSwx
+MjY2MTE2ODk5XX0=
 -->
