@@ -78,7 +78,7 @@ If you select a **single region, a couple of items and a range of time** these s
 ![enter image description here](http://img.pyplan.org/UI_synchro_new.jpg)
 **Remember you can always choose to des-synchronized indexes as explained in `Node visualization` section.
 
-## Deploying an App and Sharing
+## App Sharing
 Once you have created various interfaces you may need to generate an application for sharing it with other users or even publicly.
 
 **Creating an application**
@@ -101,7 +101,7 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTU0NjY0MiwtMzI0MDA1Mjg1LC03OT
+eyJoaXN0b3J5IjpbMTI4MTcyNzc4NywtMzI0MDA1Mjg1LC03OT
 g1OTE4NDMsMTYwNTI1OTM5MywtODExMzE0MDY0LDE2ODI3OTM4
 MywtMTMwNjg4ODc5Nyw5MjIwNjA1NDYsLTEzODI5NjU0ODQsLT
 U0OTUyNjEyNCwtMjc3NjM2OTU4LC0xOTcyODY5MDYwLC0xNTc3
