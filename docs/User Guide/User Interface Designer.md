@@ -50,13 +50,16 @@ Interfaces can have inputs as well as outputs widgets.
 In case of inputs widgets, depending on the type of input you need to make you can chosse among using **Pivot grids**, **indexes** or **selectors**
 
 ### Pivot grids
-These object can be used when you need to modif
+
+This object can be used when you need to modify information of an array directly on your model.
+
 For instance, in this example `market growth` information can be modified to simulate different scenarios, you may want to do this on your interface that is why it is presented as a pivot grid:
 ![enter image description here](http://img.pyplan.org/UI_pivot_input.png)
 
 By dragging dimension in the correct order and pressing <kbd>ok</kbd> you build your input interface.
 
-### Other input objects
+### Indexes as inputs
+
 There are other interesting input objects:`indexes` (dimensions) and `selector`.
 
 Indexes can be explicitly exposed on interfaces so that filtering  along dimensions is easier.
@@ -65,6 +68,7 @@ If you need to set an **index widget** just drag it from de diagram or search fo
 **Indexes widget has their specific options menu.**
 ![enter image description here](http://img.pyplan.org/UI_indexes.png)
 
+### Selector input
 
 **Selector object** can also being dragged and dropped from diagram to create an input widget.
 
@@ -108,7 +112,7 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxMDUzMzEyLDQ0NDkxMjAxNCwxNTI4NT
+eyJoaXN0b3J5IjpbNzM1Mjc0NzExLDQ0NDkxMjAxNCwxNTI4NT
 IwNzI5LDEyODE3Mjc3ODcsLTMyNDAwNTI4NSwtNzk4NTkxODQz
 LDE2MDUyNTkzOTMsLTgxMTMxNDA2NCwxNjgyNzkzODMsLTEzMD
 Y4ODg3OTcsOTIyMDYwNTQ2LC0xMzgyOTY1NDg0LC01NDk1MjYx
