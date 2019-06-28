@@ -44,6 +44,7 @@ There are **two ways of selecting objects from diagram to represent them in an i
 2- Or use one widget to show the influence diagram, then by pressing <kbd>Shift + click</kbd> on a node in the diagram, drag and drop it into the widget block you want to include it.
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op2.png)
 ## Inputs on interfaces
+
 Interfaces can have inputs as well as outputs widgets.
 
 If you need to create an **input widget you should choose a pivot grid.**
@@ -101,11 +102,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTcyNzc4NywtMzI0MDA1Mjg1LC03OT
-g1OTE4NDMsMTYwNTI1OTM5MywtODExMzE0MDY0LDE2ODI3OTM4
-MywtMTMwNjg4ODc5Nyw5MjIwNjA1NDYsLTEzODI5NjU0ODQsLT
-U0OTUyNjEyNCwtMjc3NjM2OTU4LC0xOTcyODY5MDYwLC0xNTc3
-MTc2Njc5LC0xOTMyMDU2MTgyLDE1Mjg1MTMwOTgsLTE4NjAyNj
-I2MDUsMTI2NjExNjg5OSwtMTY2MjM0NzE4MSwtMTM0Mjg1ODkz
-Myw1NzUxMjI2NTZdfQ==
+eyJoaXN0b3J5IjpbMTUyODUyMDcyOSwxMjgxNzI3Nzg3LC0zMj
+QwMDUyODUsLTc5ODU5MTg0MywxNjA1MjU5MzkzLC04MTEzMTQw
+NjQsMTY4Mjc5MzgzLC0xMzA2ODg4Nzk3LDkyMjA2MDU0NiwtMT
+M4Mjk2NTQ4NCwtNTQ5NTI2MTI0LC0yNzc2MzY5NTgsLTE5NzI4
+NjkwNjAsLTE1NzcxNzY2NzksLTE5MzIwNTYxODIsMTUyODUxMz
+A5OCwtMTg2MDI2MjYwNSwxMjY2MTE2ODk5LC0xNjYyMzQ3MTgx
+LC0xMzQyODU4OTMzXX0=
 -->
