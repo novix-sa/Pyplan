@@ -34,15 +34,14 @@ The interface layout is created by adding and resizing new widgets.
 Widgets can be added by pressing `+` or by dividing existing widgets block space clicking on the arrows (Right or Down) found at the top left corner of every widget block.
 ![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
 
-Each widget can be used for displaying informatioam choosing among the different visualization alternatives described on section  Visualization`. 
+Each widget can be used for displaying information from the influence diagram choosing among the different visualization alternatives described on section `Node Visualization`.
 
-There are **two ways of selecting objects from diagram to represent them n an interface**.
+There are **two ways of selecting objects from diagram to represent them in an interface**.
 
-1- Click on the visualization icon you want to include and then search and select the node you want (serching by node Title or ID).from the wizards menu ae or id on the window that pops up:
+1- Click on the visualization icon you want to include and then search and select the node you want (serching by node Title or ID).
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op1.png)
 
-2- Or use one widget to show thexpose influence diagram, then by  and ,pressing <kbd>Shift + click</kbd>
-  Interaces on a node in e diagram, drag and drop it into the widget block you want to include 
+2- Or use one widget to show the influence diagram, then by pressing <kbd>Shift + click</kbd> on a node in the diagram, drag and drop it into the widget block you want to include it.
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op2.png)
 ## Inputs on interfaces
 Interfaces can have inputs as well as outputs widgets.
@@ -104,11 +103,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTE2Nzc0MywtMzI0MDA1Mjg1LC03OT
-g1OTE4NDMsMTYwNTI1OTM5MywtODExMzE0MDY0LDE2ODI3OTM4
-MywtMTMwNjg4ODc5Nyw5MjIwNjA1NDYsLTEzODI5NjU0ODQsLT
-U0OTUyNjEyNCwtMjc3NjM2OTU4LC0xOTcyODY5MDYwLC0xNTc3
-MTc2Njc5LC0xOTMyMDU2MTgyLDE1Mjg1MTMwOTgsLTE4NjAyNj
-I2MDUsMTI2NjExNjg5OSwtMTY2MjM0NzE4MSwtMTM0Mjg1ODkz
-Myw1NzUxMjI2NTZdfQ==
+eyJoaXN0b3J5IjpbLTc0MzkzNTYwLC0zMjQwMDUyODUsLTc5OD
+U5MTg0MywxNjA1MjU5MzkzLC04MTEzMTQwNjQsMTY4Mjc5Mzgz
+LC0xMzA2ODg4Nzk3LDkyMjA2MDU0NiwtMTM4Mjk2NTQ4NCwtNT
+Q5NTI2MTI0LC0yNzc2MzY5NTgsLTE5NzI4NjkwNjAsLTE1Nzcx
+NzY2NzksLTE5MzIwNTYxODIsMTUyODUxMzA5OCwtMTg2MDI2Mj
+YwNSwxMjY2MTE2ODk5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMz
+LDU3NTEyMjY1Nl19
 -->
