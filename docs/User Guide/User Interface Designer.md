@@ -67,7 +67,7 @@ If you need to set an **index widget** just drag it from de diagram or search fo
 
 ![enter image description here](http://img.pyplan.org/UI_choices.png)
 ## Synchronization
-Once an nterface has been created dimensionsinin shared by objects in that interface are automatically synchronized.
+Once an interface has been created dimensions shared by objects in that interface are automatically synchronized.
 
 That means that **y selection in any part of the interface will apply to every presented object** unless explicitly defined the opposite.
 
@@ -103,11 +103,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzkzNTYwLC0zMjQwMDUyODUsLTc5OD
-U5MTg0MywxNjA1MjU5MzkzLC04MTEzMTQwNjQsMTY4Mjc5Mzgz
-LC0xMzA2ODg4Nzk3LDkyMjA2MDU0NiwtMTM4Mjk2NTQ4NCwtNT
-Q5NTI2MTI0LC0yNzc2MzY5NTgsLTE5NzI4NjkwNjAsLTE1Nzcx
-NzY2NzksLTE5MzIwNTYxODIsMTUyODUxMzA5OCwtMTg2MDI2Mj
-YwNSwxMjY2MTE2ODk5LC0xNjYyMzQ3MTgxLC0xMzQyODU4OTMz
-LDU3NTEyMjY1Nl19
+eyJoaXN0b3J5IjpbMjM4NDA0NDcsLTMyNDAwNTI4NSwtNzk4NT
+kxODQzLDE2MDUyNTkzOTMsLTgxMTMxNDA2NCwxNjgyNzkzODMs
+LTEzMDY4ODg3OTcsOTIyMDYwNTQ2LC0xMzgyOTY1NDg0LC01ND
+k1MjYxMjQsLTI3NzYzNjk1OCwtMTk3Mjg2OTA2MCwtMTU3NzE3
+NjY3OSwtMTkzMjA1NjE4MiwxNTI4NTEzMDk4LC0xODYwMjYyNj
+A1LDEyNjYxMTY4OTksLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMs
+NTc1MTIyNjU2XX0=
 -->
