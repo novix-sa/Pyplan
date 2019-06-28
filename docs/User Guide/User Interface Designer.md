@@ -95,19 +95,22 @@ By **dragging and dropping** previously created interfaces in the application de
 
 Select the application and press right bottom to access the following menu:
 
-<img alt="Image" title="Share 1" src="http://img.pyplan.org/UI_share_1.jpg" width="70%"/>
-![enter image description here](http://img.pyplan.org/UI_share_2.jpg)
+<img alt="Image" title="Share 1" src="http://img.pyplan.org/UI_share_1.jpg" width="50%"/>
+
+<img alt="Image" title="Share 1" src="http://img.pyplan.org/UI_share_2.jpg" width="70%"/>
+
+
 **Share the application externally and make it accessible for every person with the link.**
 
 Congratulations your [python](https://www.python.org/) coded application has been deployed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDczNTg0NDEsMTUyODUyMDcyOSwxMj
-gxNzI3Nzg3LC0zMjQwMDUyODUsLTc5ODU5MTg0MywxNjA1MjU5
-MzkzLC04MTEzMTQwNjQsMTY4Mjc5MzgzLC0xMzA2ODg4Nzk3LD
-kyMjA2MDU0NiwtMTM4Mjk2NTQ4NCwtNTQ5NTI2MTI0LC0yNzc2
-MzY5NTgsLTE5NzI4NjkwNjAsLTE1NzcxNzY2NzksLTE5MzIwNT
-YxODIsMTUyODUxMzA5OCwtMTg2MDI2MjYwNSwxMjY2MTE2ODk5
-LC0xNjYyMzQ3MTgxXX0=
+eyJoaXN0b3J5IjpbNDQ0OTEyMDE0LDE1Mjg1MjA3MjksMTI4MT
+cyNzc4NywtMzI0MDA1Mjg1LC03OTg1OTE4NDMsMTYwNTI1OTM5
+MywtODExMzE0MDY0LDE2ODI3OTM4MywtMTMwNjg4ODc5Nyw5Mj
+IwNjA1NDYsLTEzODI5NjU0ODQsLTU0OTUyNjEyNCwtMjc3NjM2
+OTU4LC0xOTcyODY5MDYwLC0xNTc3MTc2Njc5LC0xOTMyMDU2MT
+gyLDE1Mjg1MTMwOTgsLTE4NjAyNjI2MDUsMTI2NjExNjg5OSwt
+MTY2MjM0NzE4MV19
 -->
