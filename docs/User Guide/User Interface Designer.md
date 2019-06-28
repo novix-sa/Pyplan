@@ -28,9 +28,10 @@ If you want to create an interface from scratch click on `New` and select `inter
 Define a name for it and double click on your new interface
 ![enter image description here](http://img.pyplan.org/Ui_new_interface.png)
 
-hite inerface will open with a widget selectinside.
-The interface layout is created by addingresizing new widgets. Widgets can be added by pressing `+` or by dividing existing widgets block space clicking on the arrows (Right or Down) found at the top left corner of every widget block.
-one singe widget. idgets can be added by pressing `+` nd ec o the as e isttc.
+A white interface will open with a widget selector inside.
+
+The interface layout is created by adding and resizing new widgets. 
+Widgets can be added by pressing `+` or by dividing existing widgets block space clicking on the arrows (Right or Down) found at the top left corner of every widget block.
 ![enter image description here](http://img.pyplan.org/Ui_blanck_interface.png)
 
 Each widget can be used for displaying informatioam choosing among the different visualization alternatives described on section  Visualization`. 
@@ -103,11 +104,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczNjQ0NDcsLTMyNDAwNTI4NSwtNzk4NT
-kxODQzLDE2MDUyNTkzOTMsLTgxMTMxNDA2NCwxNjgyNzkzODMs
-LTEzMDY4ODg3OTcsOTIyMDYwNTQ2LC0xMzgyOTY1NDg0LC01ND
-k1MjYxMjQsLTI3NzYzNjk1OCwtMTk3Mjg2OTA2MCwtMTU3NzE3
-NjY3OSwtMTkzMjA1NjE4MiwxNTI4NTEzMDk4LC0xODYwMjYyNj
-A1LDEyNjYxMTY4OTksLTE2NjIzNDcxODEsLTEzNDI4NTg5MzMs
-NTc1MTIyNjU2XX0=
+eyJoaXN0b3J5IjpbLTYyMTE2Nzc0MywtMzI0MDA1Mjg1LC03OT
+g1OTE4NDMsMTYwNTI1OTM5MywtODExMzE0MDY0LDE2ODI3OTM4
+MywtMTMwNjg4ODc5Nyw5MjIwNjA1NDYsLTEzODI5NjU0ODQsLT
+U0OTUyNjEyNCwtMjc3NjM2OTU4LC0xOTcyODY5MDYwLC0xNTc3
+MTc2Njc5LC0xOTMyMDU2MTgyLDE1Mjg1MTMwOTgsLTE4NjAyNj
+I2MDUsMTI2NjExNjg5OSwtMTY2MjM0NzE4MSwtMTM0Mjg1ODkz
+Myw1NzUxMjI2NTZdfQ==
 -->
