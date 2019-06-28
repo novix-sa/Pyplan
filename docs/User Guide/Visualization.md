@@ -75,14 +75,16 @@ Where **HTML code is rendered getting California power plants geographical repre
 
 [Plotly](https://plot.ly/python/) graphs are interpreted by Pyplan by simplying adding  `result = plot(var_to_plot)`  at the end of the code.
 
+![enter image description here](http://img.pyplan.org/Visua_box_plot1.png)
+
 Check the folowing box plot example
-![enter image description here](http://img.pyplan.org/Visua_box_plot.png)
+![enter image description here](http://img.pyplan.org/Visua_box_plot2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE5OTgwNiwyMTI2Mzc1NDYxLC0xND
-M2MTIyNzUsLTIwODgxMTk0MzMsLTQ2OTg5OTU3OSwtMTI3Mzk0
-Njg0MywyMDM1NDQ0NjE3LDE4MzEzNjY4NzgsMTQ0NDQ1NjYzNC
-wtMTIxNzk5MjExNSwtMTMwNjk4MDQyOCwtODc2NTg1OTA1LC0x
-MzE0NTg3MDU0LC0xNDI4NTAzNzA0LC0yNzc3Nzc4MTksMTA1MT
-MyMjg2MywtMTg4NDIzMDg3Myw4MTE1MjY2NzQsMTE1NDMyMzk4
-NiwzMDc3MTE5MjVdfQ==
+eyJoaXN0b3J5IjpbLTE2ODEzOTc1NjcsLTE2NTE5OTgwNiwyMT
+I2Mzc1NDYxLC0xNDM2MTIyNzUsLTIwODgxMTk0MzMsLTQ2OTg5
+OTU3OSwtMTI3Mzk0Njg0MywyMDM1NDQ0NjE3LDE4MzEzNjY4Nz
+gsMTQ0NDQ1NjYzNCwtMTIxNzk5MjExNSwtMTMwNjk4MDQyOCwt
+ODc2NTg1OTA1LC0xMzE0NTg3MDU0LC0xNDI4NTAzNzA0LC0yNz
+c3Nzc4MTksMTA1MTMyMjg2MywtMTg4NDIzMDg3Myw4MTE1MjY2
+NzQsMTE1NDMyMzk4Nl19
 -->
