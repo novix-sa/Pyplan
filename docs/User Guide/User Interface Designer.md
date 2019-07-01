@@ -38,7 +38,7 @@ Each widget can be used for displaying information from the influence diagram ch
 
 There are **two ways of selecting objects from diagram to represent them in an interface**.
 
-1- Click on the visualization icon you want to include and then search and select the node you want (serching by node Title or ID).
+1- Click on the visualization icon you want to include and then search and select the node you want (searching by node Title or ID).
 ![enter image description here](http://img.pyplan.org/UI_sele_obje_op1.png)
 
 2- Or use one widget to show the influence diagram, then by pressing <kbd>Shift + click</kbd> on a node in the diagram, drag and drop it into the widget block you want to include it.
@@ -112,11 +112,11 @@ Congratulations your [python](https://www.python.org/) coded application has bee
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1Mjc0NzExLDQ0NDkxMjAxNCwxNTI4NT
-IwNzI5LDEyODE3Mjc3ODcsLTMyNDAwNTI4NSwtNzk4NTkxODQz
-LDE2MDUyNTkzOTMsLTgxMTMxNDA2NCwxNjgyNzkzODMsLTEzMD
-Y4ODg3OTcsOTIyMDYwNTQ2LC0xMzgyOTY1NDg0LC01NDk1MjYx
-MjQsLTI3NzYzNjk1OCwtMTk3Mjg2OTA2MCwtMTU3NzE3NjY3OS
-wtMTkzMjA1NjE4MiwxNTI4NTEzMDk4LC0xODYwMjYyNjA1LDEy
-NjYxMTY4OTldfQ==
+eyJoaXN0b3J5IjpbOTE5MjI2Nzc4LDczNTI3NDcxMSw0NDQ5MT
+IwMTQsMTUyODUyMDcyOSwxMjgxNzI3Nzg3LC0zMjQwMDUyODUs
+LTc5ODU5MTg0MywxNjA1MjU5MzkzLC04MTEzMTQwNjQsMTY4Mj
+c5MzgzLC0xMzA2ODg4Nzk3LDkyMjA2MDU0NiwtMTM4Mjk2NTQ4
+NCwtNTQ5NTI2MTI0LC0yNzc2MzY5NTgsLTE5NzI4NjkwNjAsLT
+E1NzcxNzY2NzksLTE5MzIwNTYxODIsMTUyODUxMzA5OCwtMTg2
+MDI2MjYwNV19
 -->
