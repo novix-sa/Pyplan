@@ -50,7 +50,7 @@ nav:
         - 'Node Visualization': 'User Guide/Visualization.md'
         - 'UI Designer': 'User Guide/User Interface Designer.md'
 #        - 'Task Manager': 'User Guide/Task Manager.md'
-        - 'Configuration': 'User Guide/Configuration.md'
+#        - 'Configuration': 'User Guide/Configuration.md'
     
 #    - Pyplan implementation: 
 #      - Product: Auxiliar/Pyplan/2-Model Manager/File Manager.md
