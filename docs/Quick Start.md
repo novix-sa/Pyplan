@@ -118,14 +118,14 @@ You can start by splitting the screen horizontally or vertically, and then indic
 ### Output Nodes
 There are several types of components that can be included in an interface: Tables, Charts, Diagrams, Text, Filters, Pivot Tables, and Maps. 
 
-![](http://img.pyplan.org/Quick_start_interface_elements.png)
+![](http://img.pyplan.org/Qus_icons.png)
 
 You can define what type of object you want in a specific section of the canvas, and then search for the node that contains the data to be shown.
-![](http://img.pyplan.org/Quick_start_ins_comp.png)
+![](http://img.pyplan.org/Qus_searchnode.png)
 
 Alternatively, you can directly display the diagram in one section of the canvas, then keeping pressed the **<Shift>** key 
 click on a node and keep it pressed to select it, and drag and drop it into the desired canvas section.
-![](http://img.pyplan.org/Quick_start_create_interface.png)
+![](http://img.pyplan.org/Qus_draganddrop.png)
 
 
 ### Input Nodes
@@ -141,7 +141,7 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTAyNTI4MiwtMTU5NzQ4ODM4MSwtMT
+eyJoaXN0b3J5IjpbLTMzNjYxNzQwMiwtMTU5NzQ4ODM4MSwtMT
 gzMzQzNTM1MSw2MjkzODIyNTcsMTMzMDE3NTQ3MywtMzk2MDEw
 NTIxLC0xOTIxOTU5ODMyLDE0MzA1NDk1MzEsOTIyNzU2NDI1LD
 IwODQ1NjA1NTIsMTU0NTExMjkyNywyOTQ5NDExNDgsLTQyMTg1
