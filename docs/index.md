@@ -12,7 +12,7 @@ Nodes have several properties: Title, ID, Units, Inputs, and Outputs, which are 
 
 ## **Node Evaluation**
 Pyplan natively interprets Pandas, Numpy, and XArray data objects. Any node whose result is an object of these types can be evaluated (by double clicking the node) and visualized using native Pyplan charts and tables with no additional coding.
-![enter image description here](http://img.pyplan.org/index_node_result1.png)
+![enter image description here](http://img.pyplan.org/Hom_nodeeval.png)
 
 When a request to run a node is executed, all precedent nodes are calculated too, and their results are stored in memory, available for inspection and reuse. Pyplan engine keeps track of any change in a node that triggers recalculation downstream the calculation logic path.
 
@@ -37,11 +37,11 @@ After being created, the app can be shared with anybody, both inside and outside
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDM0Nzk4NCwtNjM5MjMyMDY2LC0zNj
-M0NTYyMzEsNjYxOTI5NjIwLC0xMTQyNjM2NTg3LC01MTM4MjUx
-MDMsLTE5OTc0MzUwODMsLTIwMzUzMzk5NDIsLTYwNzExMTI5Ny
-wtMTkwMzc5OTA3OSwtMTE1MTAwNDk4MiwtMTY0NDM1NjE1Nywx
-NzY4OTUxNDcsMTk1NzcwMDU0NCwtNDc0NzI0MTExLDEzNzA0Nz
-M1MTMsMjAzMjI3NjEwMSwxMTI0ODIzNDY2LDQxMjA4MTIyMCwt
-MTEzMzk5MDU3MF19
+eyJoaXN0b3J5IjpbLTcyNDUwMTkyMywyMTQ0MzQ3OTg0LC02Mz
+kyMzIwNjYsLTM2MzQ1NjIzMSw2NjE5Mjk2MjAsLTExNDI2MzY1
+ODcsLTUxMzgyNTEwMywtMTk5NzQzNTA4MywtMjAzNTMzOTk0Mi
+wtNjA3MTExMjk3LC0xOTAzNzk5MDc5LC0xMTUxMDA0OTgyLC0x
+NjQ0MzU2MTU3LDE3Njg5NTE0NywxOTU3NzAwNTQ0LC00NzQ3Mj
+QxMTEsMTM3MDQ3MzUxMywyMDMyMjc2MTAxLDExMjQ4MjM0NjYs
+NDEyMDgxMjIwXX0=
 -->
