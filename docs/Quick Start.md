@@ -6,10 +6,10 @@ To access Pyplan, it must be installed in a server. Or you can request a trial a
 
 Once the server address has been identified, you can log into Pyplan with valid user credentials using a regular login form:
 
-![login](http://img.pyplan.org/Quick_start_login_en.png)
+![login](http://img.pyplan.org/Qus_login.png)
 
 After login in, you will reach the app land page, which looks like the following picture:
-![Pyplan Homepage](http://img.pyplan.org/Quick_start_home1.png)
+![Pyplan Homepage](http://img.pyplan.org/Qus_home.png)
 Here you will find sections for creating a new model, opening recent models, recovering any active session, or opening tutorials and examples. Click on  “Create new” to create a new model.
 
 ## **Homepage Menu**
@@ -140,11 +140,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc0ODgzODEsLTE4MzM0MzUzNTEsNj
-I5MzgyMjU3LDEzMzAxNzU0NzMsLTM5NjAxMDUyMSwtMTkyMTk1
-OTgzMiwxNDMwNTQ5NTMxLDkyMjc1NjQyNSwyMDg0NTYwNTUyLD
-E1NDUxMTI5MjcsMjk0OTQxMTQ4LC00MjE4NTYxODIsLTEwMDY5
-NTE3MDcsMTQwMjgxMTYyNywxMjM4NzMxNzAzLC02NzUwMTM0OD
-gsODIzNzk4MTE4LDEwNTg4MDQ4OTMsNjc5ODk4NTI4LC0yMDYy
-MjU3ODc0XX0=
+eyJoaXN0b3J5IjpbNDU4MTcwMTkyLC0xNTk3NDg4MzgxLC0xOD
+MzNDM1MzUxLDYyOTM4MjI1NywxMzMwMTc1NDczLC0zOTYwMTA1
+MjEsLTE5MjE5NTk4MzIsMTQzMDU0OTUzMSw5MjI3NTY0MjUsMj
+A4NDU2MDU1MiwxNTQ1MTEyOTI3LDI5NDk0MTE0OCwtNDIxODU2
+MTgyLC0xMDA2OTUxNzA3LDE0MDI4MTE2MjcsMTIzODczMTcwMy
+wtNjc1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OTg5
+ODUyOF19
 -->
