@@ -18,12 +18,12 @@ If you click on the model name, you can access information about the model and y
 In case there are multiple sessions open, they are listed as follows:
 ![enter image description here](http://img.pyplan.org/hop_home_sessions.png)
 
-The user can jump from one session to another just by clicking on the session name or close any open session by clicking on the cross red button.
+The user can jump from one session to another just by clicking on the session name or close any open session by clicking on the cross button.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTg3MTg2MywxOTAzMTMxMTUxLDEzMj
-A2MzI0MzQsLTE4Njk1MDM3NTgsMTkwMTY0NDA1OCwxNjExODI5
-NzAwLDE5NTA4MjUyNjgsLTg4ODgzMTYyOCw2NzQxMjE3MzMsLT
-EzNzI4MTgzNjMsMTk3MTEzNTQyNCwxMzMzMTk1NCwtNjgxMzY1
-MDUsMTI3ODUwOTU4MF19
+eyJoaXN0b3J5IjpbLTEwNzUzNTg0MzgsLTczOTg3MTg2MywxOT
+AzMTMxMTUxLDEzMjA2MzI0MzQsLTE4Njk1MDM3NTgsMTkwMTY0
+NDA1OCwxNjExODI5NzAwLDE5NTA4MjUyNjgsLTg4ODgzMTYyOC
+w2NzQxMjE3MzMsLTEzNzI4MTgzNjMsMTk3MTEzNTQyNCwxMzMz
+MTk1NCwtNjgxMzY1MDUsMTI3ODUwOTU4MF19
 -->
