@@ -22,7 +22,7 @@ Now you will access the sandbox for creating the logic of your model.
 ## **Modeling Business Rules**
 The basic objects for creating and organizing the calculation logic are grouped in a toolbar titled "Code". You will find it on the right side of the modeling interface.
 
-![enter image description here](http://img.pyplan.org/Quick_start_code_comp_right.png)
+![enter image description here](http://img.pyplan.org/Qus_burules.png)
 
 
 ### **Node**
@@ -53,7 +53,7 @@ Then set its definition as:
 
     result = pd.read_csv('http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv', sep=None)
 You can inspect again the difference between the console output vs the node evaluation (<kbd>Ctrl+R</kbd> or double click). While the console output is pure text, Pyplan shows the result in a formatted table.
-![Pandas Table](http://img.pyplan.org/Quick_start_first_table.png)
+![Pandas Table](http://img.pyplan.org/Qus_readds.png)
 
 If you inspect the “Code” tab of the node, you will find new buttons next to the “Run” button . These buttons are displayed whenever a node evaluates a Dataframe/Pandas object type. The buttons provide a link to  [Pandas](https://pandas.pydata.org/) wizards to help Python beginners start learning how to use Pandas. Wizards allow you to select and filter data or create new calculation fields. The resulting code will be displayed on the left-hand code section for you to pick up from there.
 
@@ -89,7 +89,7 @@ Performance profiling information can be displayed by clicking on **"Show Profil
 ![enter image description here](http://img.pyplan.org/Quick_start_ctrl+E+ShowProfile.png)
 The third way to run a node is by  **double clicking** it or  pressing <kbd>Ctrl+R</kbd>. Any node is initially evaluated as a table, until the user customizes its visualization. There is a customization group that can be rapidly set by clicking on the configuration icon next to the node title:
 
-![enter image description here](http://img.pyplan.org/Quick_start_configuration_wheel.png)
+![enter image description here](http://img.pyplan.org/Qus_custicon.png)
 
 ![enter image description here](http://img.pyplan.org/Quick_start_evaluate.png)
 One interesting feature is the ability to show the node result as a table and graph simultaneously. All customization parameters are lost when closing the node, unless you explicitly indicate that you want to set the current view as the default view for opening this specific node. To do that, you must click on the pencil icon![enter image description here](blob:https://stackedit.io/b16f2e01-84b1-4002-bf61-4758a5a62f12), on the top left corner. This will open the visualization editor, which contains all the customization features. Click on the check mark to accept the changes and set the default view of the node.
@@ -111,12 +111,13 @@ Enter the name  **"First I/O dashboard"** in the name field for the new interfac
 ![](http://img.pyplan.org/Quick_start_new_interface2.png)
 
 Now double click the new interface to start designing it:
-![](http://img.pyplan.org/Quick_start_interface_design.png)
+![](http://img.pyplan.org/Qus_splitdash.png)
 
 You can start by splitting the screen horizontally or vertically, and then indicating which node you want in each canvas. You can further divide the canvas any time.
 
 ### Output Nodes
 There are several types of components that can be included in an interface: Tables, Charts, Diagrams, Text, Filters, Pivot Tables, and Maps. 
+
 ![](http://img.pyplan.org/Quick_start_interface_elements.png)
 
 You can define what type of object you want in a specific section of the canvas, and then search for the node that contains the data to be shown.
@@ -140,11 +141,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4MTcwMTkyLC0xNTk3NDg4MzgxLC0xOD
-MzNDM1MzUxLDYyOTM4MjI1NywxMzMwMTc1NDczLC0zOTYwMTA1
-MjEsLTE5MjE5NTk4MzIsMTQzMDU0OTUzMSw5MjI3NTY0MjUsMj
-A4NDU2MDU1MiwxNTQ1MTEyOTI3LDI5NDk0MTE0OCwtNDIxODU2
-MTgyLC0xMDA2OTUxNzA3LDE0MDI4MTE2MjcsMTIzODczMTcwMy
-wtNjc1MDEzNDg4LDgyMzc5ODExOCwxMDU4ODA0ODkzLDY3OTg5
-ODUyOF19
+eyJoaXN0b3J5IjpbMjA1NTAyNTI4MiwtMTU5NzQ4ODM4MSwtMT
+gzMzQzNTM1MSw2MjkzODIyNTcsMTMzMDE3NTQ3MywtMzk2MDEw
+NTIxLC0xOTIxOTU5ODMyLDE0MzA1NDk1MzEsOTIyNzU2NDI1LD
+IwODQ1NjA1NTIsMTU0NTExMjkyNywyOTQ5NDExNDgsLTQyMTg1
+NjE4MiwtMTAwNjk1MTcwNywxNDAyODExNjI3LDEyMzg3MzE3MD
+MsLTY3NTAxMzQ4OCw4MjM3OTgxMTgsMTA1ODgwNDg5Myw2Nzk4
+OTg1MjhdfQ==
 -->
