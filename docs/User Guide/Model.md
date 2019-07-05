@@ -178,12 +178,86 @@ Take a look at shortcuts available on Pyplan on the following chart.
 
 Take advantaged of these to increase coding speed.
 | a |  d| c |  
-|--|--|--|
-|  |  |  | 
+|Shift + Click ||Select node|
 
+|Shift + area|Shift + area|Select node area|
+
+|Delete|Delete |Delete node|
+
+|Ctrl + ←|Ctrl + Cmd + ←|Align left|
+
+|Ctrl + →|Ctrl + Cmd + →|Align right|
+
+|Ctrl + down|Ctrl + Cmd + down |Align bottom edge|
+
+|Ctrl + up|Ctrl + Cmd + up |Align top edge|
+
+|Ctrl + F|Ctrl + F |Search node|
+
+|Ctrl + S|Ctrl + S |Save current model|
+
+|Ctrl + H|Ctrl + H|From a selected alias node go to the original|
+
+|Ctrl + R|Ctrl + R|Evaluate node|
+
+|Ctrl + Y|Ctrl + Y|Alternated displaying nodes Title / ID|
+
+| Ctrl + Click|Option + Click|Insert node Id in other node definition|
+
+|Ctrl + space|Ctrl + space |Autofill formulas|
+
+|Ctrl + B|Ctrl + B |Edit node number format|
+
+|Ctrl + C|Ctrl + C |Copy node|
+
+|Ctrl + X|Ctrl + X |Cut node|
+
+|Ctrl + V|Ctrl + V |Paste node|
+
+|Ctrl + M|Ctrl + M |Create alias|
+
+|Ctrl + D|Ctrl + D |Duplicate node|
+
+|Ctrl + G|Ctrl + G |Same height|
+
+|Ctrl + I|Ctrl + I|Same width|
+
+|Ctrl + Alt + 0|Ctrl + Option + 0|Same size|
+
+|Ctrl + Enter|Cmd + Enter|Evaluate node and show console output|
+
+|Ctrl + E|Ctrl + E|Evaluate and Explore node properties|
+
+|Ctrl + A|Ctrl + A |Select all items from PivotGrid and influence diagram|
+
+|Ctrl + Alt + O||New output|
+
+|Ctrl + Alt + I|Ctrl + Opt + Cmd + i|New input|
+
+|Ctrl + Alt + D|Ctrl + Opt + D|Go to influence diagram|
+
+|Mouse Wheel||Move the diagram up/down|
+
+|Alt + Mouse Wheel||Move the diagram left/right|
+
+|Ctrl + Mouse Wheel||Increase/reduce node size|
+
+|Ctrl + Shift +H|Ctrl + Shift +H|Go back to the last level when navigating the modules in the diagram|
+
+|Ctrl + Q|Ctrl + Q|Go one level up|
+
+|Ctrl + Shift + C||Copy PivotGrid with format|
+
+|Ctrl + F (in dock)|Cmd + F (in dock)|Search/ change key|
+
+|Ctrl + 1 (in dock)|Ctrl + 1 (in dock)|Move to properties window|
+
+|Ctrl + 2 (in dock)|Ctrl + 2 (in dock)|Move to code window|
+
+|Ctrl + 3 (in dock)|Ctrl + 3 (in dock)|Move to docs window|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzA4ODg2MywtNjUwNTIyODksLTE0OD
+eyJoaXN0b3J5IjpbLTI2ODQwNTk0OCwtNjUwNTIyODksLTE0OD
 UwNzUwMSwtNTc1ODcxNDY5LDgxNTE5MDg0NCw1NjkzNzI5NjMs
 MTM3NjM0Nzc3NSwxNjI2MjY5MDY0LDg4NzMzMjgzMSwtMTQ5MT
 gwNTg5NSwtNjg1MjU4NDg2LDk1NDAxNjkxMywtMjY2MjA0NzU1
