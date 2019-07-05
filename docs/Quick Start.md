@@ -9,7 +9,7 @@ Once the server address has been identified, you can log into Pyplan with valid 
 ![login](http://img.pyplan.org/Qus_loginnew.png)
 
 After login in, you will reach the app land page, which looks like the following picture:
-![Pyplan Homepage](http://img.pyplan.org/Qus_home_n.png)
+![Pyplan Homepage](http://img.pyplan.org/Qus_home_new.png)
 Here you will find sections for creating a new model, opening recent models, recovering any active session, or opening tutorials and examples. Click on  “Create new” to create a new model.
 
 ## **Homepage Menu**
@@ -141,7 +141,7 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3MjQ5MDgwLC0zMzY2MTc0MDIsLTE1OT
+eyJoaXN0b3J5IjpbNDM4MDk3MTk0LC0zMzY2MTc0MDIsLTE1OT
 c0ODgzODEsLTE4MzM0MzUzNTEsNjI5MzgyMjU3LDEzMzAxNzU0
 NzMsLTM5NjAxMDUyMSwtMTkyMTk1OTgzMiwxNDMwNTQ5NTMxLD
 kyMjc1NjQyNSwyMDg0NTYwNTUyLDE1NDUxMTI5MjcsMjk0OTQx
