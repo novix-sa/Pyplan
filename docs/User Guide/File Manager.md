@@ -1,6 +1,6 @@
 # **File Manager**
 If you click on the folder icon found in the left-hand menu, you will access the File manager.
-![enter image description here](http://img.pyplan.org/Fim_gotofilema.png)
+![enter image description here](http://img.pyplan.org/Fim_gotofilema_new.png)
 The File manager has two panes. The left one works as a navigation tool. You can navigate through the folders' hierarchy opening or closing folders by clicking the <kbd>+</kbd> or double clicking on the folder.
 The right pane is where you select the files you wish to operate with (deleting, renaming, etc.)
 
@@ -14,11 +14,11 @@ Files can be uploaded by means of the drag-and-drop user interface.
 > **Note:** When the uploaded file matches with an existing file, the new uploaded file will replace the previous one, which will in turn be preserved by renaming it with a date suffix and an ***".old"*** extension.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDU1MTMzMiwxODQyNTA0OTIxLC00OT
-EyNzE2MjUsLTY0NDk0Njc2MSwxNzYyMDc2NzM5LC02Nzk3OTM0
-NDMsLTEzOTU5MTI5MTUsMTc0OTg0NzI1MywtMTUyMDY3MjkwMS
-w3NjgxNjM0NjYsLTYwNzUyNDk2NCw1NjY1Nzk2NjYsLTIxMTUw
-ODY1MDIsMTQ1MzAxNDI4MiwtNjIwODYyMzM3LC0xNTg1NTYwMD
-A2LDE0MDUxOTMxNDgsMTQ0MjQwOTg2MSw4MjI0MzU1NDQsMjA3
-MjI5NDI5MV19
+eyJoaXN0b3J5IjpbMTMzNDU3ODAxMSwtNzIwNTUxMzMyLDE4ND
+I1MDQ5MjEsLTQ5MTI3MTYyNSwtNjQ0OTQ2NzYxLDE3NjIwNzY3
+MzksLTY3OTc5MzQ0MywtMTM5NTkxMjkxNSwxNzQ5ODQ3MjUzLC
+0xNTIwNjcyOTAxLDc2ODE2MzQ2NiwtNjA3NTI0OTY0LDU2NjU3
+OTY2NiwtMjExNTA4NjUwMiwxNDUzMDE0MjgyLC02MjA4NjIzMz
+csLTE1ODU1NjAwMDYsMTQwNTE5MzE0OCwxNDQyNDA5ODYxLDgy
+MjQzNTU0NF19
 -->
