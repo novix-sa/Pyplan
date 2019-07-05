@@ -135,7 +135,7 @@ Shortcuts are very useful when modelling.
 Take a look at shortcuts available on Pyplan on the following chart.
 
 |Keys (PC)|(iOS)|Action|
-|---------|---------|---------| 
+|-----------|-----------|-----------| 
 |Shift + Click ||Select node|
 |Shift + area|Shift + area|Select node area|
 |Delete|Delete |Delete node|
@@ -163,7 +163,7 @@ Take a look at shortcuts available on Pyplan on the following chart.
 |Ctrl + E|Ctrl + E|Evaluate and Explore node properties|
 |Ctrl + A|Ctrl + A |Select all items from PivotGrid and influence diagram|
 |Ctrl + Alt + O||New output|
-|Ctrl + Alt + I|Ctrl + Opt + Cmd + i|New input|
+|Ctrl + Alt + I|Ctrl + Opt + Cmd + I|New input|
 |Ctrl + Alt + D|Ctrl + Opt + D|Go to influence diagram|
 |Mouse Wheel||Move the diagram up/down|
 |Alt + Mouse Wheel||Move the diagram left/right|
@@ -178,11 +178,11 @@ Take a look at shortcuts available on Pyplan on the following chart.
 
 Take advantaged of these to increase coding speed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjYzNzEyOSwtNjUwNTIyODksLTE0OD
-UwNzUwMSwtNTc1ODcxNDY5LDgxNTE5MDg0NCw1NjkzNzI5NjMs
-MTM3NjM0Nzc3NSwxNjI2MjY5MDY0LDg4NzMzMjgzMSwtMTQ5MT
-gwNTg5NSwtNjg1MjU4NDg2LDk1NDAxNjkxMywtMjY2MjA0NzU1
-LDIwNzIzOTk3NjUsNzExOTc5NTIyLC0xMDMxNzg4MzM3LDI0Nj
-g0NjcxOSwtNjE3NDQ2MDEwLC0xNjM1NjE4ODAxLC0xNzYyNjIy
-MzU2XX0=
+eyJoaXN0b3J5IjpbMjAzNDg0Mzg0OSwxODM2NjM3MTI5LC02NT
+A1MjI4OSwtMTQ4NTA3NTAxLC01NzU4NzE0NjksODE1MTkwODQ0
+LDU2OTM3Mjk2MywxMzc2MzQ3Nzc1LDE2MjYyNjkwNjQsODg3Mz
+MyODMxLC0xNDkxODA1ODk1LC02ODUyNTg0ODYsOTU0MDE2OTEz
+LC0yNjYyMDQ3NTUsMjA3MjM5OTc2NSw3MTE5Nzk1MjIsLTEwMz
+E3ODgzMzcsMjQ2ODQ2NzE5LC02MTc0NDYwMTAsLTE2MzU2MTg4
+MDFdfQ==
 -->
