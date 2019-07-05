@@ -22,7 +22,7 @@ Now you will access the sandbox for creating the logic of your model.
 ## **Modeling Business Rules**
 The basic objects for creating and organizing the calculation logic are grouped in a toolbar titled "Code". You will find it on the right side of the modeling interface.
 
-![enter image description here](http://img.pyplan.org/Qus_burules.png)
+![enter image description here](http://img.pyplan.org/Qus_burules_new.png)
 
 
 ### **Node**
@@ -141,11 +141,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTgyNjc0NSwtMzM2NjE3NDAyLC0xNT
-k3NDg4MzgxLC0xODMzNDM1MzUxLDYyOTM4MjI1NywxMzMwMTc1
-NDczLC0zOTYwMTA1MjEsLTE5MjE5NTk4MzIsMTQzMDU0OTUzMS
-w5MjI3NTY0MjUsMjA4NDU2MDU1MiwxNTQ1MTEyOTI3LDI5NDk0
-MTE0OCwtNDIxODU2MTgyLC0xMDA2OTUxNzA3LDE0MDI4MTE2Mj
-csMTIzODczMTcwMywtNjc1MDEzNDg4LDgyMzc5ODExOCwxMDU4
-ODA0ODkzXX0=
+eyJoaXN0b3J5IjpbMjc3MjQ5MDgwLC0zMzY2MTc0MDIsLTE1OT
+c0ODgzODEsLTE4MzM0MzUzNTEsNjI5MzgyMjU3LDEzMzAxNzU0
+NzMsLTM5NjAxMDUyMSwtMTkyMTk1OTgzMiwxNDMwNTQ5NTMxLD
+kyMjc1NjQyNSwyMDg0NTYwNTUyLDE1NDUxMTI5MjcsMjk0OTQx
+MTQ4LC00MjE4NTYxODIsLTEwMDY5NTE3MDcsMTQwMjgxMTYyNy
+wxMjM4NzMxNzAzLC02NzUwMTM0ODgsODIzNzk4MTE4LDEwNTg4
+MDQ4OTNdfQ==
 -->
