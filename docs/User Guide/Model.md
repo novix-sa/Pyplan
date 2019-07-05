@@ -177,14 +177,17 @@ Take a look at shortcuts available on Pyplan on the following chart.
 |Ctrl + 3 (in dock)	|Move to docs window|
 
 Take advantaged of these to increase coding speed.
+|  |  |
+|--|--|
+|  |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDUyMjg5LC0xNDg1MDc1MDEsLTU3NT
-g3MTQ2OSw4MTUxOTA4NDQsNTY5MzcyOTYzLDEzNzYzNDc3NzUs
-MTYyNjI2OTA2NCw4ODczMzI4MzEsLTE0OTE4MDU4OTUsLTY4NT
-I1ODQ4Niw5NTQwMTY5MTMsLTI2NjIwNDc1NSwyMDcyMzk5NzY1
-LDcxMTk3OTUyMiwtMTAzMTc4ODMzNywyNDY4NDY3MTksLTYxNz
-Q0NjAxMCwtMTYzNTYxODgwMSwtMTc2MjYyMjM1Niw4ODY1OTM3
-MTJdfQ==
+eyJoaXN0b3J5IjpbMTk4NTIzNjYxMSwtNjUwNTIyODksLTE0OD
+UwNzUwMSwtNTc1ODcxNDY5LDgxNTE5MDg0NCw1NjkzNzI5NjMs
+MTM3NjM0Nzc3NSwxNjI2MjY5MDY0LDg4NzMzMjgzMSwtMTQ5MT
+gwNTg5NSwtNjg1MjU4NDg2LDk1NDAxNjkxMywtMjY2MjA0NzU1
+LDIwNzIzOTk3NjUsNzExOTc5NTIyLC0xMDMxNzg4MzM3LDI0Nj
+g0NjcxOSwtNjE3NDQ2MDEwLC0xNjM1NjE4ODAxLC0xNzYyNjIy
+MzU2XX0=
 -->
