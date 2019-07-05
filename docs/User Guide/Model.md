@@ -2,7 +2,7 @@
 ## Node Properties Tabs
 Pyplan structures code using an influence digram of nodes. When a node is selected (on Edit mode), a Properties window opens. Nodes attributes can be inspected and edited by means of tabs that are labeled as <kbd>Properties</kbd>, <kbd>Code</></kbd>, and <kbd>Docs</kbd>.
 
-![enter image description here](http://img.pyplan.org/model-node-prop1.png)
+![enter image description here](http://img.pyplan.org/mod_node_prop.png)
 The <kbd>Properties</kbd> tab contains:
 
  - **Title**: the legend that will be displayed over the node.
@@ -178,11 +178,11 @@ Take a look at shortcuts available on Pyplan on the following chart.
 
 Take advantaged of these to increase coding speed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDg0Mzg0OSwxODM2NjM3MTI5LC02NT
-A1MjI4OSwtMTQ4NTA3NTAxLC01NzU4NzE0NjksODE1MTkwODQ0
-LDU2OTM3Mjk2MywxMzc2MzQ3Nzc1LDE2MjYyNjkwNjQsODg3Mz
-MyODMxLC0xNDkxODA1ODk1LC02ODUyNTg0ODYsOTU0MDE2OTEz
-LC0yNjYyMDQ3NTUsMjA3MjM5OTc2NSw3MTE5Nzk1MjIsLTEwMz
-E3ODgzMzcsMjQ2ODQ2NzE5LC02MTc0NDYwMTAsLTE2MzU2MTg4
-MDFdfQ==
+eyJoaXN0b3J5IjpbMzE5ODQwNjY5LDIwMzQ4NDM4NDksMTgzNj
+YzNzEyOSwtNjUwNTIyODksLTE0ODUwNzUwMSwtNTc1ODcxNDY5
+LDgxNTE5MDg0NCw1NjkzNzI5NjMsMTM3NjM0Nzc3NSwxNjI2Mj
+Y5MDY0LDg4NzMzMjgzMSwtMTQ5MTgwNTg5NSwtNjg1MjU4NDg2
+LDk1NDAxNjkxMywtMjY2MjA0NzU1LDIwNzIzOTk3NjUsNzExOT
+c5NTIyLC0xMDMxNzg4MzM3LDI0Njg0NjcxOSwtNjE3NDQ2MDEw
+XX0=
 -->
