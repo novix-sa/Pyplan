@@ -38,7 +38,7 @@ Pyplan can be considered a Python integrated development environment for data an
 **Pyplan** is the software evolution of **Cubeplan**. Improvements were so radical that required a change in the name of the product. However, in order to make it easy for former Cubeplan users to migrate to Pyplan, we have created a library that reproduces, as similar as possible, Cubeplan functions and syntax.
 Cubeplan models cannot be run in Pyplan. A good way to learn how to use Python is to migrate an existing Cubeplan model.
 
-### **Pyplan Library, correlation with Cubeplan** 
+### **Pyplan Library correlation with Cubeplan** 
 Check examples available in  **Pyplan Library** folder to see how things  you did in Cubeplan using **Pyplan** .
 
 ![enter image description here](http://img.pyplan.org/Int_pplexamples_new.png)
@@ -111,11 +111,11 @@ If you are used to create **financial planning models in Cubeplan** then these o
 
 Use these functions as you used then in Cubeplan.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwNTg1MzQ0LC04MzIxNDc2NDgsNDIwND
-AyNTUyLDE2OTg4NTIzMCwtMzIwMjEwODk0LC0xOTgzOTkxNTc5
-LC0xMTY5NjcyNzU1LDE0MjA0NjIyMzEsMTIwMDI2ODE2OSwtNz
-Q1NjMxOTQsLTIxNDM1NTQ2ODYsLTIxNDM1NTQ2ODYsMTA0OTY5
-Nzc2Nyw3NzIxNTA1MzQsMzkwOTEzMTM0LDExOTU3NTU1MzMsMj
-A2NTUyNjk5OCwtMjYwNTY4MTU1LDEwMTg2MjI5NDgsMTQxMTc3
-NDIwNl19
+eyJoaXN0b3J5IjpbMTk3OTAyNTE5NiwtODMyMTQ3NjQ4LDQyMD
+QwMjU1MiwxNjk4ODUyMzAsLTMyMDIxMDg5NCwtMTk4Mzk5MTU3
+OSwtMTE2OTY3Mjc1NSwxNDIwNDYyMjMxLDEyMDAyNjgxNjksLT
+c0NTYzMTk0LC0yMTQzNTU0Njg2LC0yMTQzNTU0Njg2LDEwNDk2
+OTc3NjcsNzcyMTUwNTM0LDM5MDkxMzEzNCwxMTk1NzU1NTMzLD
+IwNjU1MjY5OTgsLTI2MDU2ODE1NSwxMDE4NjIyOTQ4LDE0MTE3
+NzQyMDZdfQ==
 -->
