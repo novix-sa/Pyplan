@@ -43,8 +43,8 @@ Check examples available in  **Pyplan Library** folder to see how to do the same
 
 The following table contains **Cubeplan basic function** list and its **correlation in Pyplan**
 
-|Group (Model with example)| Title in Cubeplan|Pyplan LibraryPyplan Library (PPL), Xarray (XA), Pandas|
-|--|--|
+|Model with example | Title in Cubeplan|Pyplan Library|Node with example|Pyplan Library (PPL), Xarray (XA), Pandas
+|--|--|--|--|--|
 |  |  |
 
 |Title in Cubeplan|Pyplan LibraryPyplan Library (PPL), Xarray (XA), Pandas|Node with example|
@@ -59,10 +59,10 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQzMzQxMzEsMTQyMDQ2MjIzMSwxMj
-AwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4NiwtMjE0MzU1
-NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5MTMxMzQsMT
-E5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMTAxODYy
-Mjk0OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEyNzM0NzY0Nj
-AsLTE4MDIzMDM1ODRdfQ==
+eyJoaXN0b3J5IjpbLTkyOTMxNDA1LDE0MjA0NjIyMzEsMTIwMD
+I2ODE2OSwtNzQ1NjMxOTQsLTIxNDM1NTQ2ODYsLTIxNDM1NTQ2
+ODYsMTA0OTY5Nzc2Nyw3NzIxNTA1MzQsMzkwOTEzMTM0LDExOT
+U3NTU1MzMsMjA2NTUyNjk5OCwtMjYwNTY4MTU1LDEwMTg2MjI5
+NDgsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjczNDc2NDYwLC
+0xODAyMzAzNTg0XX0=
 -->
