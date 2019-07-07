@@ -83,10 +83,10 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |Reading Data from Excel|nvx_read_table|pandas_from_excel|pandas_from_excel_ex|PPL|
 |Interacting with Pandas|new| pd.read_csv|pd_read_csv|Pandas|
 |Interacting with Pandas|new|index_from_pandas|orders_date|PPL|
-|Interacting with Pandas|new|reading from pandas see example|sales_data_by_orders_date|XA||  |  |
+|Interacting with Pandas|new|reading from pandas see example|sales_data_by_orders_date|XA|| 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDgzNjgxMiwxNjk4ODUyMzAsLTMyMD
+eyJoaXN0b3J5IjpbMTAwOTY5MjAzNiwxNjk4ODUyMzAsLTMyMD
 IxMDg5NCwtMTk4Mzk5MTU3OSwtMTE2OTY3Mjc1NSwxNDIwNDYy
 MjMxLDEyMDAyNjgxNjksLTc0NTYzMTk0LC0yMTQzNTU0Njg2LC
 0yMTQzNTU0Njg2LDEwNDk2OTc3NjcsNzcyMTUwNTM0LDM5MDkx
