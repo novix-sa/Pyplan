@@ -40,10 +40,11 @@ Cubeplan models cannot be run in Pyplan. A good way to learn how to use Python i
 
 Check examples available in  **Pyplan Library** folder to see how to do the same you did in Cubeplan using **Pyplan **.
 
-![enter image description here](http://img.pyplan.org/model-docs.png)
+![enter image description here](http://img.pyplan.org/Int_pplexamples.png)
+
 The following table contains **Cubeplan basic function** list and its **correlation in Pyplan**
 
-|Model with example | Title in Cubeplan|Pyplan Library|Node with example|Pyplan Library (PPL), Xarray (XA), Pandas
+|Model| Title in Cubeplan|Pyplan Library|Node with example|Pyplan Library (PPL), Xarray (XA), Pandas
 |--|--|--|--|--|
 |Selecting Data from Array|change index|change_index|change_index_ex  /change_index_by_pos_ex|PPL|
 |Selecting Data from Array|subscript/change index|subscript|subscript_ex|PPL|
@@ -53,7 +54,7 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDYyMTI5MDcsMTQyMDQ2MjIzMSwxMj
+eyJoaXN0b3J5IjpbLTExNjk2NzI3NTUsMTQyMDQ2MjIzMSwxMj
 AwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4NiwtMjE0MzU1
 NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5MTMxMzQsMT
 E5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMTAxODYy
