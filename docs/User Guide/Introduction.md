@@ -76,7 +76,7 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |Dynamic NPV IRR  and Linear Depreciation|dynamic|dynamic|dynamic_ex|PPL|
 |Dynamic NPV IRR  and Linear Depreciation|new|create_time|time|PPL|
 |Dynamic NPV IRR  and Linear Depreciation|linear depreciation|linear_depreciation|linear_depreciation_ex|PPL|
-|Dynamic NPV IRR  and Linear Depreciation|or|"(|)/ "||XA|
+|Dynamic NPV IRR  and Linear Depreciation|or|¦|NA|XA|
 |Reading Data from Excel|nvx_da_source_cone|excel_connection|excel_connection_ex|PPL|
 |Reading Data from Excel|nvx_read_index|index_from_excel|reading_example_index|PPL|
 |Reading Data from Excel|nvx_read_table|dataarray_from_excel|dataarray_from_excel_ex|PPL|
@@ -86,11 +86,11 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |Interacting with Pandas|new|reading from pandas see example|sales_data_by_orders_date|XA||  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzczMjYzNzUsMTY5ODg1MjMwLC0zMj
-AyMTA4OTQsLTE5ODM5OTE1NzksLTExNjk2NzI3NTUsMTQyMDQ2
-MjIzMSwxMjAwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4Ni
-wtMjE0MzU1NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5
-MTMxMzQsMTE5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNT
-UsMTAxODYyMjk0OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEy
-NzM0NzY0NjBdfQ==
+eyJoaXN0b3J5IjpbMTA5NDgzNjgxMiwxNjk4ODUyMzAsLTMyMD
+IxMDg5NCwtMTk4Mzk5MTU3OSwtMTE2OTY3Mjc1NSwxNDIwNDYy
+MjMxLDEyMDAyNjgxNjksLTc0NTYzMTk0LC0yMTQzNTU0Njg2LC
+0yMTQzNTU0Njg2LDEwNDk2OTc3NjcsNzcyMTUwNTM0LDM5MDkx
+MzEzNCwxMTk1NzU1NTMzLDIwNjU1MjY5OTgsLTI2MDU2ODE1NS
+wxMDE4NjIyOTQ4LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3
+MzQ3NjQ2MF19
 -->
