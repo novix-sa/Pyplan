@@ -46,31 +46,17 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |Model with example | Title in Cubeplan|Pyplan Library|Node with example|Pyplan Library (PPL), Xarray (XA), Pandas
 |--|--|--|--|--|
 |Selecting Data from Array|change index|change_index|change_index_ex  /change_index_by_pos_ex|PPL|
-
 |Selecting Data from Array|subscript/change index|subscript|subscript_ex|PPL|
-
 |Selecting Data from Array|subcript looking up|lookup|lookup_ex|PPL|
-
 |Selecting Data from Array|subset|subset|subset_ex|PPL|
-
-|Selecting Data from Array|slice|slice_dataarray|slice_dataarray_ex|PPL||  |  |
-
-|Title in Cubeplan|Pyplan LibraryPyplan Library (PPL), Xarray (XA), Pandas|Node with example|
-|--|--|
-
-|change index|change_indexPPLchange_index_ex  /change_index_by_pos_ex
-
-|subscript/change index|subscriptPPLsubscript_ex
-
-|subcript looking up|lookupPPLlookup_ex
-|--|--|
+|Selecting Data from Array|slice|slice_dataarray|slice_dataarray_ex|PPL|
 |  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTI4NzkzNSwxNDIwNDYyMjMxLDEyMD
-AyNjgxNjksLTc0NTYzMTk0LC0yMTQzNTU0Njg2LC0yMTQzNTU0
-Njg2LDEwNDk2OTc3NjcsNzcyMTUwNTM0LDM5MDkxMzEzNCwxMT
-k1NzU1NTMzLDIwNjU1MjY5OTgsLTI2MDU2ODE1NSwxMDE4NjIy
-OTQ4LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3MzQ3NjQ2MC
-wtMTgwMjMwMzU4NF19
+eyJoaXN0b3J5IjpbMTMzNjMxMjcyLDE0MjA0NjIyMzEsMTIwMD
+I2ODE2OSwtNzQ1NjMxOTQsLTIxNDM1NTQ2ODYsLTIxNDM1NTQ2
+ODYsMTA0OTY5Nzc2Nyw3NzIxNTA1MzQsMzkwOTEzMTM0LDExOT
+U3NTU1MzMsMjA2NTUyNjk5OCwtMjYwNTY4MTU1LDEwMTg2MjI5
+NDgsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjczNDc2NDYwLC
+0xODAyMzAzNTg0XX0=
 -->
