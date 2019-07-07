@@ -90,12 +90,16 @@ The following table contains **Cubeplan basic function** list and its **correlat
 If you are used to create f**inancial planning model in Cubeplan**. Then these other functions will be useful for you.
 
 **Contact your former Cubepla**n distributor to ask for module with these specific functions.
+
+|Module| Title in Cubeplan|Pyplan Library|
+|-----|-----|-----|
+|Selecting Data from Array|change index|change_index|change_index_ex  /change_index_by_pos_ex|PPL|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE1NzQ3NzEsMTY5ODg1MjMwLC0zMj
-AyMTA4OTQsLTE5ODM5OTE1NzksLTExNjk2NzI3NTUsMTQyMDQ2
-MjIzMSwxMjAwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4Ni
-wtMjE0MzU1NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5
-MTMxMzQsMTE5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNT
-UsMTAxODYyMjk0OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEy
-NzM0NzY0NjBdfQ==
+eyJoaXN0b3J5IjpbMTI4MTg2ODUyOCwxNjk4ODUyMzAsLTMyMD
+IxMDg5NCwtMTk4Mzk5MTU3OSwtMTE2OTY3Mjc1NSwxNDIwNDYy
+MjMxLDEyMDAyNjgxNjksLTc0NTYzMTk0LC0yMTQzNTU0Njg2LC
+0yMTQzNTU0Njg2LDEwNDk2OTc3NjcsNzcyMTUwNTM0LDM5MDkx
+MzEzNCwxMTk1NzU1NTMzLDIwNjU1MjY5OTgsLTI2MDU2ODE1NS
+wxMDE4NjIyOTQ4LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3
+MzQ3NjQ2MF19
 -->
