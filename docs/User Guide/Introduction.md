@@ -38,14 +38,14 @@ Pyplan can be considered a Python integrated development environment for data an
 **Pyplan** is the software evolution of **Cubeplan**. Improvements were so radical that required a change in the name of the product. However, in order to make it easy for former Cubeplan users to migrate to Pyplan, we have created a library that reproduces, as similar as possible, Cubeplan functions and syntax.
 Cubeplan models cannot be run in Pyplan. A good way to learn how to use Python is to migrate an existing Cubeplan model.
 
-Check examples available in  **Pyplan Library** folder to see how to do the same you did in Cubeplan using **Pyplan **.
+Check examples available in  **Pyplan Library** folder to see how things  you did in Cubeplan using **Pyplan** .
 
 ![enter image description here](http://img.pyplan.org/Int_pplexamples_new.png)
 
-The following table contains **Cubeplan basic function** list and its **correlation in Pyplan**
+The following table contains **Cubeplan basic function** list and its **correlation in Pyplan**.
 
 |Model| Title in Cubeplan|Pyplan Library|Node with example|Pyplan Library (PPL), Xarray (XA), Pandas
-|--|--|--|--|--|
+|-----|-----|-----|-----|-----|
 |Selecting Data from Array|change index|change_index|change_index_ex  /change_index_by_pos_ex|PPL|
 |Selecting Data from Array|subscript/change index|subscript|subscript_ex|PPL|
 |Selecting Data from Array|subcript looking up|lookup|lookup_ex|PPL|
@@ -86,10 +86,11 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |Interacting with Pandas|new|reading from pandas see example|sales_data_by_orders_date|XA||  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM5OTE1NzksLTExNjk2NzI3NTUsMT
-QyMDQ2MjIzMSwxMjAwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1
-NDY4NiwtMjE0MzU1NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNC
-wzOTA5MTMxMzQsMTE5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1
-NjgxNTUsMTAxODYyMjk0OCwxNDExNzc0MjA2LDEzODI1ODI5MT
-EsLTEyNzM0NzY0NjAsLTE4MDIzMDM1ODRdfQ==
+eyJoaXN0b3J5IjpbLTMyMDIxMDg5NCwtMTk4Mzk5MTU3OSwtMT
+E2OTY3Mjc1NSwxNDIwNDYyMjMxLDEyMDAyNjgxNjksLTc0NTYz
+MTk0LC0yMTQzNTU0Njg2LC0yMTQzNTU0Njg2LDEwNDk2OTc3Nj
+csNzcyMTUwNTM0LDM5MDkxMzEzNCwxMTk1NzU1NTMzLDIwNjU1
+MjY5OTgsLTI2MDU2ODE1NSwxMDE4NjIyOTQ4LDE0MTE3NzQyMD
+YsMTM4MjU4MjkxMSwtMTI3MzQ3NjQ2MCwtMTgwMjMwMzU4NF19
+
 -->
