@@ -38,7 +38,7 @@ Pyplan can be considered a Python integrated development environment for data an
 **Pyplan** is the software evolution of **Cubeplan**. Improvements were so radical that required a change in the name of the product. However, in order to make it easy for former Cubeplan users to migrate to Pyplan, we have created a library that reproduces, as similar as possible, Cubeplan functions and syntax.
 Cubeplan models cannot be run in Pyplan. A good way to learn how to use Python is to migrate an existing Cubeplan model.
 
-### **Pyplan Library for former Cubeplan users**
+### **Pyplan Library, correlation with Cubeplan **
 Check examples available in  **Pyplan Library** folder to see how things  you did in Cubeplan using **Pyplan** .
 
 ![enter image description here](http://img.pyplan.org/Int_pplexamples_new.png)
@@ -87,7 +87,7 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |Interacting with Pandas|new|reading from pandas see example|sales_data_by_orders_date|XA|| 
 
 
-### **Library for former Financial Planning Cubeplan users**
+### **Financial Planning Library Cubeplan users**
 If you are used to create **financial planning models in Cubeplan** then these other functions will be useful for you.
 
 **Contact your former Cubeplan distributor** to ask for module with these specific functions.
@@ -111,11 +111,11 @@ If you are used to create **financial planning models in Cubeplan** then these o
 
 Use these functions as you used then in Cubeplan.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODE3OTQ5MCw0MjA0MDI1NTIsMTY5OD
-g1MjMwLC0zMjAyMTA4OTQsLTE5ODM5OTE1NzksLTExNjk2NzI3
-NTUsMTQyMDQ2MjIzMSwxMjAwMjY4MTY5LC03NDU2MzE5NCwtMj
-E0MzU1NDY4NiwtMjE0MzU1NDY4NiwxMDQ5Njk3NzY3LDc3MjE1
-MDUzNCwzOTA5MTMxMzQsMTE5NTc1NTUzMywyMDY1NTI2OTk4LC
-0yNjA1NjgxNTUsMTAxODYyMjk0OCwxNDExNzc0MjA2LDEzODI1
-ODI5MTFdfQ==
+eyJoaXN0b3J5IjpbNTMyMjI4MTU0LDQyMDQwMjU1MiwxNjk4OD
+UyMzAsLTMyMDIxMDg5NCwtMTk4Mzk5MTU3OSwtMTE2OTY3Mjc1
+NSwxNDIwNDYyMjMxLDEyMDAyNjgxNjksLTc0NTYzMTk0LC0yMT
+QzNTU0Njg2LC0yMTQzNTU0Njg2LDEwNDk2OTc3NjcsNzcyMTUw
+NTM0LDM5MDkxMzEzNCwxMTk1NzU1NTMzLDIwNjU1MjY5OTgsLT
+I2MDU2ODE1NSwxMDE4NjIyOTQ4LDE0MTE3NzQyMDYsMTM4MjU4
+MjkxMV19
 -->
