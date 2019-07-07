@@ -52,7 +52,7 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |Selecting Data from Array|subset|subset|subset_ex|PPL|
 |Selecting Data from Array|slice|slice_dataarray|slice_dataarray_ex|PPL|
 |Basic Math and Missing Values|size|len()|len_size_ex|XA|
-|Basic Math and Missing Values||dataarray.size|len_size_ex|XA|
+|Basic Math and Missing Values|size|dataarray.size|len_size_ex|XA|
 |Basic Math and Missing Values|undef_filter|fill_all|fillall_ex|PPL|
 |Basic Math and Missing Values|nvx_is_null/nvx_is_nan|dataarray.fillna()|missing_values_methodsfillna|XA|
 |Basic Math and Missing Values|undef_filter|fill_inf|fillinf_ex|PPL|
@@ -76,7 +76,7 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |Dynamic NPV IRR  and Linear Depreciation|dynamic|dynamic|dynamic_ex|PPL|
 |Dynamic NPV IRR  and Linear Depreciation|new|create_time|time|PPL|
 |Dynamic NPV IRR  and Linear Depreciation|linear depreciation|linear_depreciation|linear_depreciation_ex|PPL|
-|Dynamic NPV IRR  and Linear Depreciation|or||||XA|
+|Dynamic NPV IRR  and Linear Depreciation|or|" / "||XA|
 |Reading Data from Excel|nvx_da_source_cone|excel_connection|excel_connection_ex|PPL|
 |Reading Data from Excel|nvx_read_index|index_from_excel|reading_example_index|PPL|
 |Reading Data from Excel|nvx_read_table|dataarray_from_excel|dataarray_from_excel_ex|PPL|
@@ -86,11 +86,11 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |Interacting with Pandas|new|reading from pandas see example|sales_data_by_orders_date|XA||  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTg3NjM1NCwtMzIwMjEwODk0LC0xOT
-gzOTkxNTc5LC0xMTY5NjcyNzU1LDE0MjA0NjIyMzEsMTIwMDI2
-ODE2OSwtNzQ1NjMxOTQsLTIxNDM1NTQ2ODYsLTIxNDM1NTQ2OD
-YsMTA0OTY5Nzc2Nyw3NzIxNTA1MzQsMzkwOTEzMTM0LDExOTU3
-NTU1MzMsMjA2NTUyNjk5OCwtMjYwNTY4MTU1LDEwMTg2MjI5ND
-gsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjczNDc2NDYwLC0x
-ODAyMzAzNTg0XX0=
+eyJoaXN0b3J5IjpbMTY5ODg1MjMwLC0zMjAyMTA4OTQsLTE5OD
+M5OTE1NzksLTExNjk2NzI3NTUsMTQyMDQ2MjIzMSwxMjAwMjY4
+MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4NiwtMjE0MzU1NDY4Ni
+wxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5MTMxMzQsMTE5NTc1
+NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMTAxODYyMjk0OC
+wxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEyNzM0NzY0NjAsLTE4
+MDIzMDM1ODRdfQ==
 -->
