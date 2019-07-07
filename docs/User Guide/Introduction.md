@@ -40,7 +40,7 @@ Cubeplan models cannot be run in Pyplan. A good way to learn how to use Python i
 
 Check examples available in  **Pyplan Library** folder to see how to do the same you did in Cubeplan using **Pyplan **.
 
-![enter image description here](http://img.pyplan.org/Int_pplexamples.png)
+![enter image description here](http://img.pyplan.org/Int_pplexamples_new.png)
 
 The following table contains **Cubeplan basic function** list and its **correlation in Pyplan**
 
@@ -54,10 +54,10 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk2NzI3NTUsMTQyMDQ2MjIzMSwxMj
-AwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4NiwtMjE0MzU1
-NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5MTMxMzQsMT
-E5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMTAxODYy
-Mjk0OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEyNzM0NzY0Nj
-AsLTE4MDIzMDM1ODRdfQ==
+eyJoaXN0b3J5IjpbLTE5NDExOTE4MjYsLTExNjk2NzI3NTUsMT
+QyMDQ2MjIzMSwxMjAwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1
+NDY4NiwtMjE0MzU1NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNC
+wzOTA5MTMxMzQsMTE5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1
+NjgxNTUsMTAxODYyMjk0OCwxNDExNzc0MjA2LDEzODI1ODI5MT
+EsLTEyNzM0NzY0NjAsLTE4MDIzMDM1ODRdfQ==
 -->
