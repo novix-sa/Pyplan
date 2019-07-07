@@ -85,10 +85,13 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |Interacting with Pandas|new|index_from_pandas|orders_date|PPL|
 |Interacting with Pandas|new|reading from pandas see example|sales_data_by_orders_date|XA|| 
 
-If you are used to create financial planning model in Cubeplan. Then these other functions will be useful for you.
-Contact your former Cubeplan distributor 
+
+
+If you are used to create f**inancial planning model in Cubeplan**. Then these other functions will be useful for you.
+
+**Contact your former Cubepla**n distributor to ask for module with these specific functions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODEwMTMwNzAsMTY5ODg1MjMwLC0zMj
+eyJoaXN0b3J5IjpbLTExMzE1NzQ3NzEsMTY5ODg1MjMwLC0zMj
 AyMTA4OTQsLTE5ODM5OTE1NzksLTExNjk2NzI3NTUsMTQyMDQ2
 MjIzMSwxMjAwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4Ni
 wtMjE0MzU1NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5
