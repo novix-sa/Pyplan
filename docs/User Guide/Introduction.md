@@ -42,15 +42,20 @@ Check examples available in  **Pyplan Library** folder to see how to do the same
 
 
 The following table contains **Cubeplan basic function** list and its **correlation in Pyplan**
-|  |  |
+|Title in Cubeplan|Pyplan LibraryPyplan Library (PPL), Xarray (XA), PandasNode with example
+|change index|change_indexPPLchange_index_ex  /change_index_by_pos_ex
+
+|subscript/change index|subscriptPPLsubscript_ex
+
+|subcript looking up|lookupPPLlookup_ex
 |--|--|
 |  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE0ODQzNDUsMTQyMDQ2MjIzMSwxMj
-AwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4NiwtMjE0MzU1
-NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5MTMxMzQsMT
-E5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMTAxODYy
-Mjk0OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEyNzM0NzY0Nj
-AsLTE4MDIzMDM1ODRdfQ==
+eyJoaXN0b3J5IjpbMTAzMTgzMDI0OCwxNDIwNDYyMjMxLDEyMD
+AyNjgxNjksLTc0NTYzMTk0LC0yMTQzNTU0Njg2LC0yMTQzNTU0
+Njg2LDEwNDk2OTc3NjcsNzcyMTUwNTM0LDM5MDkxMzEzNCwxMT
+k1NzU1NTMzLDIwNjU1MjY5OTgsLTI2MDU2ODE1NSwxMDE4NjIy
+OTQ4LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3MzQ3NjQ2MC
+wtMTgwMjMwMzU4NF19
 -->
