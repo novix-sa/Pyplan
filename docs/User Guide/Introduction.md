@@ -93,13 +93,26 @@ If you are used to create f**inancial planning model in Cubeplan**. Then these o
 
 |Module| Title in Cubeplan|Pyplan Library|
 |-----|-----|-----|
-|Selecting Data from Array|change index|change_index|change_index_ex  /change_index_by_pos_ex|PPL|
+|Financial Planning|sea_to_time|sea_to_time|
+|Financial Planning|annualise|annualise|
+|Financial Planning|month|month|
+|Financial Planning|evatime|evatime|
+|Financial Planning|new|days_to_time|
+|Financial Planning|new|time_to_days|
+|Financial Planning|evayears|evayears|
+|Financial Planning|years to time|years_to_time|
+|Financial Planning|cp.cascadevolume(demand,ranges,consumption_range_index=none):|cascade_volume|
+|Financial Planning|new|dispatch|
+|Financial Planning|new|nvx_read_multi_sheets|
+|Financial Planning|new|nvx_smart_pandas|
+|Financial Planning|new|nvx_round|
+|Financial Planning|new|nvx_safe_int_div|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTg2ODUyOCwxNjk4ODUyMzAsLTMyMD
-IxMDg5NCwtMTk4Mzk5MTU3OSwtMTE2OTY3Mjc1NSwxNDIwNDYy
-MjMxLDEyMDAyNjgxNjksLTc0NTYzMTk0LC0yMTQzNTU0Njg2LC
-0yMTQzNTU0Njg2LDEwNDk2OTc3NjcsNzcyMTUwNTM0LDM5MDkx
-MzEzNCwxMTk1NzU1NTMzLDIwNjU1MjY5OTgsLTI2MDU2ODE1NS
-wxMDE4NjIyOTQ4LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3
-MzQ3NjQ2MF19
+eyJoaXN0b3J5IjpbNDIwNDAyNTUyLDE2OTg4NTIzMCwtMzIwMj
+EwODk0LC0xOTgzOTkxNTc5LC0xMTY5NjcyNzU1LDE0MjA0NjIy
+MzEsMTIwMDI2ODE2OSwtNzQ1NjMxOTQsLTIxNDM1NTQ2ODYsLT
+IxNDM1NTQ2ODYsMTA0OTY5Nzc2Nyw3NzIxNTA1MzQsMzkwOTEz
+MTM0LDExOTU3NTU1MzMsMjA2NTUyNjk5OCwtMjYwNTY4MTU1LD
+EwMTg2MjI5NDgsMTQxMTc3NDIwNiwxMzgyNTgyOTExLC0xMjcz
+NDc2NDYwXX0=
 -->
