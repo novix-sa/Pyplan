@@ -44,7 +44,7 @@ Check examples available in  **Pyplan Library** folder to see how things  you di
 
 The following table contains **Cubeplan basic function** list and its **correlation in Pyplan**.
 
-|Model| Title in Cubeplan|Pyplan Library|Node with example|Pyplan Library (PPL), Xarray (XA), Pandas|
+|Model| Title in Cubeplan|Pyplan Library|Node with example|PPL,XA or Pandas|
 |-----|-----|-----|-----|-----|
 |Selecting Data from Array|change index|change_index|change_index_ex  /change_index_by_pos_ex|PPL|
 |Selecting Data from Array|subscript/change index|subscript|subscript_ex|PPL|
@@ -86,7 +86,7 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |Interacting with Pandas|new|reading from pandas see example|sales_data_by_orders_date|XA|| 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTY5MjAzNiwxNjk4ODUyMzAsLTMyMD
+eyJoaXN0b3J5IjpbLTI4MzMzODE4OSwxNjk4ODUyMzAsLTMyMD
 IxMDg5NCwtMTk4Mzk5MTU3OSwtMTE2OTY3Mjc1NSwxNDIwNDYy
 MjMxLDEyMDAyNjgxNjksLTc0NTYzMTk0LC0yMTQzNTU0Njg2LC
 0yMTQzNTU0Njg2LDEwNDk2OTc3NjcsNzcyMTUwNTM0LDM5MDkx
