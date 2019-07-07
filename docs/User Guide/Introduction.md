@@ -85,14 +85,13 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |Interacting with Pandas|new|index_from_pandas|orders_date|PPL|
 |Interacting with Pandas|new|reading from pandas see example|sales_data_by_orders_date|XA|| 
 
-If you are used to create models using the following functions then, there is a specific library that has to be added to your model, in thta case contact dginno creThe following table contains **Cubeplan basic function** list and its **correlation in Pyplan**.
-
+If you are usThere are some specific functions that has been created 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDQzMjgxOSwxNjk4ODUyMzAsLTMyMD
-IxMDg5NCwtMTk4Mzk5MTU3OSwtMTE2OTY3Mjc1NSwxNDIwNDYy
-MjMxLDEyMDAyNjgxNjksLTc0NTYzMTk0LC0yMTQzNTU0Njg2LC
-0yMTQzNTU0Njg2LDEwNDk2OTc3NjcsNzcyMTUwNTM0LDM5MDkx
-MzEzNCwxMTk1NzU1NTMzLDIwNjU1MjY5OTgsLTI2MDU2ODE1NS
-wxMDE4NjIyOTQ4LDE0MTE3NzQyMDYsMTM4MjU4MjkxMSwtMTI3
-MzQ3NjQ2MF19
+eyJoaXN0b3J5IjpbLTE2MzgwMDU2MjMsMTY5ODg1MjMwLC0zMj
+AyMTA4OTQsLTE5ODM5OTE1NzksLTExNjk2NzI3NTUsMTQyMDQ2
+MjIzMSwxMjAwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4Ni
+wtMjE0MzU1NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5
+MTMxMzQsMTE5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNT
+UsMTAxODYyMjk0OCwxNDExNzc0MjA2LDEzODI1ODI5MTEsLTEy
+NzM0NzY0NjBdfQ==
 -->
