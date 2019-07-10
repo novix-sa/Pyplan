@@ -102,7 +102,7 @@ If you are used to create **financial planning models in Cubeplan** then these o
 |Financial Planning|new|time_to_days|
 |Financial Planning|evayears|evayears|
 |Financial Planning|years to time|years_to_time|
-|Financial Planning|cp.cascadevolume(demand,ranges,consumption_range_index=none):|cascade_volume|
+|Financial Planning|cascade_volume|cascade_volume|
 |Financial Planning|new|dispatch|
 |Financial Planning|new|nvx_read_multi_sheets|
 |Financial Planning|new|nvx_smart_pandas|
@@ -111,11 +111,11 @@ If you are used to create **financial planning models in Cubeplan** then these o
 
 Use these functions as you used then in Cubeplan.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTAyNTE5NiwtODMyMTQ3NjQ4LDQyMD
-QwMjU1MiwxNjk4ODUyMzAsLTMyMDIxMDg5NCwtMTk4Mzk5MTU3
-OSwtMTE2OTY3Mjc1NSwxNDIwNDYyMjMxLDEyMDAyNjgxNjksLT
-c0NTYzMTk0LC0yMTQzNTU0Njg2LC0yMTQzNTU0Njg2LDEwNDk2
-OTc3NjcsNzcyMTUwNTM0LDM5MDkxMzEzNCwxMTk1NzU1NTMzLD
-IwNjU1MjY5OTgsLTI2MDU2ODE1NSwxMDE4NjIyOTQ4LDE0MTE3
-NzQyMDZdfQ==
+eyJoaXN0b3J5IjpbNDYzOTc0MjM5LDE5NzkwMjUxOTYsLTgzMj
+E0NzY0OCw0MjA0MDI1NTIsMTY5ODg1MjMwLC0zMjAyMTA4OTQs
+LTE5ODM5OTE1NzksLTExNjk2NzI3NTUsMTQyMDQ2MjIzMSwxMj
+AwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4NiwtMjE0MzU1
+NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5MTMxMzQsMT
+E5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMTAxODYy
+Mjk0OF19
 -->
