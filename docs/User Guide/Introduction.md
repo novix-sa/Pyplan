@@ -113,13 +113,15 @@ Use these functions as you used then in Cubeplan.
 
 ### **## Pyplan Excel AddIn**
 
-Check the following [link](https://cubeplat.com/pyplan-excel-addin/) to install Pyplan Excel AddIn if you need to dynamically download Pyplan Information into your spreadsheets
+Check the following [link](https://cubeplat.com/pyplan-excel-addin/) to install Pyplan Excel AddIn if you need to dynamically download Pyplan Information into your spreadsheets.
+
+![enter image description here](http://img.pyplan.org/Int_add_in.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTU3NTY3LDQ2Mzk3NDIzOSwxOTc5MD
-I1MTk2LC04MzIxNDc2NDgsNDIwNDAyNTUyLDE2OTg4NTIzMCwt
-MzIwMjEwODk0LC0xOTgzOTkxNTc5LC0xMTY5NjcyNzU1LDE0Mj
-A0NjIyMzEsMTIwMDI2ODE2OSwtNzQ1NjMxOTQsLTIxNDM1NTQ2
-ODYsLTIxNDM1NTQ2ODYsMTA0OTY5Nzc2Nyw3NzIxNTA1MzQsMz
-kwOTEzMTM0LDExOTU3NTU1MzMsMjA2NTUyNjk5OCwtMjYwNTY4
-MTU1XX0=
+eyJoaXN0b3J5IjpbMTk5NjA0NDI0LC00ODE1NzU2Nyw0NjM5Nz
+QyMzksMTk3OTAyNTE5NiwtODMyMTQ3NjQ4LDQyMDQwMjU1Miwx
+Njk4ODUyMzAsLTMyMDIxMDg5NCwtMTk4Mzk5MTU3OSwtMTE2OT
+Y3Mjc1NSwxNDIwNDYyMjMxLDEyMDAyNjgxNjksLTc0NTYzMTk0
+LC0yMTQzNTU0Njg2LC0yMTQzNTU0Njg2LDEwNDk2OTc3NjcsNz
+cyMTUwNTM0LDM5MDkxMzEzNCwxMTk1NzU1NTMzLDIwNjU1MjY5
+OThdfQ==
 -->
