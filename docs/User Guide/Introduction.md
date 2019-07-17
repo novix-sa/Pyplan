@@ -48,7 +48,7 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |Model| Title in Cubeplan|Pyplan Library|Node with example|PPL,XA or Pandas|
 |-----|-----|-----|-----|-----|
 |Selecting Data from Array|change index|change_index|change_index_ex  /change_index_by_pos_ex|PPL|
-|Selecting Data from Array|subscript/change index|subscript|subscript_ex|PPL|
+|Selecting Data from Array|subscript|subscript|subscript_ex|PPL|
 |Selecting Data from Array|subcript looking up|lookup|lookup_ex|PPL|
 |Selecting Data from Array|subset|subset|subset_ex|PPL|
 |Selecting Data from Array|slice|slice_dataarray|slice_dataarray_ex|PPL|
@@ -110,12 +110,16 @@ If you are used to create **financial planning models in Cubeplan** then these o
 |Financial Planning|new|nvx_safe_int_div|
 
 Use these functions as you used then in Cubeplan.
+
+### **## Pyplan Excel AddIn**
+
+Check the folowing link to install Pyplan Excel AddIn if you need to dynamically interact be
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzOTc0MjM5LDE5NzkwMjUxOTYsLTgzMj
-E0NzY0OCw0MjA0MDI1NTIsMTY5ODg1MjMwLC0zMjAyMTA4OTQs
-LTE5ODM5OTE1NzksLTExNjk2NzI3NTUsMTQyMDQ2MjIzMSwxMj
-AwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4NiwtMjE0MzU1
-NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5MTMxMzQsMT
-E5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1NjgxNTUsMTAxODYy
-Mjk0OF19
+eyJoaXN0b3J5IjpbLTExMzE4NjM3NzgsNDYzOTc0MjM5LDE5Nz
+kwMjUxOTYsLTgzMjE0NzY0OCw0MjA0MDI1NTIsMTY5ODg1MjMw
+LC0zMjAyMTA4OTQsLTE5ODM5OTE1NzksLTExNjk2NzI3NTUsMT
+QyMDQ2MjIzMSwxMjAwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1
+NDY4NiwtMjE0MzU1NDY4NiwxMDQ5Njk3NzY3LDc3MjE1MDUzNC
+wzOTA5MTMxMzQsMTE5NTc1NTUzMywyMDY1NTI2OTk4LC0yNjA1
+NjgxNTVdfQ==
 -->
