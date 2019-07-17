@@ -111,17 +111,17 @@ If you are used to create **financial planning models in Cubeplan** then these o
 
 Use these functions as you used then in Cubeplan.
 
-###  Pyplan Excel AddIn
+###  **Pyplan Excel AddIn**
 
 Check the following [link](https://cubeplat.com/pyplan-excel-addin/) to install Pyplan Excel AddIn if you need to dynamically download Pyplan Information into your spreadsheets.
 
 ![enter image description here](http://img.pyplan.org/Int_add_in.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNzk5MjA4LC00ODE1NzU2Nyw0NjM5Nz
-QyMzksMTk3OTAyNTE5NiwtODMyMTQ3NjQ4LDQyMDQwMjU1Miwx
-Njk4ODUyMzAsLTMyMDIxMDg5NCwtMTk4Mzk5MTU3OSwtMTE2OT
-Y3Mjc1NSwxNDIwNDYyMjMxLDEyMDAyNjgxNjksLTc0NTYzMTk0
-LC0yMTQzNTU0Njg2LC0yMTQzNTU0Njg2LDEwNDk2OTc3NjcsNz
-cyMTUwNTM0LDM5MDkxMzEzNCwxMTk1NzU1NTMzLDIwNjU1MjY5
-OThdfQ==
+eyJoaXN0b3J5IjpbLTU2NTg1OTQxNiwtNDgxNTc1NjcsNDYzOT
+c0MjM5LDE5NzkwMjUxOTYsLTgzMjE0NzY0OCw0MjA0MDI1NTIs
+MTY5ODg1MjMwLC0zMjAyMTA4OTQsLTE5ODM5OTE1NzksLTExNj
+k2NzI3NTUsMTQyMDQ2MjIzMSwxMjAwMjY4MTY5LC03NDU2MzE5
+NCwtMjE0MzU1NDY4NiwtMjE0MzU1NDY4NiwxMDQ5Njk3NzY3LD
+c3MjE1MDUzNCwzOTA5MTMxMzQsMTE5NTc1NTUzMywyMDY1NTI2
+OTk4XX0=
 -->
