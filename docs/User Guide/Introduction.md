@@ -109,7 +109,7 @@ If you are used to create **financial planning models in Cubeplan** then these o
 |Financial Planning|new|nvx_round|
 |Financial Planning|new|nvx_safe_int_div|
 
-Use these functions as you used then in Cubeplan.
+Use these functions as you used them in Cubeplan.
 
 ###  **Pyplan Excel AddIn**
 
@@ -117,11 +117,11 @@ Check the following [link](https://cubeplat.com/pyplan-excel-addin/) to install 
 
 ![enter image description here](http://img.pyplan.org/Int_add_in.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTg1OTQxNiwtNDgxNTc1NjcsNDYzOT
-c0MjM5LDE5NzkwMjUxOTYsLTgzMjE0NzY0OCw0MjA0MDI1NTIs
-MTY5ODg1MjMwLC0zMjAyMTA4OTQsLTE5ODM5OTE1NzksLTExNj
-k2NzI3NTUsMTQyMDQ2MjIzMSwxMjAwMjY4MTY5LC03NDU2MzE5
-NCwtMjE0MzU1NDY4NiwtMjE0MzU1NDY4NiwxMDQ5Njk3NzY3LD
-c3MjE1MDUzNCwzOTA5MTMxMzQsMTE5NTc1NTUzMywyMDY1NTI2
-OTk4XX0=
+eyJoaXN0b3J5IjpbLTIxMzcwOTQxOTksLTU2NTg1OTQxNiwtND
+gxNTc1NjcsNDYzOTc0MjM5LDE5NzkwMjUxOTYsLTgzMjE0NzY0
+OCw0MjA0MDI1NTIsMTY5ODg1MjMwLC0zMjAyMTA4OTQsLTE5OD
+M5OTE1NzksLTExNjk2NzI3NTUsMTQyMDQ2MjIzMSwxMjAwMjY4
+MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4NiwtMjE0MzU1NDY4Ni
+wxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5MTMxMzQsMTE5NTc1
+NTUzM119
 -->
