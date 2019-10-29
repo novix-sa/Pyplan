@@ -103,6 +103,7 @@ If you are used to create **financial planning models in Cubeplan** then these o
 |Financial Planning|evayears|evayears|
 |Financial Planning|years to time|years_to_time|
 |Financial Planning|cascade_volume|cascade_volume|
+|Financial Planning|band_allocation|band_allocation|
 |Financial Planning|new|dispatch|
 |Financial Planning|new|nvx_read_multi_sheets|
 |Financial Planning|new|nvx_smart_pandas|
@@ -117,11 +118,11 @@ Check the following [link](https://cubeplat.com/pyplan-excel-addin/) to install 
 
 ![enter image description here](http://img.pyplan.org/Int_add_in.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzcwOTQxOTksLTU2NTg1OTQxNiwtND
-gxNTc1NjcsNDYzOTc0MjM5LDE5NzkwMjUxOTYsLTgzMjE0NzY0
-OCw0MjA0MDI1NTIsMTY5ODg1MjMwLC0zMjAyMTA4OTQsLTE5OD
-M5OTE1NzksLTExNjk2NzI3NTUsMTQyMDQ2MjIzMSwxMjAwMjY4
-MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4NiwtMjE0MzU1NDY4Ni
-wxMDQ5Njk3NzY3LDc3MjE1MDUzNCwzOTA5MTMxMzQsMTE5NTc1
-NTUzM119
+eyJoaXN0b3J5IjpbLTgwMTM1NTk4OSwtMjEzNzA5NDE5OSwtNT
+Y1ODU5NDE2LC00ODE1NzU2Nyw0NjM5NzQyMzksMTk3OTAyNTE5
+NiwtODMyMTQ3NjQ4LDQyMDQwMjU1MiwxNjk4ODUyMzAsLTMyMD
+IxMDg5NCwtMTk4Mzk5MTU3OSwtMTE2OTY3Mjc1NSwxNDIwNDYy
+MjMxLDEyMDAyNjgxNjksLTc0NTYzMTk0LC0yMTQzNTU0Njg2LC
+0yMTQzNTU0Njg2LDEwNDk2OTc3NjcsNzcyMTUwNTM0LDM5MDkx
+MzEzNF19
 -->
