@@ -1,8 +1,8 @@
 # **Quick Start**
 
 ## **Login**
-
-You can login with your LinkedIn account or request a trial account to access Pyplan cloud services  [here](http://pyplan.com/contact/).
+Pyplan cloud environment runs at [https://my.pyplan.com](https://my.pyplan.com)
+You can login with your LinkedIn account or request a free account to access Pyplan cloud services  [here](http://pyplan.com/contact/).
 
 Once the server address has been identified, you can log into Pyplan with valid user credentials using a regular login form:
 
@@ -141,11 +141,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NjYzMTg2LDQzODA5NzE5NCwtMzM2Nj
-E3NDAyLC0xNTk3NDg4MzgxLC0xODMzNDM1MzUxLDYyOTM4MjI1
-NywxMzMwMTc1NDczLC0zOTYwMTA1MjEsLTE5MjE5NTk4MzIsMT
-QzMDU0OTUzMSw5MjI3NTY0MjUsMjA4NDU2MDU1MiwxNTQ1MTEy
-OTI3LDI5NDk0MTE0OCwtNDIxODU2MTgyLC0xMDA2OTUxNzA3LD
-E0MDI4MTE2MjcsMTIzODczMTcwMywtNjc1MDEzNDg4LDgyMzc5
-ODExOF19
+eyJoaXN0b3J5IjpbLTg5NTE2MTgxOCw0MzgwOTcxOTQsLTMzNj
+YxNzQwMiwtMTU5NzQ4ODM4MSwtMTgzMzQzNTM1MSw2MjkzODIy
+NTcsMTMzMDE3NTQ3MywtMzk2MDEwNTIxLC0xOTIxOTU5ODMyLD
+E0MzA1NDk1MzEsOTIyNzU2NDI1LDIwODQ1NjA1NTIsMTU0NTEx
+MjkyNywyOTQ5NDExNDgsLTQyMTg1NjE4MiwtMTAwNjk1MTcwNy
+wxNDAyODExNjI3LDEyMzg3MzE3MDMsLTY3NTAxMzQ4OCw4MjM3
+OTgxMThdfQ==
 -->
