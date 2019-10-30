@@ -2,11 +2,11 @@
 
 ## **Login**
 
-To access Pyplan, it must be installed in a server. Or you can request a trial account to access Pyplan cloud services  [here](http://pyplan.com/contact/).
+You can login with your LinkedIn account or request a trial account to access Pyplan cloud services  [here](http://pyplan.com/contact/).
 
 Once the server address has been identified, you can log into Pyplan with valid user credentials using a regular login form:
 
-![login](http://img.pyplan.org/Qus_loginnew.png)
+![login](http://img.pyplan.org/Quick_start_login_en1.png)
 
 After login in, you will reach the app land page, which looks like the following picture:
 ![Pyplan Homepage](http://img.pyplan.org/Qus_home_new.png)
@@ -141,11 +141,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4MDk3MTk0LC0zMzY2MTc0MDIsLTE1OT
-c0ODgzODEsLTE4MzM0MzUzNTEsNjI5MzgyMjU3LDEzMzAxNzU0
-NzMsLTM5NjAxMDUyMSwtMTkyMTk1OTgzMiwxNDMwNTQ5NTMxLD
-kyMjc1NjQyNSwyMDg0NTYwNTUyLDE1NDUxMTI5MjcsMjk0OTQx
-MTQ4LC00MjE4NTYxODIsLTEwMDY5NTE3MDcsMTQwMjgxMTYyNy
-wxMjM4NzMxNzAzLC02NzUwMTM0ODgsODIzNzk4MTE4LDEwNTg4
-MDQ4OTNdfQ==
+eyJoaXN0b3J5IjpbODY0NjYzMTg2LDQzODA5NzE5NCwtMzM2Nj
+E3NDAyLC0xNTk3NDg4MzgxLC0xODMzNDM1MzUxLDYyOTM4MjI1
+NywxMzMwMTc1NDczLC0zOTYwMTA1MjEsLTE5MjE5NTk4MzIsMT
+QzMDU0OTUzMSw5MjI3NTY0MjUsMjA4NDU2MDU1MiwxNTQ1MTEy
+OTI3LDI5NDk0MTE0OCwtNDIxODU2MTgyLC0xMDA2OTUxNzA3LD
+E0MDI4MTE2MjcsMTIzODczMTcwMywtNjc1MDEzNDg4LDgyMzc5
+ODExOF19
 -->
