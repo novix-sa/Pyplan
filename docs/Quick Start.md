@@ -4,8 +4,6 @@
 Pyplan cloud environment runs at [https://my.pyplan.com](https://my.pyplan.com)
 You can login with your LinkedIn account or request a free account to access Pyplan cloud services  [here](http://pyplan.com/contact/).
 
-Once the server address has been identified, you can log into Pyplan with valid user credentials using a regular login form:
-
 ![login](http://img.pyplan.org/Quick_start_login_en1.png)
 
 After login in, you will reach the app land page, which looks like the following picture:
@@ -141,7 +139,7 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTE2MTgxOCw0MzgwOTcxOTQsLTMzNj
+eyJoaXN0b3J5IjpbMTc4MTU4MjE2Miw0MzgwOTcxOTQsLTMzNj
 YxNzQwMiwtMTU5NzQ4ODM4MSwtMTgzMzQzNTM1MSw2MjkzODIy
 NTcsMTMzMDE3NTQ3MywtMzk2MDEwNTIxLC0xOTIxOTU5ODMyLD
 E0MzA1NDk1MzEsOTIyNzU2NDI1LDIwODQ1NjA1NTIsMTU0NTEx
