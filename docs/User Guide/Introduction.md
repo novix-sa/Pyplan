@@ -39,7 +39,7 @@ Pyplan can be considered a Python integrated development environment for data an
 Cubeplan models cannot be run in Pyplan. A good way to learn how to use Python is to migrate an existing Cubeplan model.
 
 ### **Pyplan Library correlation with Cubeplan** 
-Check examples available in  **Pyplan Library** folder to see how things  you did in Cubeplan using **Pyplan** .
+Check examples available in  **Pyplan Library** folder to see how things  you did in Cubeplan using are now done using**Pyplan** .
 
 ![enter image description here](http://img.pyplan.org/Int_pplexamples_new.png)
 
@@ -118,11 +118,11 @@ Check the following [link](https://cubeplat.com/pyplan-excel-addin/) to install 
 
 ![enter image description here](http://img.pyplan.org/Int_add_in.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTM1NTk4OSwtMjEzNzA5NDE5OSwtNT
-Y1ODU5NDE2LC00ODE1NzU2Nyw0NjM5NzQyMzksMTk3OTAyNTE5
-NiwtODMyMTQ3NjQ4LDQyMDQwMjU1MiwxNjk4ODUyMzAsLTMyMD
-IxMDg5NCwtMTk4Mzk5MTU3OSwtMTE2OTY3Mjc1NSwxNDIwNDYy
-MjMxLDEyMDAyNjgxNjksLTc0NTYzMTk0LC0yMTQzNTU0Njg2LC
-0yMTQzNTU0Njg2LDEwNDk2OTc3NjcsNzcyMTUwNTM0LDM5MDkx
-MzEzNF19
+eyJoaXN0b3J5IjpbMTExNjEzMTA1NSwtODAxMzU1OTg5LC0yMT
+M3MDk0MTk5LC01NjU4NTk0MTYsLTQ4MTU3NTY3LDQ2Mzk3NDIz
+OSwxOTc5MDI1MTk2LC04MzIxNDc2NDgsNDIwNDAyNTUyLDE2OT
+g4NTIzMCwtMzIwMjEwODk0LC0xOTgzOTkxNTc5LC0xMTY5Njcy
+NzU1LDE0MjA0NjIyMzEsMTIwMDI2ODE2OSwtNzQ1NjMxOTQsLT
+IxNDM1NTQ2ODYsLTIxNDM1NTQ2ODYsMTA0OTY5Nzc2Nyw3NzIx
+NTA1MzRdfQ==
 -->
