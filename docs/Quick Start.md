@@ -122,13 +122,13 @@ There are several types of components that can be included in an interface: Tabl
 You can define what type of object you want in a specific section of the canvas, and then search for the node that contains the data to be shown.
 ![](http://img.pyplan.org/Qus_searchnode.png)
 
-Alternatively, you can directly display the diagram in one section of the canvas, then keeping pressed the **<Shift>** key 
+Alternatively, you can display the diagram in one section of the canvas, then keeping pressed the **<Shift>** key 
 click on a node and keep it pressed to select it, and drag and drop it into the desired canvas section.
 ![](http://img.pyplan.org/Qus_draganddrop.png)
 
 
 ### Input Nodes
-They are designed to enter the data needed for the calculation logic of the app. They can be plain tables where to enter numbers, or tables from where to choose predefined options.
+They are designed to enter data needed for the calculation logic of the app. They can be plain tables where to enter numbers, or tables from where to choose predefined options.
 
 ![enter image description here](http://img.pyplan.org/Quick_start_inputs2.png)
 
@@ -140,7 +140,7 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ0NDE0NjIsODEzNTkwNjAsLTEzNj
+eyJoaXN0b3J5IjpbLTE5OTEzNDg3NzksODEzNTkwNjAsLTEzNj
 g4MDYxOTAsMTM0NzUyMzI1MSwtMTE2NjkwMjA1OCwxOTkxNTA2
 NDcyLDE3ODE1ODIxNjIsNDM4MDk3MTk0LC0zMzY2MTc0MDIsLT
 E1OTc0ODgzODEsLTE4MzM0MzUzNTEsNjI5MzgyMjU3LDEzMzAx
