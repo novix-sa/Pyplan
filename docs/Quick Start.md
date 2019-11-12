@@ -94,7 +94,7 @@ One interesting feature is the ability to show the node result as a table and gr
 
 ### Types of data structures natively supported
 Pyplan supports programming in pure Python, and natively interprets Numpy, Xarray, and Pandas objects that are rendered as pivotable, multidimensional tables or graphs for inspecting results. 
-It also interprets the figure object of Matplotlib, Bokeh and Plotly to render graphs created by those visualization libraries. Pyplan can also render an evaluated node by generating an HTML file. This functionality is particularly useful for using visualization libraries, whose result must be rendered by the app.
+It also interprets the figure object of Matplotlib, Bokeh and Plotly to render graphs created by those visualization libraries. 
 
 ### Understanding how does it evaluation works
 When you request a node to be run, Pyplan traces all predecessor variables and runs them in sequence in order to compute every input this node needs. The results of intermediate nodes are stored in memory for future inspection. When the definition of a node changes, all downstream nodes are marked to be recalculated, so that the user does not need to be aware of the updated value of any predecessor variable when running a node.
@@ -140,11 +140,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjcwNTUwMCw4MTM1OTA2MCwtMTM2OD
-gwNjE5MCwxMzQ3NTIzMjUxLC0xMTY2OTAyMDU4LDE5OTE1MDY0
-NzIsMTc4MTU4MjE2Miw0MzgwOTcxOTQsLTMzNjYxNzQwMiwtMT
-U5NzQ4ODM4MSwtMTgzMzQzNTM1MSw2MjkzODIyNTcsMTMzMDE3
-NTQ3MywtMzk2MDEwNTIxLC0xOTIxOTU5ODMyLDE0MzA1NDk1Mz
-EsOTIyNzU2NDI1LDIwODQ1NjA1NTIsMTU0NTExMjkyNywyOTQ5
-NDExNDhdfQ==
+eyJoaXN0b3J5IjpbLTE1NzQ0NDE0NjIsODEzNTkwNjAsLTEzNj
+g4MDYxOTAsMTM0NzUyMzI1MSwtMTE2NjkwMjA1OCwxOTkxNTA2
+NDcyLDE3ODE1ODIxNjIsNDM4MDk3MTk0LC0zMzY2MTc0MDIsLT
+E1OTc0ODgzODEsLTE4MzM0MzUzNTEsNjI5MzgyMjU3LDEzMzAx
+NzU0NzMsLTM5NjAxMDUyMSwtMTkyMTk1OTgzMiwxNDMwNTQ5NT
+MxLDkyMjc1NjQyNSwyMDg0NTYwNTUyLDE1NDUxMTI5MjcsMjk0
+OTQxMTQ4XX0=
 -->
