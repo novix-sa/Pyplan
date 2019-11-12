@@ -90,7 +90,7 @@ The third way to run a node is by  **double clicking** it or  pressing <kbd>Ctrl
 ![enter image description here](http://img.pyplan.org/Qus_custicon.png)
 
 ![enter image description here](http://img.pyplan.org/Quick_start_evaluate.png)
-One interesting feature is the ability to show the node result as a table and graph simultaneously. All customization parameters are lost when closing the node, unless you explicitly indicate that you want to set the current view as the default view for opening this specific node. To do that, you must click on the pencil icon
+One interesting feature is the ability to show the node result as a table and graph simultaneously. All customization parameters are lost when closing the node, unless you explicitly indicate that you want to set the current view as the default view for opening this specific node. To do that, you must click on the pencil icon ![enter image description here](http://img.pyplan.org/pencil_icon.png)
 <link rel="stylesheet"  href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
 <i class="fas fa-edit"></i>
@@ -145,11 +145,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTUwNjQ3MiwxNzgxNTgyMTYyLDQzOD
-A5NzE5NCwtMzM2NjE3NDAyLC0xNTk3NDg4MzgxLC0xODMzNDM1
-MzUxLDYyOTM4MjI1NywxMzMwMTc1NDczLC0zOTYwMTA1MjEsLT
-E5MjE5NTk4MzIsMTQzMDU0OTUzMSw5MjI3NTY0MjUsMjA4NDU2
-MDU1MiwxNTQ1MTEyOTI3LDI5NDk0MTE0OCwtNDIxODU2MTgyLC
-0xMDA2OTUxNzA3LDE0MDI4MTE2MjcsMTIzODczMTcwMywtNjc1
-MDEzNDg4XX0=
+eyJoaXN0b3J5IjpbLTkyMzczMjIzNywxOTkxNTA2NDcyLDE3OD
+E1ODIxNjIsNDM4MDk3MTk0LC0zMzY2MTc0MDIsLTE1OTc0ODgz
+ODEsLTE4MzM0MzUzNTEsNjI5MzgyMjU3LDEzMzAxNzU0NzMsLT
+M5NjAxMDUyMSwtMTkyMTk1OTgzMiwxNDMwNTQ5NTMxLDkyMjc1
+NjQyNSwyMDg0NTYwNTUyLDE1NDUxMTI5MjcsMjk0OTQxMTQ4LC
+00MjE4NTYxODIsLTEwMDY5NTE3MDcsMTQwMjgxMTYyNywxMjM4
+NzMxNzAzXX0=
 -->
