@@ -92,6 +92,7 @@ The third way to run a node is by  **double clicking** it or  pressing <kbd>Ctrl
 ![enter image description here](http://img.pyplan.org/Quick_start_evaluate.png)
 One interesting feature is the ability to show the node result as a table and graph simultaneously. All customization parameters are lost when closing the node, unless you explicitly indicate that you want to set the current view as the default view for opening this specific node. To do that, you must click on the pencil icon
 <link rel="stylesheet"  href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
 `<link rel="stylesheet"  href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 `![enter image description here](blob:https://stackedit.io/b16f2e01-84b1-4002-bf61-4758a5a62f12), on the top left corner. This will open the visualization editor, which contains all the customization features. Click on the check mark to accept the changes and set the default view of the node.
 
@@ -142,11 +143,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcwNzk4NzgsMTc4MTU4MjE2Miw0Mz
-gwOTcxOTQsLTMzNjYxNzQwMiwtMTU5NzQ4ODM4MSwtMTgzMzQz
-NTM1MSw2MjkzODIyNTcsMTMzMDE3NTQ3MywtMzk2MDEwNTIxLC
-0xOTIxOTU5ODMyLDE0MzA1NDk1MzEsOTIyNzU2NDI1LDIwODQ1
-NjA1NTIsMTU0NTExMjkyNywyOTQ5NDExNDgsLTQyMTg1NjE4Mi
-wtMTAwNjk1MTcwNywxNDAyODExNjI3LDEyMzg3MzE3MDMsLTY3
-NTAxMzQ4OF19
+eyJoaXN0b3J5IjpbMTcyMDgyNjc2NCwxNzgxNTgyMTYyLDQzOD
+A5NzE5NCwtMzM2NjE3NDAyLC0xNTk3NDg4MzgxLC0xODMzNDM1
+MzUxLDYyOTM4MjI1NywxMzMwMTc1NDczLC0zOTYwMTA1MjEsLT
+E5MjE5NTk4MzIsMTQzMDU0OTUzMSw5MjI3NTY0MjUsMjA4NDU2
+MDU1MiwxNTQ1MTEyOTI3LDI5NDk0MTE0OCwtNDIxODU2MTgyLC
+0xMDA2OTUxNzA3LDE0MDI4MTE2MjcsMTIzODczMTcwMywtNjc1
+MDEzNDg4XX0=
 -->
