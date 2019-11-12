@@ -5,24 +5,24 @@ Pyplan is in permanent evolution, so you will probably find minor differences be
 ## **What you will find in this User Guide**
 -------------
 The User Guide has been structured in the following sections:
-### Pyplan App Homepage
+### **Pyplan App Homepage**
 Where the application's main menu and tools are described.
-### File Manager
+### **File Manager**
 Users have their own workspace and can also access a Public workspace. The File manager provides assistance for working with files related to your applications.
-### Model
+### **Model**
 Pyplan organizes Python code in nodes that are represented as a workflow (influence diagram.) In this section, all the tools and features created for helping you build the calculation and data manipulation logic are explained.
-### Visualization
+### **Visualization**
 Calculation steps are contained in nodes that end with a result. These nodes can be evaluated, and their result can be displayed as a table, graph or map.
 All native Pyplan visualization alternatives and parameter configurations are described in this section. 
 It is important to highlight that it is also possible to use many other visualization libraries available in Python, like [Bokeh](https://bokeh.pydata.org/en/latest/) or [Plotly](https://github.com/plotly/plotly.py) for rendering results.
 
-### Interface Designer
+### **Interface Designer**
 Visualization and user controls are grouped in interfaces which allow the user to interact with your app and explore the results. In this chapter, we will explain how to create, configure, and share these apps. **Most importantly: no coding required!**
 
-### Configuration and User Management
+### **Configuration and User Management**
 The enterprise version of Pyplan is installed on a server or provided as a service through Amazon Elastic Cloud. In this section, we will explore the app's architecture and how to administer users in terms of security and resources.
 
-### Tutorials, Examples and Demos
+### **Tutorials, Examples and Demos**
 In the Public folder that you can access through the File manager, you will find many Pyplan models grouped as Tutorials, Examples and Demos. 
 **Tutorials** are basic examples that illustrate how Pyplan natively handles and interact with Python objects. 
 The **Examples** are intended to demonstrate what can be done with Pyplan. You can review its code to understand how to adapt or reuse any piece of code in your own project.
@@ -118,11 +118,11 @@ Check the following [link](https://cubeplat.com/pyplan-excel-addin/) to install 
 
 ![enter image description here](http://img.pyplan.org/Int_add_in.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzA1OTgzOSwtODAxMzU1OTg5LC0yMT
-M3MDk0MTk5LC01NjU4NTk0MTYsLTQ4MTU3NTY3LDQ2Mzk3NDIz
-OSwxOTc5MDI1MTk2LC04MzIxNDc2NDgsNDIwNDAyNTUyLDE2OT
-g4NTIzMCwtMzIwMjEwODk0LC0xOTgzOTkxNTc5LC0xMTY5Njcy
-NzU1LDE0MjA0NjIyMzEsMTIwMDI2ODE2OSwtNzQ1NjMxOTQsLT
-IxNDM1NTQ2ODYsLTIxNDM1NTQ2ODYsMTA0OTY5Nzc2Nyw3NzIx
-NTA1MzRdfQ==
+eyJoaXN0b3J5IjpbLTUxMjQxNjEsMTIwMzA1OTgzOSwtODAxMz
+U1OTg5LC0yMTM3MDk0MTk5LC01NjU4NTk0MTYsLTQ4MTU3NTY3
+LDQ2Mzk3NDIzOSwxOTc5MDI1MTk2LC04MzIxNDc2NDgsNDIwND
+AyNTUyLDE2OTg4NTIzMCwtMzIwMjEwODk0LC0xOTgzOTkxNTc5
+LC0xMTY5NjcyNzU1LDE0MjA0NjIyMzEsMTIwMDI2ODE2OSwtNz
+Q1NjMxOTQsLTIxNDM1NTQ2ODYsLTIxNDM1NTQ2ODYsMTA0OTY5
+Nzc2N119
 -->
