@@ -93,7 +93,7 @@ The third way to run a node is by  **double clicking** it or  pressing <kbd>Ctrl
 One interesting feature is the ability to show the node result as a table and graph simultaneously. All customization parameters are lost when closing the node, unless you explicitly indicate that you want to set the current view as the default view for opening this specific node. To do that, you must click on the pencil icon  ![enter image description here](http://img.pyplan.org/pencil_icon2.png), on the top left corner. This will open the visualization editor, which contains all the customization features. Click on the check mark to accept the changes and set the default view of the node.
 
 ### Types of data structures natively supported
-Pyplan supports programming in pure Python, and natively interprets Numpy, Xarray, and Pandas objects that are rendered as pivotable multidimensional tables or graphs for inspecting results. It allows to import and use any other specific library you may need to attain your particular goals. Pyplan can also render an evaluated node by generating an HTML file. This functionality is particularly useful for using visualization libraries, whose result must be rendered by the app.
+Pyplan supports programming in pure Python, and natively interprets Numpy, Xarray, and Pandas objects that are rendered as pivotable, multidimensional tables or graphs for inspecting results. It allows to import and use any other specific library you may need to attain your particular goals. Pyplan can also render an evaluated node by generating an HTML file. This functionality is particularly useful for using visualization libraries, whose result must be rendered by the app.
 
 ### Understanding how does it evaluation works
 When you request a node to be run, Pyplan traces all predecessor variables and runs them in sequence in order to compute every input this node needs. The results of intermediate nodes are stored in memory for future inspection. When the definition of a node changes, all downstream nodes are marked to be recalculated, so that the user does not need to be aware of the updated value of any predecessor variable when running a node.
@@ -139,11 +139,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg4MDYxOTAsMTM0NzUyMzI1MSwtMT
-E2NjkwMjA1OCwxOTkxNTA2NDcyLDE3ODE1ODIxNjIsNDM4MDk3
-MTk0LC0zMzY2MTc0MDIsLTE1OTc0ODgzODEsLTE4MzM0MzUzNT
-EsNjI5MzgyMjU3LDEzMzAxNzU0NzMsLTM5NjAxMDUyMSwtMTky
-MTk1OTgzMiwxNDMwNTQ5NTMxLDkyMjc1NjQyNSwyMDg0NTYwNT
-UyLDE1NDUxMTI5MjcsMjk0OTQxMTQ4LC00MjE4NTYxODIsLTEw
-MDY5NTE3MDddfQ==
+eyJoaXN0b3J5IjpbLTE5MDU0MDc3NTQsLTEzNjg4MDYxOTAsMT
+M0NzUyMzI1MSwtMTE2NjkwMjA1OCwxOTkxNTA2NDcyLDE3ODE1
+ODIxNjIsNDM4MDk3MTk0LC0zMzY2MTc0MDIsLTE1OTc0ODgzOD
+EsLTE4MzM0MzUzNTEsNjI5MzgyMjU3LDEzMzAxNzU0NzMsLTM5
+NjAxMDUyMSwtMTkyMTk1OTgzMiwxNDMwNTQ5NTMxLDkyMjc1Nj
+QyNSwyMDg0NTYwNTUyLDE1NDUxMTI5MjcsMjk0OTQxMTQ4LC00
+MjE4NTYxODJdfQ==
 -->
