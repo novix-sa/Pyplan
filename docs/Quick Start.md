@@ -90,7 +90,10 @@ The third way to run a node is by  **double clicking** it or  pressing <kbd>Ctrl
 ![enter image description here](http://img.pyplan.org/Qus_custicon.png)
 
 ![enter image description here](http://img.pyplan.org/Quick_start_evaluate.png)
-One interesting feature is the ability to show the node result as a table and graph simultaneously. All customization parameters are lost when closing the node, unless you explicitly indicate that you want to set the current view as the default view for opening this specific node. To do that, you must click on the pencil icon![enter image description here](blob:https://stackedit.io/b16f2e01-84b1-4002-bf61-4758a5a62f12), on the top left corner. This will open the visualization editor, which contains all the customization features. Click on the check mark to accept the changes and set the default view of the node.
+One interesting feature is the ability to show the node result as a table and graph simultaneously. All customization parameters are lost when closing the node, unless you explicitly indicate that you want to set the current view as the default view for opening this specific node. To do that, you must click on the pencil icon
+<link rel="stylesheet"  href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+`<link rel="stylesheet"  href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+`![enter image description here](blob:https://stackedit.io/b16f2e01-84b1-4002-bf61-4758a5a62f12), on the top left corner. This will open the visualization editor, which contains all the customization features. Click on the check mark to accept the changes and set the default view of the node.
 
 ### Types of data structures natively supported
 Pyplan supports programming in pure Python, and natively interprets Numpy, Xarray, and Pandas objects that are rendered as pivotable multidimensional tables or graphs for inspecting results. It allows to import and use any other specific library you may need to attain your particular goals. Pyplan can also render an evaluated node by generating an HTML file. This functionality is particularly useful for using visualization libraries, whose result must be rendered by the app.
@@ -139,11 +142,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTU4MjE2Miw0MzgwOTcxOTQsLTMzNj
-YxNzQwMiwtMTU5NzQ4ODM4MSwtMTgzMzQzNTM1MSw2MjkzODIy
-NTcsMTMzMDE3NTQ3MywtMzk2MDEwNTIxLC0xOTIxOTU5ODMyLD
-E0MzA1NDk1MzEsOTIyNzU2NDI1LDIwODQ1NjA1NTIsMTU0NTEx
-MjkyNywyOTQ5NDExNDgsLTQyMTg1NjE4MiwtMTAwNjk1MTcwNy
-wxNDAyODExNjI3LDEyMzg3MzE3MDMsLTY3NTAxMzQ4OCw4MjM3
-OTgxMThdfQ==
+eyJoaXN0b3J5IjpbLTExMDcwNzk4NzgsMTc4MTU4MjE2Miw0Mz
+gwOTcxOTQsLTMzNjYxNzQwMiwtMTU5NzQ4ODM4MSwtMTgzMzQz
+NTM1MSw2MjkzODIyNTcsMTMzMDE3NTQ3MywtMzk2MDEwNTIxLC
+0xOTIxOTU5ODMyLDE0MzA1NDk1MzEsOTIyNzU2NDI1LDIwODQ1
+NjA1NTIsMTU0NTExMjkyNywyOTQ5NDExNDgsLTQyMTg1NjE4Mi
+wtMTAwNjk1MTcwNywxNDAyODExNjI3LDEyMzg3MzE3MDMsLTY3
+NTAxMzQ4OF19
 -->
