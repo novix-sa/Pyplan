@@ -49,7 +49,7 @@ The following table contains **Cubeplan basic function** list and its **correlat
 |-----|-----|-----|-----|-----|
 |Selecting Data from Array|change index|change_index|change_index_ex  /change_index_by_pos_ex|PPL|
 |Selecting Data from Array|subscript|subscript|subscript_ex|PPL|
-|Selecting Data from Array|subcript looking up|lookup|lookup_ex|PPL|
+|Selecting Data from Array|subscript looking up|lookup|lookup_ex|PPL|
 |Selecting Data from Array|subset|subset|subset_ex|PPL|
 |Selecting Data from Array|slice|slice_dataarray|slice_dataarray_ex|PPL|
 |Basic Math and Missing Values|size|len()|len_size_ex|XA|
@@ -118,11 +118,11 @@ Check the following [link](https://cubeplat.com/pyplan-excel-addin/) to install 
 
 ![enter image description here](http://img.pyplan.org/Int_add_in.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjQxNjEsMTIwMzA1OTgzOSwtODAxMz
-U1OTg5LC0yMTM3MDk0MTk5LC01NjU4NTk0MTYsLTQ4MTU3NTY3
-LDQ2Mzk3NDIzOSwxOTc5MDI1MTk2LC04MzIxNDc2NDgsNDIwND
-AyNTUyLDE2OTg4NTIzMCwtMzIwMjEwODk0LC0xOTgzOTkxNTc5
-LC0xMTY5NjcyNzU1LDE0MjA0NjIyMzEsMTIwMDI2ODE2OSwtNz
-Q1NjMxOTQsLTIxNDM1NTQ2ODYsLTIxNDM1NTQ2ODYsMTA0OTY5
-Nzc2N119
+eyJoaXN0b3J5IjpbMTEwNDgxODIyMCwtNTEyNDE2MSwxMjAzMD
+U5ODM5LC04MDEzNTU5ODksLTIxMzcwOTQxOTksLTU2NTg1OTQx
+NiwtNDgxNTc1NjcsNDYzOTc0MjM5LDE5NzkwMjUxOTYsLTgzMj
+E0NzY0OCw0MjA0MDI1NTIsMTY5ODg1MjMwLC0zMjAyMTA4OTQs
+LTE5ODM5OTE1NzksLTExNjk2NzI3NTUsMTQyMDQ2MjIzMSwxMj
+AwMjY4MTY5LC03NDU2MzE5NCwtMjE0MzU1NDY4NiwtMjE0MzU1
+NDY4Nl19
 -->
