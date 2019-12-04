@@ -6,7 +6,7 @@ Here you will find sections for creating a new model, opening recent models, rec
 
 ## **Pyplan Cloud**
 You can also access Pyplan cloud environment at [https://my.pyplan.com](https://my.pyplan.com)
-You must login with your LinkedIn account or request a free account to access Pyplan cloud services  [here](http://pyplan.com/contact/).
+You must login with your LinkedIn account or request an account to access Pyplan cloud services  [here](http://pyplan.com/contact/).
 
 ![login](http://img.pyplan.org/Quick_start_login_en1.png)
 
@@ -137,7 +137,7 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA3MjQ5ODAsODc5Mjc1MDE0LC0yMD
+eyJoaXN0b3J5IjpbLTE1NzI4MDAyNzgsODc5Mjc1MDE0LC0yMD
 gyMzkzODY4LC0xOTkxMzQ4Nzc5LDgxMzU5MDYwLC0xMzY4ODA2
 MTkwLDEzNDc1MjMyNTEsLTExNjY5MDIwNTgsMTk5MTUwNjQ3Mi
 wxNzgxNTgyMTYyLDQzODA5NzE5NCwtMzM2NjE3NDAyLC0xNTk3
