@@ -11,10 +11,7 @@ You must login with your LinkedIn account or request a free account to access Py
 ![login](http://img.pyplan.org/Quick_start_login_en1.png)
 
 ## **Homepage Menu**
-After the new model workspace has been created, click on "Open model"
-![Open Model](http://img.pyplan.org/Quick_start_open_model.png)
-
-Now you will access the sandbox for creating the logic of your model.
+After the new model workspace has been created, you will access the sandbox for creating the logic of your model.
 ![Coding calculation logic](http://img.pyplan.org/Quick_start_model_code.png)
 
 ## **Modeling Business Rules**
@@ -140,7 +137,7 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzMzOTYxLC0yMDgyMzkzODY4LC0xOT
+eyJoaXN0b3J5IjpbODc5Mjc1MDE0LC0yMDgyMzkzODY4LC0xOT
 kxMzQ4Nzc5LDgxMzU5MDYwLC0xMzY4ODA2MTkwLDEzNDc1MjMy
 NTEsLTExNjY5MDIwNTgsMTk5MTUwNjQ3MiwxNzgxNTgyMTYyLD
 QzODA5NzE5NCwtMzM2NjE3NDAyLC0xNTk3NDg4MzgxLC0xODMz
