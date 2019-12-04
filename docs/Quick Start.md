@@ -1,5 +1,6 @@
 # **Quick Start**
-
+## **Pyplan running on Desktop**
+In case you installed Pyplan in your computer, as soon as launching pyplan you will reach the followi
 ## **Login**
 Pyplan cloud environment runs at [https://my.pyplan.com](https://my.pyplan.com)
 You can login with your LinkedIn account or request a free account to access Pyplan cloud services  [here](http://pyplan.com/contact/).
@@ -140,11 +141,11 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTEzNDg3NzksODEzNTkwNjAsLTEzNj
-g4MDYxOTAsMTM0NzUyMzI1MSwtMTE2NjkwMjA1OCwxOTkxNTA2
-NDcyLDE3ODE1ODIxNjIsNDM4MDk3MTk0LC0zMzY2MTc0MDIsLT
-E1OTc0ODgzODEsLTE4MzM0MzUzNTEsNjI5MzgyMjU3LDEzMzAx
-NzU0NzMsLTM5NjAxMDUyMSwtMTkyMTk1OTgzMiwxNDMwNTQ5NT
-MxLDkyMjc1NjQyNSwyMDg0NTYwNTUyLDE1NDUxMTI5MjcsMjk0
-OTQxMTQ4XX0=
+eyJoaXN0b3J5IjpbMTc2MTQ0Mjk2NSwtMTk5MTM0ODc3OSw4MT
+M1OTA2MCwtMTM2ODgwNjE5MCwxMzQ3NTIzMjUxLC0xMTY2OTAy
+MDU4LDE5OTE1MDY0NzIsMTc4MTU4MjE2Miw0MzgwOTcxOTQsLT
+MzNjYxNzQwMiwtMTU5NzQ4ODM4MSwtMTgzMzQzNTM1MSw2Mjkz
+ODIyNTcsMTMzMDE3NTQ3MywtMzk2MDEwNTIxLC0xOTIxOTU5OD
+MyLDE0MzA1NDk1MzEsOTIyNzU2NDI1LDIwODQ1NjA1NTIsMTU0
+NTExMjkyN119
 -->
