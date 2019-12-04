@@ -1,15 +1,14 @@
 # **Quick Start**
 ## **Pyplan running on Desktop**
-In case you installed Pyplan in your computer, as soon as launching pyplan you will reach the followi
+In case you installed Pyplan in your computer, as soon as launching Pyplan you will reach the app land page, which looks like the following picture:
+![Pyplan Homepage](http://img.pyplan.org/Qus_home_new.png)
+Here you will find sections for creating a new model, opening recent models, recovering any active session, or opening tutorials and examples. Click on  “Create new” to create a new model.
 ## **Login**
 Pyplan cloud environment runs at [https://my.pyplan.com](https://my.pyplan.com)
 You can login with your LinkedIn account or request a free account to access Pyplan cloud services  [here](http://pyplan.com/contact/).
 
 ![login](http://img.pyplan.org/Quick_start_login_en1.png)
 
-After login in, you will reach the app land page, which looks like the following picture:
-![Pyplan Homepage](http://img.pyplan.org/Qus_home_new.png)
-Here you will find sections for creating a new model, opening recent models, recovering any active session, or opening tutorials and examples. Click on  “Create new” to create a new model.
 
 ## **Homepage Menu**
 After the new model workspace has been created, click on "Open model"
@@ -141,7 +140,7 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTQ0Mjk2NSwtMTk5MTM0ODc3OSw4MT
+eyJoaXN0b3J5IjpbLTkxMDE1Mzg4NCwtMTk5MTM0ODc3OSw4MT
 M1OTA2MCwtMTM2ODgwNjE5MCwxMzQ3NTIzMjUxLC0xMTY2OTAy
 MDU4LDE5OTE1MDY0NzIsMTc4MTU4MjE2Miw0MzgwOTcxOTQsLT
 MzNjYxNzQwMiwtMTU5NzQ4ODM4MSwtMTgzMzQzNTM1MSw2Mjkz
