@@ -5,11 +5,10 @@ In case you installed Pyplan in your computer, as soon as launching Pyplan you w
 Here you will find sections for creating a new model, opening recent models, recovering any active session, or opening tutorials and examples. Click on  “Create new” to create a new model.
 
 ## **Login**
-You can also access on the web  Pyplan cloud environment runs at [https://my.pyplan.com](https://my.pyplan.com)
-You can login with your LinkedIn account or request a free account to access Pyplan cloud services  [here](http://pyplan.com/contact/).
+You can also access Pyplan cloud environment at [https://my.pyplan.com](https://my.pyplan.com)
+You must login with your LinkedIn account or request a free account to access Pyplan cloud services  [here](http://pyplan.com/contact/).
 
 ![login](http://img.pyplan.org/Quick_start_login_en1.png)
-
 
 ## **Homepage Menu**
 After the new model workspace has been created, click on "Open model"
@@ -141,7 +140,7 @@ There are other types of controls, like buttons for launching specific tasks (sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTYzMTQ3NCwtMTk5MTM0ODc3OSw4MT
+eyJoaXN0b3J5IjpbMTE0NDQyNjU0MywtMTk5MTM0ODc3OSw4MT
 M1OTA2MCwtMTM2ODgwNjE5MCwxMzQ3NTIzMjUxLC0xMTY2OTAy
 MDU4LDE5OTE1MDY0NzIsMTc4MTU4MjE2Miw0MzgwOTcxOTQsLT
 MzNjYxNzQwMiwtMTU5NzQ4ODM4MSwtMTgzMzQzNTM1MSw2Mjkz
