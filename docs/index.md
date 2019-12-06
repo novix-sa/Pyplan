@@ -4,6 +4,7 @@ Pyplan is an assisted  **Graphical Integrated Development Environment** designed
 ## **Installing**
 You can install Pyplan on your desktop. Instructions for doing that can be found [here](http://pyplan.org).
 Or you can access it as a web application [here](https://my.pyplan.com/).
+
 ## **Code Organization**
 The app code is structured using a hierarchical influence diagram of nodes -a Workflow- that helps understand the calculation logic. Nodes are added by means of a drag and drop user interface, and Python code is written inside their Code attribute tab. 
 ![Node Code](http://img.pyplan.org/index_node_code.png)
@@ -40,7 +41,7 @@ After being created, the app can be shared with anybody, both inside and outside
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzUwMDg0OCwtNzI0NTAxOTIzLDIxND
+eyJoaXN0b3J5IjpbMTY2MzQyODE1OCwtNzI0NTAxOTIzLDIxND
 QzNDc5ODQsLTYzOTIzMjA2NiwtMzYzNDU2MjMxLDY2MTkyOTYy
 MCwtMTE0MjYzNjU4NywtNTEzODI1MTAzLC0xOTk3NDM1MDgzLC
 0yMDM1MzM5OTQyLC02MDcxMTEyOTcsLTE5MDM3OTkwNzksLTEx
