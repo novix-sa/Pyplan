@@ -2,7 +2,9 @@
 Pyplan is an assisted  **Graphical Integrated Development Environment** designed for easily creating and sharing **Data Analytics Apps** based on  **Python** programming language.
 
 ## **Installing**
-You can install Pyplan on your desktop or access 
+You can install Pyplan on your desktop. Instructions for doing that can be found here.
+
+or access it as a web application.
 ## **Code Organization**
 The app code is structured using a hierarchical influence diagram of nodes -a Workflow- that helps understand the calculation logic. Nodes are added by means of a drag and drop user interface, and Python code is written inside their Code attribute tab. 
 ![Node Code](http://img.pyplan.org/index_node_code.png)
@@ -39,7 +41,7 @@ After being created, the app can be shared with anybody, both inside and outside
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM2OTM5MjMsLTcyNDUwMTkyMywyMT
+eyJoaXN0b3J5IjpbLTIxMTkzMjAyNTQsLTcyNDUwMTkyMywyMT
 Q0MzQ3OTg0LC02MzkyMzIwNjYsLTM2MzQ1NjIzMSw2NjE5Mjk2
 MjAsLTExNDI2MzY1ODcsLTUxMzgyNTEwMywtMTk5NzQzNTA4My
 wtMjAzNTMzOTk0MiwtNjA3MTExMjk3LC0xOTAzNzk5MDc5LC0x
